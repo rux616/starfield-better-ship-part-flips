@@ -1,0 +1,23 @@
+FormKey: 22D113:Starfield.esm
+EditorID: SMS_Struct_Deimos_Radiator_A
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 3
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 2328F8:Starfield.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462C0:Starfield.esm
+  - 27BABF:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Deimos Radiator - Top
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

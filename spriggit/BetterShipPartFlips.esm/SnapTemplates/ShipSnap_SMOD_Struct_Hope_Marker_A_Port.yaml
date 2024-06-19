@@ -1,0 +1,9 @@
+FormKey: 00102C:BetterShipPartFlips.esm
+EditorID: ShipSnap_SMOD_Struct_Hope_Marker_A_Port
+Nodes:
+- NodeID: 6
+  Node: 04AB74:Starfield.esm
+  Offset: 1.75, 0, 0
+  Rotation: 0, 0, 90
+NextNodeID: 11
+STPT: 0

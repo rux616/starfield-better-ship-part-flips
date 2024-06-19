@@ -1,0 +1,13 @@
+FormKey: 001076:BetterShipPartFlips.esm
+EditorID: ShipPI_SMOD_Struct_Taiyo_EquipNode_Port
+ObjectBounds:
+  First: -1.4296863, -1.4296875, -1.75
+  Second: 1.4296887, 1.4296875, -1.5234375
+ODTY: 0
+Transforms:
+  Ship: 203E72:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Struct\Taiyo\'
+Cell: 00107A:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

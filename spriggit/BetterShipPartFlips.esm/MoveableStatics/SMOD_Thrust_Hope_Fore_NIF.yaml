@@ -1,0 +1,22 @@
+FormKey: 001052:BetterShipPartFlips.esm
+EditorID: SMOD_Thrust_Hope_Fore_NIF
+ObjectBounds:
+  First: -3.7695312, -4.03125, -1.71875
+  Second: 3.7695312, 6.890625, 1.7294922
+ODTY: 0
+Components:
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 140158:Starfield.esm
+Model:
+  File: Ships\Modules\Thrust\SMOD\SMOD_Thrust_Hope_Fore.nif
+  MaterialSwaps:
+  - 0B6B16:Starfield.esm
+  - 0B6B17:Starfield.esm
+  - 0B6B1A:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

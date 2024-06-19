@@ -1,0 +1,22 @@
+FormKey: 00106F:BetterShipPartFlips.esm
+EditorID: SMOD_Struct_Taiyo_EquipNode_Top_NIF
+ObjectBounds:
+  First: -1.4296863, -1.4296875, -1.75
+  Second: 1.4296887, 1.4296875, -1.5234375
+ODTY: 0
+Components:
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 140158:Starfield.esm
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Taiyo_EquipNode_Top.nif
+  MaterialSwaps:
+  - 29D8A3:Starfield.esm
+  - 29D8A5:Starfield.esm
+  - 2F259A:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

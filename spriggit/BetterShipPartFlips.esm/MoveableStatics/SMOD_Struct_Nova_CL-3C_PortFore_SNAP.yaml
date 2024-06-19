@@ -1,0 +1,17 @@
+FormKey: 0010BD:BetterShipPartFlips.esm
+EditorID: SMOD_Struct_Nova_CL-3C_PortFore_SNAP
+ObjectBounds:
+  First: -0.5, -0.5, -0.5
+  Second: 0.5, 0.5, 0.5
+ODTY: 0
+SnapTemplate: 0010E5:BetterShipPartFlips.esm
+Name:
+  TargetLanguage: English
+  Value: Cowling Module
+Model:
+  File: effects\fxemptynode.nif
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 3A2ED3:Starfield.esm
+DATA: 4

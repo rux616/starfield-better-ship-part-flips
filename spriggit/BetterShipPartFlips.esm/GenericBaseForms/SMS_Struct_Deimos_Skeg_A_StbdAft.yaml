@@ -1,0 +1,25 @@
+FormKey: 0009ED:BetterShipPartFlips.esm
+EditorID: SMS_Struct_Deimos_Skeg_A_StbdAft
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 3
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 40
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 0009EE:BetterShipPartFlips.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462C0:Starfield.esm
+  - 27BABC:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Deimos Skeg A - Starboard Aft
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

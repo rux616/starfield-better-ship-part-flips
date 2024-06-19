@@ -1,0 +1,13 @@
+FormKey: 000D33:BetterShipPartFlips.esm
+EditorID: ShipPI_SMOD_Struct_Hope_Bumper_A_Aft
+ObjectBounds:
+  First: -3.4980469, -0.0008544922, -1.5869141
+  Second: 3.4980469, 4.46875, 1.5859375
+ODTY: 0
+Transforms:
+  Ship: 050FAC:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Struct\HopeTech\'
+Cell: 000D39:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

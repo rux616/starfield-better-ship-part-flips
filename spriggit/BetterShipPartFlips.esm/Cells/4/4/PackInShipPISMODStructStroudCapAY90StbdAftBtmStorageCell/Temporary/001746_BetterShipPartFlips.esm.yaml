@@ -1,0 +1,13 @@
+MutagenObjectType: PlacedObject
+FormKey: 001746:BetterShipPartFlips.esm
+Base: 099C8C:Starfield.esm
+ProjectedDecal:
+  WidthScale: 1
+  HeightScale: 1
+  UnknownFloat: 0.8
+  UnknownInt: 2880154369
+ProjectedDecalReferences:
+- 001751:BetterShipPartFlips.esm
+ConstrainedDecal: 7.5038, 2, 0.5
+Position: 1.2875, 1.5572, 1.8805
+Rotation: 1.4292306, 0.012166357, 4.62836

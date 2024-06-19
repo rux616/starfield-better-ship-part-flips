@@ -1,0 +1,13 @@
+FormKey: 000960:BetterShipPartFlips.esm
+EditorID: ShipPI_SMOD_Struct_Deimos_Radiator_A_Btm
+ObjectBounds:
+  First: -1.4404297, -4, -1.75
+  Second: 1.4414062, 4, -0.032348633
+ODTY: 0
+Transforms:
+  Ship: 203E7A:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Struct\Deimos\'
+Cell: 000964:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

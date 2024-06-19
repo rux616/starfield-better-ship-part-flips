@@ -1,0 +1,22 @@
+FormKey: 00118E:BetterShipPartFlips.esm
+EditorID: SMOD_Struct_Nova_CowlShort_AftPort_NIF
+ObjectBounds:
+  First: 0.4296875, -4.125, -1.7558594
+  Second: 4, 4, 1.4726562
+ODTY: 0
+Components:
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 140158:Starfield.esm
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Nova_CowlShort_AftPort.nif
+  MaterialSwaps:
+  - 0B6B2E:Starfield.esm
+  - 27390B:Starfield.esm
+  - 2AF7BC:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 207960:Starfield.esm
+- 1BB401:Starfield.esm
+DATA: 4

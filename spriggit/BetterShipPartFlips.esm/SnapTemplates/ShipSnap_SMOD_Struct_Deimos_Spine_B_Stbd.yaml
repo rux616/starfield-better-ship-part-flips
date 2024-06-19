@@ -1,0 +1,20 @@
+FormKey: 000ABB:BetterShipPartFlips.esm
+EditorID: ShipSnap_SMOD_Struct_Deimos_Spine_B_Stbd
+Nodes:
+- NodeID: 11
+  Node: 04AB85:Starfield.esm
+  Offset: 0.01, 0, 0
+  Rotation: 0, 270, 90
+- NodeID: 7
+  Node: 04AB73:Starfield.esm
+  Offset: -1.75, 0, 0
+  Rotation: 0, 0, -90
+- NodeID: 10
+  Node: 04AB70:Starfield.esm
+  Offset: -1.75, -4, 0
+  Rotation: 0, 0, 180
+- NodeID: 4
+  Node: 04AB6F:Starfield.esm
+  Offset: -1.75, 4, 0
+NextNodeID: 12
+STPT: 0

@@ -1,0 +1,12 @@
+FormKey: 000C23:BetterShipPartFlips.esm
+EditorID: SMOD_Struct_Deimos_Spine_C_ForeBtm_SNAP
+ObjectBounds:
+  First: -0.5, -0.5, -0.5
+  Second: 0.5, 0.5, 0.5
+ODTY: 0
+SnapTemplate: 000C24:BetterShipPartFlips.esm
+Model:
+  File: effects\fxemptynode.nif
+  FLLD: 0x01000000
+  XFLG: 0x02
+DATA: 4

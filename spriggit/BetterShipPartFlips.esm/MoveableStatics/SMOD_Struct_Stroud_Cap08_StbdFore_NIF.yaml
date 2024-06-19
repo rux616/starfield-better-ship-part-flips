@@ -1,0 +1,26 @@
+FormKey: 001973:BetterShipPartFlips.esm
+EditorID: SMOD_Struct_Stroud_Cap08_StbdFore_NIF
+ObjectBounds:
+  First: -0.00048828125, -8, -1.7509766
+  Second: 6.4882812, 6.96875, 1.75
+ODTY: 0
+Components:
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 140158:Starfield.esm
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Stroud_Cap_StbFore_B.nif
+  MaterialSwaps:
+  - 0B6B20:Starfield.esm
+  - 0B6B22:Starfield.esm
+  - 22BEFF:Starfield.esm
+  - 2AF78E:Starfield.esm
+  - 2AF7AD:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 1D9C96:Starfield.esm
+- 207960:Starfield.esm
+DATA: 6
+MSMO: 1000

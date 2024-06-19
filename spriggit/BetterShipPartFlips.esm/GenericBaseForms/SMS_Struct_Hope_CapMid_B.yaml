@@ -1,0 +1,23 @@
+FormKey: 227DC7:Starfield.esm
+EditorID: SMS_Struct_Hope_CapMid_B
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 5
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 23280F:Starfield.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462C1:Starfield.esm
+  - 27BABF:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: HopeTech Cap B - Mid Top
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

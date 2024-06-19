@@ -1,0 +1,25 @@
+FormKey: 000919:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 67108864
+EditorID: co_SMS_Struct_Deimos_Bumper_Vertical_Set
+StarfieldMajorRecordFlags:
+- 0x4000000
+Description:
+  TargetLanguage: English
+  Value: Structural components are largely cosmetic, and allow you to modify your ship's shape, size, personality and silhouette.
+WorkbenchKeyword: 29C480:Starfield.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x000000
+  Unknown2: 17620
+  Data:
+    MutagenObjectType: HasKeywordConditionData
+    FirstParameter: 1453C5:Starfield.esm
+  ComparisonValue: 1
+CreatedObject: 00091A:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 8.05
+LearnMethod: DefaultOrConditions
+Value: 500
+Categories:
+- 29C473:Starfield.esm
+RECF: 0

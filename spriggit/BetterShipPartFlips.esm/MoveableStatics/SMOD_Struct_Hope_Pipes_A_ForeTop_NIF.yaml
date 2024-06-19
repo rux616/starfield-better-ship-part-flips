@@ -1,0 +1,23 @@
+FormKey: 000E3E:BetterShipPartFlips.esm
+EditorID: SMOD_Struct_Hope_Pipes_A_ForeTop_NIF
+ObjectBounds:
+  First: -2.5390625, -4.0585938, -1.8632812
+  Second: 2.5390625, 1.4179688, 1.7089844
+ODTY: 0
+Components:
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 140158:Starfield.esm
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Hope_Pipes_Fore_A.nif
+  MaterialSwaps:
+  - 0419F5:Starfield.esm
+  - 0419F6:Starfield.esm
+  - 08DF19:Starfield.esm
+  - 2F2599:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

@@ -1,0 +1,22 @@
+FormKey: 000800:BetterShipPartFlips.esm
+EditorID: SMOD_Struct_Nova_EngStruts_NIF
+ObjectBounds:
+  First: -2.46875, -4, -1.75
+  Second: 2.46875, 3.3789062, 1.6660156
+ODTY: 0
+Components:
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 140158:Starfield.esm
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Nova_EngStruts.nif
+  MaterialSwaps:
+  - 03EF74:Starfield.esm
+  - 08DEFA:Starfield.esm
+  - 0B6B1F:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

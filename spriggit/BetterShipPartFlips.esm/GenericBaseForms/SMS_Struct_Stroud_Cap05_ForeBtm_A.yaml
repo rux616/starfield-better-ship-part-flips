@@ -1,0 +1,25 @@
+FormKey: 23313D:Starfield.esm
+EditorID: SMS_Struct_Stroud_Cap05_ForeBtm_A
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 8
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 20
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 237C91:Starfield.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462BD:Starfield.esm
+  - 27BABD:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Stroud Nose Cap B - Fore Bot
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

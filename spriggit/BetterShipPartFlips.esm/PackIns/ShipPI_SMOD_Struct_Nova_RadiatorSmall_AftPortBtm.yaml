@@ -1,0 +1,18 @@
+FormKey: 00135C:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Struct_Nova_RadiatorSmall_AftPortBtm
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -0.3623047, -3.2714844, -1.1494141
+  Second: 4, 3.2988281, 1.6035156
+ODTY: 0
+Transforms:
+  Ship: 0A29B9:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Struct\Nova\'
+Cell: 001364:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

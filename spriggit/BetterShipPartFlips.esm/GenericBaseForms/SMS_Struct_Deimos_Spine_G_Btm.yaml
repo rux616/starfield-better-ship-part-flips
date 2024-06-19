@@ -1,0 +1,23 @@
+FormKey: 000BEF:BetterShipPartFlips.esm
+EditorID: SMS_Struct_Deimos_Spine_G_Btm
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 3
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 000BF0:BetterShipPartFlips.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 27BABE:Starfield.esm
+  - 1462C0:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Deimos Spine G - Bottom
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component
