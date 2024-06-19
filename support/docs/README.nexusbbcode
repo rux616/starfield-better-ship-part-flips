@@ -1,0 +1,19 @@
+Adds additional flips of vanilla parts. A pure ESM mod, the flips are done using the vanilla data, no additional meshes are added. Largely stays within the grid established so far.
+
+[size=5]Follow these [url=https://starfieldwiki.net/wiki/Starfield_Mod:Mods]Instructions[/url] ﻿to use this mod.[/size]
+
+[size=4]Better Ship Part Flips is compatible with my other mod [url=https://www.nexusmods.com/starfield/mods/5698]Better Ship Part Snaps[/url], they can be used together.[/size]
+
+[size=3]I plan on updating Better Ship Part Flips roughly once per week. Making flips is tedious and requires care and lots of testing to ensure a good result. Be sure to check the [b]CHANGELOG[/b] above for more info about parts changed and added.[/size]
+
+[list]
+[*]Version 0.5.0 released on 2023-12-09
+[*]Version 0.4.0 released on 2023-11-18
+[*]Version 0.3.0 released on 2023-11-11
+[*]Version 0.2.0 released on 2023-11-03
+[*]Version 0.1.0 released on 2023-10-28
+[/list]
+
+[size=2]General mod compatibility is limited, Better Ship Part Flips has to modify some of the data that also contains properties such as hull, mass, etc.
+
+Data structures modified or added (for mod authors): COBJ, GBFM, FLST, PKIN, CELL, MSTT, STMP[/size]
