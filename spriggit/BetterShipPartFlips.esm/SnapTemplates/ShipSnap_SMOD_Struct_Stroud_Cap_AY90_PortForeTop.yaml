@@ -1,0 +1,41 @@
+FormKey: 0016CD:BetterShipPartFlips.esm
+EditorID: ShipSnap_SMOD_Struct_Stroud_Cap_AY90_PortForeTop
+Nodes:
+- NodeID: 10
+  Node: 04AB74:Starfield.esm
+  Offset: 1.75, 4, -2.25
+  Rotation: 0, 0, 90
+- NodeID: 11
+  Node: 04AB74:Starfield.esm
+  Offset: 1.75, 4, 1.25
+  Rotation: 0, 0, 90
+- NodeID: 12
+  Node: 04AB85:Starfield.esm
+  Offset: -1.25, -6.95, 1.67
+  Rotation: 0, 90, 270
+- NodeID: 4
+  Node: 04AB70:Starfield.esm
+  Offset: 1.75, -8, -2.25
+  Rotation: 0, 0, -180
+- NodeID: 5
+  Node: 04AB70:Starfield.esm
+  Offset: 1.75, -8, 1.25
+  Rotation: 0, 0, -180
+- NodeID: 6
+  Node: 04AB78:Starfield.esm
+  Offset: 1.75, -4, -4
+  Rotation: 90, 0, -180
+- NodeID: 7
+  Node: 04AB78:Starfield.esm
+  Offset: 1.75, 4, -4
+  Rotation: 90, 0, -180
+- NodeID: 8
+  Node: 04AB74:Starfield.esm
+  Offset: 1.75, -4, -2.25
+  Rotation: 0, 0, 90
+- NodeID: 9
+  Node: 04AB74:Starfield.esm
+  Offset: 1.75, -4, 1.25
+  Rotation: 0, 0, 90
+NextNodeID: 13
+STPT: 0

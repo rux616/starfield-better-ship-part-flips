@@ -1,0 +1,9 @@
+FormKey: 000A8E:BetterShipPartFlips.esm
+EditorID: ShipSnap_SMOD_Template_Equipment_Port
+Nodes:
+- NodeID: 12
+  Node: 04AB85:Starfield.esm
+  Offset: -1.3, -0.93, 3.53
+  Rotation: 0, 90, 270
+NextNodeID: 13
+STPT: 0

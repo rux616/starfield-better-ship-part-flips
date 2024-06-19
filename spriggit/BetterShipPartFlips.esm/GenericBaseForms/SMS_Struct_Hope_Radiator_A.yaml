@@ -1,0 +1,23 @@
+FormKey: 227DC4:Starfield.esm
+EditorID: SMS_Struct_Hope_Radiator_A
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 8
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 23288C:Starfield.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462C1:Starfield.esm
+  - 27BABF:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: HopeTech Radiator - Top
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

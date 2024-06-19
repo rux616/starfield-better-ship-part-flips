@@ -1,0 +1,13 @@
+FormKey: 000C26:BetterShipPartFlips.esm
+EditorID: ShipPI_SMOD_Struct_Deimos_Spine_C_AftBtm
+ObjectBounds:
+  First: -1.9521483, -4, -1.75
+  Second: 1.9521483, 4, 0.0637207
+ODTY: 0
+Transforms:
+  Ship: 050FAC:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Struct\Deimos\'
+Cell: 000C2C:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

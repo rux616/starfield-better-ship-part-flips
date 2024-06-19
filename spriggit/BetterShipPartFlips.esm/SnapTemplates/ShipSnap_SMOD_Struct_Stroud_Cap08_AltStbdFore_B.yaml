@@ -1,0 +1,37 @@
+FormKey: 001948:BetterShipPartFlips.esm
+EditorID: ShipSnap_SMOD_Struct_Stroud_Cap08_AltStbdFore_B
+Nodes:
+- NodeID: 10
+  Node: 04AB73:Starfield.esm
+  Offset: -8, 4, 0
+  Rotation: 0, 0, 270
+- NodeID: 11
+  Node: 04AB78:Starfield.esm
+  Offset: -4, 4, -1.75
+  Rotation: 90, 0, 180
+- NodeID: 12
+  Node: 04AB77:Starfield.esm
+  Offset: -4, 4, 1.75
+  Rotation: 270, 0, 0
+- NodeID: 13
+  Node: 04AB85:Starfield.esm
+  Offset: 6.9, 3.6731, 0
+  Rotation: 0, 270, 90
+- NodeID: 5
+  Node: 04AB70:Starfield.esm
+  Offset: -4, 0, 0
+  Rotation: 0, 0, 180
+- NodeID: 6
+  Node: 04AB70:Starfield.esm
+  Offset: 4, 0, 0
+  Rotation: 0, 0, 180
+- NodeID: 8
+  Node: 04AB78:Starfield.esm
+  Offset: 4, 4, -1.75
+  Rotation: 90, 0, 180
+- NodeID: 9
+  Node: 04AB77:Starfield.esm
+  Offset: 4, 4, 1.75
+  Rotation: 270, 0, 0
+NextNodeID: 14
+STPT: 0

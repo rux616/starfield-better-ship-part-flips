@@ -1,0 +1,13 @@
+FormKey: 001078:BetterShipPartFlips.esm
+EditorID: ShipSnap_SMOD_Struct_Taiyo_EquipNode_Port
+Nodes:
+- NodeID: 11
+  Node: 04AB85:Starfield.esm
+  Offset: 1.53, 0, 0
+  Rotation: 0, 90, 270
+- NodeID: 6
+  Node: 04AB74:Starfield.esm
+  Offset: 1.75, 0, 0
+  Rotation: 0, 0, 90
+NextNodeID: 12
+STPT: 0

@@ -1,0 +1,12 @@
+FormKey: 0009CB:BetterShipPartFlips.esm
+EditorID: SMOD_Struct_Deimos_Skeg_A_PortFore_SNAP
+ObjectBounds:
+  First: -0.5, -0.5, -0.5
+  Second: 0.5, 0.5, 0.5
+ODTY: 0
+SnapTemplate: 0009CC:BetterShipPartFlips.esm
+Model:
+  File: effects\fxemptynode.nif
+  FLLD: 0x01000000
+  XFLG: 0x02
+DATA: 4

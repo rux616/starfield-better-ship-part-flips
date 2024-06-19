@@ -1,0 +1,15 @@
+SpriggitSource:
+  PackageName: Spriggit.Yaml.Starfield
+  Version: 0.18.0
+ModKey: BetterShipPartFlips.esm
+GameRelease: Starfield
+ModHeader:
+  Flags:
+  - Master
+  Stats:
+    NumRecords: 4580
+    NextFormID: 6575
+  Author: ''
+  MasterReferences:
+  - Master: Starfield.esm
+  - Master: BlueprintShips-Starfield.esm

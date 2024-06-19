@@ -1,0 +1,21 @@
+FormKey: 000D5A:BetterShipPartFlips.esm
+EditorID: ShipSnap_SMOD_Struct_Hope_CapForeStb_A_Btm
+Nodes:
+- NodeID: 11
+  Node: 04AB85:Starfield.esm
+  Offset: -2, -1.1, -0.47
+  Rotation: 90, 0, 180
+- NodeID: 7
+  Node: 04AB73:Starfield.esm
+  Offset: -4, 0, 0
+  Rotation: 0, 0, -90
+- NodeID: 9
+  Node: 04AB77:Starfield.esm
+  Offset: 0, 0, 1.75
+  Rotation: 270, 0, 0
+- NodeID: 10
+  Node: 04AB70:Starfield.esm
+  Offset: 0, -4, 0
+  Rotation: 0, 0, 180
+NextNodeID: 12
+STPT: 0

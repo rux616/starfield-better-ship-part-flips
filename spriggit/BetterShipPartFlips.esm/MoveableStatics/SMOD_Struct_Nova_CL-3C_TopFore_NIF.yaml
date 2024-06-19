@@ -1,0 +1,28 @@
+FormKey: 0010AA:BetterShipPartFlips.esm
+EditorID: SMOD_Struct_Nova_CL-3C_TopFore_NIF
+ObjectBounds:
+  First: -3.3242188, -4.0058007, -1.7421875
+  Second: 3.3242188, 3.8007812, 1.4951178
+ODTY: 0
+Components:
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 140158:Starfield.esm
+Name:
+  TargetLanguage: English
+  Value: Cowling Module
+Model:
+  File: Ships\Modules\SMOD_Struct_Nova_CL-3C.nif
+  MaterialSwaps:
+  - 002C6C:Starfield.esm
+  - 002C6D:Starfield.esm
+  - 04468B:Starfield.esm
+  - 0B6B1C:Starfield.esm
+  - 0B6B29:Starfield.esm
+  - 0FFAF5:Starfield.esm
+  - 27390C:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 3A2ED3:Starfield.esm
+DATA: 4

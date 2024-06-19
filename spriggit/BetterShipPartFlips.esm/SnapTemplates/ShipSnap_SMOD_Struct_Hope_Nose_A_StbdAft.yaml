@@ -1,0 +1,11 @@
+FormKey: 000FFD:BetterShipPartFlips.esm
+EditorID: ShipSnap_SMOD_Struct_Hope_Nose_A_StbdAft
+Nodes:
+- NodeID: 7
+  Node: 04AB73:Starfield.esm
+  Rotation: 0, 0, -90
+- NodeID: 4
+  Node: 04AB6F:Starfield.esm
+  Offset: 0, 4, 0
+NextNodeID: 11
+STPT: 0

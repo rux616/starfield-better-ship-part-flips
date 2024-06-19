@@ -1,0 +1,18 @@
+FormKey: 000F7A:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Struct_Hope_NoseSmall_Port
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -3.7988253, 1.8916016, -1.3564534
+  Second: 3.798825, 4, 1.4296956
+ODTY: 0
+Transforms:
+  Ship: 15A9C3:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Struct\HopeTech\'
+Cell: 000F80:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

@@ -1,0 +1,17 @@
+FormKey: 001129:BetterShipPartFlips.esm
+EditorID: ShipSnap_SMOD_Struct_Nova_CL-3C_BtmStbd
+Nodes:
+- NodeID: 18
+  Node: 04AB85:Starfield.esm
+  Offset: 1.43, 0, -0.65
+  Rotation: 90, 180, 0
+- NodeID: 7
+  Node: 04AB73:Starfield.esm
+  Offset: -4, 0, 0
+  Rotation: 0, 0, -90
+- NodeID: 9
+  Node: 04AB77:Starfield.esm
+  Offset: 0, 0, 1.75
+  Rotation: 270, 0, 0
+NextNodeID: 19
+STPT: 0

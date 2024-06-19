@@ -1,0 +1,10 @@
+FormKey: 000D36:BetterShipPartFlips.esm
+EditorID: SMSSet_Struct_Hope_Bumper
+Name:
+  TargetLanguage: English
+  Value: HopeTech Bumper Set
+Items:
+- 227DC2:Starfield.esm
+- 000D32:BetterShipPartFlips.esm
+- 000D3D:BetterShipPartFlips.esm
+- 000D46:BetterShipPartFlips.esm
