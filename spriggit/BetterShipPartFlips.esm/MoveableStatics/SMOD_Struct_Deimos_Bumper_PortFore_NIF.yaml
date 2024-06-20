@@ -1,13 +1,12 @@
 FormKey: 0008EC:BetterShipPartFlips.esm
 EditorID: SMOD_Struct_Deimos_Bumper_PortFore_NIF
+FormVersion: 559
 ObjectBounds:
   First: -4.1796875, -4, -1.4394531
   Second: -0.0064697266, 4, 1.4511719
 ODTY: 0
 Components:
 - MutagenObjectType: KeywordFormComponent
-  Keywords:
-  - 140158:Starfield.esm
 Model:
   File: Ships\Modules\Struct\SMOD\SMOD_Struct_Deimos_Bumper_PortFore.nif
   MaterialSwaps:

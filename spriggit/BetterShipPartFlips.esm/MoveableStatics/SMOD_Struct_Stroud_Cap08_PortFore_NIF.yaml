@@ -1,13 +1,12 @@
 FormKey: 001974:BetterShipPartFlips.esm
 EditorID: SMOD_Struct_Stroud_Cap08_PortFore_NIF
+FormVersion: 559
 ObjectBounds:
   First: -6.4882812, -8, -1.75
   Second: 0.00048828125, 6.96875, 1.7509766
 ODTY: 0
 Components:
 - MutagenObjectType: KeywordFormComponent
-  Keywords:
-  - 140158:Starfield.esm
 Model:
   File: Ships\Modules\Struct\SMOD\SMOD_Struct_Stroud_Cap_PortFore_B.nif
   MaterialSwaps:

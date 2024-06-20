@@ -1,0 +1,20 @@
+FormKey: 000E03:BetterShipPartFlips.esp
+EditorID: SMOD_Struct_Hope_Radiator_A_Top_NIF
+FormVersion: 559
+ObjectBounds:
+  First: -3.2070312, -4, -1.7490234
+  Second: 3.2070312, 4, 3.5761719
+ODTY: 0
+Components:
+- MutagenObjectType: KeywordFormComponent
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Hope_Radiator_A.nif
+  MaterialSwaps:
+  - 0B6B10:Starfield.esm
+  - 2D7344:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

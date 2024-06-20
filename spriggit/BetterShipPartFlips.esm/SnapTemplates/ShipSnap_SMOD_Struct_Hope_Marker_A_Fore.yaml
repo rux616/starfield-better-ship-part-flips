@@ -1,5 +1,6 @@
 FormKey: 00103E:BetterShipPartFlips.esm
 EditorID: ShipSnap_SMOD_Struct_Hope_Marker_A_Fore
+FormVersion: 559
 Nodes:
 - NodeID: 10
   Node: 04AB70:Starfield.esm

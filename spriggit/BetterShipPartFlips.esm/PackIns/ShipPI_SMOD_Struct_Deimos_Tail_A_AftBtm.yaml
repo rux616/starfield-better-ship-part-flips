@@ -1,8 +1,9 @@
 FormKey: 000D0F:BetterShipPartFlips.esm
 EditorID: ShipPI_SMOD_Struct_Deimos_Tail_A_AftBtm
+FormVersion: 559
 ObjectBounds:
-  First: -3.2265625, -5.4414062, -1.75
-  Second: 3.2265625, 4, 4.25
+  First: -3.2265635, -5.4414062, -4.249999
+  Second: 3.226563, 4, 1.7499993
 ODTY: 0
 Transforms:
   Ship: 050FDC:Starfield.esm

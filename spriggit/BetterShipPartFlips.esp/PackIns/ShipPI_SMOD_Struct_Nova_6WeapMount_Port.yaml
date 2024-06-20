@@ -1,0 +1,19 @@
+FormKey: 001667:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Struct_Nova_6WeapMount_Port
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -10.296875, -1.5664064, -2.8574216
+  Second: 3.9843752, 1.5654298, 2.8574212
+ODTY: 0
+Transforms:
+  Ship: 050FB6:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Struct\Nova\'
+Cell: 001668:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

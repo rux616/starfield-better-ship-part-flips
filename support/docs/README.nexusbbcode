@@ -1,19 +1,105 @@
+[size=5][b]Better Ship Part Flips[/b][/size]
+created by Freschu, maintained and updated by rux616
+
+Version: 1.0.0
+
+[size=4][b][u]Table Of Contents:[/u][/b][/size]
+- Better Ship Part Flips
+    - Table Of Contents
+- Overview
+    - Summary
+    - Compatibility
+    - Known Issues
+- Installation
+    - Archive Invalidation
+    - Requirements
+    - Recommendations
+    - Upgrading
+    - Mod Manager
+    - Manual (NOT RECOMMENDED)
+- License
+- Credits and Acknowledgements
+- Contact
+
+
+[size=5][b]Overview[/b][/size]
+
+[size=4][b][u]Summary:[/u][/b][/size]
+(Additional flips of vanilla parts that seemed missing. Mostly conforms to vanilla ship builder grid.)
+
 Adds additional flips of vanilla parts. A pure ESM mod, the flips are done using the vanilla data, no additional meshes are added. Largely stays within the grid established so far.
 
-[size=5]Follow these [url=https://starfieldwiki.net/wiki/Starfield_Mod:Mods]Instructions[/url] ﻿to use this mod.[/size]
+Better Ship Part Flips is fully compatible with [url=https://www.nexusmods.com/starfield/mods/5698]Better Ship Part Snaps[/url] and they can be used together.
 
-[size=4]Better Ship Part Flips is compatible with my other mod [url=https://www.nexusmods.com/starfield/mods/5698]Better Ship Part Snaps[/url], they can be used together.[/size]
+I plan on updating Better Ship Part Flips as often as I can, but making flips is tedious and requires care and lots of testing to ensure a good result. Be sure to check the CHANGELOG above for more info about parts changed and added.
 
-[size=3]I plan on updating Better Ship Part Flips roughly once per week. Making flips is tedious and requires care and lots of testing to ensure a good result. Be sure to check the [b]CHANGELOG[/b] above for more info about parts changed and added.[/size]
+(For mod authors): Data structures modified or added: COBJ, GBFM, FLST, PKIN, CELL, MSTT, STMP
 
-[list]
-[*]Version 0.5.0 released on 2023-12-09
-[*]Version 0.4.0 released on 2023-11-18
-[*]Version 0.3.0 released on 2023-11-11
-[*]Version 0.2.0 released on 2023-11-03
-[*]Version 0.1.0 released on 2023-10-28
-[/list]
+[size=4][b][u]Compatibility:[/u][/b][/size]
+General mod compatibility is limited, Better Ship Part Flips has to modify some of the data that also contains properties such as hull, mass, etc.
 
-[size=2]General mod compatibility is limited, Better Ship Part Flips has to modify some of the data that also contains properties such as hull, mass, etc.
+[size=4][b][u]Known Issues:[/u][/b][/size]
+None.
 
-Data structures modified or added (for mod authors): COBJ, GBFM, FLST, PKIN, CELL, MSTT, STMP[/size]
+
+[size=5][b]Installation[/b][/size]
+
+[size=4][b][u]Archive Invalidation:[/u][/b][/size]
+Make sure your [font=Courier New][color=#b2b2b2]StarfieldCustom.ini[/color][/font] file in the "Documents\My Games\Starfield" folder (or your profile folder if using a mod manager and profiles) contains the following:
+
+    [font=Courier New][color=#b2b2b2][Archive][/color][/font]
+    [font=Courier New][color=#b2b2b2]bInvalidateOlderFiles=1[/color][/font]
+    [font=Courier New][color=#b2b2b2]sResourceDataDirsFinal=[/color][/font]
+
+[size=4][b][u]Requirements:[/u][/b][/size]
+None, if using Starfield v1.12.32.0 or above.
+
+[size=4][b][u]Recommendations:[/u][/b][/size]
+NOTE: StarUI Ship Builder v1.2 doesn't work with Starfield v1.11.36+, so if you're running that version of the mod with that version of Starfield, you'll have to go without for the moment.
+
+- [url=https://www.nexusmods.com/starfield/mods/6402]StarUI Ship Builder[/url]: This mod arranges the categories in a vertical list and adds some filtering options, both of which greatly enhance usability.
+
+[size=4][b][u]Upgrading:[/u][/b][/size]
+When upgrading non-major versions (for example v2.something to v2.something-else), you don't need to do anything except replace the installed mod files.
+
+When upgrading major versions (for example v1.whatever to v2.whatever), you need to do a clean install:
+- Open the game and load your latest save
+- Save your game, then quit
+- Uninstall the previous version of the plugin and all its files
+- Open the game and load your last save
+- You will see a warning about missing the plugin you just uninstalled, choose to continue
+- Save your game again, then quit
+- Install the new version of the plugin
+
+[size=4][b][u]Mod Manager:[/u][/b][/size]
+Download and install the archive with either [url=https://github.com/ModOrganizer2/modorganizer/releases]Mod Organizer 2[/url] (version 2.5.0 or later) or [url=https://www.nexusmods.com/site/mods/1]Vortex[/url]. I personally recommend Mod Organizer 2 (with the optional [url=https://kezyma.github.io/?p=rootbuilder]Root Builder[/url] plugin to use with SFSE or any other mod that requires files be put directly in the game's installation folder).
+
+[size=4][b][u]Manual (NOT RECOMMENDED):[/u][/b][/size]
+Extract the archive to your Starfield installation's "Data" folder (typically something like "C:\Games\SteamLibrary\steamapps\common\Starfield\Data"). Add the plugin file names to your plugins.txt file if they aren't already there, making sure the ones you want enabled are preceded with [font=Courier New][color=#b2b2b2]*[/color][/font].
+
+
+[size=5][b]License[/b][/size]
+- All code files are copyright 2023, 2024 Dan Cassidy, and are licensed under the [url=https://www.gnu.org/licenses/gpl-3.0.en.html]GPL v3.0 or later[/url].
+- All non-code files are copyright 2023, 2024 Dan Cassidy, and are licensed under the [url=https://creativecommons.org/licenses/by-nc-sa/4.0/]CC BY-NC-SA 4.0[/url] license.
+- Original ESM file copyright 2023 Freschu.
+
+
+[size=5][b]Credits and Acknowledgements[/b][/size]
+Freschu: For initially creating this mod
+ElminsterAU: For xEdit and BSArch
+Mod Organizer 2 team: For getting Mod Organizer 2 with Starfield support out the door so quickly
+Nexus Mods: For mod hosting and for the Vortex Mod Manager
+Noggog: For Spriggit
+
+
+[size=5][b]Contact[/b][/size]
+If you find a bug or have a question about the mod, please post it on the [url=https://www.nexusmods.com/starfield/mods/5953]mod page at Nexus Mods[/url], or in the [url=https://github.com/rux616/starfield-better-ship-part-flips]GitHub project[/url].
+
+If you need to contact me personally, I can be reached through one of the following means:
+- [b]Nexus Mods[/b]: [url=https://www.nexusmods.com/users/124191]rux616[/url] (Send a message via the "CONTACT" button.)
+- [b]Email[/b]: rux616-at-pm-dot-me (replace [font=Courier New][color=#b2b2b2]-at-[/color][/font] with [font=Courier New][color=#b2b2b2]@[/color][/font] and [font=Courier New][color=#b2b2b2]-dot-[/color][/font] with [font=Courier New][color=#b2b2b2].[/color][/font])
+- [b]Discord[/b]: rux616 (user ID 234489279991119873) - make sure to "@" me
+    - [url=https://discord.gg/livelymods]Lively's Modding Hub[/url]
+    - [url=https://discord.gg/nexusmods]Nexus Mods[/url]
+    - [url=https://discord.gg/pF9U5FmD6w]Collective Modding[/url] ("🔧-chaotic-cognitions" channel)
+    - [url=https://discord.gg/6R4Yq5KjW2]Starfield Modding[/url]

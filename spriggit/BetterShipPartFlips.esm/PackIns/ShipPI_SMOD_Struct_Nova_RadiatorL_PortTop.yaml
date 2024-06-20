@@ -1,8 +1,9 @@
 FormKey: 0012FB:BetterShipPartFlips.esm
 EditorID: ShipPI_SMOD_Struct_Nova_RadiatorL_PortTop
+FormVersion: 559
 ObjectBounds:
-  First: -4, -3.7890625, -1.1728516
-  Second: 4, 3.7382812, 1.7119141
+  First: -3.7382815, -3.9999998, -1.1728516
+  Second: 3.7890627, 3.9999998, 1.7119141
 ODTY: 0
 Transforms:
   Ship: 050FAC:Starfield.esm

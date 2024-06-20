@@ -1,13 +1,12 @@
 FormKey: 00099C:BetterShipPartFlips.esm
 EditorID: SMOD_Struct_Deimos_Skeg_A_NIF
+FormVersion: 559
 ObjectBounds:
   First: -1.984375, -3.984375, -1.7265625
   Second: 1.984375, 4.0976562, 1.7529297
 ODTY: 0
 Components:
 - MutagenObjectType: KeywordFormComponent
-  Keywords:
-  - 140158:Starfield.esm
 Model:
   File: Ships\Modules\Struct\SMOD\SMOD_Struct_Deimos_Skeg_A.nif
   MaterialSwaps:

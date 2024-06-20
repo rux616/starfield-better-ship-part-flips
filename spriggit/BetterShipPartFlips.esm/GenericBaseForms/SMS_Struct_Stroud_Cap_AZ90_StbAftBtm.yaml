@@ -1,5 +1,6 @@
 FormKey: 0014D4:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Stroud_Cap_AZ90_StbAftBtm
+FormVersion: 559
 ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent

@@ -1,5 +1,6 @@
 FormKey: 001428:BetterShipPartFlips.esm
 EditorID: PackInShipPISMODStructNovaWingPortAftStorageCell
+FormVersion: 559
 Flags:
 - IsInteriorCell
 Lighting:
@@ -25,3 +26,7 @@ WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
+Timestamp: 12500
+UnknownGroupData: 3
+TemporaryTimestamp: 12500
+TemporaryUnknownGroupData: 1

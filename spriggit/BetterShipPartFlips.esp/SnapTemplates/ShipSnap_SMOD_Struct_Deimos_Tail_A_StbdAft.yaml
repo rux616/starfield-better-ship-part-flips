@@ -1,0 +1,27 @@
+FormKey: 000CED:BetterShipPartFlips.esp
+EditorID: ShipSnap_SMOD_Struct_Deimos_Tail_A_StbdAft
+FormVersion: 559
+Nodes:
+- NodeID: 12
+  Node: 04AB85:Starfield.esm
+  Offset: 3.53, -0.93, -1.3
+  Rotation: 90, 0, 180
+- NodeID: 11
+  Node: 04AB85:Starfield.esm
+  Offset: 3.53, -0.93, 1.3
+  Rotation: 270, 0, 0
+- NodeID: 5
+  Node: 04AB6F:Starfield.esm
+  Offset: 0, 4, 3.5
+- NodeID: 7
+  Node: 04AB73:Starfield.esm
+  Offset: -1.75, 0, 0
+  Rotation: 0, 0, -90
+- NodeID: 3
+  Node: 04AB6F:Starfield.esm
+  Offset: 0, 4, -3.5
+- NodeID: 4
+  Node: 04AB6F:Starfield.esm
+  Offset: 0, 4, 0
+NextNodeID: 13
+STPT: 0

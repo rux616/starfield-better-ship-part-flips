@@ -1,5 +1,6 @@
 FormKey: 000BD2:BetterShipPartFlips.esm
 EditorID: ShipSnap_SMOD_Struct_Deimos_Spine_F_StbdFore
+FormVersion: 559
 Nodes:
 - NodeID: 7
   Node: 04AB73:Starfield.esm

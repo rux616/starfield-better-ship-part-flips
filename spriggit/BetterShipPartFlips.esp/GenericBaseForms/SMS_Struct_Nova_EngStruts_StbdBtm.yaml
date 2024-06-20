@@ -1,0 +1,26 @@
+FormKey: 000CA9:BetterShipPartFlips.esp
+EditorID: SMS_Struct_Nova_EngStruts_StbdBtm
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 1
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 30
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 000CAA:BetterShipPartFlips.esp
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462C2:Starfield.esm
+  - 27BABE:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Nova Engine Struts - Starboard Bottom
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

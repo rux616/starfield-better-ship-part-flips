@@ -1,8 +1,9 @@
 FormKey: 000DFF:BetterShipPartFlips.esm
 EditorID: ShipPI_SMOD_Struct_Hope_Radiator_A_Btm
+FormVersion: 559
 ObjectBounds:
-  First: -3.2070312, -4, -1.7490234
-  Second: 3.2070312, 4, 3.5761719
+  First: -3.2070322, -4, -3.5761712
+  Second: 3.2070317, 4, 1.7490227
 ODTY: 0
 Transforms:
   Ship: 15E824:Starfield.esm

@@ -1,0 +1,14 @@
+FormKey: 001313:BetterShipPartFlips.esp
+EditorID: ShipPI_SMOD_Struct_Nova_RadiatorL_StbdTop
+FormVersion: 559
+ObjectBounds:
+  First: -3.7890627, -3.9999998, -1.1728516
+  Second: 3.7382815, 3.9999998, 1.7119141
+ODTY: 0
+Transforms:
+  Ship: 050FAC:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Struct\Nova\'
+Cell: 00131D:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

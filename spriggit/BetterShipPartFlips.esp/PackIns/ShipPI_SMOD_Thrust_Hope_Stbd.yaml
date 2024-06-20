@@ -1,0 +1,19 @@
+FormKey: 001062:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Thrust_Hope_Stbd
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -4.03125, -3.7695308, -1.71875
+  Second: 6.890625, 3.769531, 1.7294922
+ODTY: 0
+Transforms:
+  Ship: 050FB6:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Thrust\HopeTech\'
+Cell: 001066:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

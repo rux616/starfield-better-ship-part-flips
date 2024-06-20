@@ -1,0 +1,22 @@
+FormKey: 00147C:BetterShipPartFlips.esp
+EditorID: ShipSnap_SMOD_Struct_Nova_Wing_VYForeBtm
+FormVersion: 559
+Nodes:
+- NodeID: 12
+  Node: 04AB85:Starfield.esm
+  Offset: 0.91, 0, 0
+  Rotation: 0, 270, 90
+- NodeID: 9
+  Node: 04AB77:Starfield.esm
+  Offset: 0, 0, 4
+  Rotation: 270, 0, 0
+- NodeID: 10
+  Node: 04AB70:Starfield.esm
+  Offset: 0, -4, -1.25
+  Rotation: 0, 0, 180
+- NodeID: 8
+  Node: 04AB70:Starfield.esm
+  Offset: 0, -4, 2.25
+  Rotation: 0, 0, 180
+NextNodeID: 13
+STPT: 0

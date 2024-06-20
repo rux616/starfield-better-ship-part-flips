@@ -1,0 +1,14 @@
+FormKey: 00106B:BetterShipPartFlips.esp
+EditorID: ShipPI_SMOD_Struct_Taiyo_EquipNode_Btm
+FormVersion: 559
+ObjectBounds:
+  First: -1.4296883, -1.4296875, -0.5
+  Second: 1.4296868, 1.4296875, 1.7499996
+ODTY: 0
+Transforms:
+  Ship: 203E72:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Struct\Taiyo\'
+Cell: 001071:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

@@ -1,5 +1,6 @@
 FormKey: 001081:BetterShipPartFlips.esm
 EditorID: ShipSnap_SMOD_Struct_Taiyo_EquipNode_Stbd
+FormVersion: 559
 Nodes:
 - NodeID: 11
   Node: 04AB85:Starfield.esm

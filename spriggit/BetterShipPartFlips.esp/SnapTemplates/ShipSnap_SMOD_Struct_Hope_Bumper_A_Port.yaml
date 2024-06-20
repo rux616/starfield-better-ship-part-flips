@@ -1,0 +1,9 @@
+FormKey: 000D40:BetterShipPartFlips.esp
+EditorID: ShipSnap_SMOD_Struct_Hope_Bumper_A_Port
+FormVersion: 559
+Nodes:
+- NodeID: 6
+  Node: 04AB74:Starfield.esm
+  Rotation: 0, 0, 90
+NextNodeID: 11
+STPT: 0

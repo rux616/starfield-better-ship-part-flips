@@ -1,5 +1,6 @@
 FormKey: 227DBE:Starfield.esm
 EditorID: co_SMS_Struct_Hope_Marker_A
+FormVersion: 559
 Description:
   TargetLanguage: English
   Value: Structural components are largely cosmetic, and allow you to modify your ship’s shape, size, personality and silhouette.
@@ -7,7 +8,6 @@ WorkbenchKeyword: 29C480:Starfield.esm
 Conditions:
 - MutagenObjectType: ConditionFloat
   Unknown1: 0x000000
-  Unknown2: 17620
   Data:
     MutagenObjectType: HasKeywordConditionData
     FirstParameter: 1453BD:Starfield.esm

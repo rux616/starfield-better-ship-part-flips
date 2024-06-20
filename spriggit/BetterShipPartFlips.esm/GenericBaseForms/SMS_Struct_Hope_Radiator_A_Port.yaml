@@ -1,5 +1,6 @@
 FormKey: 000E12:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Hope_Radiator_A_Port
+FormVersion: 559
 ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent

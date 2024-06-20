@@ -1,11 +1,12 @@
 FormKey: 0008E9:BetterShipPartFlips.esm
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Struct_Deimos_Bumper_BtmAft
+FormVersion: 559
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:
-  First: 0.0064697266, -4, -1.4394531
-  Second: 4.1796875, 4, 1.4511719
+  First: -1.4394529, -4, -4.1796865
+  Second: 1.4511719, 4.000001, 0.5
 ODTY: 0
 Transforms:
   Ship: 1B5D33:Starfield.esm

@@ -1,5 +1,6 @@
 FormKey: 00141E:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Nova_Wing_PortAft
+FormVersion: 559
 ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent

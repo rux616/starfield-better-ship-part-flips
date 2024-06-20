@@ -1,13 +1,12 @@
 FormKey: 00157F:BetterShipPartFlips.esm
 EditorID: SMOD_Struct_Stroud_Cap_StbdAftTop_A_NIF
+FormVersion: 559
 ObjectBounds:
   First: -4, -6.9453125, -1.7539062
   Second: 4, 8.03125, 1.7509766
 ODTY: 0
 Components:
 - MutagenObjectType: KeywordFormComponent
-  Keywords:
-  - 140158:Starfield.esm
 Model:
   File: Ships\Modules\Struct\SMOD\SMOD_Struct_Stroud_Cap_StbAftTop_A.nif
   MaterialSwaps:

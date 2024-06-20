@@ -1,0 +1,14 @@
+FormKey: 000DFF:BetterShipPartFlips.esp
+EditorID: ShipPI_SMOD_Struct_Hope_Radiator_A_Btm
+FormVersion: 559
+ObjectBounds:
+  First: -3.2070322, -4, -3.5761712
+  Second: 3.2070317, 4, 1.7490227
+ODTY: 0
+Transforms:
+  Ship: 15E824:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Struct\HopeTech\'
+Cell: 000E05:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

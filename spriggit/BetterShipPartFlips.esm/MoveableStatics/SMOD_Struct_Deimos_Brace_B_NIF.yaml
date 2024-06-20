@@ -1,13 +1,12 @@
 FormKey: 000836:BetterShipPartFlips.esm
 EditorID: SMOD_Struct_Deimos_Brace_B_NIF
+FormVersion: 559
 ObjectBounds:
   First: -4, -2.4335938, -1.1865234
   Second: 3.9980469, 2.4335938, 1.1865234
 ODTY: 0
 Components:
 - MutagenObjectType: KeywordFormComponent
-  Keywords:
-  - 140158:Starfield.esm
 Model:
   File: Ships\Modules\Struct\SMOD\SMOD_Struct_Deimos_Brace_A.nif
   MaterialSwaps:

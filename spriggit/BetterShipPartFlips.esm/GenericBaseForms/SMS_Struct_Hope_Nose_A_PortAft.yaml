@@ -1,5 +1,6 @@
 FormKey: 000FCE:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Hope_Nose_A_PortAft
+FormVersion: 559
 ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent

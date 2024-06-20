@@ -1,11 +1,12 @@
 FormKey: 0013DA:BetterShipPartFlips.esm
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Struct_Nova_Radiator_Btm
+FormVersion: 559
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:
-  First: -2.0644531, -4.0078125, -1.75
-  Second: 2.0644531, 4.0078125, -1.1103516
+  First: -2.064453, -4.0078125, -0.5
+  Second: 2.0644536, 4.0078125, 1.7499995
 ODTY: 0
 Transforms:
   Ship: 203E7A:Starfield.esm

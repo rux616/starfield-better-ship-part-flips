@@ -1,0 +1,26 @@
+FormKey: 0018F6:BetterShipPartFlips.esp
+EditorID: SMS_Struct_Stroud_Cap08_PortAft_B
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 8
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 10
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 0018F7:BetterShipPartFlips.esp
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462BD:Starfield.esm
+  - 27BAC5:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Stroud Nose Cap D - Port Aft
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

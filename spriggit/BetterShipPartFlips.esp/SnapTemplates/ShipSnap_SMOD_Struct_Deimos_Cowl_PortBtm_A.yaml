@@ -1,0 +1,18 @@
+FormKey: 0008CE:BetterShipPartFlips.esp
+EditorID: ShipSnap_SMOD_Struct_Deimos_Cowl_PortBtm_A
+FormVersion: 559
+Nodes:
+- NodeID: 7
+  Node: 04AB73:Starfield.esm
+  Offset: -4, 0, 0
+  Rotation: 0, 0, -90
+- NodeID: 9
+  Node: 04AB77:Starfield.esm
+  Offset: 0, 0, 1.75
+  Rotation: 270, 0, 0
+- NodeID: 6
+  Node: 04AB74:Starfield.esm
+  Offset: 4, 0, 0
+  Rotation: 0, 0, 90
+NextNodeID: 11
+STPT: 0

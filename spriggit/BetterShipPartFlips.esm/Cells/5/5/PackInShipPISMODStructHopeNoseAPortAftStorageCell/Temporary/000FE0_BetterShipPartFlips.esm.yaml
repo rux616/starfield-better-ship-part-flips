@@ -1,5 +1,6 @@
 MutagenObjectType: PlacedObject
 FormKey: 000FE0:BetterShipPartFlips.esm
+FormVersion: 559
 Base: 1F564E:Starfield.esm
 ProjectedDecal:
   WidthScale: 1

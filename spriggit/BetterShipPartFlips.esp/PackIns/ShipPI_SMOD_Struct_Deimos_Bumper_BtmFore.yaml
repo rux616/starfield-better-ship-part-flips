@@ -1,0 +1,19 @@
+FormKey: 0008EA:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Struct_Deimos_Bumper_BtmFore
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -1.4511719, -4, -4.1796875
+  Second: 1.4394529, 4, 0.5
+ODTY: 0
+Transforms:
+  Ship: 1B5D33:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Struct\DeimosLarge\'
+Cell: 0008F9:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

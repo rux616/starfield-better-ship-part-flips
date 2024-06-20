@@ -1,5 +1,6 @@
 FormKey: 001685:BetterShipPartFlips.esm
 EditorID: PackInShipPISMODStructStroudCapAY90PortAftBtmStorageCell
+FormVersion: 559
 Flags:
 - IsInteriorCell
 Lighting:
@@ -32,3 +33,7 @@ XCLAs:
   XCLD: Default Layer Name 3
 - XCLA: 4
   XCLD: Default Layer Name 4
+Timestamp: 12500
+UnknownGroupData: 3
+TemporaryTimestamp: 12500
+TemporaryUnknownGroupData: 1

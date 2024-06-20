@@ -1,8 +1,9 @@
 FormKey: 000A4E:BetterShipPartFlips.esm
 EditorID: ShipPI_SMOD_Struct_Deimos_Spine_A_PortFore
+FormVersion: 559
 ObjectBounds:
-  First: -1.6181641, -4, -1.75
-  Second: 1.6181641, 3.5507812, -0.020996094
+  First: -0.5, -4, -1.6181642
+  Second: 1.7499999, 3.5507812, 1.6181641
 ODTY: 0
 Transforms:
   Ship: 050FAC:Starfield.esm

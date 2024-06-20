@@ -1,11 +1,12 @@
 FormKey: 00104E:BetterShipPartFlips.esm
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Thrust_Hope_Fore_Aft
+FormVersion: 559
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:
-  First: -3.7695312, -4.03125, -1.71875
-  Second: 3.7695312, 8.423333, 1.7294922
+  First: -3.7695296, -6.890626, -1.71875
+  Second: 3.7695303, 4.031251, 1.7294922
 ODTY: 0
 Transforms:
   Ship: 050FB6:Starfield.esm

@@ -1,5 +1,6 @@
 FormKey: 0011E6:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Nova_CowlLong_ForeMid
+FormVersion: 559
 ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent

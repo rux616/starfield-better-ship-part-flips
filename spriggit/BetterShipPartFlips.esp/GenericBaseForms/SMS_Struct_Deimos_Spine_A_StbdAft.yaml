@@ -1,0 +1,26 @@
+FormKey: 000A70:BetterShipPartFlips.esp
+EditorID: SMS_Struct_Deimos_Spine_A_StbdAft
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 2
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 30
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 000A71:BetterShipPartFlips.esp
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462C0:Starfield.esm
+  - 27BABC:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Deimos Spine A - Starboard Aft
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

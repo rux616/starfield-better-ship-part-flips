@@ -1,0 +1,11 @@
+FormKey: 0013ED:BetterShipPartFlips.esp
+EditorID: SMSSet_Struct_Nova_RadiatorF
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Nova Radiator Flat Set
+Items:
+- 17AB25:Starfield.esm
+- 0013D9:BetterShipPartFlips.esp
+- 0013CF:BetterShipPartFlips.esp
+- 0013E3:BetterShipPartFlips.esp

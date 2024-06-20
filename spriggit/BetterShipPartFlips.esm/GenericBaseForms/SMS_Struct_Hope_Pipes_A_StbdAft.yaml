@@ -1,5 +1,6 @@
 FormKey: 000EA7:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Hope_Pipes_A_StbdAft
+FormVersion: 559
 ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent

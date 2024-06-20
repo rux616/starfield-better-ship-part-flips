@@ -1,8 +1,9 @@
 FormKey: 000F9C:BetterShipPartFlips.esm
 EditorID: ShipPI_SMOD_Struct_Hope_Nose_A_Aft
+FormVersion: 559
 ObjectBounds:
-  First: -4, -0.00024414062, -1.3564453
-  Second: 4, 2.109375, 1.4296875
+  First: -3.9999995, -2.109376, -1.3564453
+  Second: 4, 0.5, 1.4296875
 ODTY: 0
 Transforms:
   Ship: 203E7A:Starfield.esm

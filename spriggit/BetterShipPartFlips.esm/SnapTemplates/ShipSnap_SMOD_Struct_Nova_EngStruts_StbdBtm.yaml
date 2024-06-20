@@ -1,5 +1,6 @@
 FormKey: 000CAC:BetterShipPartFlips.esm
 EditorID: ShipSnap_SMOD_Struct_Nova_EngStruts_StbdBtm
+FormVersion: 559
 Nodes:
 - NodeID: 7
   Node: 04AB73:Starfield.esm

@@ -1,0 +1,19 @@
+FormKey: 0012CB:BetterShipPartFlips.esp
+EditorID: SMOD_Struct_Nova_CowlLong_MidTopAlt_NIF
+FormVersion: 559
+ObjectBounds:
+  First: -3.1679688, -4.0039062, -1.7519531
+  Second: 3.1679688, 4.0039062, 1.7666016
+ODTY: 0
+Components:
+- MutagenObjectType: KeywordFormComponent
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Nova_CowlLong_MidTop.nif
+  MaterialSwaps:
+  - 27390B:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 207960:Starfield.esm
+- 1BB401:Starfield.esm
+DATA: 4

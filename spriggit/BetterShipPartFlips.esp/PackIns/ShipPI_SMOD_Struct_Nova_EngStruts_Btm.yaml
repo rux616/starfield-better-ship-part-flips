@@ -1,0 +1,19 @@
+FormKey: 000808:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Struct_Nova_EngStruts_Btm
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -2.4687505, -4, -1.666015
+  Second: 2.4687505, 3.3789062, 1.7499994
+ODTY: 0
+Transforms:
+  Ship: 050FD1:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Struct\Nova\'
+Cell: 000802:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

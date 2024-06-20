@@ -1,11 +1,12 @@
 FormKey: 0010D3:BetterShipPartFlips.esm
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Struct_Nova_CL-3C_Ext01_StbdAft
+FormVersion: 559
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:
-  First: -3.3242188, -3.8007812, -1.7421875
-  Second: 3.3242188, 4.0078125, 1.4951165
+  First: -1.7421873, -3.800782, -3.3242178
+  Second: 1.4951175, 4.0058017, 3.3242178
 ODTY: 0
 Transforms:
   Ship: 050FAC:Starfield.esm
