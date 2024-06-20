@@ -1,13 +1,12 @@
 FormKey: 000A95:BetterShipPartFlips.esm
 EditorID: SMOD_Struct_Deimos_Spine_B_Top_NIF
+FormVersion: 559
 ObjectBounds:
   First: -1.6181641, -4, -1.75
   Second: 1.6181641, 4, 0.017303467
 ODTY: 0
 Components:
 - MutagenObjectType: KeywordFormComponent
-  Keywords:
-  - 140158:Starfield.esm
 Model:
   File: Ships\Modules\Struct\SMOD\SMOD_Struct_Deimos_Spine_B.nif
   MaterialSwaps:

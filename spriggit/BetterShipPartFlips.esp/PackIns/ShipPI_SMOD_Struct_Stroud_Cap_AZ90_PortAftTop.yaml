@@ -1,0 +1,14 @@
+FormKey: 001558:BetterShipPartFlips.esp
+EditorID: ShipPI_SMOD_Struct_Stroud_Cap_AZ90_PortAftTop
+FormVersion: 559
+ObjectBounds:
+  First: -6.9453125, -3.9999995, -1.7539062
+  Second: 8.03125, 3.9999995, 1.7509766
+ODTY: 0
+Transforms:
+  Ship: 050FB6:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Struct\Stroud\'
+Cell: 001559:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

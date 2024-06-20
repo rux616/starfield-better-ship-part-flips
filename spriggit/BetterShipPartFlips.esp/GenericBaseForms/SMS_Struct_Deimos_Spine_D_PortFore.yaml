@@ -1,0 +1,26 @@
+FormKey: 000AE7:BetterShipPartFlips.esp
+EditorID: SMS_Struct_Deimos_Spine_D_PortFore
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 2
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 20
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 000AE8:BetterShipPartFlips.esp
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462C0:Starfield.esm
+  - 27BABD:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Deimos Spine D - Port Fore
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

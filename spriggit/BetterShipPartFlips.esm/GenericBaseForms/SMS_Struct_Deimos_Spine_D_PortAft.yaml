@@ -1,5 +1,6 @@
 FormKey: 000AEB:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Deimos_Spine_D_PortAft
+FormVersion: 559
 ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent

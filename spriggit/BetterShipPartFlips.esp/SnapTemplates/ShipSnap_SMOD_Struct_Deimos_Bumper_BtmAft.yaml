@@ -1,0 +1,15 @@
+FormKey: 00092A:BetterShipPartFlips.esp
+EditorID: ShipSnap_SMOD_Struct_Deimos_Bumper_BtmAft
+FormVersion: 559
+Nodes:
+- NodeID: 9
+  Node: 04AB77:Starfield.esm
+  Rotation: 270, 0, 0
+- NodeID: 5
+  Node: 04AB6F:Starfield.esm
+  Offset: 0, 4, -1.75
+- NodeID: 4
+  Node: 04AB6F:Starfield.esm
+  Offset: 0, 4, 0
+NextNodeID: 11
+STPT: 0

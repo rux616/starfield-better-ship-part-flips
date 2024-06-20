@@ -1,5 +1,6 @@
 FormKey: 000944:BetterShipPartFlips.esm
 EditorID: ShipSnap_SMOD_Struct_Deimos_Cowl_PortFore_A
+FormVersion: 559
 Nodes:
 - NodeID: 6
   Node: 04AB74:Starfield.esm

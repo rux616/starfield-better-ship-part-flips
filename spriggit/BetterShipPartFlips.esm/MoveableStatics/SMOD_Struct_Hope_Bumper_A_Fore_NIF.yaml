@@ -1,13 +1,12 @@
 FormKey: 000D37:BetterShipPartFlips.esm
 EditorID: SMOD_Struct_Hope_Bumper_A_Fore_NIF
+FormVersion: 559
 ObjectBounds:
   First: -3.4980469, -0.0008544922, -1.5869141
   Second: 3.4980469, 4.46875, 1.5859375
 ODTY: 0
 Components:
 - MutagenObjectType: KeywordFormComponent
-  Keywords:
-  - 140158:Starfield.esm
 Model:
   File: Ships\Modules\Struct\SMOD\SMOD_Struct_Hope_Bumper_A.nif
   MaterialSwaps:

@@ -1,8 +1,9 @@
 FormKey: 000960:BetterShipPartFlips.esm
 EditorID: ShipPI_SMOD_Struct_Deimos_Radiator_A_Btm
+FormVersion: 559
 ObjectBounds:
-  First: -1.4404297, -4, -1.75
-  Second: 1.4414062, 4, -0.032348633
+  First: -1.4414062, -4, -0.5
+  Second: 1.4404302, 4, 1.7499996
 ODTY: 0
 Transforms:
   Ship: 203E7A:Starfield.esm

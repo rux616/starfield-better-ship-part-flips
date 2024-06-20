@@ -1,13 +1,12 @@
 FormKey: 0012CD:BetterShipPartFlips.esm
 EditorID: SMOD_Struct_Nova_CowlLong_PortTop_NIF
+FormVersion: 559
 ObjectBounds:
   First: -3.158205, -10.554687, -1.7519531
   Second: 3.1582038, 3.9960933, 1.7646484
 ODTY: 0
 Components:
 - MutagenObjectType: KeywordFormComponent
-  Keywords:
-  - 140158:Starfield.esm
 Model:
   File: Ships\Modules\Struct\SMOD\SMOD_Struct_Nova_CowlLong_AftTop.nif
   MaterialSwaps:

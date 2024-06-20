@@ -1,0 +1,22 @@
+FormKey: 000ECC:BetterShipPartFlips.esp
+EditorID: SMOD_Struct_Hope_PipesMid_A_Top_NIF
+FormVersion: 559
+ObjectBounds:
+  First: -2.5390625, -4.0898438, -1.75
+  Second: 2.5390625, 4.0898438, 1.7041016
+ODTY: 0
+Components:
+- MutagenObjectType: KeywordFormComponent
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Hope_PipesMid_A.nif
+  MaterialSwaps:
+  - 0419F5:Starfield.esm
+  - 0419F6:Starfield.esm
+  - 08DF19:Starfield.esm
+  - 2F2599:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

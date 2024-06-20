@@ -1,0 +1,20 @@
+FormKey: 32B3B2:Starfield.esm
+EditorID: SMSSet_Struct_Deimos_Cowl_Set
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Deimos Struct Cowl Set
+Items:
+- 22D128:Starfield.esm
+- 32B410:Starfield.esm
+- 0008C2:BetterShipPartFlips.esp
+- 000878:BetterShipPartFlips.esp
+- 00088E:BetterShipPartFlips.esp
+- 0008C1:BetterShipPartFlips.esp
+- 0008C3:BetterShipPartFlips.esp
+- 0008C0:BetterShipPartFlips.esp
+- 0008C2:BetterShipPartFlips.esp
+- 000937:BetterShipPartFlips.esp
+- 000942:BetterShipPartFlips.esp
+- 000950:BetterShipPartFlips.esp
+- 00095C:BetterShipPartFlips.esp

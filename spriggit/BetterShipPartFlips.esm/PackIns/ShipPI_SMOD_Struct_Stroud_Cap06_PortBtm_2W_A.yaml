@@ -1,8 +1,9 @@
 FormKey: 0017F3:BetterShipPartFlips.esm
 EditorID: ShipPI_SMOD_Struct_Stroud_Cap06_PortBtm_2W_A
+FormVersion: 559
 ObjectBounds:
-  First: -8, -8, -1.7509766
-  Second: 8.03125, 6.9335938, 1.7685547
+  First: -6.933594, -7.9999995, -1.7509766
+  Second: 8, 8.03125, 1.7685547
 ODTY: 0
 Transforms:
   Ship: 050F9E:Starfield.esm

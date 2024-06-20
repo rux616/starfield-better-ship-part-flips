@@ -1,0 +1,21 @@
+FormKey: 00080E:BetterShipPartFlips.esp
+EditorID: SMOD_Struct_Deimos_Belly_AftBtm_A_NIF
+FormVersion: 559
+ObjectBounds:
+  First: -4.0000005, -3.5507803, -1.7519542
+  Second: 4.0000005, 3.998047, 1.7509778
+ODTY: 0
+Components:
+- MutagenObjectType: KeywordFormComponent
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Deimos_Belly_AftBtm_A.nif
+  MaterialSwaps:
+  - 03EF7B:Starfield.esm
+  - 03EF7C:Starfield.esm
+  - 0B6B10:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

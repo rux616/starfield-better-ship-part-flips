@@ -1,0 +1,19 @@
+FormKey: 00119B:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Struct_Nova_CowlLong_ForePort
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -10.6484375, -3.9999998, -1.5273438
+  Second: 4, 2.746093, 1.5273438
+ODTY: 0
+Transforms:
+  Ship: 166FD4:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Struct\Nova\'
+Cell: 0011BE:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

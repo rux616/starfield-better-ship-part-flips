@@ -1,0 +1,13 @@
+FormKey: 000D6D:BetterShipPartFlips.esp
+EditorID: SMOD_Struct_Hope_CapAft_A_Btm_SNAP
+FormVersion: 559
+ObjectBounds:
+  First: -0.5, -0.5, -0.5
+  Second: 0.5, 0.5, 0.5
+ODTY: 0
+SnapTemplate: 000D6E:BetterShipPartFlips.esp
+Model:
+  File: Effects\fxemptynode.nif
+  FLLD: 0x01000000
+  XFLG: 0x02
+DATA: 4

@@ -1,0 +1,22 @@
+FormKey: 001097:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Struct_Nova_CL-3C_Ext01_BtmFore
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -3.324219, -4.0058007, -1.495117
+  Second: 3.3242192, 3.8007812, 1.7421867
+ODTY: 0
+Transforms:
+  Ship: 050FAC:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Struct\Nova\'
+Cell: 0010A9:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+Name:
+  TargetLanguage: English
+  Value: Cowling
+MajorFlags:
+- Prefab

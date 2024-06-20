@@ -1,5 +1,6 @@
 FormKey: 0012FE:BetterShipPartFlips.esm
 EditorID: ShipSnap_SMOD_Struct_Nova_RadiatorL_PortTop
+FormVersion: 559
 Nodes:
 - NodeID: 10
   Node: 04AB70:Starfield.esm

@@ -1,8 +1,9 @@
 FormKey: 000A0A:BetterShipPartFlips.esm
 EditorID: ShipPI_SMOD_Struct_Deimos_Skeg_B_Port
+FormVersion: 559
 ObjectBounds:
-  First: -2.0019531, -4.0117188, -1.7626953
-  Second: 1.9990234, 4.0117188, 1.7509766
+  First: -1.7626952, -4.0117188, -1.9990236
+  Second: 1.7509764, 4.0117188, 2.0019531
 ODTY: 0
 Transforms:
   Ship: 050FAC:Starfield.esm

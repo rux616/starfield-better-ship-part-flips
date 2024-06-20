@@ -1,13 +1,12 @@
 FormKey: 00132B:BetterShipPartFlips.esm
 EditorID: SMOD_Struct_Nova_RadiatorL_Top_NIF
+FormVersion: 559
 ObjectBounds:
   First: -4, -3.7890625, -1.1728516
   Second: 4, 3.7382812, 1.7119141
 ODTY: 0
 Components:
 - MutagenObjectType: KeywordFormComponent
-  Keywords:
-  - 140158:Starfield.esm
 Model:
   File: Ships\Modules\Struct\SMOD\SMOD_Struct_Nova_Radiator.nif
   MaterialSwaps:

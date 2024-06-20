@@ -1,0 +1,14 @@
+FormKey: 000DEB:BetterShipPartFlips.esp
+EditorID: ShipPI_SMOD_Struct_Hope_CapMid_B_Btm
+FormVersion: 559
+ObjectBounds:
+  First: -4.0000005, -4, -1.749999
+  Second: 4.0000005, 4, 1.749999
+ODTY: 0
+Transforms:
+  Ship: 1B5D3B:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Struct\HopeTech\'
+Cell: 000DF1:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

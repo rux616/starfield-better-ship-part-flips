@@ -1,0 +1,15 @@
+FormKey: 233121:Starfield.esm
+EditorID: SMSSet_Struct_Stroud_Cap07
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Stroud Struct Cap 07 Set
+Items:
+- 233139:Starfield.esm
+- 233138:Starfield.esm
+- 0018A3:BetterShipPartFlips.esp
+- 00183F:BetterShipPartFlips.esp
+- 0018BC:BetterShipPartFlips.esp
+- 00188A:BetterShipPartFlips.esp
+- 001858:BetterShipPartFlips.esp
+- 001871:BetterShipPartFlips.esp

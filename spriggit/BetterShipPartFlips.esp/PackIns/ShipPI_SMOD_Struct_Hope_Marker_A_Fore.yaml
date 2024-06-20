@@ -1,0 +1,14 @@
+FormKey: 00103C:BetterShipPartFlips.esp
+EditorID: ShipPI_SMOD_Struct_Hope_Marker_A_Fore
+FormVersion: 559
+ObjectBounds:
+  First: -1.2138672, -1.7500001, -1.213867
+  Second: 1.2138672, 3.265625, 1.2138671
+ODTY: 0
+Transforms:
+  Ship: 203E7A:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Struct\HopeTech\'
+Cell: 001040:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

@@ -1,5 +1,6 @@
 FormKey: 000C9A:BetterShipPartFlips.esm
 EditorID: ShipSnap_SMOD_Struct_Nova_EngStruts_PortBtm
+FormVersion: 559
 Nodes:
 - NodeID: 9
   Node: 04AB77:Starfield.esm

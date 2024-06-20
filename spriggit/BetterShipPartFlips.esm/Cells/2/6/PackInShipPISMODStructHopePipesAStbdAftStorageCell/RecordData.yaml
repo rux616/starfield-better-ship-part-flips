@@ -1,5 +1,6 @@
 FormKey: 000EB2:BetterShipPartFlips.esm
 EditorID: PackInShipPISMODStructHopePipesAStbdAftStorageCell
+FormVersion: 559
 Flags:
 - IsInteriorCell
 Lighting:
@@ -34,3 +35,7 @@ XCLAs:
   XCLD: Default Layer Name 4
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
+Timestamp: 12500
+UnknownGroupData: 3
+TemporaryTimestamp: 12500
+TemporaryUnknownGroupData: 1

@@ -1,5 +1,6 @@
 FormKey: 00103B:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Hope_Marker_A_Fore
+FormVersion: 559
 ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent

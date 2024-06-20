@@ -1,0 +1,23 @@
+FormKey: 0015A3:BetterShipPartFlips.esp
+EditorID: SMOD_Struct_Stroud_Cap_A_AftPort_NIF
+FormVersion: 559
+ObjectBounds:
+  First: -4, -3.9999998, -1.7500007
+  Second: 4, 4, 1.7509769
+ODTY: 0
+Components:
+- MutagenObjectType: KeywordFormComponent
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Stroud_Cap_PortAft_A.nif
+  MaterialSwaps:
+  - 2AF782:Starfield.esm
+  - 2AF783:Starfield.esm
+  - 2F2599:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 1D9C96:Starfield.esm
+- 207960:Starfield.esm
+DATA: 6
+MSMO: 1000

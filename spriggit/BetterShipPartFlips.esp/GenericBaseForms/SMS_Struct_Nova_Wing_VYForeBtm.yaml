@@ -1,0 +1,26 @@
+FormKey: 001476:BetterShipPartFlips.esp
+EditorID: SMS_Struct_Nova_Wing_VYForeBtm
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 1
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 70
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 001477:BetterShipPartFlips.esp
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462C2:Starfield.esm
+  - 27BAC5:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Nova Wing - Vertical Y Fore Bottom
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

@@ -1,0 +1,13 @@
+FormKey: 000EAA:BetterShipPartFlips.esp
+EditorID: ShipSnap_SMOD_Struct_Hope_Pipes_A_StbdAft
+FormVersion: 559
+Nodes:
+- NodeID: 7
+  Node: 04AB73:Starfield.esm
+  Offset: -1.75, 0, 0
+  Rotation: 0, 0, -90
+- NodeID: 13
+  Node: 04AB6F:Starfield.esm
+  Offset: 0, 4, 0
+NextNodeID: 14
+STPT: 0

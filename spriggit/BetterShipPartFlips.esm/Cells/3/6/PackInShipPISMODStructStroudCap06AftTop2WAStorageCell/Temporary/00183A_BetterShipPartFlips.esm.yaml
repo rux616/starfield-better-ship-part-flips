@@ -1,5 +1,6 @@
 MutagenObjectType: PlacedObject
 FormKey: 00183A:BetterShipPartFlips.esm
+FormVersion: 559
 Components:
 - MutagenObjectType: KeywordFormComponent
   Keywords:

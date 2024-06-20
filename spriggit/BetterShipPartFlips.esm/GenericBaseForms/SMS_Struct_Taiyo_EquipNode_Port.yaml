@@ -1,5 +1,6 @@
 FormKey: 001075:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Taiyo_EquipNode_Port
+FormVersion: 559
 ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent

@@ -1,8 +1,9 @@
 FormKey: 001076:BetterShipPartFlips.esm
 EditorID: ShipPI_SMOD_Struct_Taiyo_EquipNode_Port
+FormVersion: 559
 ObjectBounds:
-  First: -1.4296863, -1.4296875, -1.75
-  Second: 1.4296887, 1.4296875, -1.5234375
+  First: -0.5, -1.4296875, -1.4296864
+  Second: 1.7499999, 1.4296875, 1.4296886
 ODTY: 0
 Transforms:
   Ship: 203E72:Starfield.esm

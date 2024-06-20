@@ -1,5 +1,6 @@
 FormKey: 001333:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Nova_RadiatorSmall_ForePortBtm
+FormVersion: 559
 ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent

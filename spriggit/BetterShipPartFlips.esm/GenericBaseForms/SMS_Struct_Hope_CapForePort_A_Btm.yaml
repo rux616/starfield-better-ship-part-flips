@@ -1,5 +1,6 @@
 FormKey: 000D4F:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Hope_CapForePort_A_Btm
+FormVersion: 559
 ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent

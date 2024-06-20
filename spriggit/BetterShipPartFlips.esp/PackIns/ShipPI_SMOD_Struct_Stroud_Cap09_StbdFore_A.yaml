@@ -1,0 +1,14 @@
+FormKey: 0015CD:BetterShipPartFlips.esp
+EditorID: ShipPI_SMOD_Struct_Stroud_Cap09_StbdFore_A
+FormVersion: 559
+ObjectBounds:
+  First: -4.000001, -3.9999998, -1.7500026
+  Second: 3.999999, 3.9999998, 1.7500026
+ODTY: 0
+Transforms:
+  Ship: 050FAC:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Struct\Stroud\'
+Cell: 0015CE:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

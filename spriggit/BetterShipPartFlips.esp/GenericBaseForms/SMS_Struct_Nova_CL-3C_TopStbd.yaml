@@ -1,0 +1,26 @@
+FormKey: 0010F7:BetterShipPartFlips.esp
+EditorID: SMS_Struct_Nova_CL-3C_TopStbd
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 3
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 40
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 0010F8:BetterShipPartFlips.esp
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462C2:Starfield.esm
+  - 27BABC:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Nova Cowling 1L-TA - Starboard Top
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

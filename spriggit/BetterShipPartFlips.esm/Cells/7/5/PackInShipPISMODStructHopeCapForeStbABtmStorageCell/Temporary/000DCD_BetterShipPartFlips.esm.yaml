@@ -1,5 +1,6 @@
 MutagenObjectType: PlacedObject
 FormKey: 000DCD:BetterShipPartFlips.esm
+FormVersion: 559
 Base: 1F566E:Starfield.esm
 ConstrainedDecal: 4, 2, 0.75
 Position: -1.8942945, -1.2994056, -1.8062505

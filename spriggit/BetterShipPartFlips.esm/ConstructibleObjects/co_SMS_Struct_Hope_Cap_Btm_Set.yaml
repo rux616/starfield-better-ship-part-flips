@@ -1,6 +1,7 @@
 FormKey: 000D73:BetterShipPartFlips.esm
 MajorRecordFlagsRaw: 67108864
 EditorID: co_SMS_Struct_Hope_Cap_Btm_Set
+FormVersion: 559
 StarfieldMajorRecordFlags:
 - 0x4000000
 Description:
@@ -10,7 +11,6 @@ WorkbenchKeyword: 29C480:Starfield.esm
 Conditions:
 - MutagenObjectType: ConditionFloat
   Unknown1: 0x000000
-  Unknown2: 17620
   Data:
     MutagenObjectType: HasKeywordConditionData
     FirstParameter: 1453BD:Starfield.esm

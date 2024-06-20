@@ -1,5 +1,6 @@
 FormKey: 000CB2:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Deimos_Tail_A_Fore
+FormVersion: 559
 ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent

@@ -1,0 +1,11 @@
+FormKey: 001053:BetterShipPartFlips.esp
+EditorID: SMSSet_Thrust_Hope
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: HopeTech Thruster Set
+Items:
+- 1684D4:Starfield.esm
+- 00104D:BetterShipPartFlips.esp
+- 001058:BetterShipPartFlips.esp
+- 001061:BetterShipPartFlips.esp

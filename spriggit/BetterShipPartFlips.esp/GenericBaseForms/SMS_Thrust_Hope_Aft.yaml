@@ -1,0 +1,24 @@
+FormKey: 00104D:BetterShipPartFlips.esp
+EditorID: SMS_Thrust_Hope_Aft
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 5
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 00104E:BetterShipPartFlips.esp
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 27BABC:Starfield.esm
+  - 1462C1:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: HopeTech Thruster - Aft
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

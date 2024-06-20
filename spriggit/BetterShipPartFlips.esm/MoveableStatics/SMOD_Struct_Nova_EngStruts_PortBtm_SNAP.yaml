@@ -1,12 +1,13 @@
 FormKey: 000C99:BetterShipPartFlips.esm
 EditorID: SMOD_Struct_Nova_EngStruts_PortBtm_SNAP
+FormVersion: 559
 ObjectBounds:
   First: -0.5, -0.5, -0.5
   Second: 0.5, 0.5, 0.5
 ODTY: 0
 SnapTemplate: 000C9A:BetterShipPartFlips.esm
 Model:
-  File: effects\fxemptynode.nif
+  File: Effects\fxemptynode.nif
   FLLD: 0x01000000
   XFLG: 0x02
 DATA: 4

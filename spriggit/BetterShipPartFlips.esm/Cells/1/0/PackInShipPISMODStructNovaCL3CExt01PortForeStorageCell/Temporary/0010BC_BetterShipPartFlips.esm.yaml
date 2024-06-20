@@ -1,5 +1,6 @@
 MutagenObjectType: PlacedObject
 FormKey: 0010BC:BetterShipPartFlips.esm
+FormVersion: 559
 Base: 0010BD:BetterShipPartFlips.esm
 LayeredMaterialSwaps:
 - 3A2ED4:Starfield.esm

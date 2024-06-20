@@ -1,0 +1,24 @@
+FormKey: 00095F:BetterShipPartFlips.esp
+EditorID: SMS_Struct_Deimos_Radiator_A_Btm
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 3
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 000960:BetterShipPartFlips.esp
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 27BABE:Starfield.esm
+  - 1462C0:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Deimos Radiator - Bottom
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

@@ -1,14 +1,7 @@
 FormKey: 0011EC:BetterShipPartFlips.esm
 EditorID: ShipSnap_SMOD_Struct_Nova_CowlLong_ForeMid
+FormVersion: 559
 Nodes:
-- NodeID: 13
-  Node: 04AB85:Starfield.esm
-  Offset: 0, -0.95, -1.53
-  Rotation: 90, 180, 0
-- NodeID: 15
-  Node: 04AB85:Starfield.esm
-  Offset: 0, -0.95, 1.53
-  Rotation: 270, 0, 0
 - NodeID: 7
   Node: 04AB73:Starfield.esm
   Offset: -4, 0, 0
@@ -17,6 +10,14 @@ Nodes:
   Node: 04AB74:Starfield.esm
   Offset: 4, 0, 0
   Rotation: 0, 0, 90
+- NodeID: 13
+  Node: 04AB85:Starfield.esm
+  Offset: 0, -0.95, -1.53
+  Rotation: 90, 180, 0
+- NodeID: 15
+  Node: 04AB85:Starfield.esm
+  Offset: 0, -0.95, 1.53
+  Rotation: 270, 0, 0
 - NodeID: 10
   Node: 04AB70:Starfield.esm
   Offset: 0, -4, 0

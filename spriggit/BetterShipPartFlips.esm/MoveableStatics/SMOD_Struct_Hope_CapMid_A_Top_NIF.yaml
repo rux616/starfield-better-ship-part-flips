@@ -1,13 +1,12 @@
 FormKey: 000D7D:BetterShipPartFlips.esm
 EditorID: SMOD_Struct_Hope_CapMid_A_Top_NIF
+FormVersion: 559
 ObjectBounds:
   First: -4, -4, -1.75
   Second: 4, 4, 0.4111328
 ODTY: 0
 Components:
 - MutagenObjectType: KeywordFormComponent
-  Keywords:
-  - 140158:Starfield.esm
 Model:
   File: Ships\Modules\Struct\SMOD\SMOD_Struct_Hope_CapMid_A.nif
   MaterialSwaps:

@@ -1,13 +1,12 @@
 FormKey: 000970:BetterShipPartFlips.esm
 EditorID: SMOD_Struct_Deimos_Radiator_A_NIF
+FormVersion: 559
 ObjectBounds:
   First: -1.4404297, -4, -1.75
   Second: 1.4414062, 4, -0.032348633
 ODTY: 0
 Components:
 - MutagenObjectType: KeywordFormComponent
-  Keywords:
-  - 140158:Starfield.esm
 Model:
   File: Ships\Modules\Struct\SMOD\SMOD_Struct_Deimos_Radiator_A.nif
   MaterialSwaps:
