@@ -1,0 +1,12 @@
+FormKey: 00106E:BetterShipPartFlips.esm
+EditorID: SMSSet_Struct_Taiyo_EquipNode
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Taiyo Equipment Plate Set
+Items:
+- 21CE5F:Starfield.esm
+- 00106A:BetterShipPartFlips.esm
+- 001075:BetterShipPartFlips.esm
+- 00107E:BetterShipPartFlips.esm
+ANAM: Null

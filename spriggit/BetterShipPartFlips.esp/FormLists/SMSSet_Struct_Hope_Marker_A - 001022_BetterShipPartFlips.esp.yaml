@@ -1,0 +1,14 @@
+FormKey: 001022:BetterShipPartFlips.esp
+EditorID: SMSSet_Struct_Hope_Marker_A
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: HopeTech Marker A Set
+Items:
+- 227DC3:Starfield.esm
+- 00101E:BetterShipPartFlips.esp
+- 001029:BetterShipPartFlips.esp
+- 001032:BetterShipPartFlips.esp
+- 00103B:BetterShipPartFlips.esp
+- 001044:BetterShipPartFlips.esp
+ANAM: Null

@@ -1,0 +1,11 @@
+FormKey: 001672:BetterShipPartFlips.esp
+EditorID: SMSSet_Struct_Nova_6WeapMount
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Nova 6 Way Weapon Mount Set
+Items:
+- 037353:Starfield.esm
+- 001666:BetterShipPartFlips.esp
+- 001675:BetterShipPartFlips.esp
+ANAM: Null

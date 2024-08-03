@@ -1,0 +1,16 @@
+FormKey: 00080C:BetterShipPartFlips.esp
+EditorID: SMSSet_Struct_Nova_EngStrut_Set
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Nova Engine Strut Set
+Items:
+- 17AB2A:Starfield.esm
+- 000809:BetterShipPartFlips.esp
+- 0008D2:BetterShipPartFlips.esp
+- 0008D3:BetterShipPartFlips.esp
+- 000C8E:BetterShipPartFlips.esp
+- 000C97:BetterShipPartFlips.esp
+- 000CA0:BetterShipPartFlips.esp
+- 000CA9:BetterShipPartFlips.esp
+ANAM: Null
