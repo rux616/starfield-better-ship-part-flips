@@ -4,3 +4,5 @@ meta.ini
 *.log
 # exclude BA2 archives
 *.ba2
+# exclude GTEMP.pas in the .vscode directory
+.vscode/GTEMP.pas
