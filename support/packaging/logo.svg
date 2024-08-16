@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 507.99999 285.75"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:export-filename="logo-patch.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title7">Better Ship Part Flips Logo</title>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3988043"
+     inkscape:cx="969.39936"
+     inkscape:cy="523.66153"
+     inkscape:window-width="3840"
+     inkscape:window-height="2071"
+     inkscape:window-x="3831"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="-1.7"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.60000002"
+       markerHeight="0.60000002"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="strokeWidth">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     style="fill:#000000;fill-opacity:1;stroke:none">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:8.99999, 8.99999;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7"
+       width="508"
+       height="285.75"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect2"
+       style="fill:#fffefe;fill-opacity:1;stroke:#ffffff;stroke-width:3.96875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 229.83864,21.076636 V 110.69906 H 170.91495 Z"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="left triangle" />
+    <path
+       id="path2"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.96875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:7.5;stroke-opacity:1"
+       d="M 337.08542,110.69906 H 241.74488 V 55.309351 Z"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="right triangle" />
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:3.86582;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Triangle);paint-order:fill markers stroke"
+       id="path3"
+       sodipodi:type="arc"
+       sodipodi:cx="268.9252"
+       sodipodi:cy="65.172684"
+       sodipodi:rx="38.88979"
+       sodipodi:ry="38.889824"
+       sodipodi:start="4.712389"
+       sodipodi:end="0"
+       sodipodi:arc-type="arc"
+       d="m 268.9252,26.28286 a 38.88979,38.889824 0 0 1 38.88979,38.889824"
+       sodipodi:open="true"
+       inkscape:label="rotation" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.5363px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.89137;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:15.5655, 3.89137;stroke-dashoffset:4.28051;stroke-opacity:1;paint-order:fill markers stroke"
+       x="252.48457"
+       y="155.3571"
+       id="text6"
+       inkscape:label="better ship part"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="font-size:39.5363px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.89137;stroke-opacity:1"
+         x="252.48457"
+         y="155.3571">BETTER SHIP PART</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:143.766px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:14.1502;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:56.6006, 14.1502;stroke-dashoffset:15.5651;stroke-opacity:1;paint-order:fill markers stroke"
+       x="250.56029"
+       y="265.27206"
+       id="text7"
+       inkscape:label="flips"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:14.1502"
+         x="250.56029"
+         y="265.27206">FLIPS</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:139.28px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#ff0000;stroke:#000000;stroke-width:3.30729;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="148.53358"
+       y="294.68445"
+       id="text1"
+       transform="matrix(0.86576104,-0.50015268,0.49984739,0.86628983,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#ff0000;stroke:#000000;stroke-width:3.30729;stroke-dasharray:none;stroke-opacity:1"
+         x="148.53358"
+         y="294.68445">PATCH</tspan></text>
+  </g>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Better Ship Part Flips Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
