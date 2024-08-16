@@ -1,0 +1,17 @@
+FormKey: 00546A:BetterShipPartFlips.esp
+EditorID: SMOD_Shield_Nautilus_Tower-N400_Top_NoSnap
+FormVersion: 559
+ODTY: 0
+Model:
+  File: Ships\Modules\Shield\SMOD\SMOD_Shield_Nautilus_Tower-N400.nif
+  MaterialSwaps:
+  - 08DEE8:Starfield.esm
+  - 093D14:Starfield.esm
+  - 0B6B28:Starfield.esm
+  - 0B6B2D:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

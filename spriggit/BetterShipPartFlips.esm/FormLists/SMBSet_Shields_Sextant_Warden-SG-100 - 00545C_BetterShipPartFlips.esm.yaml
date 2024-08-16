@@ -1,0 +1,14 @@
+FormKey: 00545C:BetterShipPartFlips.esm
+EditorID: SMBSet_Shields_Sextant_Warden-SG-100
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Sextant Warden SG-100 Set
+Items:
+- 005575:BetterShipPartFlips.esm
+- 005576:BetterShipPartFlips.esm
+- 005577:BetterShipPartFlips.esm
+- 005578:BetterShipPartFlips.esm
+- 005579:BetterShipPartFlips.esm
+- 26F121:Starfield.esm
+ANAM: Null

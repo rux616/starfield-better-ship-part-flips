@@ -1,0 +1,32 @@
+FormKey: 001A34:BetterShipPartFlips.esp
+EditorID: SMSSet_FuelTank_Dogstar_Ulysses-M20
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Dogstar Ulysses M20 Set
+Items:
+- 001A1D:BetterShipPartFlips.esp
+- 001A1E:BetterShipPartFlips.esp
+- 001A1F:BetterShipPartFlips.esp
+- 001A20:BetterShipPartFlips.esp
+- 001A21:BetterShipPartFlips.esp
+- 001A22:BetterShipPartFlips.esp
+- 001A23:BetterShipPartFlips.esp
+- 001A24:BetterShipPartFlips.esp
+- 001A25:BetterShipPartFlips.esp
+- 001A26:BetterShipPartFlips.esp
+- 001A27:BetterShipPartFlips.esp
+- 001A28:BetterShipPartFlips.esp
+- 001A29:BetterShipPartFlips.esp
+- 001A2A:BetterShipPartFlips.esp
+- 001A2B:BetterShipPartFlips.esp
+- 001A2C:BetterShipPartFlips.esp
+- 001A2D:BetterShipPartFlips.esp
+- 001A2E:BetterShipPartFlips.esp
+- 001A2F:BetterShipPartFlips.esp
+- 001A30:BetterShipPartFlips.esp
+- 001A31:BetterShipPartFlips.esp
+- 059EFA:Starfield.esm
+- 001A32:BetterShipPartFlips.esp
+- 001A33:BetterShipPartFlips.esp
+ANAM: Null

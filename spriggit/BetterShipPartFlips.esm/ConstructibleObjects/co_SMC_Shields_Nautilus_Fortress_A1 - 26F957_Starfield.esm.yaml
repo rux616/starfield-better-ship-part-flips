@@ -1,0 +1,30 @@
+FormKey: 26F957:Starfield.esm
+EditorID: co_SMC_Shields_Nautilus_Fortress_A1
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Spaceship Shield Modules help protect your ship from incoming damage.
+WorkbenchKeyword: 29C480:Starfield.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: HasKeywordConditionData
+    FirstParameter: 1453AD:Starfield.esm
+  ComparisonValue: 1
+- MutagenObjectType: ConditionFloat
+  CompareOperator: GreaterThanOrEqualTo
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: GetLevelConditionData
+    RunOnType: Reference
+    Reference: 000014:Starfield.esm
+  ComparisonValue: 17
+CreatedObject: 005460:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 44
+LearnMethod: DefaultOrConditions
+Value: 25800
+Categories:
+- 29C476:Starfield.esm
+RECF: 0

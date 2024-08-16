@@ -1,0 +1,28 @@
+FormKey: 001273:BetterShipPartFlips.esm
+EditorID: SMS_Struct_Nova_CowlLong_PortTop
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 4
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 60
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 12
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 001274:BetterShipPartFlips.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462C2:Starfield.esm
+  - 27BABF:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Nova Cowling 2L-TA - Port Top
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

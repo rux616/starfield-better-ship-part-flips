@@ -1,0 +1,18 @@
+FormKey: 000802:BSPF-ShipColorize-Patch.esm
+EditorID: Star_Struct_Cargo_Container_C_01_DarkGrey
+FormVersion: 559
+ObjectBounds:
+  First: -1.5908203, -3.9882812, -3.7520182
+  Second: 1.5908203, 3.9882812, 3.8359375
+ODTY: 0
+Model:
+  File: BetterShipPartFlips\BSPF-ShipColorize-Patch\Star_Struct_Cargo_Container_C_01_DarkGrey.nif
+  MaterialSwaps:
+  - 0FFAF6:Starfield.esm
+  - 0B6B27:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

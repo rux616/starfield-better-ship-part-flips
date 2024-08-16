@@ -1,0 +1,14 @@
+FormKey: 001DD3:BetterShipPartFlips.esp
+EditorID: SMSSet_Decorative_FuelTank_Ballistic_800T-B
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Decorative Ballistic 800T-B Set
+Items:
+- 001D43:BetterShipPartFlips.esp
+- 001D44:BetterShipPartFlips.esp
+- 001D45:BetterShipPartFlips.esp
+- 001D46:BetterShipPartFlips.esp
+- 001D47:BetterShipPartFlips.esp
+- 001D48:BetterShipPartFlips.esp
+ANAM: Null

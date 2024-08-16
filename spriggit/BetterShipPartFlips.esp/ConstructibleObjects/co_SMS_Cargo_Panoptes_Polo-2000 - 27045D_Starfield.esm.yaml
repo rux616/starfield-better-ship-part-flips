@@ -1,0 +1,33 @@
+FormKey: 27045D:Starfield.esm
+EditorID: co_SMS_Cargo_Panoptes_Polo-2000
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Spaceship Cargo Modules increase your ship's inventory space.
+WorkbenchKeyword: 29C480:Starfield.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: HasKeywordConditionData
+    FirstParameter: 1453A0:Starfield.esm
+  ComparisonValue: 1
+- MutagenObjectType: ConditionFloat
+  CompareOperator: GreaterThanOrEqualTo
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: GetLevelConditionData
+    RunOnType: Reference
+    Reference: 000014:Starfield.esm
+  ComparisonValue: 18
+RequiredPerks:
+- Perk: 2C59DC:Starfield.esm
+  Rank: 1
+CreatedObject: 004389:BetterShipPartFlips.esp
+AmountProduced: 1
+MenuSortOrder: 8.905226
+LearnMethod: DefaultOrConditions
+Value: 2550
+Categories:
+- 2C155D:Starfield.esm
+RECF: 0

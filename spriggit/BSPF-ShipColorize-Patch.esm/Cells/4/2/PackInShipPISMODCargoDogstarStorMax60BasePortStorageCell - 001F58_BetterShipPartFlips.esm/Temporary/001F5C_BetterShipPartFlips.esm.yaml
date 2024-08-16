@@ -1,0 +1,5 @@
+MutagenObjectType: PlacedObject
+FormKey: 001F5C:BetterShipPartFlips.esm
+FormVersion: 559
+Base: 000802:BSPF-ShipColorize-Patch.esm
+Rotation: 3.1415927, -1.5707964, 3.1415927

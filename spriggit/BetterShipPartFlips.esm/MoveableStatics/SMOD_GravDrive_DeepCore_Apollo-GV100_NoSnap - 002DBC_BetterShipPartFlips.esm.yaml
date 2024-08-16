@@ -1,0 +1,20 @@
+FormKey: 002DBC:BetterShipPartFlips.esm
+EditorID: SMOD_GravDrive_DeepCore_Apollo-GV100_NoSnap
+FormVersion: 559
+ObjectBounds:
+  First: -4, -4, -3.1816406
+  Second: 4, 4, 3.1816406
+ODTY: 0
+Model:
+  File: Ships\Modules\Grav\SMOD\SMOD_Grav_Deep_Apollo-GV100.nif
+  MaterialSwaps:
+  - 03EF6F:Starfield.esm
+  - 08DEE8:Starfield.esm
+  - 29AF8B:Starfield.esm
+  - 2F259D:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

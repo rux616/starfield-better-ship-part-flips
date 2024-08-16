@@ -1,0 +1,15 @@
+FormKey: 003FD8:BetterShipPartFlips.esp
+EditorID: co_SMS_Decorative_GravDrive_Nova_NG3xx
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Decorative ship modules allow you to add modules that mimic the look of other types of modules but without the functionality or restrictions that come with them.
+WorkbenchKeyword: 29C480:Starfield.esm
+CreatedObject: 003FD9:BetterShipPartFlips.esp
+AmountProduced: 1
+MenuSortOrder: 10
+LearnMethod: DefaultOrConditions
+Value: 1000
+Categories:
+- 000803:ShipBuilderCategories.esm
+RECF: 0

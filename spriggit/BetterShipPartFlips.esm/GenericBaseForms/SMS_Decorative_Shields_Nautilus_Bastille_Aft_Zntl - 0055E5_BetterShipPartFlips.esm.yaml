@@ -1,0 +1,28 @@
+FormKey: 0055E5:BetterShipPartFlips.esm
+EditorID: SMS_Decorative_Shields_Nautilus_Bastille_Aft_Zntl
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 3
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 50
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 00527A:BetterShipPartFlips.esm
+- MutagenObjectType: DestructibleObjectComponent
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 27BAC5:Starfield.esm
+  - 1462CB:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: 'Decorative: Nautilus Bastille'
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

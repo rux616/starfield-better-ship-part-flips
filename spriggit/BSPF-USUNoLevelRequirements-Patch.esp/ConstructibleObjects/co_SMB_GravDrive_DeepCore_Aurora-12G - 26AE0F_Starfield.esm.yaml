@@ -1,0 +1,33 @@
+FormKey: 26AE0F:Starfield.esm
+EditorID: co_SMB_GravDrive_DeepCore_Aurora-12G
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: A Graviton Loop Array, or Grav Drive, allows your ship to jump to other star systems. Upgrade to increase your jump range.
+WorkbenchKeyword: 29C480:Starfield.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: HasKeywordConditionData
+    FirstParameter: 14539E:Starfield.esm
+  ComparisonValue: 1
+- MutagenObjectType: ConditionFloat
+  CompareOperator: GreaterThanOrEqualTo
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: GetLevelConditionData
+    RunOnType: Reference
+    Reference: 000014:Starfield.esm
+  ComparisonValue: 1
+RequiredPerks:
+- Perk: 2C59DC:Starfield.esm
+  Rank: 1
+CreatedObject: 002E90:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 7
+LearnMethod: DefaultOrConditions
+Value: 18100
+Categories:
+- 29C474:Starfield.esm
+RECF: 0

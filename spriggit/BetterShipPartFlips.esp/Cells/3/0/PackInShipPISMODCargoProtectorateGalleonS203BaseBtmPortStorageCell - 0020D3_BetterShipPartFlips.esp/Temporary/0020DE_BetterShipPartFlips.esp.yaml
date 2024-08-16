@@ -1,0 +1,7 @@
+MutagenObjectType: PlacedObject
+FormKey: 0020DE:BetterShipPartFlips.esp
+FormVersion: 559
+Base: 1F5648:Starfield.esm
+ConstrainedDecal: 3.4500017, 2.8454995, 5.6771803
+Position: 1.422019, -4.111476, -0.16068102
+Rotation: 1.5707964, -0, 3.1415927

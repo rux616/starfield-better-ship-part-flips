@@ -1,0 +1,19 @@
+MutagenObjectType: PlacedObject
+FormKey: 00364E:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 256
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x100
+Components:
+- MutagenObjectType: ContactShadowComponent
+  Items:
+  - Unknown1: 0.009
+    Unknown2: 3
+    Unknown3: 10
+    Unknown4: 0.2
+    Unknown5: 0.06
+Base: 0B6A20:Starfield.esm
+Radius: -1.354927
+Lighting:
+  Fade1PlusMinus: 0.3
+Position: 0.80460787, 1.6113042, 1.759144

@@ -1,0 +1,26 @@
+FormKey: 005623:BetterShipPartFlips.esp
+EditorID: SMS_Decorative_Shields_Protectorate_Osiris_Stbd
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 3
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 00547B:BetterShipPartFlips.esp
+- MutagenObjectType: DestructibleObjectComponent
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462CC:Starfield.esm
+  - 27BAC2:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: 'Decorative: Protectorate Osiris'
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

@@ -1,0 +1,12 @@
+FormKey: 001E7F:BetterShipPartFlips.esm
+EditorID: SMSSet_Decorative_Weapon_Particle_LightScythe_C_Turret
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Decorative Light Scythe PRT-C Turret Set
+Items:
+- 001E70:BetterShipPartFlips.esm
+- 001E71:BetterShipPartFlips.esm
+- 001E72:BetterShipPartFlips.esm
+- 001E73:BetterShipPartFlips.esm
+ANAM: Null

@@ -1,0 +1,18 @@
+FormKey: 004271:BetterShipPartFlips.esp
+EditorID: SMOD_Reactor_DeepCore_DC301-FastIgnition_NoSnap
+FormVersion: 559
+ObjectBounds:
+  First: -4, -4, -1.75
+  Second: 4, 4, 1.75
+ODTY: 0
+Model:
+  File: Ships\Modules\Reactor\SMOD\SMOD_Reactor_Deep_DC301-FastIgnition.nif
+  MaterialSwaps:
+  - 0B6B0B:Starfield.esm
+  - 29D8A4:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 207960:Starfield.esm
+- 1BB401:Starfield.esm
+DATA: 4

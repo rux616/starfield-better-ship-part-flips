@@ -1,0 +1,19 @@
+FormKey: 00431A:BetterShipPartFlips.esp
+EditorID: SMOD_Reactor_Xiang_Pinch-5Z_NoSnap
+FormVersion: 559
+ObjectBounds:
+  First: -4, -3.453125, -3.4238281
+  Second: 4, 4, 3.4238281
+ODTY: 0
+Model:
+  File: Ships\Modules\Reactor\SMOD\SMOD_Reactor_Xiang_Pinch-5Z.nif
+  MaterialSwaps:
+  - 08DF67:Starfield.esm
+  - 2F2599:Starfield.esm
+  - 02FC1B:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 207960:Starfield.esm
+- 1BB401:Starfield.esm
+DATA: 4

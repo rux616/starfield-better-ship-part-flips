@@ -1,0 +1,19 @@
+FormKey: 00436B:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Reactor_AmunDunn_330T-Stellarator_Btm_Aft
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -3.999999, -3.8613296, -1.7519522
+  Second: 3.999999, 4.0000014, 1.749999
+ODTY: 0
+Transforms:
+  Ship: 15E828:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Reactors\AmunDunn\'
+Cell: 00436C:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

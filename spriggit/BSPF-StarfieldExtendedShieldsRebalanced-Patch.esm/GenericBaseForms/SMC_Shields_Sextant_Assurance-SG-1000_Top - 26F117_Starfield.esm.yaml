@@ -1,0 +1,51 @@
+FormKey: 26F117:Starfield.esm
+EditorID: SMC_Shields_Sextant_Assurance-SG-1000_Top
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+  Slots:
+  - 24A05E:Starfield.esm
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 24A05F:Starfield.esm
+    Value: 2920
+  - ActorValue: 01ECCD:Starfield.esm
+    Value: 7
+  - ActorValue: 01158A:Starfield.esm
+    Value: 1
+  - ActorValue: 1EE8C9:Starfield.esm
+    Value: 508
+  - ActorValue: 05C74B:Starfield.esm
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 90
+  - ActorValue: 05BFA8:Starfield.esm
+    Value: 2920
+  - ActorValue: 05BFA7:Starfield.esm
+    Value: 0.05
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 5
+  - ActorValue: 0090A9:Starfield.esm
+    Value: 0.15
+  - ActorValue: 1EF0CC:Starfield.esm
+    Value: 508
+  - ActorValue: 019080:Starfield.esm
+    Value: 0.5
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 17ABE0:Starfield.esm
+- MutagenObjectType: DestructibleObjectComponent
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 26FE55:Starfield.esm
+  - 1462C5:Starfield.esm
+  - 2BCFDF:Starfield.esm
+  - 27BABF:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Assurance SG-1000 Shield Generator
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

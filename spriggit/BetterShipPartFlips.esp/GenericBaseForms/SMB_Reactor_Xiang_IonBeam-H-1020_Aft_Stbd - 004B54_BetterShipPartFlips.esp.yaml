@@ -1,0 +1,48 @@
+FormKey: 004B54:BetterShipPartFlips.esp
+EditorID: SMB_Reactor_Xiang_IonBeam-H-1020_Aft_Stbd
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 730
+  - ActorValue: 001018:Starfield.esm
+    Value: 24
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 60
+  - ActorValue: 019080:Starfield.esm
+    Value: 2
+  - ActorValue: 01CAC0:Starfield.esm
+    Value: 3
+  - ActorValue: 1EF0CA:Starfield.esm
+    Value: 60
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 60
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 004AC0:BetterShipPartFlips.esp
+- MutagenObjectType: DestructibleObjectComponent
+  Destructible:
+    Data:
+      Health: 1
+      DESTCount: 1
+    Stages:
+    - Explosion: 2BCE4D:Starfield.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 00D580:Starfield.esm
+  - 1462CE:Starfield.esm
+  - 26FE56:Starfield.esm
+  - 27BAC2:Starfield.esm
+  - 2BCFCF:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Ion Beam H-1020 Reactor - Aft Stbd
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component
+- Spaceship_InstanceData

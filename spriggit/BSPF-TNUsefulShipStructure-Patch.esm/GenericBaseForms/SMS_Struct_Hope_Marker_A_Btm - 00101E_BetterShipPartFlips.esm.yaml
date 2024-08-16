@@ -1,0 +1,26 @@
+FormKey: 00101E:BetterShipPartFlips.esm
+EditorID: SMS_Struct_Hope_Marker_A_Btm
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 1
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 2
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 00101F:BetterShipPartFlips.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462C1:Starfield.esm
+  - 27BABE:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: HopeTech Marker A - Bottom
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

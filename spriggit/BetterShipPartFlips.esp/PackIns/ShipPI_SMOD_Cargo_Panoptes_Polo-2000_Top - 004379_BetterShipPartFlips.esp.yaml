@@ -1,0 +1,14 @@
+FormKey: 004379:BetterShipPartFlips.esp
+EditorID: ShipPI_SMOD_Cargo_Panoptes_Polo-2000_Top
+FormVersion: 559
+ObjectBounds:
+  First: -4.007813, -3.998047, -1.7509749
+  Second: 4.0039067, 4.0000005, 1.7509749
+ODTY: 0
+Transforms:
+  Ship: 050FBE:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Cargo\Panoptes\'
+Cell: 00421A:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

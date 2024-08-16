@@ -1,0 +1,19 @@
+FormKey: 0052EE:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Shield_Protectorate_Marduk-1010-A_Fore
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -1.565503, -3.9511714, -1.5444419
+  Second: 1.5704037, 0, 1.5542558
+ODTY: 0
+Transforms:
+  Ship: 050FBE:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Shield\Protectorate\'
+Cell: 0052DD:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

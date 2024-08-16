@@ -1,0 +1,51 @@
+FormKey: 0055A6:BetterShipPartFlips.esm
+EditorID: SMC_Shields_Dogstar_Guardian-102D_Aft
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+  Slots:
+  - 24A05E:Starfield.esm
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 5
+  - ActorValue: 0090A9:Starfield.esm
+    Value: 0.15
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 91
+  - ActorValue: 01158A:Starfield.esm
+    Value: 1
+  - ActorValue: 019080:Starfield.esm
+    Value: 0.5
+  - ActorValue: 01ECCD:Starfield.esm
+    Value: 8
+  - ActorValue: 05BFA7:Starfield.esm
+    Value: 0.05
+  - ActorValue: 05BFA8:Starfield.esm
+    Value: 1275
+  - ActorValue: 05C74B:Starfield.esm
+  - ActorValue: 1EE8C9:Starfield.esm
+    Value: 552
+  - ActorValue: 1EF0CC:Starfield.esm
+    Value: 552
+  - ActorValue: 24A05F:Starfield.esm
+    Value: 1275
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 005481:BetterShipPartFlips.esm
+- MutagenObjectType: DestructibleObjectComponent
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462CD:Starfield.esm
+  - 26FE55:Starfield.esm
+  - 27BABE:Starfield.esm
+  - 2BCFDC:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Guardian 102D Shield Generator
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

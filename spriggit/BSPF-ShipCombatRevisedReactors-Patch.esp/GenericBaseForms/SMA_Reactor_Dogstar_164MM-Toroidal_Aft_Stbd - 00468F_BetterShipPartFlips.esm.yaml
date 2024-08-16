@@ -1,0 +1,48 @@
+FormKey: 00468F:BetterShipPartFlips.esm
+EditorID: SMA_Reactor_Dogstar_164MM-Toroidal_Aft_Stbd
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 760
+  - ActorValue: 001018:Starfield.esm
+    Value: 30
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 42
+  - ActorValue: 019080:Starfield.esm
+    Value: 1
+  - ActorValue: 01CAC0:Starfield.esm
+    Value: 2
+  - ActorValue: 1EF0CA:Starfield.esm
+    Value: 40
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 60
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 004583:BetterShipPartFlips.esm
+- MutagenObjectType: DestructibleObjectComponent
+  Destructible:
+    Data:
+      Health: 1
+      DESTCount: 1
+    Stages:
+    - Explosion: 05B098:Starfield.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 00D580:Starfield.esm
+  - 1462CD:Starfield.esm
+  - 26FE57:Starfield.esm
+  - 27BAC2:Starfield.esm
+  - 2BCFCA:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: 164MM Toroidal Reactor - Aft Stbd
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component
+- Spaceship_InstanceData

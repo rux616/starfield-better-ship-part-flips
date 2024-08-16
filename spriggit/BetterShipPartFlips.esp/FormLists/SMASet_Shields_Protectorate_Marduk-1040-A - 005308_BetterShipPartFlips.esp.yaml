@@ -1,0 +1,14 @@
+FormKey: 005308:BetterShipPartFlips.esp
+EditorID: SMASet_Shields_Protectorate_Marduk-1040-A
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Protectorate Marduk 1040-A Set
+Items:
+- 0052F7:BetterShipPartFlips.esp
+- 0052F8:BetterShipPartFlips.esp
+- 0052F9:BetterShipPartFlips.esp
+- 0052FA:BetterShipPartFlips.esp
+- 0052FB:BetterShipPartFlips.esp
+- 26F134:Starfield.esm
+ANAM: Null

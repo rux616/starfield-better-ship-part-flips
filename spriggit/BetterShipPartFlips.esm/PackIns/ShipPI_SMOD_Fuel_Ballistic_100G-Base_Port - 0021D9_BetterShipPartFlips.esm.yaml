@@ -1,0 +1,16 @@
+FormKey: 0021D9:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Fuel_Ballistic_100G-Base_Port
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ODTY: 0
+Transforms:
+  Ship: 050F9D:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Fuel\Ballistic\'
+Cell: 0021DA:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

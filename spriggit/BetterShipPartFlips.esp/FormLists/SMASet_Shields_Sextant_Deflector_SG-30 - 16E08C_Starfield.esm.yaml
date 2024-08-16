@@ -1,0 +1,32 @@
+FormKey: 16E08C:Starfield.esm
+EditorID: SMASet_Shields_Sextant_Deflector_SG-30
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Sextant Deflector SG-30 Set
+Items:
+- 26F125:Starfield.esm
+- 16E074:Starfield.esm
+- 0053FC:BetterShipPartFlips.esp
+- 0053FD:BetterShipPartFlips.esp
+- 0053FE:BetterShipPartFlips.esp
+- 0053FF:BetterShipPartFlips.esp
+- 005400:BetterShipPartFlips.esp
+- 005401:BetterShipPartFlips.esp
+- 005402:BetterShipPartFlips.esp
+- 005403:BetterShipPartFlips.esp
+- 005404:BetterShipPartFlips.esp
+- 005405:BetterShipPartFlips.esp
+- 005406:BetterShipPartFlips.esp
+- 005407:BetterShipPartFlips.esp
+- 005408:BetterShipPartFlips.esp
+- 005409:BetterShipPartFlips.esp
+- 00540A:BetterShipPartFlips.esp
+- 00540B:BetterShipPartFlips.esp
+- 00540C:BetterShipPartFlips.esp
+- 00540D:BetterShipPartFlips.esp
+- 00540E:BetterShipPartFlips.esp
+- 00540F:BetterShipPartFlips.esp
+- 005410:BetterShipPartFlips.esp
+- 005411:BetterShipPartFlips.esp
+ANAM: Null

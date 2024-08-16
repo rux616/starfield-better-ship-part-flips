@@ -1,0 +1,15 @@
+FormKey: 005651:BetterShipPartFlips.esm
+EditorID: co_SMS_Decorative_Shields_Nautilus_Fortress
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Decorative ship modules allow you to add modules that mimic the look of other types of modules but without the functionality or restrictions that come with them.
+WorkbenchKeyword: 29C480:Starfield.esm
+CreatedObject: 00564C:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 5
+LearnMethod: DefaultOrConditions
+Value: 1000
+Categories:
+- 000806:BSPFNoDecoratives.esm
+RECF: 0

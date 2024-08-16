@@ -1,0 +1,20 @@
+FormKey: 0043EB:BetterShipPartFlips.esp
+EditorID: SMSSet_Cargo_Panoptes_Polo-2030
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Panoptes Polo 2030 Set
+Items:
+- 004402:BetterShipPartFlips.esp
+- 00440A:BetterShipPartFlips.esp
+- 27046E:Starfield.esm
+- 004412:BetterShipPartFlips.esp
+- 00441A:BetterShipPartFlips.esp
+- 00441B:BetterShipPartFlips.esp
+- 004431:BetterShipPartFlips.esp
+- 004435:BetterShipPartFlips.esp
+- 00444B:BetterShipPartFlips.esp
+- 00444F:BetterShipPartFlips.esp
+- 004465:BetterShipPartFlips.esp
+- 004469:BetterShipPartFlips.esp
+ANAM: Null

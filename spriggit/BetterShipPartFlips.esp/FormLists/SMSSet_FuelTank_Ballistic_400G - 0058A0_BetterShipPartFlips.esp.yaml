@@ -1,0 +1,20 @@
+FormKey: 0058A0:BetterShipPartFlips.esp
+EditorID: SMSSet_FuelTank_Ballistic_400G
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Ballistic 400G Set
+Items:
+- 2704A1:Starfield.esm
+- 005897:BetterShipPartFlips.esp
+- 005898:BetterShipPartFlips.esp
+- 005899:BetterShipPartFlips.esp
+- 00589A:BetterShipPartFlips.esp
+- 00589B:BetterShipPartFlips.esp
+- 005895:BetterShipPartFlips.esp
+- 00589C:BetterShipPartFlips.esp
+- 005896:BetterShipPartFlips.esp
+- 00589D:BetterShipPartFlips.esp
+- 00589E:BetterShipPartFlips.esp
+- 00589F:BetterShipPartFlips.esp
+ANAM: Null

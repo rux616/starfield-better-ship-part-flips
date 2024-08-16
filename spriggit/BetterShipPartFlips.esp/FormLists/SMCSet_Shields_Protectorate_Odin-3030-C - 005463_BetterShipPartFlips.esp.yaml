@@ -1,0 +1,14 @@
+FormKey: 005463:BetterShipPartFlips.esp
+EditorID: SMCSet_Shields_Protectorate_Odin-3030-C
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Protectorate Odin 3030-C Set
+Items:
+- 005566:BetterShipPartFlips.esp
+- 005567:BetterShipPartFlips.esp
+- 005568:BetterShipPartFlips.esp
+- 005569:BetterShipPartFlips.esp
+- 00556A:BetterShipPartFlips.esp
+- 26F12F:Starfield.esm
+ANAM: Null

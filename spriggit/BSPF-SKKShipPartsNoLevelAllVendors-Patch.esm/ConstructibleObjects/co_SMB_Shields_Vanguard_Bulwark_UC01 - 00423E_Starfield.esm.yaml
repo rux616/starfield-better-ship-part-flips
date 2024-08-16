@@ -1,0 +1,15 @@
+FormKey: 00423E:Starfield.esm
+EditorID: co_SMB_Shields_Vanguard_Bulwark_UC01
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Spaceship Shield Modules help protect your ship from incoming damage.
+WorkbenchKeyword: 29C480:Starfield.esm
+CreatedObject: 005458:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 31.5
+LearnMethod: DefaultOrConditions
+Value: 40500
+Categories:
+- 29C476:Starfield.esm
+RECF: 0

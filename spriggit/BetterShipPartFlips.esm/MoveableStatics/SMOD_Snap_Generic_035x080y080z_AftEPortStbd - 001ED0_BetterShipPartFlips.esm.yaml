@@ -1,0 +1,13 @@
+FormKey: 001ED0:BetterShipPartFlips.esm
+EditorID: SMOD_Snap_Generic_035x080y080z_AftEPortStbd
+FormVersion: 559
+ODTY: 0
+SnapTemplate: 001ECF:BetterShipPartFlips.esm
+Model:
+  File: Effects\fxemptynode.nif
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

@@ -1,0 +1,9 @@
+MutagenObjectType: PlacedObject
+FormKey: 002F0F:BetterShipPartFlips.esm
+FormVersion: 559
+Components:
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 140158:Starfield.esm
+Base: 002CD0:BetterShipPartFlips.esm
+Rotation: 1.5707963, 0, 4.712389

@@ -1,0 +1,20 @@
+FormKey: 0013BF:BetterShipPartFlips.esm
+EditorID: SMOD_Struct_Nova_RadiatorSmall_ForePortTop_NIF
+FormVersion: 559
+ObjectBounds:
+  First: -0.3623047, -3.2714844, -1.1494141
+  Second: 4, 3.2988281, 1.6035156
+ODTY: 0
+Components:
+- MutagenObjectType: KeywordFormComponent
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Nova_RadiatorSmall_Port.nif
+  MaterialSwaps:
+  - 1615E1:Starfield.esm
+  - 03EF75:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

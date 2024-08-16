@@ -1,0 +1,53 @@
+FormKey: 165562:Starfield.esm
+EditorID: SMA_Shields_Dogstar_Protector-10S_Port
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+  Slots:
+  - 24A05E:Starfield.esm
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 5
+  - ActorValue: 0090A9:Starfield.esm
+    Value: 0.2
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 23
+  - ActorValue: 01158A:Starfield.esm
+    Value: 1
+  - ActorValue: 019080:Starfield.esm
+    Value: 0.5
+  - ActorValue: 01ECCD:Starfield.esm
+    Value: 3
+  - ActorValue: 05BFA7:Starfield.esm
+    Value: 0.1
+  - ActorValue: 05BFA8:Starfield.esm
+    Value: 465
+  - ActorValue: 05C74B:Starfield.esm
+  - ActorValue: 1EE8C9:Starfield.esm
+    Value: 50
+  - ActorValue: 1EF0CC:Starfield.esm
+    Value: 50
+  - ActorValue: 24A05F:Starfield.esm
+    Value: 465
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 20
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 165550:Starfield.esm
+- MutagenObjectType: DestructibleObjectComponent
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462CD:Starfield.esm
+  - 26FE57:Starfield.esm
+  - 27BABF:Starfield.esm
+  - 2BCFD4:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Protector 10S Shield Generator
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

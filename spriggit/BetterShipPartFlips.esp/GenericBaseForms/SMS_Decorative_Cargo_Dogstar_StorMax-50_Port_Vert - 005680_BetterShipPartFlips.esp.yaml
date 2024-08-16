@@ -1,0 +1,28 @@
+FormKey: 005680:BetterShipPartFlips.esp
+EditorID: SMS_Decorative_Cargo_Dogstar_StorMax-50_Port_Vert
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 5
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 10
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 005100:BetterShipPartFlips.esp
+- MutagenObjectType: DestructibleObjectComponent
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 27BABE:Starfield.esm
+  - 1462CD:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: 'Decorative: Dogstar StorMax 50'
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

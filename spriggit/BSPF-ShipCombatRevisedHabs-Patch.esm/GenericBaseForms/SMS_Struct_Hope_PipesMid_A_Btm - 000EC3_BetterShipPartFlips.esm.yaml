@@ -1,0 +1,28 @@
+FormKey: 000EC3:BetterShipPartFlips.esm
+EditorID: SMS_Struct_Hope_PipesMid_A_Btm
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 4
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 10
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 20
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 000EC4:BetterShipPartFlips.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 27BABE:Starfield.esm
+  - 1462C1:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: HopeTech Pipes A - Mid Bottom
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

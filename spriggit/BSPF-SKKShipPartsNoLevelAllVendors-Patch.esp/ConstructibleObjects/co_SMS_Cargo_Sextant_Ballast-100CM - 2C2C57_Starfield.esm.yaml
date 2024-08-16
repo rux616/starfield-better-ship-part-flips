@@ -1,0 +1,14 @@
+FormKey: 2C2C57:Starfield.esm
+EditorID: co_SMS_Cargo_Sextant_Ballast-100CM
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Spaceship Cargo Modules increase your ship's inventory space.
+WorkbenchKeyword: 29C480:Starfield.esm
+CreatedObject: 0026B2:BetterShipPartFlips.esm
+AmountProduced: 1
+LearnMethod: DefaultOrConditions
+Value: 750
+Categories:
+- 2C155D:Starfield.esm
+RECF: 0

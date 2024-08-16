@@ -1,0 +1,35 @@
+FormKey: 001D0C:BetterShipPartFlips.esm
+EditorID: SMS_Decorative_FuelTank_Ballistic_300G-400G_Stbd
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 5
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 20
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 2258E1:Starfield.esm
+- MutagenObjectType: DestructibleObjectComponent
+  Destructible:
+    Data:
+      Health: 1
+      DESTCount: 1
+    Stages:
+    - Explosion: 054057:Starfield.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 27BABF:Starfield.esm
+  - 1462C7:Starfield.esm
+  - 00D580:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: 'Decorative: Ballistic 300G/400G'
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

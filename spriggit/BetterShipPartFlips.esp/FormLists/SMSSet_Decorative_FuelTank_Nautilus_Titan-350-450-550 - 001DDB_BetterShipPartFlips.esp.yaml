@@ -1,0 +1,20 @@
+FormKey: 001DDB:BetterShipPartFlips.esp
+EditorID: SMSSet_Decorative_FuelTank_Nautilus_Titan-350-450-550
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Decorative Nautilus Titan 350/450/550 Set
+Items:
+- 001DC1:BetterShipPartFlips.esp
+- 001DC2:BetterShipPartFlips.esp
+- 001DC3:BetterShipPartFlips.esp
+- 001DC4:BetterShipPartFlips.esp
+- 001DC5:BetterShipPartFlips.esp
+- 001DC6:BetterShipPartFlips.esp
+- 001DC7:BetterShipPartFlips.esp
+- 001DC8:BetterShipPartFlips.esp
+- 001DC9:BetterShipPartFlips.esp
+- 001DCA:BetterShipPartFlips.esp
+- 001DCB:BetterShipPartFlips.esp
+- 001DCC:BetterShipPartFlips.esp
+ANAM: Null

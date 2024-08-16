@@ -1,0 +1,11 @@
+FormKey: 004087:BetterShipPartFlips.esm
+EditorID: SMSSet_Cargo_Protectorate_Galleon-S204
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Protectorate Galleon S204 Set
+Items:
+- 004085:BetterShipPartFlips.esm
+- 004086:BetterShipPartFlips.esm
+- 270475:Starfield.esm
+ANAM: Null

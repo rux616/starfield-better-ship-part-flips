@@ -1,0 +1,12 @@
+FormKey: 001E77:BetterShipPartFlips.esm
+EditorID: SMSSet_Decorative_Weapon_Laser_LightScythe_D_Turret
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Decorative Light Scythe LSR-D Turret Set
+Items:
+- 001E56:BetterShipPartFlips.esm
+- 001E57:BetterShipPartFlips.esm
+- 001E58:BetterShipPartFlips.esm
+- 001E59:BetterShipPartFlips.esm
+ANAM: Null

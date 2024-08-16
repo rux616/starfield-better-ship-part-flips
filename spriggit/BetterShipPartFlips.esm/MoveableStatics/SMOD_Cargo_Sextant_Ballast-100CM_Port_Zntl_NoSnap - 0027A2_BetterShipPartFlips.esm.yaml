@@ -1,0 +1,16 @@
+FormKey: 0027A2:BetterShipPartFlips.esm
+EditorID: SMOD_Cargo_Sextant_Ballast-100CM_Port_Zntl_NoSnap
+FormVersion: 559
+ODTY: 0
+Model:
+  File: Ships\Modules\SMOD_Cargo_Nova_6EE.nif
+  MaterialSwaps:
+  - 002C6E:Starfield.esm
+  - 0B6B22:Starfield.esm
+  - 1615E3:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

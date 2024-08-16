@@ -1,0 +1,26 @@
+FormKey: 000CB2:BetterShipPartFlips.esm
+EditorID: SMS_Struct_Deimos_Tail_A_Fore
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 5
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 25
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 000CB3:BetterShipPartFlips.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 27BABD:Starfield.esm
+  - 1462C0:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Deimos Tail A - Fore
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

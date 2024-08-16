@@ -1,0 +1,49 @@
+FormKey: 004772:BetterShipPartFlips.esp
+EditorID: SMA_Reactor_Xiang_Tokamak-X-120S_Top_Port
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 480
+  - ActorValue: 001018:Starfield.esm
+    Value: 28
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 30
+  - ActorValue: 019080:Starfield.esm
+    Value: 1
+  - ActorValue: 01CAC0:Starfield.esm
+    Value: 1.5
+  - ActorValue: 1EF0CA:Starfield.esm
+    Value: 30
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 10
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 004739:BetterShipPartFlips.esp
+- MutagenObjectType: DestructibleObjectComponent
+  Destructible:
+    Data:
+      Health: 1
+      DESTCount: 1
+    Stages:
+    - Explosion: 05B098:Starfield.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 00D580:Starfield.esm
+  - 1462CE:Starfield.esm
+  - 26FE57:Starfield.esm
+  - 27BAC5:Starfield.esm
+  - 2BCFCB:Starfield.esm
+  - 242AC3:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Tokamak X-120S Reactor - Top Port
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component
+- Spaceship_InstanceData

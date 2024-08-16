@@ -1,0 +1,20 @@
+FormKey: 001A36:BetterShipPartFlips.esm
+EditorID: SMOD_Fuel_Dogstar_Ulysses-M40_Port_Zntl_NoSnap
+FormVersion: 559
+ObjectBounds:
+  First: -0.0063476562, -4, -3.2402344
+  Second: 4, 4, 3.2285156
+ODTY: 0
+Model:
+  File: Ships\Modules\Fuel\SMOD\SMOD_Fuel_Dogstar_M40-Ulysses_Port.nif
+  MaterialSwaps:
+  - 03EF7B:Starfield.esm
+  - 03EF7C:Starfield.esm
+  - 1615E1:Starfield.esm
+  - 2F25A4:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

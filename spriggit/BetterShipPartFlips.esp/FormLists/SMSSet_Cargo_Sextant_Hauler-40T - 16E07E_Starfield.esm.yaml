@@ -1,0 +1,32 @@
+FormKey: 16E07E:Starfield.esm
+EditorID: SMSSet_Cargo_Sextant_Hauler-40T
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Sextant Hauler 40T Set
+Items:
+- 270479:Starfield.esm
+- 16E06F:Starfield.esm
+- 16E06D:Starfield.esm
+- 16E06E:Starfield.esm
+- 002AD0:BetterShipPartFlips.esp
+- 002AD1:BetterShipPartFlips.esp
+- 002AD2:BetterShipPartFlips.esp
+- 002AD3:BetterShipPartFlips.esp
+- 002AD4:BetterShipPartFlips.esp
+- 002AD5:BetterShipPartFlips.esp
+- 002AD6:BetterShipPartFlips.esp
+- 002AD7:BetterShipPartFlips.esp
+- 002AD8:BetterShipPartFlips.esp
+- 002AD9:BetterShipPartFlips.esp
+- 002ADA:BetterShipPartFlips.esp
+- 002ADB:BetterShipPartFlips.esp
+- 002ADC:BetterShipPartFlips.esp
+- 002ADD:BetterShipPartFlips.esp
+- 002ADE:BetterShipPartFlips.esp
+- 002ADF:BetterShipPartFlips.esp
+- 002AE0:BetterShipPartFlips.esp
+- 002AE1:BetterShipPartFlips.esp
+- 002AE3:BetterShipPartFlips.esp
+- 002AE4:BetterShipPartFlips.esp
+ANAM: Null

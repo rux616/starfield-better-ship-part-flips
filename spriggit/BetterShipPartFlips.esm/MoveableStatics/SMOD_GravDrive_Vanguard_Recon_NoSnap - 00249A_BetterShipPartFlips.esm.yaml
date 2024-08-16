@@ -1,0 +1,20 @@
+FormKey: 00249A:BetterShipPartFlips.esm
+EditorID: SMOD_GravDrive_Vanguard_Recon_NoSnap
+FormVersion: 559
+ObjectBounds:
+  First: -3.3945312, -4.0429688, -1.7783203
+  Second: 3.3945312, 4, 1.7470703
+ODTY: 0
+Model:
+  File: Ships\Modules\Grav\smod\SMOD_Grav_Nova_NG150.nif
+  MaterialSwaps:
+  - 15526B:Starfield.esm
+  - 26A770:Starfield.esm
+  - 15526E:Starfield.esm
+  - 26A771:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

@@ -1,0 +1,15 @@
+FormKey: 26ADD4:Starfield.esm
+EditorID: co_SMB_GravDrive_Slayton_SGD-2100
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: A Graviton Loop Array, or Grav Drive, allows your ship to jump to other star systems. Upgrade to increase your jump range.
+WorkbenchKeyword: 29C480:Starfield.esm
+CreatedObject: 0030D9:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 8.9922
+LearnMethod: DefaultOrConditions
+Value: 12100
+Categories:
+- 29C474:Starfield.esm
+RECF: 0

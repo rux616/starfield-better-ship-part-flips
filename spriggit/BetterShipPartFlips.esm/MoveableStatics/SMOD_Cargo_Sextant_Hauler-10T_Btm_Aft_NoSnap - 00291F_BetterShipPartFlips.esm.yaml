@@ -1,0 +1,15 @@
+FormKey: 00291F:BetterShipPartFlips.esm
+EditorID: SMOD_Cargo_Sextant_Hauler-10T_Btm_Aft_NoSnap
+FormVersion: 559
+ODTY: 0
+Model:
+  File: Ships\Modules\Cargo\SMOD\SMOD_Cargo_Sextant_10T-Hauler.nif
+  MaterialSwaps:
+  - 08DEF4:Starfield.esm
+  - 08DF21:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

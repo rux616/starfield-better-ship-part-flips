@@ -7,13 +7,14 @@ ModHeader:
   Flags:
   - Master
   FormVersion: 559
-  Author: freschu and rux616
+  Author: freschu/rux616
   Description: >-
     Additional flips of vanilla parts that seemed missing. Mostly conforms to vanilla ship builder grid.
 
 
-    Version: 1.0.0
+    Version: 1.1.0
   MasterReferences:
   - Master: Starfield.esm
+  - Master: ShipBuilderCategories.esm
   BNAM: 0x4D61696E00
-  INCC: 260
+  INCC: 1779

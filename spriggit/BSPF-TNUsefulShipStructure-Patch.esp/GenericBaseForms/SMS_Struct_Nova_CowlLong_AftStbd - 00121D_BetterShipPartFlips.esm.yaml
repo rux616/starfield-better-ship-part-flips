@@ -1,0 +1,28 @@
+FormKey: 00121D:BetterShipPartFlips.esm
+EditorID: SMS_Struct_Nova_CowlLong_AftStbd
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 8
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 40
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 12
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 00121E:BetterShipPartFlips.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462C2:Starfield.esm
+  - 27BAC2:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Nova Cowling 2L-SF - Aft Starboard
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

@@ -1,0 +1,19 @@
+FormKey: 004BF8:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Reactor_AmunDunn_ThetaPinch-A9_Stbd_Btm
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -3.529297, -3.9999998, -3.9999998
+  Second: 3.529297, 3.9999998, 3.9999998
+ODTY: 0
+Transforms:
+  Ship: 15E824:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Reactors\AmunDunn\'
+Cell: 004BF9:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

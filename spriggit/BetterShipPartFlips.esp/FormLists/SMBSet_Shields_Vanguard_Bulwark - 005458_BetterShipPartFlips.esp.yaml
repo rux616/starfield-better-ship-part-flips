@@ -1,0 +1,14 @@
+FormKey: 005458:BetterShipPartFlips.esp
+EditorID: SMBSet_Shields_Vanguard_Bulwark
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Vanguard Bulwark Set
+Items:
+- 00557A:BetterShipPartFlips.esp
+- 00557B:BetterShipPartFlips.esp
+- 00557C:BetterShipPartFlips.esp
+- 00557D:BetterShipPartFlips.esp
+- 00557E:BetterShipPartFlips.esp
+- 004246:Starfield.esm
+ANAM: Null

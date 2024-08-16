@@ -1,0 +1,28 @@
+FormKey: 001523:BetterShipPartFlips.esm
+EditorID: SMS_Struct_Stroud_Cap_AZ90_PortForeTop
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 6
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 40
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 20
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 001524:BetterShipPartFlips.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 27BAC4:Starfield.esm
+  - 1462BD:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Stroud Cap AZ90 - Port Fore Top
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

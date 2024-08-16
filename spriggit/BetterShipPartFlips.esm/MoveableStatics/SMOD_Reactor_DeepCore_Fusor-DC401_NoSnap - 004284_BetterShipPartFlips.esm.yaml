@@ -1,0 +1,19 @@
+FormKey: 004284:BetterShipPartFlips.esm
+EditorID: SMOD_Reactor_DeepCore_Fusor-DC401_NoSnap
+FormVersion: 559
+ObjectBounds:
+  First: -4.171875, -4, -3.5
+  Second: 4.1679688, 4, 3.5
+ODTY: 0
+Model:
+  File: Ships\Modules\Reactor\SMOD\SMOD_Reactor_Deep_Fusor-DC401.nif
+  MaterialSwaps:
+  - 29D8A4:Starfield.esm
+  - 0B6B0B:Starfield.esm
+  - 0B6B0C:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 207960:Starfield.esm
+- 1BB401:Starfield.esm
+DATA: 4

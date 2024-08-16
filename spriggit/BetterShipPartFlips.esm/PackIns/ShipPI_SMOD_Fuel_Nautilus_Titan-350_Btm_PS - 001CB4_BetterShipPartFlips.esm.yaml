@@ -1,0 +1,14 @@
+FormKey: 001CB4:BetterShipPartFlips.esm
+EditorID: ShipPI_SMOD_Fuel_Nautilus_Titan-350_Btm_PS
+FormVersion: 559
+ObjectBounds:
+  First: -3.8105469, -1.7011719, -3.8105466
+  Second: 3.810547, 1.7011721, 0.0002438121
+ODTY: 0
+Transforms:
+  Ship: 050FBE:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Fuel\Nautilus\'
+Cell: 001CB5:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

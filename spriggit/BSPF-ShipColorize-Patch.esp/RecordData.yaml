@@ -1,0 +1,19 @@
+SpriggitSource:
+  PackageName: Spriggit.Yaml.Starfield
+  Version: 0.25.0
+ModKey: BSPF-ShipColorize-Patch.esp
+GameRelease: Starfield
+ModHeader:
+  FormVersion: 559
+  Author: rux616
+  Description: >-
+    Compatibility patch between the "Better Ship Part Flips" mod by freschu/rux616 and the "Ship Colorize" mod by DerekM17x.
+
+
+    Version: 1.1.0
+  MasterReferences:
+  - Master: Starfield.esm
+  - Master: ShipBuilderCategories.esm
+  - Master: ShipColorize.esm
+  - Master: BetterShipPartFlips.esm
+  BNAM: 0x4D61696E00

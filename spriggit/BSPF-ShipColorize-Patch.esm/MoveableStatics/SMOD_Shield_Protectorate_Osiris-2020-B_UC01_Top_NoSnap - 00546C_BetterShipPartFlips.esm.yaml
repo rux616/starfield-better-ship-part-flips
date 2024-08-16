@@ -1,0 +1,15 @@
+FormKey: 00546C:BetterShipPartFlips.esm
+EditorID: SMOD_Shield_Protectorate_Osiris-2020-B_UC01_Top_NoSnap
+FormVersion: 559
+ODTY: 0
+Model:
+  File: Ships\Modules\Shield\SMOD\SMOD_Shield_Protectorate_Osiris-2020-B.nif
+  MaterialSwaps:
+  - 0B6B0C:Starfield.esm
+  - 1615E1:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

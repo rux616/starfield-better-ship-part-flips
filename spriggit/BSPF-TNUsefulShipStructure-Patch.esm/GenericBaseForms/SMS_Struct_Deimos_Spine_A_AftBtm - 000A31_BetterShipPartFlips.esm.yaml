@@ -1,0 +1,28 @@
+FormKey: 000A31:BetterShipPartFlips.esm
+EditorID: SMS_Struct_Deimos_Spine_A_AftBtm
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 2
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 10
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 8
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 000A32:BetterShipPartFlips.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 27BABC:Starfield.esm
+  - 1462C0:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Deimos Spine A - Aft Bottom
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

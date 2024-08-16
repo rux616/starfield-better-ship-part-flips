@@ -1,0 +1,32 @@
+FormKey: 004E3A:BetterShipPartFlips.esp
+EditorID: SMCSet_Reactor_Dogstar_SF10-ShearedFlow
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Dogstar SF10 Sheared Flow Set
+Items:
+- 004D54:BetterShipPartFlips.esp
+- 004D5B:BetterShipPartFlips.esp
+- 004D62:BetterShipPartFlips.esp
+- 004D69:BetterShipPartFlips.esp
+- 004D70:BetterShipPartFlips.esp
+- 004D77:BetterShipPartFlips.esp
+- 004D7E:BetterShipPartFlips.esp
+- 004D85:BetterShipPartFlips.esp
+- 004D8C:BetterShipPartFlips.esp
+- 004D93:BetterShipPartFlips.esp
+- 004D9A:BetterShipPartFlips.esp
+- 004DA1:BetterShipPartFlips.esp
+- 004DA8:BetterShipPartFlips.esp
+- 004DAF:BetterShipPartFlips.esp
+- 004DB6:BetterShipPartFlips.esp
+- 004DBD:BetterShipPartFlips.esp
+- 004DC4:BetterShipPartFlips.esp
+- 004DCB:BetterShipPartFlips.esp
+- 004DD2:BetterShipPartFlips.esp
+- 004DD9:BetterShipPartFlips.esp
+- 26FD0C:Starfield.esm
+- 004DE0:BetterShipPartFlips.esp
+- 004DE7:BetterShipPartFlips.esp
+- 004DEE:BetterShipPartFlips.esp
+ANAM: Null

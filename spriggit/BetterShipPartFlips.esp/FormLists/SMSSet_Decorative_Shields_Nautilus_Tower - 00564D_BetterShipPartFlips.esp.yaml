@@ -1,0 +1,14 @@
+FormKey: 00564D:BetterShipPartFlips.esp
+EditorID: SMSSet_Decorative_Shields_Nautilus_Tower
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Decorative Nautilus Tower Set
+Items:
+- 005619:BetterShipPartFlips.esp
+- 00561A:BetterShipPartFlips.esp
+- 00561B:BetterShipPartFlips.esp
+- 00561C:BetterShipPartFlips.esp
+- 00561D:BetterShipPartFlips.esp
+- 00561E:BetterShipPartFlips.esp
+ANAM: Null

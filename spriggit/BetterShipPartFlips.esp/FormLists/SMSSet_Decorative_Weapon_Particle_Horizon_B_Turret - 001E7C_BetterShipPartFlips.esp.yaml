@@ -1,0 +1,12 @@
+FormKey: 001E7C:BetterShipPartFlips.esp
+EditorID: SMSSet_Decorative_Weapon_Particle_Horizon_B_Turret
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Decorative Horizon PRT-B Turret Set
+Items:
+- 001E38:BetterShipPartFlips.esp
+- 001E39:BetterShipPartFlips.esp
+- 001E3A:BetterShipPartFlips.esp
+- 001E3B:BetterShipPartFlips.esp
+ANAM: Null

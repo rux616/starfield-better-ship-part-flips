@@ -1,0 +1,14 @@
+FormKey: 005461:BetterShipPartFlips.esm
+EditorID: SMCSet_Shields_Nautilus_Fortress-A2
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Nautilus Fortress A2 Set
+Items:
+- 0055B2:BetterShipPartFlips.esm
+- 0055B3:BetterShipPartFlips.esm
+- 0055B4:BetterShipPartFlips.esm
+- 0055B5:BetterShipPartFlips.esm
+- 0055B6:BetterShipPartFlips.esm
+- 26F965:Starfield.esm
+ANAM: Null

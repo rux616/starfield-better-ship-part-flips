@@ -1,0 +1,4 @@
+MutagenObjectType: PlacedObject
+FormKey: 0008AA:BSPF-ShipColorize-Patch.esp
+FormVersion: 559
+Base: 0024E6:BetterShipPartFlips.esm

@@ -1,0 +1,15 @@
+FormKey: 001DE8:BetterShipPartFlips.esm
+EditorID: co_SMS_Decorative_FuelTank_Dogstar_Atlas-H30
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Decorative ship modules allow you to add modules that mimic the look of other types of modules but without the functionality or restrictions that come with them.
+WorkbenchKeyword: 29C480:Starfield.esm
+CreatedObject: 001DD6:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 9
+LearnMethod: DefaultOrConditions
+Value: 1000
+Categories:
+- 000802:ShipBuilderCategories.esm
+RECF: 0

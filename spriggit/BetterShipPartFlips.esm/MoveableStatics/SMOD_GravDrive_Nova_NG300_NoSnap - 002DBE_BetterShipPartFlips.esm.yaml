@@ -1,0 +1,17 @@
+FormKey: 002DBE:BetterShipPartFlips.esm
+EditorID: SMOD_GravDrive_Nova_NG300_NoSnap
+FormVersion: 559
+ObjectBounds:
+  First: -3.9160156, -4, -3.5
+  Second: 3.9160156, 4, 3.5
+ODTY: 0
+Model:
+  File: Ships\Modules\Grav\SMOD\SMOD_Grav_Nova_NG300.nif
+  MaterialSwaps:
+  - 2F259D:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

@@ -1,0 +1,20 @@
+FormKey: 2258C9:Starfield.esm
+EditorID: SMSSet_FuelTank_Nautilus_Titan-350
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Nautilus Titan 350 Set
+Items:
+- 2258C7:Starfield.esm
+- 27049C:Starfield.esm
+- 001C9E:BetterShipPartFlips.esp
+- 001CA5:BetterShipPartFlips.esp
+- 001CAC:BetterShipPartFlips.esp
+- 001CB3:BetterShipPartFlips.esp
+- 001CBA:BetterShipPartFlips.esp
+- 001CC1:BetterShipPartFlips.esp
+- 001CC8:BetterShipPartFlips.esp
+- 001CCF:BetterShipPartFlips.esp
+- 001CD6:BetterShipPartFlips.esp
+- 001CDD:BetterShipPartFlips.esp
+ANAM: Null

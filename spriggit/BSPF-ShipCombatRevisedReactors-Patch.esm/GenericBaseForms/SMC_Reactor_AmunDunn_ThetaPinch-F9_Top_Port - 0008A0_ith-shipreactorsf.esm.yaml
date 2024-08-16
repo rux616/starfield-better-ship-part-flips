@@ -1,0 +1,48 @@
+FormKey: 0008A0:ith-shipreactorsf.esm
+EditorID: SMC_Reactor_AmunDunn_ThetaPinch-F9_Top_Port
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 1455
+  - ActorValue: 001018:Starfield.esm
+    Value: 40
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 135
+  - ActorValue: 019080:Starfield.esm
+    Value: 3
+  - ActorValue: 01CAC0:Starfield.esm
+    Value: 6.69
+  - ActorValue: 1EF0CA:Starfield.esm
+    Value: 135
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 10
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 004C14:BetterShipPartFlips.esm
+- MutagenObjectType: DestructibleObjectComponent
+  Destructible:
+    Data:
+      Health: 1
+      DESTCount: 1
+    Stages:
+    - Explosion: 2BCE4F:Starfield.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 00D580:Starfield.esm
+  - 1462D0:Starfield.esm
+  - 26FE55:Starfield.esm
+  - 27BAC5:Starfield.esm
+  - 2BCFD0:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Theta Pinch F9 Reactor - Top Port
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component
+- Spaceship_InstanceData

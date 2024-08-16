@@ -1,0 +1,11 @@
+FormKey: 00578D:BetterShipPartFlips.esp
+EditorID: SMSSet_Decorative_Cargo_Protectorate_Galleon-S204
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Decorative Protectorate Galleon S204 Set
+Items:
+- 005721:BetterShipPartFlips.esp
+- 005722:BetterShipPartFlips.esp
+- 005723:BetterShipPartFlips.esp
+ANAM: Null

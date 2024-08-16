@@ -1,0 +1,22 @@
+SpriggitSource:
+  PackageName: Spriggit.Yaml.Starfield
+  Version: 0.25.0
+ModKey: BSPF-USU-Patch.esm
+GameRelease: Starfield
+ModHeader:
+  Flags:
+  - Master
+  FormVersion: 559
+  Author: rux616
+  Description: >-
+    Compatibility patch between "Better Ship Part Flips" mod by freschu/rux616 and the "All In One" plugin from the "Ultimate Shipyards Unlocked" [All In One] mod by JustAnOrdinaryGuy.
+
+
+    Version: 1.1.0
+  MasterReferences:
+  - Master: Starfield.esm
+  - Master: ShipBuilderCategories.esm
+  - Master: USU.esm
+  - Master: BetterShipPartFlips.esm
+  BNAM: 0x4D61696E00
+  INCC: 0

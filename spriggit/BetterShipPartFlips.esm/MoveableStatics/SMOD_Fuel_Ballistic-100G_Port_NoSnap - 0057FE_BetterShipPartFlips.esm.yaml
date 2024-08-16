@@ -1,0 +1,16 @@
+FormKey: 0057FE:BetterShipPartFlips.esm
+EditorID: SMOD_Fuel_Ballistic-100G_Port_NoSnap
+FormVersion: 559
+ODTY: 0
+Model:
+  File: Ships\Modules\Fuel\SMOD\SMOD_Fuel_Ballistic_100G_Port.nif
+  MaterialSwaps:
+  - 0270C6:Starfield.esm
+  - 0270C7:Starfield.esm
+  - 1615E3:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

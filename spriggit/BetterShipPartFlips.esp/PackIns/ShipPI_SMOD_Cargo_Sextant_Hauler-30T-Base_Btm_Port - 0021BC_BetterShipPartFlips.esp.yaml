@@ -1,0 +1,11 @@
+FormKey: 0021BC:BetterShipPartFlips.esp
+EditorID: ShipPI_SMOD_Cargo_Sextant_Hauler-30T-Base_Btm_Port
+FormVersion: 559
+ODTY: 0
+Transforms:
+  Ship: 050FC1:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Cargo\Sextant\'
+Cell: 0021BD:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

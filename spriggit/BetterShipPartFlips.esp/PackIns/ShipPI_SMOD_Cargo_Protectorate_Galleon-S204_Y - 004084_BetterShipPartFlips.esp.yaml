@@ -1,0 +1,14 @@
+FormKey: 004084:BetterShipPartFlips.esp
+EditorID: ShipPI_SMOD_Cargo_Protectorate_Galleon-S204_Y
+FormVersion: 559
+ObjectBounds:
+  First: 0, -2.25, -2.25
+  Second: 0, 2.25, 2.25
+ODTY: 0
+Transforms:
+  Ship: 050FBE:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Cargo\Protectorate\'
+Cell: 00407E:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

@@ -1,0 +1,18 @@
+FormKey: 26FE47:Starfield.esm
+EditorID: co_SMA_Reactor_AmunDunn_370T-Stellarator
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Spaceship Reactors provide power to all of your ship's systems.
+WorkbenchKeyword: 29C480:Starfield.esm
+RequiredPerks:
+- Perk: 2C59DC:Starfield.esm
+  Rank: 2
+CreatedObject: 00446A:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 8
+LearnMethod: DefaultOrConditions
+Value: 26300
+Categories:
+- 29C475:Starfield.esm
+RECF: 0

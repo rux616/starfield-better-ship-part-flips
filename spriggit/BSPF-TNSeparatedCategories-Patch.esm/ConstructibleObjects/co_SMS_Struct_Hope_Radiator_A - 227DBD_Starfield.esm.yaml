@@ -1,0 +1,22 @@
+FormKey: 227DBD:Starfield.esm
+EditorID: co_SMS_Struct_Hope_Radiator_A
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Structural components are largely cosmetic, and allow you to modify your ship’s shape, size, personality and silhouette.
+WorkbenchKeyword: 29C480:Starfield.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: HasKeywordConditionData
+    FirstParameter: 1453BD:Starfield.esm
+  ComparisonValue: 1
+CreatedObject: 000E02:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 30
+LearnMethod: DefaultOrConditions
+Value: 4000
+Categories:
+- 29C473:Starfield.esm
+RECF: 0

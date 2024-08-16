@@ -1,0 +1,50 @@
+FormKey: 0026DB:BetterShipPartFlips.esp
+EditorID: SMA_GravDrive_Nova_NG160_Fore_Top
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+  Slots:
+  - 008226:Starfield.esm
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 5
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 26
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 50
+  - ActorValue: 2BFAFD:Starfield.esm
+    Value: 13
+  - ActorValue: 1EF0CB:Starfield.esm
+    Value: 52
+  - ActorValue: 1EF0C1:Starfield.esm
+    Value: 52
+  - ActorValue: 01158B:Starfield.esm
+    Value: 1
+  - ActorValue: 00855E:Starfield.esm
+    Value: 0.5
+  - ActorValue: 00854E:Starfield.esm
+    Value: 1
+  - ActorValue: 008223:Starfield.esm
+    Value: 8
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 002648:BetterShipPartFlips.esp
+- MutagenObjectType: DestructibleObjectComponent
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 26FE57:Starfield.esm
+  - 27BABE:Starfield.esm
+  - 142597:Starfield.esm
+  - 1462C2:Starfield.esm
+  - 2BCFB8:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: NG160 Grav Drive
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component
+- Spaceship_InstanceData

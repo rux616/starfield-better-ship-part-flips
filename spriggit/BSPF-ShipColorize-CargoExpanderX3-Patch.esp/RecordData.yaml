@@ -1,0 +1,21 @@
+SpriggitSource:
+  PackageName: Spriggit.Yaml.Starfield
+  Version: 0.25.0
+ModKey: BSPF-ShipColorize-CargoExpanderX3-Patch.esp
+GameRelease: Starfield
+ModHeader:
+  FormVersion: 559
+  Author: rux616
+  Description: >-
+    Compatibility patch between the "Cargo Expander X3" option of the "Better Ship Part Flips" mod by freschu/rux616 and the "Ship Colorize" compatibility patch of the "Better Ship Part Flips" mod by freschu/rux616.
+
+
+    Version: 1.1.0
+  MasterReferences:
+  - Master: Starfield.esm
+  - Master: ShipBuilderCategories.esm
+  - Master: ShipColorize.esm
+  - Master: BetterShipPartFlips.esm
+  - Master: BSPFCargoExpanderX3.esm
+  - Master: BSPF-ShipColorize-Patch.esm
+  BNAM: 0x4D61696E00

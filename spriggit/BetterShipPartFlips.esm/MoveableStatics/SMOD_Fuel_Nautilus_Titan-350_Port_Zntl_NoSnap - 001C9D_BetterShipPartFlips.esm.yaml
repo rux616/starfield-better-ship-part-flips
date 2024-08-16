@@ -1,0 +1,19 @@
+FormKey: 001C9D:BetterShipPartFlips.esm
+EditorID: SMOD_Fuel_Nautilus_Titan-350_Port_Zntl_NoSnap
+FormVersion: 559
+ObjectBounds:
+  First: -3.8105469, -3.8105469, -1.7011719
+  Second: 0.00024414062, 3.8105469, 1.7011719
+ODTY: 0
+Model:
+  File: Ships\Modules\Fuel\SMOD\SMOD_Fuel_Nautilus_Titan-450_Port.nif
+  MaterialSwaps:
+  - 08DF5B:Starfield.esm
+  - 0B6B0A:Starfield.esm
+  - 27390B:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

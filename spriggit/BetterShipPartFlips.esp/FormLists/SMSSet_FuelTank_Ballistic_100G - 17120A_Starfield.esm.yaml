@@ -1,0 +1,20 @@
+FormKey: 17120A:Starfield.esm
+EditorID: SMSSet_FuelTank_Ballistic_100G
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Ballistic 100G Set
+Items:
+- 2704A4:Starfield.esm
+- 171206:Starfield.esm
+- 00583B:BetterShipPartFlips.esp
+- 00583C:BetterShipPartFlips.esp
+- 00583D:BetterShipPartFlips.esp
+- 00583E:BetterShipPartFlips.esp
+- 00583F:BetterShipPartFlips.esp
+- 005840:BetterShipPartFlips.esp
+- 005841:BetterShipPartFlips.esp
+- 005842:BetterShipPartFlips.esp
+- 00584B:BetterShipPartFlips.esp
+- 00584C:BetterShipPartFlips.esp
+ANAM: Null

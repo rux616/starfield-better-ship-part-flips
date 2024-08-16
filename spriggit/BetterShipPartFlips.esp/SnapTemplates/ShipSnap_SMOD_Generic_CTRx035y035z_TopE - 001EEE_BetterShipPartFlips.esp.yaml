@@ -1,0 +1,17 @@
+FormKey: 001EEE:BetterShipPartFlips.esp
+EditorID: ShipSnap_SMOD_Generic_CTRx035y035z_TopE
+FormVersion: 559
+Nodes:
+- Node: 04AB77:Starfield.esm
+  Offset: 0, 1.75, 1.75
+  Rotation: 270, 0, 0
+- NodeID: 2
+  Node: 04AB77:Starfield.esm
+  Offset: 0, -1.75, 1.75
+  Rotation: 270, 0, 0
+- NodeID: 1
+  Node: 04AB77:Starfield.esm
+  Offset: 0, 0, 1.75
+  Rotation: 270, 0, 0
+NextNodeID: 3
+STPT: 0

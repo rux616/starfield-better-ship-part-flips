@@ -1,0 +1,5 @@
+MutagenObjectType: PlacedObject
+FormKey: 001C1E:BetterShipPartFlips.esp
+FormVersion: 559
+Base: 0022DC:BetterShipPartFlips.esp
+Rotation: 0, 0, 4.712389

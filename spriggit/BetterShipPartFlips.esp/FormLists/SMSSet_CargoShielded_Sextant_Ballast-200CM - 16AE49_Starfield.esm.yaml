@@ -1,0 +1,20 @@
+FormKey: 16AE49:Starfield.esm
+EditorID: SMSSet_CargoShielded_Sextant_Ballast-200CM
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Sextant Ballast 200CM Shielded Set
+Items:
+- 26512E:Starfield.esm
+- 171208:Starfield.esm
+- 001DEC:BetterShipPartFlips.esp
+- 001D17:BetterShipPartFlips.esp
+- 001DF4:BetterShipPartFlips.esp
+- 0020AF:BetterShipPartFlips.esp
+- 0023EA:BetterShipPartFlips.esp
+- 002438:BetterShipPartFlips.esp
+- 002595:BetterShipPartFlips.esp
+- 002596:BetterShipPartFlips.esp
+- 002597:BetterShipPartFlips.esp
+- 002598:BetterShipPartFlips.esp
+ANAM: Null

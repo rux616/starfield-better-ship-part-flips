@@ -1,0 +1,14 @@
+FormKey: 005659:BetterShipPartFlips.esp
+EditorID: SMSSet_Decorative_Shields_Vanguard_Bulwark
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Decorative Vangard Bulwark Set
+Items:
+- 00562B:BetterShipPartFlips.esp
+- 00562C:BetterShipPartFlips.esp
+- 00562D:BetterShipPartFlips.esp
+- 00562E:BetterShipPartFlips.esp
+- 00562F:BetterShipPartFlips.esp
+- 005630:BetterShipPartFlips.esp
+ANAM: Null

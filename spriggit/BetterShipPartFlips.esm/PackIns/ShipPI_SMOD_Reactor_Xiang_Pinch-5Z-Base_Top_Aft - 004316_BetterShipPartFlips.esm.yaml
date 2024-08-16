@@ -1,0 +1,14 @@
+FormKey: 004316:BetterShipPartFlips.esm
+EditorID: ShipPI_SMOD_Reactor_Xiang_Pinch-5Z-Base_Top_Aft
+FormVersion: 559
+ObjectBounds:
+  First: -4, -3.453125, -3.4238281
+  Second: 4, 4, 3.4238281
+ODTY: 0
+Transforms:
+  Ship: 15E824:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Reactors\Xiang\'
+Cell: 004317:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

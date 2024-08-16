@@ -1,0 +1,32 @@
+FormKey: 004D51:BetterShipPartFlips.esp
+EditorID: SMCSet_Reactor_DeepCore_Fusor-DC401
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Deep Core Fusor DC401 Set
+Items:
+- 004C82:BetterShipPartFlips.esp
+- 004C89:BetterShipPartFlips.esp
+- 004C90:BetterShipPartFlips.esp
+- 004C97:BetterShipPartFlips.esp
+- 004C9E:BetterShipPartFlips.esp
+- 004CA5:BetterShipPartFlips.esp
+- 004CAC:BetterShipPartFlips.esp
+- 004CB3:BetterShipPartFlips.esp
+- 004CBA:BetterShipPartFlips.esp
+- 004CC1:BetterShipPartFlips.esp
+- 004CC8:BetterShipPartFlips.esp
+- 004CCF:BetterShipPartFlips.esp
+- 004CD6:BetterShipPartFlips.esp
+- 004CDD:BetterShipPartFlips.esp
+- 004CE4:BetterShipPartFlips.esp
+- 004CEB:BetterShipPartFlips.esp
+- 004CF2:BetterShipPartFlips.esp
+- 004CF9:BetterShipPartFlips.esp
+- 004D00:BetterShipPartFlips.esp
+- 004D07:BetterShipPartFlips.esp
+- 26BAE6:Starfield.esm
+- 004D0E:BetterShipPartFlips.esp
+- 004D15:BetterShipPartFlips.esp
+- 004D1C:BetterShipPartFlips.esp
+ANAM: Null

@@ -1,0 +1,15 @@
+FormKey: 001DDD:BetterShipPartFlips.esm
+EditorID: co_SMS_Decorative_FuelTank_Ballistic_300G-400G
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Decorative ship modules allow you to add modules that mimic the look of other types of modules but without the functionality or restrictions that come with them.
+WorkbenchKeyword: 29C480:Starfield.esm
+CreatedObject: 001DCE:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 2
+LearnMethod: DefaultOrConditions
+Value: 1000
+Categories:
+- 000806:BSPFNoDecoratives.esp
+RECF: 0

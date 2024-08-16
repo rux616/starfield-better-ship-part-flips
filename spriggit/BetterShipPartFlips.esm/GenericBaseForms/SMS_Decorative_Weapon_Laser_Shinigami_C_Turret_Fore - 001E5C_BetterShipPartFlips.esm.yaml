@@ -1,0 +1,28 @@
+FormKey: 001E5C:BetterShipPartFlips.esm
+EditorID: SMS_Decorative_Weapon_Laser_Shinigami_C_Turret_Fore
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 1
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 31A164:Starfield.esm
+- MutagenObjectType: DestructibleObjectComponent
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 0B8537:Starfield.esm
+  - 1462C9:Starfield.esm
+  - 1219CA:Starfield.esm
+  - 27BABF:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: 'Decorative: Shinigami LSR-C Turret'
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

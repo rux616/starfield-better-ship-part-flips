@@ -1,0 +1,55 @@
+FormKey: 001058:BetterShipPartFlips.esm
+EditorID: SMS_Thrust_Hope_Port
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 6
+  - ActorValue: 001885:Starfield.esm
+    Value: 3
+  - ActorValue: 001886:Starfield.esm
+    Value: 2
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 5
+  - ActorValue: 00ACDC:Starfield.esm
+  - ActorValue: 00ACDD:Starfield.esm
+    Value: 0.2
+  - ActorValue: 00ACDE:Starfield.esm
+    Value: 4000
+  - ActorValue: 00ACDF:Starfield.esm
+    Value: 0.2
+  - ActorValue: 011589:Starfield.esm
+    Value: 1
+  - ActorValue: 06A256:Starfield.esm
+    Value: 0.3
+  - ActorValue: 1EF0C2:Starfield.esm
+    Value: 10
+  - ActorValue: 1EF0CD:Starfield.esm
+    Value: 10
+  - ActorValue: 278986:Starfield.esm
+    Value: 180
+  - ActorValue: 278987:Starfield.esm
+    Value: 50
+  - ActorValue: 278988:Starfield.esm
+    Value: 180
+  - ActorValue: 2A9542:Starfield.esm
+  - ActorValue: 2DF170:Starfield.esm
+  - ActorValue: 2DF171:Starfield.esm
+  - ActorValue: 2E6679:Starfield.esm
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 001059:BetterShipPartFlips.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462C1:Starfield.esm
+  - 27BAC5:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: HopeTech Thruster - Port
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

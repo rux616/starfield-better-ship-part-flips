@@ -1,0 +1,21 @@
+FormKey: 002DC1:BetterShipPartFlips.esp
+EditorID: SMOD_GravDrive_Slayton_SGD-2100_NoSnap
+FormVersion: 559
+ObjectBounds:
+  First: -4, -4, -1.75
+  Second: 4, 4, 1.75
+ODTY: 0
+Model:
+  File: Ships\Modules\Grav\SMOD\SMOD_Grav_Slayton_SGD-2100.nif
+  MaterialSwaps:
+  - 03EF79:Starfield.esm
+  - 0B6B16:Starfield.esm
+  - 1615E4:Starfield.esm
+  - 273908:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 0A18F4:Starfield.esm
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

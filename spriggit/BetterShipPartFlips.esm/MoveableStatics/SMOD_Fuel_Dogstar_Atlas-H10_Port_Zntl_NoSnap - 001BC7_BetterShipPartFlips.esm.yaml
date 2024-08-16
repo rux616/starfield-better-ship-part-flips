@@ -1,0 +1,18 @@
+FormKey: 001BC7:BetterShipPartFlips.esm
+EditorID: SMOD_Fuel_Dogstar_Atlas-H10_Port_Zntl_NoSnap
+FormVersion: 559
+ObjectBounds:
+  First: 0.9765625, -2.5859375, -1.3730469
+  Second: 4, 2.5859375, 1.3730469
+ODTY: 0
+Model:
+  File: Ships\Modules\Fuel\SMOD\SMOD_Fuel_Dogstar_H10-Atlas_Port.nif
+  MaterialSwaps:
+  - 03EF6E:Starfield.esm
+  - 08DEE8:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

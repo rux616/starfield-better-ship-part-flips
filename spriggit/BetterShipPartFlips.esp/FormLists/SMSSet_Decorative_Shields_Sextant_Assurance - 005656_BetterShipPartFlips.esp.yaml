@@ -1,0 +1,14 @@
+FormKey: 005656:BetterShipPartFlips.esp
+EditorID: SMSSet_Decorative_Shields_Sextant_Assurance
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Decorative Sextant Assurance Set
+Items:
+- 005643:BetterShipPartFlips.esp
+- 005644:BetterShipPartFlips.esp
+- 005645:BetterShipPartFlips.esp
+- 005646:BetterShipPartFlips.esp
+- 005647:BetterShipPartFlips.esp
+- 005648:BetterShipPartFlips.esp
+ANAM: Null

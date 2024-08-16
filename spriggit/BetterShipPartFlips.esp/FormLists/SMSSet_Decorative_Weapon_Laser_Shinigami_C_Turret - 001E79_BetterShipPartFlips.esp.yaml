@@ -1,0 +1,12 @@
+FormKey: 001E79:BetterShipPartFlips.esp
+EditorID: SMSSet_Decorative_Weapon_Laser_Shinigami_C_Turret
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Decorative Shinigami LSR-C Turret Set
+Items:
+- 001E5B:BetterShipPartFlips.esp
+- 001E5C:BetterShipPartFlips.esp
+- 001E5D:BetterShipPartFlips.esp
+- 001E5E:BetterShipPartFlips.esp
+ANAM: Null

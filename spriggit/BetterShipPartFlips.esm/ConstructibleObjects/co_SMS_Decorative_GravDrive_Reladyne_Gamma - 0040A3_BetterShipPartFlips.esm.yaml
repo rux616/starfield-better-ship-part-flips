@@ -1,0 +1,15 @@
+FormKey: 0040A3:BetterShipPartFlips.esm
+EditorID: co_SMS_Decorative_GravDrive_Reladyne_Gamma
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Decorative ship modules allow you to add modules that mimic the look of other types of modules but without the functionality or restrictions that come with them.
+WorkbenchKeyword: 29C480:Starfield.esm
+CreatedObject: 0040A4:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 11
+LearnMethod: DefaultOrConditions
+Value: 1000
+Categories:
+- 000803:ShipBuilderCategories.esm
+RECF: 0

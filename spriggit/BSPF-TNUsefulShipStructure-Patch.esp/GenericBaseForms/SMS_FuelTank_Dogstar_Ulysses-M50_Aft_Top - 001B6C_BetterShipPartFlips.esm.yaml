@@ -1,0 +1,40 @@
+FormKey: 001B6C:BetterShipPartFlips.esm
+EditorID: SMS_FuelTank_Dogstar_Ulysses-M50_Aft_Top
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 12
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 25
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 30
+  - ActorValue: 00854F:Starfield.esm
+    Value: 250
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 001AD9:BetterShipPartFlips.esm
+- MutagenObjectType: DestructibleObjectComponent
+  Destructible:
+    Data:
+      Health: 1
+      DESTCount: 1
+    Stages:
+    - Explosion: 054057:Starfield.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 27BABF:Starfield.esm
+  - 00D580:Starfield.esm
+  - 1462CD:Starfield.esm
+  - 242AC3:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Ulysses M50 He3 Tank
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component
