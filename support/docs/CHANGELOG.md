@@ -6,6 +6,7 @@ Table Of Contents
 - [Better Ship Part Flips](#better-ship-part-flips)
     - [Table Of Contents](#table-of-contents)
 - [Changelog](#changelog)
+    - [v1.1.0](#v110)
     - [v1.0.0](#v100)
     - [v0.5.0](#v050)
     - [v0.4.0](#v040)
@@ -17,13 +18,51 @@ Table Of Contents
 Changelog
 =========
 
+v1.1.0
+------
+Released 2024-08-xx
+- Merged in the Junk In Your Trunk (JIYT) mod
+- Added flips for shields
+- Added flips for cargo holds
+- Added flips for fuel tanks
+- Added flips for grav drives
+- Added flips for reactors
+- Added patch to increase cargo hold size by 3x
+- Added patch to increase cargo hold size by 10x
+- Added patch to hide "Decorative" ship modules
+- Added patch for "All ship parts unlevelled at all vendors (ESM)" version 002 by SKK50
+- Added patch for "Ship Colorize" version 1.1 by DerekM17x
+- Added patch for "Ship Colorize" version 1.1 by DerekM17x and increasing cargo hold size by 3x
+- Added patch for "Ship Colorize" version 1.1 by DerekM17x ard increasing cargo hold size by 10x
+- Added patch for "Ship Colorize" version 1.1 by DerekM17x and "Better Ship Part Snaps" version 1.0.0 by freschu/rux616
+- Added patch for "Ship Combat Revised" (Habs) version 1.3 by Itheral
+- Added patch for "Ship Combat Revised" (Reactors) version 1.3 by Itheral
+- Added patch for "Ship Combat Revised" (Ship Thrusters Empowered) version 1.2T by Itheral
+- Added patch for "Ship Combat Revised" (Weapons) version 1.42 by Itheral
+- Added patch for "Starfield Extended - Shields Rebalanced" version 1.0 by Gambit77
+- Added patch for "TN's Expanded Cargo Holds" version 1.1 by TheOGTennessee
+- Added patch for "TN's Separated Categories" version 1.1 by TheOGTennessee
+- Added patch for "TN's Ship Modifications All In One" version 2.0.3 by TheOGTennessee
+- Added patch for "TN's Useful Ship Structure (Hull Buffs)" version 1.1 by TheOGTennessee
+- Added patch for "Ultimate Shipyards Unlocked" (All In One) version 1.4 by JustAnOrdinaryGuy
+- Added patch for "Ultimate Shipyards Unlocked" (Modular - No Level Requirements) version 1.4 by JustAnOrdinaryGuy
+- Added patch for "Ultimate Shipyards Unlocked" (Modular - Quest Rewards) version 1.4 by JustAnOrdinaryGuy
+- Made new logo
+- Updated documentation
+- Updated plugin serialization to output of Spriggit v0.25
+
+([TOC](#table-of-contents))
+
 v1.0.0
 ------
+Released 2024-06-21
 - Moved component subrecords specifying navmesh generation from MSTT records to REFR records
 - Removed unnecessary master file BlueprintShips-Starfield.esm
 - Did sanity check of plugin in Creation Kit
 - Lots of housekeeping on the GitHub repo
 - Added FOMOD configuration
+
+([TOC](#table-of-contents))
 
 v0.5.0
 ------
