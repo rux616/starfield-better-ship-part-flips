@@ -1,0 +1,15 @@
+FormKey: 0051BF:BetterShipPartFlips.esm
+EditorID: SMOD_Shield_Dogstar_Protector-10S_Port_NoSnap
+FormVersion: 559
+ODTY: 0
+Model:
+  File: Ships\Modules\Shield\SMOD\SMOD_Shield_Dogstar_10S-Protector_Port.nif
+  MaterialSwaps:
+  - 0048A7:Starfield.esm
+  - 22BE93:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

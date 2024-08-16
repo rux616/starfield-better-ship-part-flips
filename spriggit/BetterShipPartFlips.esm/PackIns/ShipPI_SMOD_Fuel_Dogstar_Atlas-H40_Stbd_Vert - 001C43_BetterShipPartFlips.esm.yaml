@@ -1,0 +1,19 @@
+FormKey: 001C43:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Fuel_Dogstar_Atlas-H40_Stbd_Vert
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -4.0000005, -1.3730457, -3.8476562
+  Second: 1.8320316, 1.3730462, 3.8476562
+ODTY: 0
+Transforms:
+  Ship: 050FBE:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Fuel\Dogstar\'
+Cell: 001C44:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

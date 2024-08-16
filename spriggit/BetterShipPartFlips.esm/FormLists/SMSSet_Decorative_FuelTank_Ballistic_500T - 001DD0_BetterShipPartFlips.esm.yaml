@@ -1,0 +1,11 @@
+FormKey: 001DD0:BetterShipPartFlips.esm
+EditorID: SMSSet_Decorative_FuelTank_Ballistic_500T
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Decorative Ballistic 500T Set
+Items:
+- 001D1C:BetterShipPartFlips.esm
+- 001D1D:BetterShipPartFlips.esm
+- 001D1E:BetterShipPartFlips.esm
+ANAM: Null

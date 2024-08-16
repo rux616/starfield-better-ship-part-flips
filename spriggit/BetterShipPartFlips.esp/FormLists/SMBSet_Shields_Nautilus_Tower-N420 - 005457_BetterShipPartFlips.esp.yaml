@@ -1,0 +1,14 @@
+FormKey: 005457:BetterShipPartFlips.esp
+EditorID: SMBSet_Shields_Nautilus_Tower-N420
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Nautilus Tower N420 Set
+Items:
+- 005588:BetterShipPartFlips.esp
+- 005589:BetterShipPartFlips.esp
+- 00558A:BetterShipPartFlips.esp
+- 00558B:BetterShipPartFlips.esp
+- 00558C:BetterShipPartFlips.esp
+- 26F968:Starfield.esm
+ANAM: Null

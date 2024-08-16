@@ -1,0 +1,12 @@
+FormKey: 001E75:BetterShipPartFlips.esp
+EditorID: SMSSet_Decorative_Weapon_Laser_Horizon_C_Turret
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Decorative Horison LSR-C Turret Set
+Items:
+- 001E51:BetterShipPartFlips.esp
+- 001E52:BetterShipPartFlips.esp
+- 001E53:BetterShipPartFlips.esp
+- 001E54:BetterShipPartFlips.esp
+ANAM: Null

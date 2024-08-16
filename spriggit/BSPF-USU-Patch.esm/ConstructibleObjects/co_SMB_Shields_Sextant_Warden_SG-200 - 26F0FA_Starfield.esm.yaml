@@ -1,0 +1,33 @@
+FormKey: 26F0FA:Starfield.esm
+EditorID: co_SMB_Shields_Sextant_Warden_SG-200
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Spaceship Shield Modules help protect your ship from incoming damage.
+WorkbenchKeyword: 29C480:Starfield.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: HasKeywordConditionData
+    FirstParameter: 1453A3:Starfield.esm
+  ComparisonValue: 1
+- MutagenObjectType: ConditionFloat
+  CompareOperator: GreaterThanOrEqualTo
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: GetLevelConditionData
+    RunOnType: Reference
+    Reference: 000014:Starfield.esm
+  ComparisonValue: 1
+RequiredPerks:
+- Perk: 2C59DC:Starfield.esm
+  Rank: 1
+CreatedObject: 00545D:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 37
+LearnMethod: DefaultOrConditions
+Value: 20900
+Categories:
+- 29C476:Starfield.esm
+RECF: 0

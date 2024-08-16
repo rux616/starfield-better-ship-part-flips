@@ -1,0 +1,33 @@
+FormKey: 003481:BetterShipPartFlips.esp
+EditorID: SMS_Cargo_Panoptes_daGama-1000_Top_FA_Port
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 5
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 44
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 60
+  - ActorValue: 0002DC:Starfield.esm
+    Value: 210
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 003276:BetterShipPartFlips.esp
+- MutagenObjectType: DestructibleObjectComponent
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 27BABF:Starfield.esm
+  - 1462C4:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: da Gama 1000 Cargo Hold
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component
+- Spaceship_InstanceData

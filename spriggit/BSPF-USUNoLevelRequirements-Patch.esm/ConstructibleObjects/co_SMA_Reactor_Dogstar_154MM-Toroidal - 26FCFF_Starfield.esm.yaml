@@ -1,0 +1,33 @@
+FormKey: 26FCFF:Starfield.esm
+EditorID: co_SMA_Reactor_Dogstar_154MM-Toroidal
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Spaceship Reactors provide power to all of your ship's systems.
+WorkbenchKeyword: 29C480:Starfield.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: HasKeywordConditionData
+    FirstParameter: 1453B1:Starfield.esm
+  ComparisonValue: 1
+- MutagenObjectType: ConditionFloat
+  CompareOperator: GreaterThanOrEqualTo
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: GetLevelConditionData
+    RunOnType: Reference
+    Reference: 000014:Starfield.esm
+  ComparisonValue: 1
+RequiredPerks:
+- Perk: 2C59DC:Starfield.esm
+  Rank: 3
+CreatedObject: 004673:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 27
+LearnMethod: DefaultOrConditions
+Value: 31800
+Categories:
+- 29C475:Starfield.esm
+RECF: 0

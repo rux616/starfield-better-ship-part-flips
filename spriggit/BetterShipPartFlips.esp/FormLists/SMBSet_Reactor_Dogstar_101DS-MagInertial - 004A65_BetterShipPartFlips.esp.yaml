@@ -1,0 +1,32 @@
+FormKey: 004A65:BetterShipPartFlips.esp
+EditorID: SMBSet_Reactor_Dogstar_101DS-MagInertial
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Dogstar 101DS Mag Inertial Set
+Items:
+- 0049C4:BetterShipPartFlips.esp
+- 0049CB:BetterShipPartFlips.esp
+- 0049D2:BetterShipPartFlips.esp
+- 0049D9:BetterShipPartFlips.esp
+- 0049E0:BetterShipPartFlips.esp
+- 0049E7:BetterShipPartFlips.esp
+- 0049EE:BetterShipPartFlips.esp
+- 0049F5:BetterShipPartFlips.esp
+- 0049FC:BetterShipPartFlips.esp
+- 004A03:BetterShipPartFlips.esp
+- 004A0A:BetterShipPartFlips.esp
+- 004A11:BetterShipPartFlips.esp
+- 004A18:BetterShipPartFlips.esp
+- 004A1F:BetterShipPartFlips.esp
+- 004A26:BetterShipPartFlips.esp
+- 004A2D:BetterShipPartFlips.esp
+- 004A34:BetterShipPartFlips.esp
+- 004A3B:BetterShipPartFlips.esp
+- 004A42:BetterShipPartFlips.esp
+- 004A49:BetterShipPartFlips.esp
+- 26FD10:Starfield.esm
+- 004A50:BetterShipPartFlips.esp
+- 004A57:BetterShipPartFlips.esp
+- 004A5E:BetterShipPartFlips.esp
+ANAM: Null

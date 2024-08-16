@@ -1,0 +1,14 @@
+FormKey: 00545B:BetterShipPartFlips.esp
+EditorID: SMBSet_Shields_Protectorate_Osiris-2040-B
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Protectorate Osiris 2040-B Set
+Items:
+- 005592:BetterShipPartFlips.esp
+- 005593:BetterShipPartFlips.esp
+- 005594:BetterShipPartFlips.esp
+- 005595:BetterShipPartFlips.esp
+- 005596:BetterShipPartFlips.esp
+- 26F131:Starfield.esm
+ANAM: Null

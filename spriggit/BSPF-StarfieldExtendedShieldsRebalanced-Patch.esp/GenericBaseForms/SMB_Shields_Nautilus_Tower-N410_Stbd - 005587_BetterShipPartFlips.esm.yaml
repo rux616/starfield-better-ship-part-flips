@@ -1,0 +1,51 @@
+FormKey: 005587:BetterShipPartFlips.esm
+EditorID: SMB_Shields_Nautilus_Tower-N410_Stbd
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+  Slots:
+  - 24A05E:Starfield.esm
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 5
+  - ActorValue: 0090A9:Starfield.esm
+    Value: 0.2
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 60
+  - ActorValue: 01158A:Starfield.esm
+    Value: 1
+  - ActorValue: 019080:Starfield.esm
+    Value: 0.5
+  - ActorValue: 01ECCD:Starfield.esm
+    Value: 7
+  - ActorValue: 05BFA7:Starfield.esm
+    Value: 0.08
+  - ActorValue: 05BFA8:Starfield.esm
+    Value: 2920
+  - ActorValue: 05C74B:Starfield.esm
+  - ActorValue: 1EE8C9:Starfield.esm
+    Value: 300
+  - ActorValue: 1EF0CC:Starfield.esm
+    Value: 300
+  - ActorValue: 24A05F:Starfield.esm
+    Value: 2920
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 005476:BetterShipPartFlips.esm
+- MutagenObjectType: DestructibleObjectComponent
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462CB:Starfield.esm
+  - 26FE56:Starfield.esm
+  - 27BAC2:Starfield.esm
+  - 2BCFD9:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Tower N410 Shield Generator
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

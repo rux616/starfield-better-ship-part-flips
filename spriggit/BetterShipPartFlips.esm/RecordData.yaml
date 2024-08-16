@@ -1,22 +1,20 @@
 SpriggitSource:
   PackageName: Spriggit.Yaml.Starfield
-  Version: 0.18.0
+  Version: 0.25.0
 ModKey: BetterShipPartFlips.esm
 GameRelease: Starfield
 ModHeader:
   Flags:
   - Master
   FormVersion: 559
-  Stats:
-    NumRecords: 4580
-    NextFormID: 16783805
-  Author: freschu and rux616
+  Author: freschu/rux616
   Description: >-
     Additional flips of vanilla parts that seemed missing. Mostly conforms to vanilla ship builder grid.
 
 
-    Version: 1.0.0
+    Version: 1.1.0
   MasterReferences:
   - Master: Starfield.esm
+  - Master: ShipBuilderCategories.esm
   BNAM: 0x4D61696E00
-  INCC: 260
+  INCC: 1779

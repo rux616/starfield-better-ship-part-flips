@@ -1,0 +1,12 @@
+FormKey: 001E74:BetterShipPartFlips.esm
+EditorID: SMSSet_Decorative_Weapon_Laser_Horizon_B_Turret
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Decorative Horizon LSR-B Turret Set
+Items:
+- 001E20:BetterShipPartFlips.esm
+- 001E21:BetterShipPartFlips.esm
+- 001E22:BetterShipPartFlips.esm
+- 001E23:BetterShipPartFlips.esm
+ANAM: Null

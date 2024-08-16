@@ -1,0 +1,19 @@
+FormKey: 0046D0:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Reactor_Xiang_Tokamak-X-050_Btm_Port
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -4.1835938, -4.0351562, -1.7714834
+  Second: 4.1835938, 4.0351562, 1.77246
+ODTY: 0
+Transforms:
+  Ship: 15E828:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Reactors\Xiang\'
+Cell: 0046D1:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

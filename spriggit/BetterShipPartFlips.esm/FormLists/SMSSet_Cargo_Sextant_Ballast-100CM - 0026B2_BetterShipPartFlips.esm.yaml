@@ -1,0 +1,16 @@
+FormKey: 0026B2:BetterShipPartFlips.esm
+EditorID: SMSSet_Cargo_Sextant_Ballast-100CM
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Sextant Ballast 100CM Set
+Items:
+- 03059B:Starfield.esm
+- 002820:BetterShipPartFlips.esm
+- 002821:BetterShipPartFlips.esm
+- 002824:BetterShipPartFlips.esm
+- 002822:BetterShipPartFlips.esm
+- 002825:BetterShipPartFlips.esm
+- 002823:BetterShipPartFlips.esm
+- 002826:BetterShipPartFlips.esm
+ANAM: Null

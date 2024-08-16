@@ -1,0 +1,37 @@
+FormKey: 2704A0:Starfield.esm
+EditorID: SMS_FuelTank_Ballistic_500T_Z
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 29
+  - ActorValue: 00854F:Starfield.esm
+    Value: 210
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 5
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 237E2C:Starfield.esm
+- MutagenObjectType: DestructibleObjectComponent
+  Destructible:
+    Data:
+      Health: 1
+      DESTCount: 1
+    Stages:
+    - Explosion: 054057:Starfield.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 00D580:Starfield.esm
+  - 1462C7:Starfield.esm
+  - 27BABF:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: 500T He3 Tank
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

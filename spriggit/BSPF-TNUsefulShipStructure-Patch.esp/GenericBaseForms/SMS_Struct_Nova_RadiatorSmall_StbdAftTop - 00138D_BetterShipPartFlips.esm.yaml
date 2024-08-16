@@ -1,0 +1,30 @@
+FormKey: 00138D:BetterShipPartFlips.esm
+EditorID: SMS_Struct_Nova_RadiatorSmall_StbdAftTop
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 2
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 30
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 3
+  - ActorValue: 05BFA8:Starfield.esm
+    Value: 10
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 00138E:BetterShipPartFlips.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462C2:Starfield.esm
+  - 27BAC2:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Nova Radiator - Starboard Aft Top
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

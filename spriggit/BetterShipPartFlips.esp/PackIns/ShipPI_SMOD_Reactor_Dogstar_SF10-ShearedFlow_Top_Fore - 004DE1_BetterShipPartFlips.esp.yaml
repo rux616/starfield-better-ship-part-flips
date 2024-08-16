@@ -1,0 +1,19 @@
+FormKey: 004DE1:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Reactor_Dogstar_SF10-ShearedFlow_Top_Fore
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -3.9999013, -3.9999032, -3.0253906
+  Second: 4.000097, 3.5469737, 3.2050781
+ODTY: 0
+Transforms:
+  Ship: 15E824:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Reactors\Dogstar\'
+Cell: 004DE2:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

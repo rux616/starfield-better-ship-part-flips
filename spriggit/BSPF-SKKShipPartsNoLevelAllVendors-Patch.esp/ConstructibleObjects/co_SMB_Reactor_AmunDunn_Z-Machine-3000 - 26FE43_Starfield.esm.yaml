@@ -1,0 +1,20 @@
+FormKey: 26FE43:Starfield.esm
+EditorID: co_SMB_Reactor_AmunDunn_Z-Machine-3000
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Spaceship Reactors provide power to all of your ship's systems.
+WorkbenchKeyword: 29C480:Starfield.esm
+RequiredPerks:
+- Perk: 2CFCAC:Starfield.esm
+  Rank: 3
+- Perk: 2C59DC:Starfield.esm
+  Rank: 3
+CreatedObject: 0048D8:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 46.0137
+LearnMethod: DefaultOrConditions
+Value: 43800
+Categories:
+- 29C475:Starfield.esm
+RECF: 0

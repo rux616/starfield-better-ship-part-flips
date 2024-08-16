@@ -1,0 +1,19 @@
+FormKey: 004D7F:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Reactor_Dogstar_SF10-ShearedFlow_Btm_Port
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -3.546973, -4.0000987, -3.2050772
+  Second: 3.9999025, 3.9999027, 3.0253897
+ODTY: 0
+Transforms:
+  Ship: 15E824:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Reactors\Dogstar\'
+Cell: 004D80:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

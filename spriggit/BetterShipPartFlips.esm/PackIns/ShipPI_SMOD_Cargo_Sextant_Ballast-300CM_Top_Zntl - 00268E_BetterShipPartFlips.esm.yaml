@@ -1,0 +1,13 @@
+FormKey: 00268E:BetterShipPartFlips.esm
+EditorID: ShipPI_SMOD_Cargo_Sextant_Ballast-300CM_Top_Zntl
+FormVersion: 559
+ObjectBounds:
+  Second: 0, 0, 2.25
+ODTY: 0
+Transforms:
+  Ship: 050FBE:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Cargo\Sextant\'
+Cell: 002699:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

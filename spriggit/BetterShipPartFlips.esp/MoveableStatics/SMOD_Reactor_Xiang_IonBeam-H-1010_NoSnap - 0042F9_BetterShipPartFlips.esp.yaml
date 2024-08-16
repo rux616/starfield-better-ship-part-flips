@@ -1,0 +1,19 @@
+FormKey: 0042F9:BetterShipPartFlips.esp
+EditorID: SMOD_Reactor_Xiang_IonBeam-H-1010_NoSnap
+FormVersion: 559
+ObjectBounds:
+  First: -4.0000978, -4.0000978, -1.7480469
+  Second: 3.9999022, 3.9999022, 1.7480469
+ODTY: 0
+Model:
+  File: Ships\Modules\Reactor\SMOD\SMOD_Reactor_Xiang_IonBeam-H-1010.nif
+  MaterialSwaps:
+  - 08DF58:Starfield.esm
+  - 055688:Starfield.esm
+  - 0B6B31:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 207960:Starfield.esm
+- 1BB401:Starfield.esm
+DATA: 4

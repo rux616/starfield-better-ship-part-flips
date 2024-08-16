@@ -1,0 +1,20 @@
+FormKey: 2274ED:Starfield.esm
+EditorID: SMSSet_Struct_HopeTech_PipeEnds01
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: HopeTech Pipe End Set
+Items:
+- 2274F0:Starfield.esm
+- 2274F1:Starfield.esm
+- 000E36:BetterShipPartFlips.esp
+- 000E3A:BetterShipPartFlips.esp
+- 000E53:BetterShipPartFlips.esp
+- 000E57:BetterShipPartFlips.esp
+- 000E6F:BetterShipPartFlips.esp
+- 000E73:BetterShipPartFlips.esp
+- 000E8F:BetterShipPartFlips.esp
+- 000E8B:BetterShipPartFlips.esp
+- 000EAB:BetterShipPartFlips.esp
+- 000EA7:BetterShipPartFlips.esp
+ANAM: Null

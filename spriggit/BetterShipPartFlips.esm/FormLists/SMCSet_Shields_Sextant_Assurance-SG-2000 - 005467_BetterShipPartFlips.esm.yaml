@@ -1,0 +1,14 @@
+FormKey: 005467:BetterShipPartFlips.esm
+EditorID: SMCSet_Shields_Sextant_Assurance-SG-2000
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Sextant Assurance SG-2000 Set
+Items:
+- 0055CB:BetterShipPartFlips.esm
+- 0055CC:BetterShipPartFlips.esm
+- 0055CD:BetterShipPartFlips.esm
+- 0055CE:BetterShipPartFlips.esm
+- 0055CF:BetterShipPartFlips.esm
+- 26F116:Starfield.esm
+ANAM: Null

@@ -1,0 +1,39 @@
+FormKey: 005A17:BetterShipPartFlips.esm
+EditorID: SMS_FuelTank_Ballistic_800T-B_ForeAft_Zntl
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 20
+  - ActorValue: 00854F:Starfield.esm
+    Value: 550
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 63
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 20
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 005A12:BetterShipPartFlips.esm
+- MutagenObjectType: DestructibleObjectComponent
+  Destructible:
+    Data:
+      Health: 1
+      DESTCount: 1
+    Stages:
+    - Explosion: 054057:Starfield.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 00D580:Starfield.esm
+  - 1462C7:Starfield.esm
+  - 27BABF:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: 800T-B He3 Tank
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

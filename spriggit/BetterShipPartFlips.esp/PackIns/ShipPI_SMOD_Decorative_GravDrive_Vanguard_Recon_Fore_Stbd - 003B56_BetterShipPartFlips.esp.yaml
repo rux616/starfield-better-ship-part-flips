@@ -1,0 +1,19 @@
+FormKey: 003B56:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Decorative_GravDrive_Vanguard_Recon_Fore_Stbd
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -4, -1.7783206, -3.394531
+  Second: 4.0429688, 1.7470706, 3.394531
+ODTY: 0
+Transforms:
+  Ship: 39EC83:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Grav\Vanguard\'
+Cell: 003B57:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

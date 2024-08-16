@@ -1,0 +1,14 @@
+FormKey: 1BE9D0:Starfield.esm
+EditorID: SMBSet_Shields_Dogstar_Defender-28T
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Dogstar Defender 28T Set
+Items:
+- 1BE9CE:Starfield.esm
+- 1BE9CF:Starfield.esm
+- 00544D:BetterShipPartFlips.esm
+- 00544E:BetterShipPartFlips.esm
+- 00544F:BetterShipPartFlips.esm
+- 005450:BetterShipPartFlips.esm
+ANAM: Null

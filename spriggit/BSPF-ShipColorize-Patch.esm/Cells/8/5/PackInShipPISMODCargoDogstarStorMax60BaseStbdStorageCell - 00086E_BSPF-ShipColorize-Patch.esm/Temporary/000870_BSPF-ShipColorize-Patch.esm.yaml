@@ -1,0 +1,8 @@
+MutagenObjectType: PlacedObject
+FormKey: 000870:BSPF-ShipColorize-Patch.esm
+FormVersion: 559
+Components:
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 140158:Starfield.esm
+Base: 000881:BSPF-ShipColorize-Patch.esm

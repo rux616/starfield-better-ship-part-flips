@@ -1,0 +1,19 @@
+FormKey: 0044CE:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Reactor_Deep_Spheromak-DC201_Btm_Port
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -3.9042964, -4.000001, -1.718749
+  Second: 4.0039062, 4.0000005, 1.718749
+ODTY: 0
+Transforms:
+  Ship: 15E828:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Reactors\DeepCore\'
+Cell: 0044CF:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

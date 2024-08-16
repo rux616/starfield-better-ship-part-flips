@@ -1,0 +1,19 @@
+FormKey: 004ED2:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Reactor_Xiang_Pinch-5Z_Top_Port
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -3.4531252, -3.9999998, -3.4238281
+  Second: 4, 3.9999998, 3.4238281
+ODTY: 0
+Transforms:
+  Ship: 15E824:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Reactors\Xiang\'
+Cell: 004ED3:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

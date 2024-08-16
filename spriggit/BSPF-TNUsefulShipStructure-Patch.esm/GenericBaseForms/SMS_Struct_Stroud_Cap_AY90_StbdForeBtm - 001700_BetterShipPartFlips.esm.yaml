@@ -1,0 +1,28 @@
+FormKey: 001700:BetterShipPartFlips.esm
+EditorID: SMS_Struct_Stroud_Cap_AY90_StbdForeBtm
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 6
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 60
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 20
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 001701:BetterShipPartFlips.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462BD:Starfield.esm
+  - 27BAC3:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Stroud Cap AY90 - Starboard Fore Bottom
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

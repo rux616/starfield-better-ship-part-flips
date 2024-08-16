@@ -1,0 +1,26 @@
+FormKey: 00197B:BetterShipPartFlips.esm
+EditorID: SMS_Struct_Stroud_Cap01_3L_StbdBtm_A
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 10
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 40
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 00197C:BetterShipPartFlips.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462BD:Starfield.esm
+  - 27BAC0:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Stroud Cowling 3LA-SB
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

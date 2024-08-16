@@ -1,0 +1,20 @@
+FormKey: 03DEED:Starfield.esm
+EditorID: SMSSet_Struct_Nova_CL-3C
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Nova Cowl CL-3C Set
+Items:
+- 00B736:Starfield.esm
+- 03DEEE:Starfield.esm
+- 001087:BetterShipPartFlips.esp
+- 001096:BetterShipPartFlips.esp
+- 0010AB:BetterShipPartFlips.esp
+- 0010BA:BetterShipPartFlips.esp
+- 0010D2:BetterShipPartFlips.esp
+- 0010E1:BetterShipPartFlips.esp
+- 0010F7:BetterShipPartFlips.esp
+- 001106:BetterShipPartFlips.esp
+- 00111C:BetterShipPartFlips.esp
+- 00112B:BetterShipPartFlips.esp
+ANAM: Null

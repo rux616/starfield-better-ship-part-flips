@@ -1,0 +1,28 @@
+FormKey: 0056D7:BetterShipPartFlips.esm
+EditorID: SMS_Decorative_Cargo_Protectorate_Caravel-V103_Top
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 5
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 60
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 002C6D:BetterShipPartFlips.esm
+- MutagenObjectType: DestructibleObjectComponent
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462CC:Starfield.esm
+  - 27BABF:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: 'Decorative: Protectorate Caravel V103'
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

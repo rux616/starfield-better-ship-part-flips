@@ -1,0 +1,18 @@
+FormKey: 00291A:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Cargo_Sextant_Hauler-10T_Port_Fore
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  Second: 2.25, 0, 0
+ODTY: 0
+Transforms:
+  Ship: 050FBE:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Cargo\Sextant\'
+Cell: 00292A:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

@@ -1,0 +1,19 @@
+FormKey: 004D0F:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Reactor_Deep_Fusor-DC401_Top_Fore
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -4.167968, -4.000001, -3.5
+  Second: 4.171874, 4.000001, 3.5
+ODTY: 0
+Transforms:
+  Ship: 15E824:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Reactors\DeepCore\'
+Cell: 004D10:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

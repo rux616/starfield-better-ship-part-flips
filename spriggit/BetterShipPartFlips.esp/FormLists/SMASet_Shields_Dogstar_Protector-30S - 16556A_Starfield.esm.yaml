@@ -1,0 +1,20 @@
+FormKey: 16556A:Starfield.esm
+EditorID: SMASet_Shields_Dogstar_Protector-30S
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Dogstar Protector 30S Set
+Items:
+- 16555E:Starfield.esm
+- 26F98C:Starfield.esm
+- 16555A:Starfield.esm
+- 005207:BetterShipPartFlips.esp
+- 005208:BetterShipPartFlips.esp
+- 005209:BetterShipPartFlips.esp
+- 00520A:BetterShipPartFlips.esp
+- 00520B:BetterShipPartFlips.esp
+- 00520C:BetterShipPartFlips.esp
+- 00520D:BetterShipPartFlips.esp
+- 00520E:BetterShipPartFlips.esp
+- 00520F:BetterShipPartFlips.esp
+ANAM: Null

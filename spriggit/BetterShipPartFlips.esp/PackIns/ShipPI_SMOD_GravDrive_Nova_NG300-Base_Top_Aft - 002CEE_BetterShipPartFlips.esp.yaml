@@ -1,0 +1,19 @@
+FormKey: 002CEE:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_GravDrive_Nova_NG300-Base_Top_Aft
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -3.9160156, -4, -3.5
+  Second: 3.9160156, 4, 3.5
+ODTY: 0
+Transforms:
+  Ship: 15E824:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Grav\Nova\'
+Cell: 002CEF:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

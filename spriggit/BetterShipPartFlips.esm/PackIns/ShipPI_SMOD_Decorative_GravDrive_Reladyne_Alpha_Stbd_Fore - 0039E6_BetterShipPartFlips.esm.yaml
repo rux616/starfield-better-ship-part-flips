@@ -1,0 +1,19 @@
+FormKey: 0039E6:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Decorative_GravDrive_Reladyne_Alpha_Stbd_Fore
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -1.761719, -4.101564, -4.031249
+  Second: 1.761719, 4.101564, 4.031249
+ODTY: 0
+Transforms:
+  Ship: 39EC83:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Grav\Reladyne\'
+Cell: 0039E7:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

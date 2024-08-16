@@ -1,0 +1,18 @@
+FormKey: 0033C9:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Cargo_Panoptes_daGama-1000_Aft_Vert_Stbd
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  Second: 0, 4, 0
+ODTY: 0
+Transforms:
+  Ship: 050FBE:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Cargo\Panoptes\'
+Cell: 00336F:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

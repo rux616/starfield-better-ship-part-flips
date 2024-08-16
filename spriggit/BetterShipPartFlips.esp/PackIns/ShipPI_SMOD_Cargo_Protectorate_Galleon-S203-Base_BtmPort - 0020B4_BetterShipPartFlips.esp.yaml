@@ -1,0 +1,11 @@
+FormKey: 0020B4:BetterShipPartFlips.esp
+EditorID: ShipPI_SMOD_Cargo_Protectorate_Galleon-S203-Base_BtmPort
+FormVersion: 559
+ODTY: 0
+Transforms:
+  Ship: 203E7A:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Cargo\Protectorate\'
+Cell: 0020D3:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

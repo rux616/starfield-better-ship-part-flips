@@ -1,0 +1,19 @@
+FormKey: 00344E:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_GravDrive_DeepCore_Apollo-GV100_Stbd_Fore
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -3.1816409, -4.000001, -3.9999988
+  Second: 3.1816409, 4.000001, 3.9999988
+ODTY: 0
+Transforms:
+  Ship: 39EC83:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Grav\DeepCore\'
+Cell: 00344F:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

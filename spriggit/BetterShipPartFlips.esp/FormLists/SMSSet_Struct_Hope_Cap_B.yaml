@@ -1,9 +1,0 @@
-FormKey: 000DEE:BetterShipPartFlips.esp
-EditorID: SMSSet_Struct_Hope_Cap_B
-FormVersion: 559
-Name:
-  TargetLanguage: English
-  Value: HopeTech Cap B Set
-Items:
-- 227DC7:Starfield.esm
-- 000DEA:BetterShipPartFlips.esp

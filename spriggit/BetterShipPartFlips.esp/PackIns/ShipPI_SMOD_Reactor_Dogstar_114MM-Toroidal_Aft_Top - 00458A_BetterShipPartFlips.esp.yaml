@@ -1,0 +1,19 @@
+FormKey: 00458A:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Reactor_Dogstar_114MM-Toroidal_Aft_Top
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -4.0078115, -1.7548826, -4.003907
+  Second: 4.0078115, 1.7509763, 4.003907
+ODTY: 0
+Transforms:
+  Ship: 15E828:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Reactors\Dogstar\'
+Cell: 00458B:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

@@ -1,0 +1,19 @@
+FormKey: 002E3D:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_GravDrive_DeepCore_Aurora-11G_Stbd_Btm
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -1.7500002, -3.9999998, -4
+  Second: 1.7500002, 3.9999998, 4
+ODTY: 0
+Transforms:
+  Ship: 39EC83:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Grav\DeepCore\'
+Cell: 002E3E:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

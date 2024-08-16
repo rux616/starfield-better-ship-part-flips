@@ -1,0 +1,26 @@
+FormKey: 227DC2:Starfield.esm
+EditorID: SMS_Struct_Hope_Bumper_A
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 2
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 10
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 23284F:Starfield.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462C1:Starfield.esm
+  - 27BABD:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: HopeTech Bumper A - Fore
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

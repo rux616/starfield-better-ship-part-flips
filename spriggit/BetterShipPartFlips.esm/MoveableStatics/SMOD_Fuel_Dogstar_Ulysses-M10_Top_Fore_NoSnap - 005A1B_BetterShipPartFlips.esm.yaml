@@ -1,0 +1,22 @@
+FormKey: 005A1B:BetterShipPartFlips.esm
+EditorID: SMOD_Fuel_Dogstar_Ulysses-M10_Top_Fore_NoSnap
+FormVersion: 559
+ObjectBounds:
+  First: -3.5857813, -4.1343555, -1.7685547
+  Second: 3.5782812, 4.1381054, 1.8950757
+ODTY: 0
+Model:
+  File: Ships\Modules\SMOD_Fuel_Nova_H55.nif
+  MaterialSwaps:
+  - 002C6E:Starfield.esm
+  - 08DEE8:Starfield.esm
+  - 08DF56:Starfield.esm
+  - 0B6B22:Starfield.esm
+  - 0B6B2A:Starfield.esm
+  - 18B4B1:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

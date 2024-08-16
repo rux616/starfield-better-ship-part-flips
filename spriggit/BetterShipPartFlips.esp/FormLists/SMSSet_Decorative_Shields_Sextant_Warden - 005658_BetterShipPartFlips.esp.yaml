@@ -1,0 +1,14 @@
+FormKey: 005658:BetterShipPartFlips.esp
+EditorID: SMSSet_Decorative_Shields_Sextant_Warden
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Decorative Sextant Warden Set
+Items:
+- 005625:BetterShipPartFlips.esp
+- 005626:BetterShipPartFlips.esp
+- 005627:BetterShipPartFlips.esp
+- 005628:BetterShipPartFlips.esp
+- 005629:BetterShipPartFlips.esp
+- 00562A:BetterShipPartFlips.esp
+ANAM: Null

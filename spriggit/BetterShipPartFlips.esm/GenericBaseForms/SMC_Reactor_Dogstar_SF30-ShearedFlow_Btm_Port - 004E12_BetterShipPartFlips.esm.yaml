@@ -1,0 +1,48 @@
+FormKey: 004E12:BetterShipPartFlips.esm
+EditorID: SMC_Reactor_Dogstar_SF30-ShearedFlow_Btm_Port
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 995
+  - ActorValue: 001018:Starfield.esm
+    Value: 34
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 103
+  - ActorValue: 019080:Starfield.esm
+    Value: 3
+  - ActorValue: 01CAC0:Starfield.esm
+    Value: 5.15
+  - ActorValue: 1EF0CA:Starfield.esm
+    Value: 103
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 20
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 004D7F:BetterShipPartFlips.esm
+- MutagenObjectType: DestructibleObjectComponent
+  Destructible:
+    Data:
+      Health: 1
+      DESTCount: 1
+    Stages:
+    - Explosion: 2BCE4F:Starfield.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 00D580:Starfield.esm
+  - 1462CD:Starfield.esm
+  - 26FE55:Starfield.esm
+  - 27BAC5:Starfield.esm
+  - 2BCFD2:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: SF30 Sheared Flow Reactor - Btm Port
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component
+- Spaceship_InstanceData

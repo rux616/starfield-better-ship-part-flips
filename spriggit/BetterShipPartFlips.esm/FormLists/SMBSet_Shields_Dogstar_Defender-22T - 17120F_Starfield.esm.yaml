@@ -1,0 +1,14 @@
+FormKey: 17120F:Starfield.esm
+EditorID: SMBSet_Shields_Dogstar_Defender-22T
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Dogstar Defender 22T Set
+Items:
+- 26F987:Starfield.esm
+- 17AB3C:Starfield.esm
+- 005451:BetterShipPartFlips.esm
+- 005452:BetterShipPartFlips.esm
+- 005453:BetterShipPartFlips.esm
+- 005454:BetterShipPartFlips.esm
+ANAM: Null

@@ -1,0 +1,50 @@
+FormKey: 0032F4:BetterShipPartFlips.esp
+EditorID: SMC_GravDrive_Reladyne_J-50-Gamma_Btm_Aft
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+  Slots:
+  - 008226:Starfield.esm
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 5
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 109
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 20
+  - ActorValue: 2BFAFD:Starfield.esm
+    Value: 34
+  - ActorValue: 1EF0CB:Starfield.esm
+    Value: 218
+  - ActorValue: 1EF0C1:Starfield.esm
+    Value: 218
+  - ActorValue: 01158B:Starfield.esm
+    Value: 1
+  - ActorValue: 00855E:Starfield.esm
+    Value: 0.5
+  - ActorValue: 00854E:Starfield.esm
+    Value: 1
+  - ActorValue: 008223:Starfield.esm
+    Value: 11
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 0032F5:BetterShipPartFlips.esp
+- MutagenObjectType: DestructibleObjectComponent
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 26FE55:Starfield.esm
+  - 27BABF:Starfield.esm
+  - 2BCFC6:Starfield.esm
+  - 1462CF:Starfield.esm
+  - 142594:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: J-50 Gamma Grav Drive
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component
+- Spaceship_InstanceData

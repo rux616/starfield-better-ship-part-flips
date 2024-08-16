@@ -1,0 +1,50 @@
+FormKey: 0025B8:BetterShipPartFlips.esm
+EditorID: SMA_GravDrive_DeepCore_Helios-200_Top_Port
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+  Slots:
+  - 008226:Starfield.esm
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 5
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 28
+  - ActorValue: 008223:Starfield.esm
+    Value: 9
+  - ActorValue: 00854E:Starfield.esm
+    Value: 1
+  - ActorValue: 00855E:Starfield.esm
+    Value: 0.5
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 10
+  - ActorValue: 01158B:Starfield.esm
+    Value: 1
+  - ActorValue: 1EF0C1:Starfield.esm
+    Value: 57
+  - ActorValue: 1EF0CB:Starfield.esm
+    Value: 57
+  - ActorValue: 2BFAFD:Starfield.esm
+    Value: 19
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 0024DA:BetterShipPartFlips.esm
+- MutagenObjectType: DestructibleObjectComponent
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 27BAC5:Starfield.esm
+  - 142596:Starfield.esm
+  - 1462C3:Starfield.esm
+  - 26FE57:Starfield.esm
+  - 2BCFB7:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Helios 200 Grav Drive
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component
+- Spaceship_InstanceData

@@ -1,0 +1,19 @@
+FormKey: 001AB4:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Fuel_Dogstar_Ulysses-M30_Stbd_Btm
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -3.999999, -4.0000005, -1.4726553
+  Second: 0, 4.0000014, 1.749999
+ODTY: 0
+Transforms:
+  Ship: 050FBE:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Fuel\Dogstar\'
+Cell: 001A82:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

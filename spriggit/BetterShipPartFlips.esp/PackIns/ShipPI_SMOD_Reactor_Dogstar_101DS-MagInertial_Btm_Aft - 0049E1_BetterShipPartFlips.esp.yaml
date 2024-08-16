@@ -1,0 +1,19 @@
+FormKey: 0049E1:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Reactor_Dogstar_101DS-MagInertial_Btm_Aft
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -4.007714, -4.000099, -1.749999
+  Second: 4.0079093, 3.9999037, 1.749999
+ODTY: 0
+Transforms:
+  Ship: 15E828:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Reactors\Dogstar\'
+Cell: 0049E2:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

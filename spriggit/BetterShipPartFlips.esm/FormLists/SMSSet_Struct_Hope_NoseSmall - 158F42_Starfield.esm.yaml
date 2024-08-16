@@ -1,0 +1,12 @@
+FormKey: 158F42:Starfield.esm
+EditorID: SMSSet_Struct_Hope_NoseSmall
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Hopetech Small Nose Set
+Items:
+- 1684DB:Starfield.esm
+- 158F47:Starfield.esm
+- 000F75:BetterShipPartFlips.esm
+- 000F79:BetterShipPartFlips.esm
+ANAM: Null

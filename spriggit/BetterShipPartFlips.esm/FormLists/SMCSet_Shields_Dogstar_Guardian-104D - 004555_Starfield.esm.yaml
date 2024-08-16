@@ -1,0 +1,14 @@
+FormKey: 004555:Starfield.esm
+EditorID: SMCSet_Shields_Dogstar_Guardian-104D
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Dogstar Guardian 104D Set
+Items:
+- 004558:Starfield.esm
+- 004557:Starfield.esm
+- 0055AE:BetterShipPartFlips.esm
+- 0055AF:BetterShipPartFlips.esm
+- 0055B0:BetterShipPartFlips.esm
+- 0055B1:BetterShipPartFlips.esm
+ANAM: Null

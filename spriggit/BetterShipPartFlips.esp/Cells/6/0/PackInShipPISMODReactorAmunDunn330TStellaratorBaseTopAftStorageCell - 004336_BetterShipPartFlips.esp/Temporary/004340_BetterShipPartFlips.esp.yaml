@@ -1,0 +1,10 @@
+MutagenObjectType: PlacedObject
+FormKey: 004340:BetterShipPartFlips.esp
+FormVersion: 559
+Base: 001E1F:Starfield.esm
+LinkedReferences:
+- Reference: 00B0EF:Starfield.esm
+IsLinkedRefTransient: True
+Scale: 0.25
+Position: -2.0447235, 0.3383841, 1.4154358
+Rotation: 2.4496443, -0.00011582449, 4.712389

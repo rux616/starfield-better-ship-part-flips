@@ -1,0 +1,5 @@
+MutagenObjectType: PlacedObject
+FormKey: 000808:BSPF-ShipColorize-Patch.esm
+FormVersion: 559
+Base: 000802:BSPF-ShipColorize-Patch.esm
+Rotation: 0.24497865, 1.5707964, 3.3865716

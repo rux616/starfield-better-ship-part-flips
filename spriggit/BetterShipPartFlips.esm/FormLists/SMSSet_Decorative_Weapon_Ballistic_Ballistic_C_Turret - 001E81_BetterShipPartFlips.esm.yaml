@@ -1,0 +1,12 @@
+FormKey: 001E81:BetterShipPartFlips.esm
+EditorID: SMSSet_Decorative_Weapon_Ballistic_Ballistic_C_Turret
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Decorative Ballistic BLS-C Turret Set
+Items:
+- 001E42:BetterShipPartFlips.esm
+- 001E43:BetterShipPartFlips.esm
+- 001E44:BetterShipPartFlips.esm
+- 001E45:BetterShipPartFlips.esm
+ANAM: Null

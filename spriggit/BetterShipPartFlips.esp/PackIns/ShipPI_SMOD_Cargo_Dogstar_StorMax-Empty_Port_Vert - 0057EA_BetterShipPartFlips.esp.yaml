@@ -1,0 +1,16 @@
+FormKey: 0057EA:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Cargo_Dogstar_StorMax-Empty_Port_Vert
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ODTY: 0
+Transforms:
+  Ship: 050FBE:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Cargo\Dogstar\'
+Cell: 0057C6:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

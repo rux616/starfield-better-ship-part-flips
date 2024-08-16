@@ -1,0 +1,12 @@
+MutagenObjectType: PlacedObject
+FormKey: 00083E:BSPF-ShipColorize-Patch.esm
+FormVersion: 559
+Base: 1F560E:Starfield.esm
+ProjectedDecal:
+  WidthScale: 1
+  HeightScale: 1
+  UnknownFloat: 0.35
+  UnknownInt: 2880154369
+ConstrainedDecal: 4, 2, 0.5
+Position: 3.7519526, -0.2255357, 0.27940854
+Rotation: 1.5707963, 1.5707964, 0

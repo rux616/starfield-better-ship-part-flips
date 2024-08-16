@@ -1,0 +1,19 @@
+FormKey: 0051EF:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Shield_Dogstar_Protector-10S_Aft_Vert
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -1.4230485, -1.8363608E-07, -1.6261319
+  Second: 1.4459468, 3.6470551, 1.6349554
+ODTY: 0
+Transforms:
+  Ship: 050FAC:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Shield\Dogstar\'
+Cell: 0051C7:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

@@ -1,0 +1,14 @@
+FormKey: 001AF5:BetterShipPartFlips.esp
+EditorID: ShipPI_SMOD_Fuel_Dogstar_Ulysses-M40_Btm_FA_Stbd
+FormVersion: 559
+ObjectBounds:
+  First: -3.2402344, -4.000001, -2.256347
+  Second: 3.2285154, 4, 1.7499993
+ODTY: 0
+Transforms:
+  Ship: 050FBE:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Fuel\Dogstar\'
+Cell: 001AF6:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

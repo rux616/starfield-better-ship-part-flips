@@ -1,0 +1,30 @@
+FormKey: 2C2C25:Starfield.esm
+EditorID: co_SMA_Reactor_Xiang_Tokamak-X-050
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Spaceship Reactors provide power to all of your ship's systems.
+WorkbenchKeyword: 29C480:Starfield.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: HasKeywordConditionData
+    FirstParameter: 1453B4:Starfield.esm
+  ComparisonValue: 1
+- MutagenObjectType: ConditionFloat
+  CompareOperator: GreaterThanOrEqualTo
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: GetLevelConditionData
+    RunOnType: Reference
+    Reference: 000014:Starfield.esm
+  ComparisonValue: 1
+CreatedObject: 0047D0:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 37
+LearnMethod: DefaultOrConditions
+Value: 8850
+Categories:
+- 29C475:Starfield.esm
+RECF: 0

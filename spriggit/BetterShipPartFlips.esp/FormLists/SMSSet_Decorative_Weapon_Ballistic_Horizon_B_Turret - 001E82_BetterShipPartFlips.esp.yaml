@@ -1,0 +1,12 @@
+FormKey: 001E82:BetterShipPartFlips.esp
+EditorID: SMSSet_Decorative_Weapon_Ballistic_Horizon_B_Turret
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Decorative Horizon BLS-B Turret Set
+Items:
+- 001E16:BetterShipPartFlips.esp
+- 001E17:BetterShipPartFlips.esp
+- 001E18:BetterShipPartFlips.esp
+- 001E19:BetterShipPartFlips.esp
+ANAM: Null

@@ -1,0 +1,16 @@
+FormKey: 32B41C:Starfield.esm
+EditorID: SMSSet_Struct_Deimos_Spine_F_Set
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Deimos Struct Spine F Set
+Items:
+- 22D115:Starfield.esm
+- 32B417:Starfield.esm
+- 000B86:BetterShipPartFlips.esm
+- 000B8A:BetterShipPartFlips.esm
+- 000BA7:BetterShipPartFlips.esm
+- 000BAB:BetterShipPartFlips.esm
+- 000BCF:BetterShipPartFlips.esm
+- 000BD3:BetterShipPartFlips.esm
+ANAM: Null

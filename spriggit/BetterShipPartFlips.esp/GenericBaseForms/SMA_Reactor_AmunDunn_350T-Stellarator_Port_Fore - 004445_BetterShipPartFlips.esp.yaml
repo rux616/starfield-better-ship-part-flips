@@ -1,0 +1,48 @@
+FormKey: 004445:BetterShipPartFlips.esp
+EditorID: SMA_Reactor_AmunDunn_350T-Stellarator_Port_Fore
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 405
+  - ActorValue: 001018:Starfield.esm
+    Value: 18
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 28
+  - ActorValue: 019080:Starfield.esm
+    Value: 1
+  - ActorValue: 01CAC0:Starfield.esm
+    Value: 1.4
+  - ActorValue: 1EF0CA:Starfield.esm
+    Value: 28
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 30
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 0043B5:BetterShipPartFlips.esp
+- MutagenObjectType: DestructibleObjectComponent
+  Destructible:
+    Data:
+      Health: 1
+      DESTCount: 1
+    Stages:
+    - Explosion: 05B098:Starfield.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 00D580:Starfield.esm
+  - 1462D0:Starfield.esm
+  - 26FE57:Starfield.esm
+  - 27BAC2:Starfield.esm
+  - 2BCFC8:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: 350T Stellarator Reactor - Port Fore
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component
+- Spaceship_InstanceData

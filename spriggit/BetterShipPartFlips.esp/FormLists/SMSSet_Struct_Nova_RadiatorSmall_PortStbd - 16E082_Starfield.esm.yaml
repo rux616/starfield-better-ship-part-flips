@@ -1,0 +1,24 @@
+FormKey: 16E082:Starfield.esm
+EditorID: SMSSet_Struct_Nova_RadiatorSmall_PortStbd
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Nova Radiator Port Stbd
+Items:
+- 17AB24:Starfield.esm
+- 17AB23:Starfield.esm
+- 00135B:BetterShipPartFlips.esp
+- 001347:BetterShipPartFlips.esp
+- 001365:BetterShipPartFlips.esp
+- 001351:BetterShipPartFlips.esp
+- 001333:BetterShipPartFlips.esp
+- 00133D:BetterShipPartFlips.esp
+- 0013AB:BetterShipPartFlips.esp
+- 001383:BetterShipPartFlips.esp
+- 001397:BetterShipPartFlips.esp
+- 00136F:BetterShipPartFlips.esp
+- 0013B5:BetterShipPartFlips.esp
+- 00138D:BetterShipPartFlips.esp
+- 0013A1:BetterShipPartFlips.esp
+- 001379:BetterShipPartFlips.esp
+ANAM: Null

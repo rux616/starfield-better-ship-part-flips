@@ -1,0 +1,35 @@
+FormKey: 26FCD7:Starfield.esm
+EditorID: co_SMB_Reactor_Xiang_IonBeam-H-1030
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Spaceship Reactors provide power to all of your ship's systems.
+WorkbenchKeyword: 29C480:Starfield.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: HasKeywordConditionData
+    FirstParameter: 1453B4:Starfield.esm
+  ComparisonValue: 1
+- MutagenObjectType: ConditionFloat
+  CompareOperator: GreaterThanOrEqualTo
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: GetLevelConditionData
+    RunOnType: Reference
+    Reference: 000014:Starfield.esm
+  ComparisonValue: 48
+RequiredPerks:
+- Perk: 2CFCAC:Starfield.esm
+  Rank: 3
+- Perk: 2C59DC:Starfield.esm
+  Rank: 4
+CreatedObject: 004AB0:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 49
+LearnMethod: DefaultOrConditions
+Value: 51000
+Categories:
+- 29C475:Starfield.esm
+RECF: 0

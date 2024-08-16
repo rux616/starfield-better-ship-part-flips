@@ -1,0 +1,13 @@
+FormKey: 005440:BetterShipPartFlips.esp
+EditorID: ShipPI_SMOD_Shield_Dogstar_Defender-11T_Top
+FormVersion: 559
+ObjectBounds:
+  Second: 0, 0, 2.25
+ODTY: 0
+Transforms:
+  Ship: 050FA1:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Shield\Dogstar\'
+Cell: 005438:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

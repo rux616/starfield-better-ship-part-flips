@@ -1,0 +1,15 @@
+FormKey: 002B9E:BetterShipPartFlips.esp
+EditorID: SMOD_Cargo_Protectorate_Caravel-V103_Port_Zntl_NoSnap
+FormVersion: 559
+ODTY: 0
+Model:
+  File: Ships\Modules\Cargo\SMOD\SMOD_Cargo_Protectorate_Caravel-V103_Port.nif
+  MaterialSwaps:
+  - 08DF03:Starfield.esm
+  - 08DF19:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

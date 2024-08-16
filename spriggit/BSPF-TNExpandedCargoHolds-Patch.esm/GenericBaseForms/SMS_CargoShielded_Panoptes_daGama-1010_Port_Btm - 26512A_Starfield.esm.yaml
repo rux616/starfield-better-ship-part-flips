@@ -1,0 +1,33 @@
+FormKey: 26512A:Starfield.esm
+EditorID: SMS_CargoShielded_Panoptes_daGama-1010_Port_Btm
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 5
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 56
+  - ActorValue: 02B344:Starfield.esm
+    Value: 625
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 10
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 2328F6:Starfield.esm
+- MutagenObjectType: DestructibleObjectComponent
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462C4:Starfield.esm
+  - 27BABF:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: da Gama 1010 Shielded Cargo Hold
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component
+- Spaceship_InstanceData

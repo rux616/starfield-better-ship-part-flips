@@ -1,0 +1,26 @@
+FormKey: 00562E:BetterShipPartFlips.esm
+EditorID: SMS_Decorative_Shields_Vanguard_Bulwark_UC01_Port
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 3
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 005497:BetterShipPartFlips.esm
+- MutagenObjectType: DestructibleObjectComponent
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1670BE:Starfield.esm
+  - 27BABE:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: 'Decorative: Vanguard Bulwark'
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

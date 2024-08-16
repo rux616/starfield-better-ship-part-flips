@@ -1,0 +1,12 @@
+FormKey: 000A93:BetterShipPartFlips.esm
+EditorID: SMSSet_Struct_Deimos_Spine_B
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Deimos Spine B Set
+Items:
+- 22D119:Starfield.esm
+- 000A8F:BetterShipPartFlips.esm
+- 000AA5:BetterShipPartFlips.esm
+- 000AB8:BetterShipPartFlips.esm
+ANAM: Null

@@ -1,0 +1,28 @@
+FormKey: 001683:BetterShipPartFlips.esm
+EditorID: SMS_Struct_Stroud_Cap_AY90_PortAftBtm
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 6
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 50
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 30
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 001684:BetterShipPartFlips.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462BD:Starfield.esm
+  - 27BAC0:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Stroud Cap AY90 - Port Aft Bottom
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

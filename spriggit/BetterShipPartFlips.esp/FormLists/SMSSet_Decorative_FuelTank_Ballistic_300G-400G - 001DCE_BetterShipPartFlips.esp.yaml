@@ -1,0 +1,20 @@
+FormKey: 001DCE:BetterShipPartFlips.esp
+EditorID: SMSSet_Decorative_FuelTank_Ballistic_300G-400G
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Decorative Ballistic 300G/400G Set
+Items:
+- 001D04:BetterShipPartFlips.esp
+- 001D05:BetterShipPartFlips.esp
+- 001D06:BetterShipPartFlips.esp
+- 001D07:BetterShipPartFlips.esp
+- 001D08:BetterShipPartFlips.esp
+- 001D09:BetterShipPartFlips.esp
+- 001D0A:BetterShipPartFlips.esp
+- 001D0B:BetterShipPartFlips.esp
+- 001D0C:BetterShipPartFlips.esp
+- 001D0D:BetterShipPartFlips.esp
+- 001D0E:BetterShipPartFlips.esp
+- 001D0F:BetterShipPartFlips.esp
+ANAM: Null

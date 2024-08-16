@@ -1,0 +1,28 @@
+FormKey: 00575E:BetterShipPartFlips.esm
+EditorID: SMS_Decorative_Cargo_Sextant_Hauler-20T_Btm_Zntl
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 5
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 10
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 002A0E:BetterShipPartFlips.esm
+- MutagenObjectType: DestructibleObjectComponent
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462C5:Starfield.esm
+  - 27BABE:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: 'Decorative: Sextant Hauler 20T'
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

@@ -1,0 +1,33 @@
+FormKey: 00511E:BetterShipPartFlips.esp
+EditorID: SMS_Cargo_Dogstar_StorMax-50_Port_Vert
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 5
+  - ActorValue: 0002DC:Starfield.esm
+    Value: 320
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 68
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 10
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 005100:BetterShipPartFlips.esp
+- MutagenObjectType: DestructibleObjectComponent
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 27BABE:Starfield.esm
+  - 1462CD:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: StorMax 50 Cargo Hold
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component
+- Spaceship_InstanceData

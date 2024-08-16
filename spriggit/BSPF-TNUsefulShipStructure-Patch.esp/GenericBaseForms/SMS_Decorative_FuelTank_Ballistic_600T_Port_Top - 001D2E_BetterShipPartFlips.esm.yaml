@@ -1,0 +1,37 @@
+FormKey: 001D2E:BetterShipPartFlips.esm
+EditorID: SMS_Decorative_FuelTank_Ballistic_600T_Port_Top
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 5
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 20
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 15
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 00593D:BetterShipPartFlips.esm
+- MutagenObjectType: DestructibleObjectComponent
+  Destructible:
+    Data:
+      Health: 1
+      DESTCount: 1
+    Stages:
+    - Explosion: 054057:Starfield.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 00D580:Starfield.esm
+  - 1462C7:Starfield.esm
+  - 27BABF:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: 'Decorative Fuel Tank: Ballistic 600T/700T/900T'
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

@@ -1,0 +1,35 @@
+FormKey: 000841:BSPF-ShipCombatRevisedReactors-Patch.esm
+EditorID: co_SMB_Reactor_AmunDunn_Z-Machine-5000
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Spaceship Reactors provide power to all of your ship's systems. Experimental Reactor
+WorkbenchKeyword: 29C480:Starfield.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: HasKeywordConditionData
+    FirstParameter: 1453B3:Starfield.esm
+  ComparisonValue: 1
+- MutagenObjectType: ConditionFloat
+  CompareOperator: GreaterThanOrEqualTo
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: GetLevelConditionData
+    RunOnType: Reference
+    Reference: 000014:Starfield.esm
+  ComparisonValue: 59
+RequiredPerks:
+- Perk: 2CFCAC:Starfield.esm
+  Rank: 3
+- Perk: 2C59DC:Starfield.esm
+  Rank: 4
+CreatedObject: 0008BC:ith-shipreactorsf.esm
+AmountProduced: 1
+MenuSortOrder: 46.0147
+LearnMethod: DefaultOrConditions
+Value: 70700
+Categories:
+- 29C475:Starfield.esm
+RECF: 0

@@ -1,0 +1,14 @@
+FormKey: 0052D2:BetterShipPartFlips.esp
+EditorID: SMOD_Shield_Protectorate_Marduk-1010-A_Top_NoSnap
+FormVersion: 559
+ODTY: 0
+Model:
+  File: Ships\Modules\Shield\SMOD\SMOD_Shield_Protectorate_Marduk-1010-A.nif
+  MaterialSwaps:
+  - 1615E1:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

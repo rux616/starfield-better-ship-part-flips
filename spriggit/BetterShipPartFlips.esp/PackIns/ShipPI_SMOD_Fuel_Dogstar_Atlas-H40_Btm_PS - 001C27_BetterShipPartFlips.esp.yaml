@@ -1,0 +1,14 @@
+FormKey: 001C27:BetterShipPartFlips.esp
+EditorID: ShipPI_SMOD_Fuel_Dogstar_Atlas-H40_Btm_PS
+FormVersion: 559
+ObjectBounds:
+  First: -3.8476565, -1.3730471, -4.082031
+  Second: 3.8476562, 1.373047, 1.7499998
+ODTY: 0
+Transforms:
+  Ship: 050FBE:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Fuel\Dogstar\'
+Cell: 001C28:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

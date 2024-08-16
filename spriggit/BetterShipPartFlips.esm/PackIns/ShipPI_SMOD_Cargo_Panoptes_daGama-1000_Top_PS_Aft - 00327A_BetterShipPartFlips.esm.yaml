@@ -1,0 +1,13 @@
+FormKey: 00327A:BetterShipPartFlips.esm
+EditorID: ShipPI_SMOD_Cargo_Panoptes_daGama-1000_Top_PS_Aft
+FormVersion: 559
+ObjectBounds:
+  First: 0, 0, -1.75
+ODTY: 0
+Transforms:
+  Ship: 050FBE:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Cargo\Panoptes\'
+Cell: 0031CE:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

@@ -1,0 +1,11 @@
+FormKey: 0023D9:BetterShipPartFlips.esm
+EditorID: ShipPI_SMOD_Shield_Sextant_Warden-SG-100-Base_Top
+FormVersion: 559
+ODTY: 0
+Transforms:
+  Ship: 050FA1:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Shield\Sextant\'
+Cell: 0023DA:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

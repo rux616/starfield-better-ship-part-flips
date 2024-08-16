@@ -1,0 +1,16 @@
+FormKey: 004142:BetterShipPartFlips.esm
+EditorID: SMOD_Cargo_Panoptes_Polo-2000_Btm_Zntl_NoSnap
+FormVersion: 559
+ODTY: 0
+Model:
+  File: Ships\Modules\Cargo\SMOD\SMOD_Cargo_Panoptes_Polo-2000.nif
+  MaterialSwaps:
+  - 03EF76:Starfield.esm
+  - 03EF80:Starfield.esm
+  - 22BEF1:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

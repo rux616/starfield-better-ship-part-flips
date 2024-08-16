@@ -47,7 +47,7 @@
       "label": "Render Markdown to Plaintext",
       "type": "shell",
       "command": "./support/common/scripts/markdown-to-plaintext.ps1",
-      "args": ["./support/docs/README.md", "./support/docs/CHANGELOG.md"]
+      "args": ["./support/docs/README.md", "./support/docs/CHANGELOG.md", "./support/docs/README.patches.md"]
     },
     {
       "label": "Serialize plugins",
@@ -56,10 +56,29 @@
       "args": ["-Starfield", "-YAML"]
     },
     {
+      "label": "Create Archives (Ship Colorize Patch BA2)",
+      "type": "shell",
+      "command": "./support/common/scripts/build-archives.ps1",
+      "args": [
+        "-DataDir",
+        "./data-shipcolorize-patch",
+        "-PluginName",
+        "BSPF-ShipColorize-Patch",
+        "-Starfield",
+        "-Skip7z",
+        "-SkipBA2Cleanup",
+        "-BA2AlsoMakeXbox",
+        "-BA2ForceUncompressed",
+        "-BA2DisableSharing"
+      ]
+    },
+    {
       "label": "Create Archives",
       "type": "shell",
       "command": "./support/common/scripts/build-archives.ps1",
-      "args": ["-ModName", "Better Ship Part Flips", "-Starfield"]
+      "args": ["-ModName", "Better Ship Part Flips", "-Starfield", "-SkipBA2", "-SkipBA2Cleanup"],
+      "dependsOrder": "parallel",
+      "dependsOn": ["Create Archives (Ship Colorize Patch BA2)"]
     },
     {
       "label": "Create xTranslator Batch Processor Script",

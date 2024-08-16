@@ -1,0 +1,19 @@
+FormKey: 001CC2:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Fuel_Nautilus_Titan-350_Fore_Zntl
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -3.810547, -0.0002439135, -1.7011719
+  Second: 3.8105469, 4, 1.7011719
+ODTY: 0
+Transforms:
+  Ship: 050FBE:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Fuel\Nautilus\'
+Cell: 001CC3:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

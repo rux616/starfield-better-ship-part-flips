@@ -1,0 +1,20 @@
+FormKey: 16AE4B:Starfield.esm
+EditorID: SMSSet_Cargo_Sextant_Ballast-400CM
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Sextant Ballast 400CM Set
+Items:
+- 27047F:Starfield.esm
+- 17AB4D:Starfield.esm
+- 001F78:BetterShipPartFlips.esm
+- 0020B0:BetterShipPartFlips.esm
+- 002407:BetterShipPartFlips.esm
+- 0024A8:BetterShipPartFlips.esm
+- 0024C6:BetterShipPartFlips.esm
+- 0024D1:BetterShipPartFlips.esm
+- 0024E3:BetterShipPartFlips.esm
+- 0024E4:BetterShipPartFlips.esm
+- 00266F:BetterShipPartFlips.esm
+- 002691:BetterShipPartFlips.esm
+ANAM: Null

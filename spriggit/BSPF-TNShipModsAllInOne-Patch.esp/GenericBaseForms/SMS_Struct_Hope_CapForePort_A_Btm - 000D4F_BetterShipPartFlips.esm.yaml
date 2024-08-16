@@ -1,0 +1,28 @@
+FormKey: 000D4F:BetterShipPartFlips.esm
+EditorID: SMS_Struct_Hope_CapForePort_A_Btm
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 4
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 10
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 10
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 000D50:BetterShipPartFlips.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 27BAC3:Starfield.esm
+  - 1462C1:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: HopeTech Cap A - Port Fore Bottom
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

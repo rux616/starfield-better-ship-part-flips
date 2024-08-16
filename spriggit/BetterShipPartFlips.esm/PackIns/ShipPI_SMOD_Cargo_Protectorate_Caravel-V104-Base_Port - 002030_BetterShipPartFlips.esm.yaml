@@ -1,0 +1,16 @@
+FormKey: 002030:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Cargo_Protectorate_Caravel-V104-Base_Port
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ODTY: 0
+Transforms:
+  Ship: 0A29B9:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Cargo\Protectorate\'
+Cell: 002031:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

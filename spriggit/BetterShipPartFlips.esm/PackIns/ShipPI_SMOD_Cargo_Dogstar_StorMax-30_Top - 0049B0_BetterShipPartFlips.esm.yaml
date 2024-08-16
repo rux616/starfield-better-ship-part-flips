@@ -1,0 +1,14 @@
+FormKey: 0049B0:BetterShipPartFlips.esm
+EditorID: ShipPI_SMOD_Cargo_Dogstar_StorMax-30_Top
+FormVersion: 559
+ObjectBounds:
+  First: -1.5908194, -3.9882812, -1.5859373
+  Second: 1.5908194, 3.9882812, 6.002018
+ODTY: 0
+Transforms:
+  Ship: 050FBE:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Cargo\Dogstar\'
+Cell: 004622:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

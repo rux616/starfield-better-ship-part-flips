@@ -1,0 +1,28 @@
+FormKey: 00091D:BetterShipPartFlips.esm
+EditorID: SMS_Struct_Deimos_Bumper_BtmMid
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 3
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 20
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 15
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 0008EB:BetterShipPartFlips.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462C0:Starfield.esm
+  - 27BABE:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Deimos Bumper - Bottom Mid
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

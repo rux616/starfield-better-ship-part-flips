@@ -1,0 +1,14 @@
+FormKey: 002DBF:BetterShipPartFlips.esp
+EditorID: SMOD_GravDrive_Reladyne_J-50-Gamma_NoSnap
+FormVersion: 559
+ObjectBounds:
+  First: -4, -4.0195312, -3.5
+  Second: 4, 4.0195312, 3.5
+ODTY: 0
+Model:
+  File: Ships\Modules\Grav\SMOD\SMOD_Grav_Reladyne_J-50-Gamma.nif
+  FLLD: 0x01000000
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

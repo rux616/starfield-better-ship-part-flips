@@ -1,4 +1,43 @@
 # To Do List
 
-- [ ] Add Taiyo structural modules
-- [ ] Add more variables of Stroud engine mounts
+- [ ] add Taiyo structural modules
+    - [ ] taiyo ramp
+        - [ ] top port
+        - [ ] top stbd
+        - [ ] btm fore
+        - [ ] btm aft
+        - [ ] btm port
+        - [ ] btm stbd
+        - [ ] port fore
+        - [ ] port aft
+        - [ ] port top
+        - [ ] port btm
+        - [ ] stbd fore
+        - [ ] stbd aft
+        - [ ] stbd top
+        - [ ] stbd btm
+        - [ ] fore port
+        - [ ] fore stbd
+        - [ ] fore top
+        - [ ] fore btm
+        - [ ] aft port
+        - [ ] aft stbd
+        - [ ] aft top
+        - [ ] aft btm
+- [ ] review older structure parts to see if more variants need to be added
+- [ ] add more variants of Stroud engine mounts
+- [ ] add more variants of Nova cowling
+- [ ] add more variants of stroud cap A
+- [ ] add more variants of stroud cap C
+- [ ] convert existing ship part flips to use clones including decals
+    - [ ] for parts with thrusters, re-align them as well
+- [X] merge JIYTv2 (need to finish reactors first)
+- [ ] create module icons (https://www.reddit.com/r/starfieldmods/comments/1e3tc8r/how_to_add_menu_images_for_your_constructable/)
+    - CK CLI options: https://gist.github.com/rux616/73e25d13ae578706bc9e3ea5b96ca304
+- [X] finish v1.1.0
+    - [X] make TN's Useful Ship Structure (Hull Buffs) patch
+    - [X] make TN's Separated Categories patch
+    - [X] make TN's Expanded Cargo Holds patch
+    - [X] make Ship Combat Revised patches
+- [ ] add patch for Starfield Extended - More Shielded Cargo Bays Rebalanced
+- [ ] add patch for Starfield Extended - Reactors Rebalanced

@@ -1,0 +1,15 @@
+FormKey: 26F0F7:Starfield.esm
+EditorID: co_SMC_Shields_Sextant_Assurance_SG-1000
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Spaceship Shield Modules help protect your ship from incoming damage.
+WorkbenchKeyword: 29C480:Starfield.esm
+CreatedObject: 005466:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 47
+LearnMethod: DefaultOrConditions
+Value: 27300
+Categories:
+- 29C476:Starfield.esm
+RECF: 0

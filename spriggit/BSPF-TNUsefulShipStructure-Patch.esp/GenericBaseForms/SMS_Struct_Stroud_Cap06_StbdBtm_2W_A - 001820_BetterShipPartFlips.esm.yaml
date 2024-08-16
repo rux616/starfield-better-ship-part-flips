@@ -1,0 +1,28 @@
+FormKey: 001820:BetterShipPartFlips.esm
+EditorID: SMS_Struct_Stroud_Cap06_StbdBtm_2W_A
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 30
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 10
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 30
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 001821:BetterShipPartFlips.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462BD:Starfield.esm
+  - 27BABE:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Stroud Nose Cap 2B - Starboard Bottom
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

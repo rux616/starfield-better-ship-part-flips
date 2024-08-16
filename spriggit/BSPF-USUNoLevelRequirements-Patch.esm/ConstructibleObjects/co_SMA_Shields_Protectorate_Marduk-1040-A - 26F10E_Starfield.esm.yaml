@@ -1,0 +1,33 @@
+FormKey: 26F10E:Starfield.esm
+EditorID: co_SMA_Shields_Protectorate_Marduk-1040-A
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Spaceship Shield Modules help protect your ship from incoming damage.
+WorkbenchKeyword: 29C480:Starfield.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: HasKeywordConditionData
+    FirstParameter: 143C9F:Starfield.esm
+  ComparisonValue: 1
+- MutagenObjectType: ConditionFloat
+  CompareOperator: GreaterThanOrEqualTo
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: GetLevelConditionData
+    RunOnType: Reference
+    Reference: 000014:Starfield.esm
+  ComparisonValue: 1
+RequiredPerks:
+- Perk: 2C59DC:Starfield.esm
+  Rank: 4
+CreatedObject: 005308:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 15
+LearnMethod: DefaultOrConditions
+Value: 19400
+Categories:
+- 29C476:Starfield.esm
+RECF: 0

@@ -1,0 +1,18 @@
+FormKey: 00527C:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Shield_Nautilus_Bastille-S80_Btm_Vert
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: 0, 0, -2.25
+ODTY: 0
+Transforms:
+  Ship: 050FA1:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Shield\Nautilus\'
+Cell: 00523C:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

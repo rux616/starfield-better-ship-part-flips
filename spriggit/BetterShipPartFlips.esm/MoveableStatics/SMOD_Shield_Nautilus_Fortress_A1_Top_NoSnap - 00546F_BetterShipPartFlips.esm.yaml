@@ -1,0 +1,22 @@
+FormKey: 00546F:BetterShipPartFlips.esm
+EditorID: SMOD_Shield_Nautilus_Fortress_A1_Top_NoSnap
+FormVersion: 559
+ODTY: 0
+Model:
+  File: Ships\Modules\Shield\smod\SMOD_Shield_Nautilus_Fortress_A1.nif
+  MaterialSwaps:
+  - 0991AF:Starfield.esm
+  - 0991B7:Starfield.esm
+  - 0991CE:Starfield.esm
+  - 0B6B0D:Starfield.esm
+  - 0B6B0E:Starfield.esm
+  - 0B6B0F:Starfield.esm
+  - 0B6B22:Starfield.esm
+  - 2D7344:Starfield.esm
+  - 2F259E:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

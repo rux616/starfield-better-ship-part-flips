@@ -1,0 +1,14 @@
+FormKey: 17120D:Starfield.esm
+EditorID: SMBSet_Shields_Dogstar_Defender-44T
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Dogstar Defender 44T Set
+Items:
+- 26F985:Starfield.esm
+- 17AB3A:Starfield.esm
+- 005445:BetterShipPartFlips.esp
+- 005446:BetterShipPartFlips.esp
+- 005447:BetterShipPartFlips.esp
+- 005448:BetterShipPartFlips.esp
+ANAM: Null

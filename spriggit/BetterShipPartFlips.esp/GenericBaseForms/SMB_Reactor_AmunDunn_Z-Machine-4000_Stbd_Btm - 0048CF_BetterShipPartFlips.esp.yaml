@@ -1,0 +1,48 @@
+FormKey: 0048CF:BetterShipPartFlips.esp
+EditorID: SMB_Reactor_AmunDunn_Z-Machine-4000_Stbd_Btm
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 995
+  - ActorValue: 001018:Starfield.esm
+    Value: 35
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 75
+  - ActorValue: 019080:Starfield.esm
+    Value: 2
+  - ActorValue: 01CAC0:Starfield.esm
+    Value: 3.75
+  - ActorValue: 1EF0CA:Starfield.esm
+    Value: 75
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 40
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 00484F:BetterShipPartFlips.esp
+- MutagenObjectType: DestructibleObjectComponent
+  Destructible:
+    Data:
+      Health: 1
+      DESTCount: 1
+    Stages:
+    - Explosion: 05B098:Starfield.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 00D580:Starfield.esm
+  - 1462D0:Starfield.esm
+  - 26FE56:Starfield.esm
+  - 27BABF:Starfield.esm
+  - 2BCFCC:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Z-Machine 4000 Reactor - Stbd Btm
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component
+- Spaceship_InstanceData

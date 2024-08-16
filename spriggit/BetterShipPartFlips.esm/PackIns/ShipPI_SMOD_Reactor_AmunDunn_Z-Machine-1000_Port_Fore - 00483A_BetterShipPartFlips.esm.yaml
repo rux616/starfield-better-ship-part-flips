@@ -1,0 +1,19 @@
+FormKey: 00483A:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Reactor_AmunDunn_Z-Machine-1000_Port_Fore
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -1.739258, -4.000001, -3.999999
+  Second: 1.739258, 3.5292978, 3.999999
+ODTY: 0
+Transforms:
+  Ship: 15E828:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Reactors\AmunDunn\'
+Cell: 00483B:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

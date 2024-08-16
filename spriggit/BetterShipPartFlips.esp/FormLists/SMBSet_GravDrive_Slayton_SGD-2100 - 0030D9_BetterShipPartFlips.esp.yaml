@@ -1,0 +1,32 @@
+FormKey: 0030D9:BetterShipPartFlips.esp
+EditorID: SMBSet_GravDrive_Slayton_SGD-2100
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Slayton SGD 2100 Set
+Items:
+- 0030DA:BetterShipPartFlips.esp
+- 0030E1:BetterShipPartFlips.esp
+- 0030E8:BetterShipPartFlips.esp
+- 0030EF:BetterShipPartFlips.esp
+- 0030F6:BetterShipPartFlips.esp
+- 0030FD:BetterShipPartFlips.esp
+- 003104:BetterShipPartFlips.esp
+- 00310B:BetterShipPartFlips.esp
+- 003112:BetterShipPartFlips.esp
+- 003119:BetterShipPartFlips.esp
+- 003120:BetterShipPartFlips.esp
+- 003127:BetterShipPartFlips.esp
+- 00312E:BetterShipPartFlips.esp
+- 003135:BetterShipPartFlips.esp
+- 00313C:BetterShipPartFlips.esp
+- 003143:BetterShipPartFlips.esp
+- 00314A:BetterShipPartFlips.esp
+- 003151:BetterShipPartFlips.esp
+- 003158:BetterShipPartFlips.esp
+- 00315F:BetterShipPartFlips.esp
+- 26AE40:Starfield.esm
+- 003185:BetterShipPartFlips.esp
+- 00318C:BetterShipPartFlips.esp
+- 003193:BetterShipPartFlips.esp
+ANAM: Null

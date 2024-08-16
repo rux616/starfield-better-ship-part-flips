@@ -1,0 +1,20 @@
+FormKey: 002A25:BetterShipPartFlips.esp
+EditorID: SMSSet_Cargo_Sextant_Hauler-20T
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Sextant Hauler 20T Set
+Items:
+- 27047A:Starfield.esm
+- 002A1B:BetterShipPartFlips.esp
+- 002A20:BetterShipPartFlips.esp
+- 002A18:BetterShipPartFlips.esp
+- 002A1C:BetterShipPartFlips.esp
+- 002A21:BetterShipPartFlips.esp
+- 002A1E:BetterShipPartFlips.esp
+- 002A22:BetterShipPartFlips.esp
+- 002A1F:BetterShipPartFlips.esp
+- 002A23:BetterShipPartFlips.esp
+- 002A19:BetterShipPartFlips.esp
+- 002A1A:BetterShipPartFlips.esp
+ANAM: Null

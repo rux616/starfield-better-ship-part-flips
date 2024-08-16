@@ -1,0 +1,14 @@
+FormKey: 005649:BetterShipPartFlips.esp
+EditorID: SMSSet_Decorative_Shields_Dogstar_Defender
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Decorative Dogstar Defender Set
+Items:
+- 005613:BetterShipPartFlips.esp
+- 005614:BetterShipPartFlips.esp
+- 005615:BetterShipPartFlips.esp
+- 005616:BetterShipPartFlips.esp
+- 005617:BetterShipPartFlips.esp
+- 005618:BetterShipPartFlips.esp
+ANAM: Null

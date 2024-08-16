@@ -1,0 +1,39 @@
+FormKey: 001A01:BetterShipPartFlips.esm
+EditorID: SMS_FuelTank_Dogstar_Ulysses-M10_Port_Btm
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 0002D4:Starfield.esm
+    Value: 5
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 30
+  - ActorValue: 00854F:Starfield.esm
+    Value: 50
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 12
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 0019EA:BetterShipPartFlips.esm
+- MutagenObjectType: DestructibleObjectComponent
+  Destructible:
+    Data:
+      Health: 1
+      DESTCount: 1
+    Stages:
+    - Explosion: 054057:Starfield.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 00D580:Starfield.esm
+  - 27BAC2:Starfield.esm
+  - 1462CD:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Ulysses M10 He3 Tank
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

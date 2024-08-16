@@ -1,0 +1,14 @@
+FormKey: 005654:BetterShipPartFlips.esp
+EditorID: SMSSet_Decorative_Shields_Protectorate_Odin
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Decorative Protectorate Odin Set
+Items:
+- 00563D:BetterShipPartFlips.esp
+- 00563E:BetterShipPartFlips.esp
+- 00563F:BetterShipPartFlips.esp
+- 005640:BetterShipPartFlips.esp
+- 005641:BetterShipPartFlips.esp
+- 005642:BetterShipPartFlips.esp
+ANAM: Null

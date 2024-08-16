@@ -1,0 +1,11 @@
+FormKey: 0058B7:BetterShipPartFlips.esm
+EditorID: SMSSet_FuelTank_Ballistic_500T
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Ballistic 500T Set
+Items:
+- 0058B5:BetterShipPartFlips.esm
+- 0058B6:BetterShipPartFlips.esm
+- 2704A0:Starfield.esm
+ANAM: Null

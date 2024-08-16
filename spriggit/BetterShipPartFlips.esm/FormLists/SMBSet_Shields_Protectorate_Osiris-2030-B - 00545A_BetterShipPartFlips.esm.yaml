@@ -1,0 +1,14 @@
+FormKey: 00545A:BetterShipPartFlips.esm
+EditorID: SMBSet_Shields_Protectorate_Osiris-2030-B
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Protectorate Osiris 2030-B Set
+Items:
+- 00558D:BetterShipPartFlips.esm
+- 00558E:BetterShipPartFlips.esm
+- 00558F:BetterShipPartFlips.esm
+- 005590:BetterShipPartFlips.esm
+- 005591:BetterShipPartFlips.esm
+- 26F132:Starfield.esm
+ANAM: Null

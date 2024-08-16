@@ -1,0 +1,20 @@
+FormKey: 26FCF6:Starfield.esm
+EditorID: co_SMC_Reactor_Dogstar_SF40-ShearedFlow
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Spaceship Reactors provide power to all of your ship's systems.
+WorkbenchKeyword: 29C480:Starfield.esm
+RequiredPerks:
+- Perk: 2CFCAC:Starfield.esm
+  Rank: 4
+- Perk: 2C59DC:Starfield.esm
+  Rank: 4
+CreatedObject: 004E3D:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 50.25
+LearnMethod: DefaultOrConditions
+Value: 81700
+Categories:
+- 29C475:Starfield.esm
+RECF: 0

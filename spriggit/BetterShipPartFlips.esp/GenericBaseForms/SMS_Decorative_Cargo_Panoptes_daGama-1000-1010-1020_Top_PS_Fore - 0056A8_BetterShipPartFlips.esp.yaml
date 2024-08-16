@@ -1,0 +1,28 @@
+FormKey: 0056A8:BetterShipPartFlips.esp
+EditorID: SMS_Decorative_Cargo_Panoptes_daGama-1000-1010-1020_Top_PS_Fore
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 5
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 60
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 00327B:BetterShipPartFlips.esp
+- MutagenObjectType: DestructibleObjectComponent
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462C4:Starfield.esm
+  - 27BAC2:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: 'Decorative: Panoptes da Gama 1000/1010/1020'
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

@@ -1,0 +1,18 @@
+FormKey: 00537C:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Shield_Sextant_Deflector_SG-10_Btm_Aft
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: 0, 0, -2.25
+ODTY: 0
+Transforms:
+  Ship: 050FA1:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Shield\Sextant\'
+Cell: 00536E:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

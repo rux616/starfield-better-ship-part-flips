@@ -1,0 +1,35 @@
+FormKey: 001D4C:BetterShipPartFlips.esp
+EditorID: SMS_Decorative_FuelTank_Dogstar_Atlas-H10_Btm_PS
+FormVersion: 559
+ODTY: 0
+Components:
+- MutagenObjectType: AttachParentArrayComponent
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 5
+  - ActorValue: 27BACE:Starfield.esm
+    Value: 50
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 001B97:BetterShipPartFlips.esp
+- MutagenObjectType: DestructibleObjectComponent
+  Destructible:
+    Data:
+      Health: 1
+      DESTCount: 1
+    Stages:
+    - Explosion: 054057:Starfield.esm
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 27BAC5:Starfield.esm
+  - 00D580:Starfield.esm
+  - 1462CD:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: 'Decorative: Dogstar Atlas H10'
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

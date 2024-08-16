@@ -1,0 +1,30 @@
+FormKey: 26F109:Starfield.esm
+EditorID: co_SMC_Shields_Protectorate_Odin_3030-C
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Spaceship Shield Modules help protect your ship from incoming damage.
+WorkbenchKeyword: 29C480:Starfield.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: HasKeywordConditionData
+    FirstParameter: 143C9F:Starfield.esm
+  ComparisonValue: 1
+- MutagenObjectType: ConditionFloat
+  CompareOperator: GreaterThanOrEqualTo
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: GetLevelConditionData
+    RunOnType: Reference
+    Reference: 000014:Starfield.esm
+  ComparisonValue: 24
+CreatedObject: 005463:BetterShipPartFlips.esp
+AmountProduced: 1
+MenuSortOrder: 52
+LearnMethod: DefaultOrConditions
+Value: 26400
+Categories:
+- 29C476:Starfield.esm
+RECF: 0

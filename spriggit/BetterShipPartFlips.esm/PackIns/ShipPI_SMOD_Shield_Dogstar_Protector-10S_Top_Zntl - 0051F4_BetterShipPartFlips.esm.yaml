@@ -1,0 +1,14 @@
+FormKey: 0051F4:BetterShipPartFlips.esm
+EditorID: ShipPI_SMOD_Shield_Dogstar_Protector-10S_Top_Zntl
+FormVersion: 559
+ObjectBounds:
+  First: -1.6261324, -1.4459468, -3.6470551
+  Second: 1.6349554, 1.423049, -1.8363608E-07
+ODTY: 0
+Transforms:
+  Ship: 050FAC:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Shield\Dogstar\'
+Cell: 0051EA:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []

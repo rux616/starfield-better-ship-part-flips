@@ -1,0 +1,19 @@
+FormKey: 004328:BetterShipPartFlips.esp
+EditorID: SMOD_Reactor_Dogstar_114MM-Toroidal_NoSnap
+FormVersion: 559
+ObjectBounds:
+  First: -4.0078125, -4.0039062, -1.7509766
+  Second: 4.0078125, 4.0039062, 1.7548828
+ODTY: 0
+Model:
+  File: Ships\Modules\Reactor\SMOD\SMOD_Reactor_DogStar_114MM.nif
+  MaterialSwaps:
+  - 0B6B10:Starfield.esm
+  - 2AF78A:Starfield.esm
+  - 0B6B22:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 207960:Starfield.esm
+- 1BB401:Starfield.esm
+DATA: 4

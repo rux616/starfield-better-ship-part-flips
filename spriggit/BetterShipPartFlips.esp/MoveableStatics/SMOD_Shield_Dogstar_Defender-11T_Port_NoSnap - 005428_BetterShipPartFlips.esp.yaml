@@ -1,0 +1,17 @@
+FormKey: 005428:BetterShipPartFlips.esp
+EditorID: SMOD_Shield_Dogstar_Defender-11T_Port_NoSnap
+FormVersion: 559
+ODTY: 0
+Model:
+  File: Ships\Modules\Shield\SMOD\SMOD_Shield_Dogstar_11T-Guardian_Port.nif
+  MaterialSwaps:
+  - 0B6B0D:Starfield.esm
+  - 0B6B16:Starfield.esm
+  - 0B6B1A:Starfield.esm
+  - 0B6B2D:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

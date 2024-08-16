@@ -1,0 +1,35 @@
+FormKey: 26BAD3:Starfield.esm
+EditorID: co_SMC_Reactor_DeepCore_Fusor-DC402
+FormVersion: 559
+Description:
+  TargetLanguage: English
+  Value: Spaceship Reactors provide power to all of your ship's systems.
+WorkbenchKeyword: 29C480:Starfield.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: HasKeywordConditionData
+    FirstParameter: 14539F:Starfield.esm
+  ComparisonValue: 1
+- MutagenObjectType: ConditionFloat
+  CompareOperator: GreaterThanOrEqualTo
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: GetLevelConditionData
+    RunOnType: Reference
+    Reference: 000014:Starfield.esm
+  ComparisonValue: 1
+RequiredPerks:
+- Perk: 2CFCAC:Starfield.esm
+  Rank: 4
+- Perk: 2C59DC:Starfield.esm
+  Rank: 2
+CreatedObject: 004D52:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 67
+LearnMethod: DefaultOrConditions
+Value: 65800
+Categories:
+- 29C475:Starfield.esm
+RECF: 0

@@ -1,0 +1,30 @@
+FormKey: 00213B:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Cargo_Sextant_Ballast-100CM-Base_Aft_Btm
+FormVersion: 559
+StarfieldMajorRecordFlags:
+- 0x200
+ODTY: 0
+ObjectPlacementDefaults:
+  Unknown5: 1E-45
+  Unknown6: 1
+  Unknown14: 1
+  Unknown16: 1
+  Unknown17: 1
+  Unknown20: 3.4028235E+38
+Transforms:
+  Ship: 050FBE:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Cargo\Sextant\'
+ObjectPlacementDefaults2:
+  Unknown5: 1E-45
+  Unknown6: 1
+  Unknown14: 1
+  Unknown16: 1
+  Unknown17: 1
+  Unknown20: 3.4028235E+38
+Cell: 00213C:BetterShipPartFlips.esm
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab
