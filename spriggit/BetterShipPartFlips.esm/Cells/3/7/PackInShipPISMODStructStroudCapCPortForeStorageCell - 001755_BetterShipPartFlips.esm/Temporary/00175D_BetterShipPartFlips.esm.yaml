@@ -1,9 +1,0 @@
-MutagenObjectType: PlacedObject
-FormKey: 00175D:BetterShipPartFlips.esm
-MajorRecordFlagsRaw: 256
-FormVersion: 559
-StarfieldMajorRecordFlags:
-- 0x100
-Base: 0B6A20:Starfield.esm
-Position: 0.9673, -7.5672, -4.3469
-Rotation: 0, 1.5707963, 0

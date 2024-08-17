@@ -35,6 +35,26 @@ XCLAs:
 - XCLA: 4
   XCLD: Default Layer Name 4
 ImageSpace: 06AD68:Starfield.esm
-Timestamp: 12560
-TemporaryTimestamp: 12560
 TemporaryUnknownGroupData: 1
+Temporary:
+- MutagenObjectType: PlacedObject
+  FormKey: 001024:BetterShipPartFlips.esm
+  FormVersion: 559
+  Components:
+  - MutagenObjectType: KeywordFormComponent
+    Keywords:
+    - 140158:Starfield.esm
+  Base: 001023:BetterShipPartFlips.esm
+  Rotation: 0, 3.1415925, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 001026:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 015804:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 001027:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 03F808:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 001028:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 001020:BetterShipPartFlips.esm

@@ -26,6 +26,42 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
-Timestamp: 12560
-TemporaryTimestamp: 12560
 TemporaryUnknownGroupData: 1
+Temporary:
+- MutagenObjectType: PlacedObject
+  FormKey: 0058AB:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 015804:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 0058AC:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 03F808:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 0058AD:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 0024DC:BetterShipPartFlips.esp
+  Position: 0, -2.25, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 0058AE:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 0021FD:BetterShipPartFlips.esp
+  Rotation: 1.5707963, 0, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 0058AF:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 0024D8:BetterShipPartFlips.esp
+  Position: 0, 2.25, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 0058B0:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 00413D:BetterShipPartFlips.esp
+- MutagenObjectType: PlacedObject
+  FormKey: 0058B1:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 0024C0:BetterShipPartFlips.esp
+  Position: 0, 0, 2.25
+- MutagenObjectType: PlacedObject
+  FormKey: 0058B2:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 0024C5:BetterShipPartFlips.esp
+  Position: 0, 0, -2.25

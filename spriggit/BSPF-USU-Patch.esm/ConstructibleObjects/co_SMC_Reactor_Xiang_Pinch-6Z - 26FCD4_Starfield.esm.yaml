@@ -7,14 +7,12 @@ Description:
 WorkbenchKeyword: 29C480:Starfield.esm
 Conditions:
 - MutagenObjectType: ConditionFloat
-  Unknown1: 0x000000
   Data:
     MutagenObjectType: HasKeywordConditionData
     FirstParameter: 1453B4:Starfield.esm
   ComparisonValue: 1
 - MutagenObjectType: ConditionFloat
   CompareOperator: GreaterThanOrEqualTo
-  Unknown1: 0x000000
   Data:
     MutagenObjectType: GetLevelConditionData
     RunOnType: Reference

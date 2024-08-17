@@ -26,6 +26,199 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
-Timestamp: 12560
-TemporaryTimestamp: 12560
 TemporaryUnknownGroupData: 1
+Temporary:
+- MutagenObjectType: PlacedObject
+  FormKey: 00082D:BSPF-ShipColorize-Patch.esm
+  FormVersion: 559
+  Components:
+  - MutagenObjectType: KeywordFormComponent
+    Keywords:
+    - 140158:Starfield.esm
+  Base: 000881:BSPF-ShipColorize-Patch.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 00082E:BSPF-ShipColorize-Patch.esm
+  FormVersion: 559
+  Base: 03F808:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 00082F:BSPF-ShipColorize-Patch.esm
+  FormVersion: 559
+  Base: 000802:BSPF-ShipColorize-Patch.esm
+  Rotation: 0.24497865, 1.5707964, 3.3865716
+- MutagenObjectType: PlacedObject
+  FormKey: 000830:BSPF-ShipColorize-Patch.esm
+  FormVersion: 559
+  Base: 015804:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 000832:BSPF-ShipColorize-Patch.esm
+  FormVersion: 559
+  Base: 003316:Starfield.esm
+  ConstrainedDecal: 6, 1, 0.5
+  Position: 0.23026122, 3.7499998, -0.04958394
+  Rotation: -1.5707964, 5.9604666E-08, 3.141593
+- MutagenObjectType: PlacedObject
+  FormKey: 000833:BSPF-ShipColorize-Patch.esm
+  FormVersion: 559
+  Base: 003316:Starfield.esm
+  ConstrainedDecal: 6, 1, 0.5
+  Position: 0.23026122, -3.9071665, -0.04958394
+  Rotation: 1.5707965, -2.831221E-07, 4.7683707E-07
+- MutagenObjectType: PlacedObject
+  FormKey: 000834:BSPF-ShipColorize-Patch.esm
+  MajorRecordFlagsRaw: 256
+  FormVersion: 559
+  StarfieldMajorRecordFlags:
+  - 0x100
+  Base: 0B6A20:Starfield.esm
+  Position: -0.03872171, 3.7445583, 1.6037068
+- MutagenObjectType: PlacedObject
+  FormKey: 000835:BSPF-ShipColorize-Patch.esm
+  MajorRecordFlagsRaw: 256
+  FormVersion: 559
+  StarfieldMajorRecordFlags:
+  - 0x100
+  Base: 0B6A20:Starfield.esm
+  Position: -0.03872171, -3.781155, 1.6037068
+- MutagenObjectType: PlacedObject
+  FormKey: 000836:BSPF-ShipColorize-Patch.esm
+  MajorRecordFlagsRaw: 256
+  FormVersion: 559
+  StarfieldMajorRecordFlags:
+  - 0x100
+  Base: 0B6A20:Starfield.esm
+  Position: -0.03872171, 3.7445583, -1.5387489
+- MutagenObjectType: PlacedObject
+  FormKey: 000837:BSPF-ShipColorize-Patch.esm
+  FormVersion: 559
+  Base: 003316:Starfield.esm
+  ConstrainedDecal: 6, 1, 0.5
+  Position: 0.514165, 0.016966596, 1.4999999
+  Rotation: 3.1415925, 4.768373E-07, 1.5707964
+- MutagenObjectType: PlacedObject
+  FormKey: 000838:BSPF-ShipColorize-Patch.esm
+  MajorRecordFlagsRaw: 256
+  FormVersion: 559
+  StarfieldMajorRecordFlags:
+  - 0x100
+  Base: 0B6A20:Starfield.esm
+  Position: -0.03872171, -3.781155, -1.5387489
+- MutagenObjectType: PlacedObject
+  FormKey: 000839:BSPF-ShipColorize-Patch.esm
+  FormVersion: 559
+  Base: 1F560E:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.35
+    UnknownInt: 2880154369
+  ConstrainedDecal: 4, 2, 0.5
+  Position: 0.22800408, 3.7499993, -0.029746799
+  Rotation: -1.5707966, -2.891253E-08, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 00083A:BSPF-ShipColorize-Patch.esm
+  FormVersion: 559
+  Base: 1F560E:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.17499995
+    UnknownInt: 2880154369
+  ConstrainedDecal: 4, 2, 0.5
+  Position: -0.51462364, -1.6683942, 1.2781059
+  Rotation: -3.1415925, 8.837642E-09, 4.6381855
+- MutagenObjectType: PlacedObject
+  FormKey: 00083B:BSPF-ShipColorize-Patch.esm
+  FormVersion: 559
+  Base: 05ABE9:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.25000042
+    UnknownInt: 2880154369
+  ConstrainedDecal: 4.5399995, 4.3699994, 0.1
+  Position: -0.81721586, 3.751953, -0.23934798
+  Rotation: -1.5707966, -2.891253E-08, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 00083C:BSPF-ShipColorize-Patch.esm
+  FormVersion: 559
+  Base: 05ABE9:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.25000042
+    UnknownInt: 2880154369
+  ConstrainedDecal: 4.5399995, 4.3699994, 0.1
+  Position: -1.9678998, -0.205775, 1.496672
+  Rotation: 3.1415925, -1.1565001E-07, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 00083D:BSPF-ShipColorize-Patch.esm
+  FormVersion: 559
+  Base: 1F560E:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.17499995
+    UnknownInt: 2880154369
+  ConstrainedDecal: 4, 2, 0.5
+  Position: 0.5659003, 2.0774708, 1.5038799
+  Rotation: 3.1415927, 0, 2.2819908
+- MutagenObjectType: PlacedObject
+  FormKey: 00083E:BSPF-ShipColorize-Patch.esm
+  FormVersion: 559
+  Base: 1F560E:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.35
+    UnknownInt: 2880154369
+  ConstrainedDecal: 4, 2, 0.5
+  Position: 3.7519526, -0.2255357, 0.27940854
+  Rotation: 1.5707963, 1.5707964, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 00083F:BSPF-ShipColorize-Patch.esm
+  FormVersion: 559
+  Base: 1F560E:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.25000003
+    UnknownInt: 2880154369
+  ConstrainedDecal: 4, 2, 0.5
+  Position: 0.21205029, -3.7500002, -0.067015015
+  Rotation: 1.5707961, 2.891253E-08, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000840:BSPF-ShipColorize-Patch.esm
+  FormVersion: 559
+  Base: 1F560E:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.35
+    UnknownInt: 2880154369
+  ConstrainedDecal: 4, 2, 0.5
+  Position: 0.24519384, -0.37442595, -1.5093243
+  Rotation: 5.9417154E-08, 2.999685E-07, 1.3785
+- MutagenObjectType: PlacedObject
+  FormKey: 000841:BSPF-ShipColorize-Patch.esm
+  FormVersion: 559
+  Base: 05ABE9:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.1750004
+    UnknownInt: 2880154369
+  ConstrainedDecal: 4.5399995, 4.3699994, 0.1
+  Position: -1.8512162, -3.7499998, 0.15864962
+  Rotation: 1.5707961, 2.891253E-08, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000842:BSPF-ShipColorize-Patch.esm
+  FormVersion: 559
+  Base: 05ABE9:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.2000004
+    UnknownInt: 2880154369
+  ConstrainedDecal: 4.5399995, 4.3699994, 0.1
+  Position: -1.9103146, 0.31404278, -1.5019535
+  Rotation: 5.0845085E-08, 3.015399E-07, 1.3499999

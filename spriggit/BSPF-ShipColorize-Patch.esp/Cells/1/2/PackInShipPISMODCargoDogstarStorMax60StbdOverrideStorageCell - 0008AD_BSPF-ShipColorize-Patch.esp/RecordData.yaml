@@ -26,7 +26,22 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
-Timestamp: 12560
 UnknownGroupData: 1
-TemporaryTimestamp: 12560
 TemporaryUnknownGroupData: 1
+Temporary:
+- MutagenObjectType: PlacedObject
+  FormKey: 0008AE:BSPF-ShipColorize-Patch.esp
+  FormVersion: 559
+  Base: 015804:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 0008AF:BSPF-ShipColorize-Patch.esp
+  FormVersion: 559
+  Base: 03F808:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 0008B0:BSPF-ShipColorize-Patch.esp
+  FormVersion: 559
+  Base: 0024E5:BetterShipPartFlips.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 0008B1:BSPF-ShipColorize-Patch.esp
+  FormVersion: 559
+  Base: 000843:BSPF-ShipColorize-Patch.esp

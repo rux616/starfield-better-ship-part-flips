@@ -27,6 +27,68 @@ WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
-Timestamp: 12560
-TemporaryTimestamp: 12560
 TemporaryUnknownGroupData: 1
+Temporary:
+- MutagenObjectType: PlacedObject
+  FormKey: 000913:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 015804:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 000914:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 03F808:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 000915:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 0008F4:BetterShipPartFlips.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 000916:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 1F564E:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.726
+    UnknownInt: 2880154369
+  ProjectedDecalReferences:
+  - 000915:BetterShipPartFlips.esm
+  ConstrainedDecal: 7.0999, 5.1699, 1.6002531
+  Position: 2.0875056, -0.5110954, 1.0833683
+  Rotation: 3.1415927, 0.23682904, 4.7000003
+- MutagenObjectType: PlacedObject
+  FormKey: 000917:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 1F5602:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.526
+    UnknownInt: 2880154369
+  ProjectedDecalReferences:
+  - 000915:BetterShipPartFlips.esm
+  ConstrainedDecal: 4.5039, 4.5355, 1.6002531
+  Position: 4.0943446, 2.58417, 0.47697362
+  Rotation: -3.1099298, 0.9940155, 3.179361
+- MutagenObjectType: PlacedObject
+  FormKey: 000918:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 1F5602:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.526
+    UnknownInt: 2880154369
+  ProjectedDecalReferences:
+  - 000915:BetterShipPartFlips.esm
+  ConstrainedDecal: 4.5039, 4.5355, 1.6002531
+  Position: 4.0273166, -5.4670343, 0.4769725
+  Rotation: -3.1099298, 0.9940157, 6.2793612
+- MutagenObjectType: PlacedObject
+  FormKey: 000926:BetterShipPartFlips.esm
+  FormVersion: 559
+  Components:
+  - MutagenObjectType: KeywordFormComponent
+    Keywords:
+    - 140158:Starfield.esm
+  Base: 0008ED:BetterShipPartFlips.esm
+  Rotation: 0, 1.5707963, 0

@@ -27,6 +27,210 @@ WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
-Timestamp: 12560
-TemporaryTimestamp: 12560
 TemporaryUnknownGroupData: 1
+Temporary:
+- MutagenObjectType: PlacedObject
+  FormKey: 00429F:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 015804:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 0042A0:BetterShipPartFlips.esm
+  FormVersion: 559
+  Components:
+  - MutagenObjectType: KeywordFormComponent
+    Keywords:
+    - 140158:Starfield.esm
+  Base: 0042A1:BetterShipPartFlips.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 0042A2:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 03F808:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 0042A3:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 001E19:Starfield.esm
+  LinkedReferences:
+  - Reference: 00B11F:Starfield.esm
+  IsLinkedRefTransient: True
+  Scale: 0.12
+  Position: -1.9987988, -2.000909, 1.0275024
+  Rotation: 3.1415927, -0, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 0042A4:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 001E19:Starfield.esm
+  LinkedReferences:
+  - Reference: 00B122:Starfield.esm
+  IsLinkedRefTransient: True
+  Scale: 0.12
+  Position: 2.0027142, 2.0055497, -1.0289943
+  Rotation: 5.1222736E-07, -1.2582527E-13, 4.712389
+- MutagenObjectType: PlacedObject
+  FormKey: 0042A5:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 001E19:Starfield.esm
+  LinkedReferences:
+  - Reference: 00B121:Starfield.esm
+  IsLinkedRefTransient: True
+  Scale: 0.12
+  Position: 2.0076632, 2.0006042, 1.0275024
+  Rotation: 3.1415927, -0, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 0042A6:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 001E19:Starfield.esm
+  LinkedReferences:
+  - Reference: 00B124:Starfield.esm
+  IsLinkedRefTransient: True
+  Scale: 0.12
+  Position: -1.9987988, -2.000909, -1.0308105
+  Rotation: 5.1222736E-07, -1.2582527E-13, 4.712389
+- MutagenObjectType: PlacedObject
+  FormKey: 0042A7:BetterShipPartFlips.esm
+  MajorRecordFlagsRaw: 256
+  FormVersion: 559
+  StarfieldMajorRecordFlags:
+  - 0x100
+  Components:
+  - MutagenObjectType: ContactShadowComponent
+    Items:
+    - Unknown1: 0.009
+      Unknown2: 3
+      Unknown3: 10
+      Unknown4: 0.2
+      Unknown5: 0.06
+  Base: 0B6A20:Starfield.esm
+  Radius: -0.41325045
+  Lighting:
+    Fade1PlusMinus: 0.5
+  Position: 2.0027142, 2.0055497, -1.1402512
+  Rotation: -3.1415927, 8.881785E-16, 1.5707963
+- MutagenObjectType: PlacedObject
+  FormKey: 0042A8:BetterShipPartFlips.esm
+  MajorRecordFlagsRaw: 256
+  FormVersion: 559
+  StarfieldMajorRecordFlags:
+  - 0x100
+  Components:
+  - MutagenObjectType: ContactShadowComponent
+    Items:
+    - Unknown1: 0.009
+      Unknown2: 3
+      Unknown3: 10
+      Unknown4: 0.2
+      Unknown5: 0.06
+  Base: 0B6A20:Starfield.esm
+  Radius: -0.41325045
+  Lighting:
+    Fade1PlusMinus: 0.5
+  Position: -1.9987988, -2.000909, 1.1387594
+- MutagenObjectType: PlacedObject
+  FormKey: 0042A9:BetterShipPartFlips.esm
+  MajorRecordFlagsRaw: 256
+  FormVersion: 559
+  StarfieldMajorRecordFlags:
+  - 0x100
+  Components:
+  - MutagenObjectType: ContactShadowComponent
+    Items:
+    - Unknown1: 0.009
+      Unknown2: 3
+      Unknown3: 10
+      Unknown4: 0.2
+      Unknown5: 0.06
+  Base: 0B6A20:Starfield.esm
+  Radius: -0.41325045
+  Lighting:
+    Fade1PlusMinus: 0.5
+  Position: -1.9987987, -2.000909, -1.1420674
+  Rotation: -3.1415927, 8.881785E-16, 1.5707963
+- MutagenObjectType: PlacedObject
+  FormKey: 0042AA:BetterShipPartFlips.esm
+  MajorRecordFlagsRaw: 256
+  FormVersion: 559
+  StarfieldMajorRecordFlags:
+  - 0x100
+  Components:
+  - MutagenObjectType: ContactShadowComponent
+    Items:
+    - Unknown1: 0.009
+      Unknown2: 3
+      Unknown3: 10
+      Unknown4: 0.2
+      Unknown5: 0.06
+  Base: 0B6A20:Starfield.esm
+  Radius: -0.41325045
+  Lighting:
+    Fade1PlusMinus: 0.5
+  Position: 2.0076632, 2.0006042, 1.1387594
+- MutagenObjectType: PlacedObject
+  FormKey: 0042AB:BetterShipPartFlips.esm
+  FormVersion: 559
+  XALG: 0x0008000000000000
+  Base: 1F5657:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.46100003
+    UnknownInt: 1
+  ConstrainedDecal: 3, 3, 2.478293
+  Position: 2.273377, -0.4394504, -0.99999976
+  Rotation: -0, 0, 1.5707964
+- MutagenObjectType: PlacedObject
+  FormKey: 0042AC:BetterShipPartFlips.esm
+  FormVersion: 559
+  XALG: 0x0008000000000000
+  Base: 1F5657:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.46100003
+    UnknownInt: 1
+  ProjectedDecalReferences:
+  - 0042A0:BetterShipPartFlips.esm
+  ConstrainedDecal: 3, 3, 2.478293
+  Position: 2.8277626, 0.1676433, 0.8403325
+  Rotation: -3.1415927, -0, 1.5707964
+- MutagenObjectType: PlacedObject
+  FormKey: 0042AD:BetterShipPartFlips.esm
+  FormVersion: 559
+  XALG: 0x0008000000000000
+  Base: 1F5655:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.46100003
+    UnknownInt: 1
+  ProjectedDecalReferences:
+  - 0042A0:BetterShipPartFlips.esm
+  ConstrainedDecal: 3, 3, 2.478293
+  Position: 0.3, -0.2, 1.1
+  Rotation: 2.974634, 0.7063983, 6.174232
+- MutagenObjectType: PlacedObject
+  FormKey: 0042AE:BetterShipPartFlips.esm
+  FormVersion: 559
+  XALG: 0x0008000000000000
+  Base: 1F5607:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.46100003
+    UnknownInt: 1
+  ProjectedDecalReferences:
+  - 0042A0:BetterShipPartFlips.esm
+  ConstrainedDecal: 3, 3, 2.478293
+  Position: -2.4094708, 0.24530071, 0.8266039
+  Rotation: 3.028475, 0.40032586, 6.2389426
+- MutagenObjectType: PlacedObject
+  FormKey: 0042AF:BetterShipPartFlips.esm
+  FormVersion: 559
+  XALG: 0x0008000000000000
+  Base: 1F5655:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.46100003
+    UnknownInt: 1
+  ConstrainedDecal: 3, 3, 2.478293
+  Position: -1.0963368, 0.29565758, -1.3045464
+  Rotation: -0.27653915, -0.67630917, 3.3173897

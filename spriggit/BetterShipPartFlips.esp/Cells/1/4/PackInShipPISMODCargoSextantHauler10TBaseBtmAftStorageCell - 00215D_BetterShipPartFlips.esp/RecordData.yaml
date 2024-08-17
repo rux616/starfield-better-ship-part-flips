@@ -26,6 +26,327 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
-Timestamp: 12560
-TemporaryTimestamp: 12560
 TemporaryUnknownGroupData: 1
+Temporary:
+- MutagenObjectType: PlacedObject
+  FormKey: 00215E:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 03F808:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 00215F:BetterShipPartFlips.esp
+  FormVersion: 559
+  Components:
+  - MutagenObjectType: KeywordFormComponent
+    Keywords:
+    - 140158:Starfield.esm
+  Base: 00291F:BetterShipPartFlips.esp
+- MutagenObjectType: PlacedObject
+  FormKey: 002160:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 015804:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 002161:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 099C74:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.32500044
+    UnknownInt: 2880154369
+  ConstrainedDecal: 3.3600006, 1.5500002, 0.5
+  Position: 3.1425781, 2.1557217, 0.31339702
+  Rotation: -1.5707963, 1.5707964, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 002162:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 29E425:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.20000002
+    UnknownInt: 2880154369
+  ConstrainedDecal: 1.2300012, 0.7399996, 0.1
+  Position: -2.0479531, -0.76084423, 1.7088569
+  Rotation: -3.1415927, -0, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 002163:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 1F5648:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.9250001
+    UnknownInt: 2880154369
+  ConstrainedDecal: 2.870001, 2.4974995, 0.5
+  Position: 0.037598133, -0.14190298, 1.7308904
+  Rotation: 3.1415927, -0, 1.4
+- MutagenObjectType: PlacedObject
+  FormKey: 002164:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 05ABE9:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.1
+    UnknownInt: 2880154369
+  ConstrainedDecal: 5.6900005, 5.329998, 0.1
+  Position: 0.112448215, 0.43428493, 1.7148433
+  Rotation: -3.1415927, -0, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 002165:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 1F560E:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.4
+    UnknownInt: 2880154369
+  ConstrainedDecal: 2.1700008, 0.96999973, 0.5
+  Position: 2.5649717, -0.9480736, -0.5539781
+  Rotation: 0.70875865, 0.7612034, 4.9383874
+- MutagenObjectType: PlacedObject
+  FormKey: 002166:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 29E425:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.15
+    UnknownInt: 2880154369
+  ConstrainedDecal: 1.400001, 0.7899996, 0.1
+  Position: -2.0974162, 2.5027192, 1.7148438
+  Rotation: -3.1415927, -0, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 002167:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 29E425:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.15
+    UnknownInt: 2880154369
+  ConstrainedDecal: 1.400001, 0.7899996, 0.1
+  Position: 2.0912268, -0.8184578, 1.7284614
+  Rotation: -3.1415927, -0, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 002168:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 099C74:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.42500046
+    UnknownInt: 2880154369
+  ConstrainedDecal: 4, 2, 0.5
+  Position: -0.07957101, 2.0712142, -1.7258143
+  Rotation: -0.32740903, 0, 1.5707964
+- MutagenObjectType: PlacedObject
+  FormKey: 002169:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 1F560E:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.375
+    UnknownInt: 2880154369
+  ConstrainedDecal: 3.5999994, 1.6599993, 0.5
+  Position: 0.031953514, -2.4082036, 0.58606184
+  Rotation: 1.5707964, -0, 3.1415927
+- MutagenObjectType: PlacedObject
+  FormKey: 00216A:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 1F560E:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.27499998
+    UnknownInt: 2880154369
+  ConstrainedDecal: 3.5999994, 0.97999966, 0.5
+  Position: -0.741423, 1.6718671, 1.739625
+  Rotation: -3.1415927, 0.32740018, 1.5707965
+- MutagenObjectType: PlacedObject
+  FormKey: 00216B:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 1F5648:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.9250001
+    UnknownInt: 2880154369
+  ConstrainedDecal: 2.870001, 2.4974995, 0.5
+  Position: 3.1777346, -0.15895206, 0.42708063
+  Rotation: -1.5707963, 1.5707964, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 00216C:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 29E425:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.1
+    UnknownInt: 2880154369
+  ConstrainedDecal: 5.350005, 2.139999, 0.1
+  Position: -1.0229222, 1.4667948, 1.6840212
+  Rotation: 3.1415927, -0, 4.772685
+- MutagenObjectType: PlacedObject
+  FormKey: 00216D:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 1F560E:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.27499998
+    UnknownInt: 2880154369
+  ConstrainedDecal: 3.7299993, 1.4999993, 0.5
+  Position: 1.0352203, -0.3947345, 1.5049769
+  Rotation: 3.1415927, 0, 1.5707964
+- MutagenObjectType: PlacedObject
+  FormKey: 00216E:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 29E425:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.20000002
+    UnknownInt: 2880154369
+  ConstrainedDecal: 1.2300012, 0.7399996, 0.1
+  Position: 2.0332253, 2.5113342, 1.69453
+  Rotation: -3.1415927, -0, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 00216F:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 29E425:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.125
+    UnknownInt: 2880154369
+  ConstrainedDecal: 5.350005, 2.139999, 0.1
+  Position: 0.99067235, 0.5129732, 1.669057
+  Rotation: 3.1415927, -0, 4.7491856
+- MutagenObjectType: PlacedObject
+  FormKey: 002170:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 05ABE9:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.125
+    UnknownInt: 2880154369
+  ConstrainedDecal: 2.5100017, 2.2870007, 0.9897809
+  Position: -2.3378115, -0.30982184, -1.0304644
+  Rotation: 0.77635056, -0.621089, 1.0516107
+- MutagenObjectType: PlacedObject
+  FormKey: 002171:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 1F560E:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.4
+    UnknownInt: 2880154369
+  ConstrainedDecal: 2.1700008, 0.96999973, 0.5
+  Position: 2.9180007, 2.2332115, 0.21820128
+  Rotation: -1.5707963, 1.5707964, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 002172:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 05ABE9:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.17499995
+    UnknownInt: 2880154369
+  ConstrainedDecal: 8, 8, 0.1
+  Position: 0.0028170347, 3.8476567, 0.16323256
+  Rotation: -1.5707964, -0, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 002173:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 1F5648:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.9250001
+    UnknownInt: 2880154369
+  ConstrainedDecal: 2.870001, 2.4974995, 0.5
+  Position: -3.1777346, -0.4803921, 0.68961394
+  Rotation: 1.5707963, -1.5707964, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 002174:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 1F5648:Starfield.esm
+  ConstrainedDecal: 2.870001, 2.4974995, 0.5
+  Position: -0.19774747, 3.8476562, 0.06078458
+  Rotation: -1.5707964, -0, 3.1415927
+- MutagenObjectType: PlacedObject
+  FormKey: 002175:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 099C74:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.45000046
+    UnknownInt: 2880154369
+  ConstrainedDecal: 4, 2, 0.5
+  Position: 0.01621157, -0.6952176, -1.2332463
+  Rotation: 0.3220308, -0, 1.5707964
+- MutagenObjectType: PlacedObject
+  FormKey: 002176:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 05ABE9:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.19999996
+    UnknownInt: 2880154369
+  ConstrainedDecal: 5.139998, 6.6599936, 3.7529626
+  Position: 0.12028709, 1.8176256, 0.119709395
+- MutagenObjectType: PlacedObject
+  FormKey: 002177:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 05ABE9:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.125
+    UnknownInt: 2880154369
+  ConstrainedDecal: 2.5100017, 2.2870007, 0.9897809
+  Position: -3.1425781, 1.7954583, 0.47587234
+  Rotation: -1.5707963, -1.5707964, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 002178:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 29E425:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.27500004
+    UnknownInt: 2880154369
+  ConstrainedDecal: 3.0099995, 1.5999993, 0.1
+  Position: -0.9798688, -0.8247075, 1.6718495
+  Rotation: 3.1415927, -0, 4.833185
+- MutagenObjectType: PlacedObject
+  FormKey: 002179:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 1F5648:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.9250001
+    UnknownInt: 2880154369
+  ConstrainedDecal: 2.870001, 2.4974995, 0.5
+  Position: 2.3099177, -0.53637075, -0.94735837
+  Rotation: 0.3217588, 0.76120335, 4.9383874
+- MutagenObjectType: PlacedObject
+  FormKey: 00217A:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 099C74:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.32500044
+    UnknownInt: 2880154369
+  ConstrainedDecal: 3.3600006, 1.5500002, 0.5
+  Position: -3.1425776, 2.6298275, 0.20525473
+  Rotation: 1.5707963, -1.5707964, 0

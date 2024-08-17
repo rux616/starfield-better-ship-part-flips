@@ -27,6 +27,30 @@ WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
-Timestamp: 12560
-TemporaryTimestamp: 12560
 TemporaryUnknownGroupData: 1
+Temporary:
+- MutagenObjectType: PlacedObject
+  FormKey: 002FEC:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 03F808:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 002FED:BetterShipPartFlips.esp
+  FormVersion: 559
+  Components:
+  - MutagenObjectType: KeywordFormComponent
+    Keywords:
+    - 140158:Starfield.esm
+  Base: 002D4B:BetterShipPartFlips.esp
+  Rotation: 3.1415925, 0, 3.1415925
+- MutagenObjectType: PlacedObject
+  FormKey: 002FEE:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 015804:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 002FEF:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 005A1C:BetterShipPartFlips.esp
+- MutagenObjectType: PlacedObject
+  FormKey: 0030D3:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 002F86:BetterShipPartFlips.esp
