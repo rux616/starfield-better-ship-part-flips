@@ -36,6 +36,131 @@ XCLAs:
   XCLD: Default Layer Name 4
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
-Timestamp: 12560
-TemporaryTimestamp: 12560
 TemporaryUnknownGroupData: 1
+Temporary:
+- MutagenObjectType: PlacedObject
+  FormKey: 000D87:BetterShipPartFlips.esm
+  FormVersion: 559
+  Components:
+  - MutagenObjectType: KeywordFormComponent
+    Keywords:
+    - 140158:Starfield.esm
+  Base: 000D76:BetterShipPartFlips.esm
+  Rotation: 0, 3.1415925, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000D88:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 015804:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 000D89:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 03F808:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 000D8A:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 000D69:BetterShipPartFlips.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 000D8B:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 1F5692:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 1
+    UnknownInt: 2880154369
+  ProjectedDecalReferences:
+  - 000D8A:BetterShipPartFlips.esm
+  ConstrainedDecal: 4, 2, 0.75
+  Position: 2.1000001, 3, 0.1
+  Rotation: 3.141436, -0.0015003141, 3.1415927
+- MutagenObjectType: PlacedObject
+  FormKey: 000D8C:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 1F566E:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 1
+    UnknownInt: 2880154369
+  ProjectedDecalReferences:
+  - 000D8A:BetterShipPartFlips.esm
+  ConstrainedDecal: 4, 2, 0.75
+  Position: 2, 1.3000001, -1.8000001
+  Rotation: -0, 0, 1.5707964
+- MutagenObjectType: PlacedObject
+  FormKey: 000D8D:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 1F5655:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 1
+    UnknownInt: 2880154369
+  ProjectedDecalReferences:
+  - 000D8A:BetterShipPartFlips.esm
+  ConstrainedDecal: 4, 4, 0.5
+  Position: -0.048047423, 0.23735851, -1.75
+  Rotation: -0, 0, 1.5707964
+- MutagenObjectType: PlacedObject
+  FormKey: 000D8E:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 1F5605:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 1
+    UnknownInt: 2880154369
+  ProjectedDecalReferences:
+  - 000D8A:BetterShipPartFlips.esm
+  ConstrainedDecal: 4, 3.7332544, 1.1336648
+  Position: 2.175259, -1.8412389, -0.030518666
+  Rotation: 1.7628466, -0.0038570198, 3.1415927
+- MutagenObjectType: PlacedObject
+  FormKey: 000D8F:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 1F5605:Starfield.esm
+  ConstrainedDecal: 4, 3.7332544, 1.1336648
+  Position: -1.822443, 1.5435324, -1.4785494
+  Rotation: -3.140668, -1.043888, 4.7115903
+- MutagenObjectType: PlacedObject
+  FormKey: 000D90:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 1F5692:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 1
+    UnknownInt: 2880154369
+  ProjectedDecalReferences:
+  - 000D8A:BetterShipPartFlips.esm
+  ConstrainedDecal: 3.29775, 1.2149267, 0.75
+  Position: 1.3922775, 0.5813285, 0.07688001
+  Rotation: 3.13826, 0.0052688387, 6.283168
+- MutagenObjectType: PlacedObject
+  FormKey: 000D91:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 1F564D:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 1
+    UnknownInt: 2880154369
+  ProjectedDecalReferences:
+  - 000D8A:BetterShipPartFlips.esm
+  ConstrainedDecal: 4.9187, 4.507076, 1.1336648
+  Position: 3.8901632, 2.182653, -0.33095193
+  Rotation: 3.1415927, 1.3442845, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000D92:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 1F564D:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.6
+    UnknownInt: 2880154369
+  ProjectedDecalReferences:
+  - 000D8A:BetterShipPartFlips.esm
+  ConstrainedDecal: 4.9187, 4.5071, 1.1336648
+  Position: -0.0862659, 3.7826529, -1.2173642
+  Rotation: -1.5707964, -0, 1.5707964

@@ -26,6 +26,22 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
-Timestamp: 12560
-TemporaryTimestamp: 12560
 TemporaryUnknownGroupData: 1
+Temporary:
+- MutagenObjectType: PlacedObject
+  FormKey: 005915:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 015804:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 005916:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 03F808:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 005917:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 00595F:BetterShipPartFlips.esp
+- MutagenObjectType: PlacedObject
+  FormKey: 005918:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 002210:BetterShipPartFlips.esp
+  Rotation: 1.5707963, 1.5707963, 0

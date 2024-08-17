@@ -26,6 +26,66 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
-Timestamp: 12560
-TemporaryTimestamp: 12560
 TemporaryUnknownGroupData: 1
+Temporary:
+- MutagenObjectType: PlacedObject
+  FormKey: 002375:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 015804:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 002376:BetterShipPartFlips.esp
+  FormVersion: 559
+  Components:
+  - MutagenObjectType: KeywordFormComponent
+    Keywords:
+    - 140158:Starfield.esm
+  Base: 00546E:BetterShipPartFlips.esp
+- MutagenObjectType: PlacedObject
+  FormKey: 002377:BetterShipPartFlips.esp
+  FormVersion: 559
+  Base: 03F808:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 002378:BetterShipPartFlips.esp
+  FormVersion: 559
+  XALG: 0x0008000000000000
+  Base: 1F5607:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.261
+    UnknownInt: 1
+  ProjectedDecalReferences:
+  - 002376:BetterShipPartFlips.esp
+  ConstrainedDecal: 1.9367, 1.0241, 1.3402032
+  Position: 1.9754856, -1.4898652, 0.34871173
+  Rotation: 1.9384779, -1.6316017E-07, 1.5707964
+- MutagenObjectType: PlacedObject
+  FormKey: 002379:BetterShipPartFlips.esp
+  FormVersion: 559
+  XALG: 0x0008000000000000
+  Base: 1F5650:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.261
+    UnknownInt: 1
+  ProjectedDecalReferences:
+  - 002376:BetterShipPartFlips.esp
+  ConstrainedDecal: 1.6091, 1.0241, 1.3402033
+  Position: 1.33376, 0.563214, -1.1476595
+  Rotation: -0.7851446, -0.61495113, 1.5707964
+- MutagenObjectType: PlacedObject
+  FormKey: 00237A:BetterShipPartFlips.esp
+  FormVersion: 559
+  XALG: 0x0008000000000000
+  Base: 1F5601:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.261
+    UnknownInt: 1
+  ProjectedDecalReferences:
+  - 002376:BetterShipPartFlips.esp
+  ConstrainedDecal: 1.9367, 1.0241, 1.3402032
+  Position: 2.1530972, 0.004034817, 1.5763502
+  Rotation: 3.1415927, 0.2617106, 0

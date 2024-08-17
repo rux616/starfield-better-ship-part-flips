@@ -1,6 +1,0 @@
-MutagenObjectType: PlacedObject
-FormKey: 001098:BetterShipPartFlips.esp
-FormVersion: 559
-Base: 001099:BetterShipPartFlips.esp
-LayeredMaterialSwaps:
-- 3A2ED4:Starfield.esm

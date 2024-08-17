@@ -1,8 +1,0 @@
-MutagenObjectType: PlacedObject
-FormKey: 004338:BetterShipPartFlips.esm
-FormVersion: 559
-Components:
-- MutagenObjectType: KeywordFormComponent
-  Keywords:
-  - 140158:Starfield.esm
-Base: 004339:BetterShipPartFlips.esm

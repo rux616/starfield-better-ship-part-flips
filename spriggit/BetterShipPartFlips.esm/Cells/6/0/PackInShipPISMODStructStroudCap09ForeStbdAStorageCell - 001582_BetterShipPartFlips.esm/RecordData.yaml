@@ -36,6 +36,133 @@ XCLAs:
   XCLD: Default Layer Name 4
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
-Timestamp: 12560
-TemporaryTimestamp: 12560
 TemporaryUnknownGroupData: 1
+Temporary:
+- MutagenObjectType: PlacedObject
+  FormKey: 001583:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 015804:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 001584:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 03F808:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 001585:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 001586:BetterShipPartFlips.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 001588:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 1F5655:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.6
+    UnknownInt: 2880154369
+  ConstrainedDecal: 3.0142, 2.678, 1.1505115
+  Position: 2.4087813, -2.551069, -1.8037
+- MutagenObjectType: PlacedObject
+  FormKey: 001589:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 1F5655:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.6
+    UnknownInt: 2880154369
+  ConstrainedDecal: 3.0142, 2.678, 1.1505115
+  Position: -1.7934871, 0.79323876, 1.5497442
+  Rotation: 3.1415927, -0, 3.1415927
+- MutagenObjectType: PlacedObject
+  FormKey: 00158A:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 1F5655:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.6
+    UnknownInt: 2880154369
+  ConstrainedDecal: 3.0142, 2.678, 1.1505115
+  Position: -1.7934871, 0.79323876, -1.8037
+  Rotation: 0, 0, 3.1415927
+- MutagenObjectType: PlacedObject
+  FormKey: 00158B:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 1F564F:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.4
+    UnknownInt: 2880154369
+  ConstrainedDecal: 4, 2.5637, 0.75
+  Position: -3.0367415, -2.5708303, -0.014272773
+  Rotation: 1.5707963, -1.2679815, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 00158C:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 1F5605:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.6
+    UnknownInt: 2880154369
+  ConstrainedDecal: 4, 2, 0.75
+  Position: -4.1022387, 1.5464451, -0.0564941
+  Rotation: 1.5707964, -1.349147, 1.5707964
+- MutagenObjectType: PlacedObject
+  FormKey: 00158D:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 1F5655:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.6
+    UnknownInt: 2880154369
+  ConstrainedDecal: 3.0142, 2.678, 1.1505115
+  Position: 2.4087813, -2.551069, 1.5497442
+  Rotation: 3.1415927, -0, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 00158E:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 099C8C:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.6
+    UnknownInt: 2880154369
+  ConstrainedDecal: 6.0169, 1.4452, 0.8888065
+  Position: -3.3832872, -0.3217402, 0.74991775
+  Rotation: 1.5707963, -1.3226628, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 00158F:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 1F5606:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.6
+    UnknownInt: 2880154369
+  ConstrainedDecal: 3.0142, 2.678, 0.75
+  Position: -2.1675742, 2.6983562, -1.7185135
+  Rotation: -0, 0, 3.1415927
+- MutagenObjectType: PlacedObject
+  FormKey: 001590:BetterShipPartFlips.esm
+  FormVersion: 559
+  Base: 1F5606:Starfield.esm
+  ProjectedDecal:
+    WidthScale: 1
+    HeightScale: 1
+    UnknownFloat: 0.6
+    UnknownInt: 2880154369
+  ConstrainedDecal: 3.0142, 2.678, 0.75
+  Position: -2.1675742, 2.6983562, 1.6349307
+  Rotation: 3.1415927, 0, 3.1415927
+- MutagenObjectType: PlacedObject
+  FormKey: 0015A5:BetterShipPartFlips.esm
+  FormVersion: 559
+  Components:
+  - MutagenObjectType: KeywordFormComponent
+    Keywords:
+    - 140158:Starfield.esm
+  Base: 0015A3:BetterShipPartFlips.esm
+  Rotation: 0, 0, 3.1415925

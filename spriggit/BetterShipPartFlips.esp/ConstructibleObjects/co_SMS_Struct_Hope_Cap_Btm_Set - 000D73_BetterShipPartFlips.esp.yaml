@@ -10,7 +10,6 @@ Description:
 WorkbenchKeyword: 29C480:Starfield.esm
 Conditions:
 - MutagenObjectType: ConditionFloat
-  Unknown1: 0x000000
   Data:
     MutagenObjectType: HasKeywordConditionData
     FirstParameter: 1453BD:Starfield.esm
