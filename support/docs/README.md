@@ -2,7 +2,7 @@ Better Ship Part Flips
 ======================
 created by freschu, maintained and updated by rux616
 
-Version: 1.1.0
+Version: 1.1.1
 
 Table Of Contents
 -----------------
