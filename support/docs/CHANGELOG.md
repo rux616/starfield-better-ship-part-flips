@@ -21,7 +21,7 @@ Changelog
 
 v1.2.0
 ------
-Released 2024-08-??
+Released 2024-08-21
 - Fixed Starfield Extended - Shields Rebalanced patch (Gambit77 changed the master type from full to small without changing the name of the file - don't do this!)
 - Fixed snap points on the "Deimos Spine C - Fore Bottom" and "Deimos Spine C - Aft Bottom" flips
 
