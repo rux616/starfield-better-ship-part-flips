@@ -6,6 +6,7 @@ Table Of Contents
 - Better Ship Part Flips
     - Table Of Contents
 - Changelog
+    - v1.2.0
     - v1.1.0
     - v1.0.0
     - v0.5.0
@@ -18,9 +19,15 @@ Table Of Contents
 Changelog
 =========
 
+v1.2.0
+------
+Released 2024-08-??
+- Fixed Starfield Extended - Shields Rebalanced patch (Gambit77 changed the master type from full to small without changing the name of the file - don't do this!)
+- Fixed snap points on the "Deimos Spine C - Fore Bottom" and "Deimos Spine C - Aft Bottom" flips
+
 v1.1.0
 ------
-Released 2024-08-xx
+Released 2024-08-17
 - Merged in the Junk In Your Trunk (JIYT) mod
 - Added flips for shields
 - Added flips for cargo holds

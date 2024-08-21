@@ -41,3 +41,4 @@
     - [X] make Ship Combat Revised patches
 - [ ] add patch for Starfield Extended - More Shielded Cargo Bays Rebalanced
 - [ ] add patch for Starfield Extended - Reactors Rebalanced
+- [X] fix deimos spine c aft bottom and fore bottom - fore and aft snaps are 1/2 module too high (for comparison, see deimos spine a fore bottom)
