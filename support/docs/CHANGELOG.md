@@ -6,8 +6,8 @@ Table Of Contents
 - [Better Ship Part Flips](#better-ship-part-flips)
     - [Table Of Contents](#table-of-contents)
 - [Changelog](#changelog)
-    - [v1.3.0](#v130)
     - [v1.2.0](#v120)
+    - [v1.1.1](#v111)
     - [v1.1.0](#v110)
     - [v1.0.0](#v100)
     - [v0.5.0](#v050)
@@ -20,7 +20,7 @@ Table Of Contents
 Changelog
 =========
 
-v1.3.0
+v1.2.0
 ------
 Released 2024-08-26
 - Added a "Nova Mini-brace" part that's about 1/4 of the size of a normal 1x1 ship module and has snap points to match (replaces functionality of pre-fix Deimos Spine C)
@@ -28,7 +28,7 @@ Released 2024-08-26
 
 ([TOC](#table-of-contents))
 
-v1.2.0
+v1.1.1
 ------
 Released 2024-08-21
 - Fixed Starfield Extended - Shields Rebalanced patch (Gambit77 changed the master type from full to small without changing the name of the file - don't do this!)

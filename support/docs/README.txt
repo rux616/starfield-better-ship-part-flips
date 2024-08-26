@@ -2,7 +2,7 @@ Better Ship Part Flips
 ======================
 created by freschu, maintained and updated by rux616
 
-Version: 1.3.0
+Version: 1.2.0
 
 Table Of Contents
 -----------------
@@ -410,7 +410,7 @@ Structural
 - Nova Cowling 1L (v0.4.0)
 - Nova Cowling 2L (v0.4.0)
 - Nova Engine Brace (v0.1.0)
-- Nova Mini-Brace (v1.3.0)
+- Nova Mini-Brace (v1.2.0)
 - Nova Radiator (flat) (v0.4.0)
 - Nova Radiator (large) (v0.4.0)
 - Nova Radiator (small) (v0.4.0)
