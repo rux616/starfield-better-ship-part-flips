@@ -6,6 +6,7 @@ Table Of Contents
 - [Better Ship Part Flips](#better-ship-part-flips)
     - [Table Of Contents](#table-of-contents)
 - [Changelog](#changelog)
+    - [v1.3.0](#v130)
     - [v1.2.0](#v120)
     - [v1.1.0](#v110)
     - [v1.0.0](#v100)
@@ -18,6 +19,14 @@ Table Of Contents
 
 Changelog
 =========
+
+v1.3.0
+------
+Released 2024-08-26
+- Added a "Nova Mini-brace" part that's about 1/4 of the size of a normal 1x1 ship module and has snap points to match (replaces functionality of pre-fix Deimos Spine C)
+- Removed SFBGS004.esm as a master
+
+([TOC](#table-of-contents))
 
 v1.2.0
 ------
