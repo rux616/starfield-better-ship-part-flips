@@ -1,6 +1,9 @@
 FormKey: 001B03:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Fuel_Dogstar_Ulysses-M40_Btm_PS_Fore
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ObjectBounds:
   First: -4, -3.2402344, -2.2563477
   Second: 4, 3.2285154, 1.75
@@ -12,3 +15,5 @@ Cell: 001B04:BetterShipPartFlips.esm
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

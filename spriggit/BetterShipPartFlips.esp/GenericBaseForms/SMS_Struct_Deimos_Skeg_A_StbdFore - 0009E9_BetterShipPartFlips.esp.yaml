@@ -1,6 +1,6 @@
 FormKey: 0009E9:BetterShipPartFlips.esp
 EditorID: SMS_Struct_Deimos_Skeg_A_StbdFore
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent

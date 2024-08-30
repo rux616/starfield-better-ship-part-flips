@@ -1,6 +1,6 @@
 FormKey: 005309:BetterShipPartFlips.esp
 EditorID: SMOD_Shield_Sextant_Deflector-SG-10_Port_NoSnap
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Model:
   File: Ships\Modules\Shield\SMOD\SMOD_Shield_Sextant_Deflector-SG-10_Port.nif

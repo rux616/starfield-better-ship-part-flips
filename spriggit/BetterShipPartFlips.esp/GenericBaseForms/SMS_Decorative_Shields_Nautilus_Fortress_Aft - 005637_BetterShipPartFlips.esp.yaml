@@ -1,6 +1,6 @@
 FormKey: 005637:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Shields_Nautilus_Fortress_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

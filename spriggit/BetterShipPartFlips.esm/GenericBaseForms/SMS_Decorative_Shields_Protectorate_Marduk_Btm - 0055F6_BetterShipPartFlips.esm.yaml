@@ -1,6 +1,6 @@
 FormKey: 0055F6:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_Shields_Protectorate_Marduk_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

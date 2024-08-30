@@ -1,7 +1,7 @@
 FormKey: 004C0D:BetterShipPartFlips.esm
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Reactor_AmunDunn_ThetaPinch-A9_Top_Fore
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:

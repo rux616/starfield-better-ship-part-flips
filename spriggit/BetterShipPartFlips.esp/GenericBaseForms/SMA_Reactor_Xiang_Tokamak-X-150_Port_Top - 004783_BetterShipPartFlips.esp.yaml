@@ -1,6 +1,6 @@
 FormKey: 004783:BetterShipPartFlips.esp
 EditorID: SMA_Reactor_Xiang_Tokamak-X-150_Port_Top
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

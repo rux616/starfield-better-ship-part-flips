@@ -1,6 +1,9 @@
 FormKey: 000D0F:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Struct_Deimos_Tail_A_AftBtm
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ObjectBounds:
   First: -3.2265635, -5.4414062, -4.249999
   Second: 3.226563, 4, 1.7499993
@@ -12,3 +15,5 @@ Cell: 000D13:BetterShipPartFlips.esm
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

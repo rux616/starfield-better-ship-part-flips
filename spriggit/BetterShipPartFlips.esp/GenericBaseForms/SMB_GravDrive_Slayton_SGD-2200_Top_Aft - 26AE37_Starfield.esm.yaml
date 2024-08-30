@@ -1,6 +1,6 @@
 FormKey: 26AE37:Starfield.esm
 EditorID: SMB_GravDrive_Slayton_SGD-2200_Top_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

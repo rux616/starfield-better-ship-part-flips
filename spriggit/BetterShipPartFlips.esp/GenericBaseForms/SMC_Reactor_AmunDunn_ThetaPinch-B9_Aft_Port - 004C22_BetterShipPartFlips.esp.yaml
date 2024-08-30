@@ -1,6 +1,6 @@
 FormKey: 004C22:BetterShipPartFlips.esp
 EditorID: SMC_Reactor_AmunDunn_ThetaPinch-B9_Aft_Port
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

@@ -1,6 +1,6 @@
 FormKey: 002A6C:BetterShipPartFlips.esm
 EditorID: SMA_GravDrive_Slayton_SGD-1300_Fore_Port
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

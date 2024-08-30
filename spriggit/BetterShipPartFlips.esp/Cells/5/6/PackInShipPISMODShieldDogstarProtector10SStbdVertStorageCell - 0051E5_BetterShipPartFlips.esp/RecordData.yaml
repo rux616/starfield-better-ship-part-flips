@@ -1,6 +1,6 @@
 FormKey: 0051E5:BetterShipPartFlips.esp
 EditorID: PackInShipPISMODShieldDogstarProtector10SStbdVertStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -26,22 +26,23 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0051E6:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0051E7:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0051E8:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 0024E5:BetterShipPartFlips.esp
 - MutagenObjectType: PlacedObject
   FormKey: 0051E9:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 00237B:BetterShipPartFlips.esp
   Rotation: 1.5707963, 3.1415925, 0

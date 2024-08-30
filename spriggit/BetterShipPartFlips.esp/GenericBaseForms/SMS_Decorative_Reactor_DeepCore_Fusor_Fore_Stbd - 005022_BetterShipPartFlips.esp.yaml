@@ -1,6 +1,6 @@
 FormKey: 005022:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Reactor_DeepCore_Fusor_Fore_Stbd
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

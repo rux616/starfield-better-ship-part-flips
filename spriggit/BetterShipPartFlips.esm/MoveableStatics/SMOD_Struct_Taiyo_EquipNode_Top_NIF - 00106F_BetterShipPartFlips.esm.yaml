@@ -1,6 +1,6 @@
 FormKey: 00106F:BetterShipPartFlips.esm
 EditorID: SMOD_Struct_Taiyo_EquipNode_Top_NIF
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -1.4296863, -1.4296875, -1.75
   Second: 1.4296887, 1.4296875, -1.5234375

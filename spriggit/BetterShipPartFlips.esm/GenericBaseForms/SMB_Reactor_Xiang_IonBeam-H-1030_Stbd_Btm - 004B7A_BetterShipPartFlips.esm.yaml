@@ -1,6 +1,6 @@
 FormKey: 004B7A:BetterShipPartFlips.esm
 EditorID: SMB_Reactor_Xiang_IonBeam-H-1030_Stbd_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

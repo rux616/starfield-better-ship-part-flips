@@ -1,6 +1,6 @@
 FormKey: 00557C:BetterShipPartFlips.esp
 EditorID: SMB_Shields_Vanguard_Bulwark_UC01_Fore
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

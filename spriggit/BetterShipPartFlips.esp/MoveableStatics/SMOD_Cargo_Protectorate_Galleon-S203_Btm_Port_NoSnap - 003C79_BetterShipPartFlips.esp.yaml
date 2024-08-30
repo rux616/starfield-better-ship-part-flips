@@ -1,6 +1,6 @@
 FormKey: 003C79:BetterShipPartFlips.esp
 EditorID: SMOD_Cargo_Protectorate_Galleon-S203_Btm_Port_NoSnap
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Model:
   File: Ships\Modules\Cargo\smod\SMOD_Cargo_Protectorate_Galleon-S203_PortBtm.nif

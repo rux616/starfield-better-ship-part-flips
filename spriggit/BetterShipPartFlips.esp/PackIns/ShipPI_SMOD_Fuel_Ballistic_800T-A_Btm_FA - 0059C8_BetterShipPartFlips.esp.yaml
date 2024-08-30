@@ -1,6 +1,9 @@
 FormKey: 0059C8:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Fuel_Ballistic_800T-A_Btm_FA
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ObjectBounds:
   First: -3.9003906, -7.5, -7.9023438
   Second: 3.9003901, 7.5, 0.0002443731
@@ -12,3 +15,5 @@ Cell: 00599E:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

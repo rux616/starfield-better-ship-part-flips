@@ -1,6 +1,6 @@
 FormKey: 001BAD:BetterShipPartFlips.esp
 EditorID: PackInShipPISMODFuelDogstarAtlasH10PortVertStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -26,22 +26,23 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 001BAE:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 001BAF:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 001BB0:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 0024E6:BetterShipPartFlips.esp
 - MutagenObjectType: PlacedObject
   FormKey: 001BB1:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 002281:BetterShipPartFlips.esp
   Rotation: 4.712389, 0, 0

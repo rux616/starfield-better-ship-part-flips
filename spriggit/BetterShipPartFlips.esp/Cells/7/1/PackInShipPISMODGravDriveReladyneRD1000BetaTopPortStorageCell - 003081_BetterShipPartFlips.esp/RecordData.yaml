@@ -1,6 +1,6 @@
 FormKey: 003081:BetterShipPartFlips.esp
 EditorID: PackInShipPISMODGravDriveReladyneRD1000BetaTopPortStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -27,15 +27,16 @@ WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 003082:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 003083:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Components:
   - MutagenObjectType: KeywordFormComponent
     Keywords:
@@ -44,13 +45,13 @@ Temporary:
   Rotation: 0, -0, 1.5707963
 - MutagenObjectType: PlacedObject
   FormKey: 003084:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 003085:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 005A1C:BetterShipPartFlips.esp
 - MutagenObjectType: PlacedObject
   FormKey: 0030C2:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 002F85:BetterShipPartFlips.esp

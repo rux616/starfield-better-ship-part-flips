@@ -1,6 +1,9 @@
 FormKey: 0020B4:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Cargo_Protectorate_Galleon-S203-Base_BtmPort
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ODTY: 0
 Transforms:
   Ship: 203E7A:Starfield.esm
@@ -9,3 +12,5 @@ Cell: 0020D3:BetterShipPartFlips.esm
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

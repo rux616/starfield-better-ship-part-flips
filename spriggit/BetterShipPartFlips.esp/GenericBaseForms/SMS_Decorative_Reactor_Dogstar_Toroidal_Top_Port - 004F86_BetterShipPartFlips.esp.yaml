@@ -1,6 +1,6 @@
 FormKey: 004F86:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Reactor_Dogstar_Toroidal_Top_Port
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

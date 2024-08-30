@@ -1,6 +1,6 @@
 FormKey: 0010BE:BetterShipPartFlips.esm
 EditorID: ShipSnap_SMOD_Struct_Nova_CL-3C_StbdFore
-FormVersion: 559
+FormVersion: 575
 Nodes:
 - NodeID: 7
   Node: 04AB73:Starfield.esm

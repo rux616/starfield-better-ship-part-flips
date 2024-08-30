@@ -1,6 +1,6 @@
 FormKey: 003D03:BetterShipPartFlips.esm
 EditorID: PackInShipPISMODDecorativeGravDriveNovaNG2xxPortForeStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -27,15 +27,16 @@ WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 003D04:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 003D05:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Components:
   - MutagenObjectType: KeywordFormComponent
     Keywords:
@@ -44,13 +45,13 @@ Temporary:
   Rotation: 0, 1.5707963, 3.1415925
 - MutagenObjectType: PlacedObject
   FormKey: 003D06:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 003D07:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 001EE9:BetterShipPartFlips.esm
 - MutagenObjectType: PlacedObject
   FormKey: 003D08:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 00285F:BetterShipPartFlips.esm

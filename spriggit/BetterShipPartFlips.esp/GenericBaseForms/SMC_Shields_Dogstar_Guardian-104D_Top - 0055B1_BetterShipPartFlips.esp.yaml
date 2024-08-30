@@ -1,6 +1,6 @@
 FormKey: 0055B1:BetterShipPartFlips.esp
 EditorID: SMC_Shields_Dogstar_Guardian-104D_Top
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

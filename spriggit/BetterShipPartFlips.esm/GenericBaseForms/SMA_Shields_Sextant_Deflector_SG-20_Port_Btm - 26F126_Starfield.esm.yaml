@@ -1,6 +1,6 @@
 FormKey: 26F126:Starfield.esm
 EditorID: SMA_Shields_Sextant_Deflector_SG-20_Port_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

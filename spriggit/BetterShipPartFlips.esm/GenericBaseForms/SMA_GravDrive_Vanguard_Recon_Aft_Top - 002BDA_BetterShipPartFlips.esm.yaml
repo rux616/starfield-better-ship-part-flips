@@ -1,6 +1,6 @@
 FormKey: 002BDA:BetterShipPartFlips.esm
 EditorID: SMA_GravDrive_Vanguard_Recon_Aft_Top
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

@@ -1,6 +1,6 @@
 FormKey: 0056FD:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Cargo_Protectorate_Galleon-S202_Port_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

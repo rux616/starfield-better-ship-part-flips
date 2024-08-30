@@ -1,6 +1,6 @@
 FormKey: 005A1A:BetterShipPartFlips.esp
 EditorID: SMS_FuelTank_Ballistic_800T-B_TopBtm_Zntl
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

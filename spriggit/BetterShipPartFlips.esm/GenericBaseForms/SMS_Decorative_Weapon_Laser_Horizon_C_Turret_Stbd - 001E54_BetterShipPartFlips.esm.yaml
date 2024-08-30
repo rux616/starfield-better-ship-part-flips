@@ -1,6 +1,6 @@
 FormKey: 001E54:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_Weapon_Laser_Horizon_C_Turret_Stbd
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

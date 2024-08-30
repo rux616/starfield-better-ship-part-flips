@@ -1,6 +1,6 @@
 FormKey: 0015A2:BetterShipPartFlips.esp
 EditorID: SMOD_Struct_Stroud_Cap_A_AftStbd_NIF
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -4, -3.9999988, -1.7500026
   Second: 4, 4.0000005, 1.7500026

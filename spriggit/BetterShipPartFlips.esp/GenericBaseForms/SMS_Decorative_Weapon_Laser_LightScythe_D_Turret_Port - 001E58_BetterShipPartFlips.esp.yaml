@@ -1,6 +1,6 @@
 FormKey: 001E58:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Weapon_Laser_LightScythe_D_Turret_Port
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

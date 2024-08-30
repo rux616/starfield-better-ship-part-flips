@@ -1,6 +1,6 @@
 FormKey: 00145A:BetterShipPartFlips.esp
 EditorID: SMOD_Struct_Nova_Wing_VXStbdBtm_SNAP
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -0.5, -0.5, -0.5
   Second: 0.5, 0.5, 0.5

@@ -1,6 +1,6 @@
 FormKey: 0008ED:BetterShipPartFlips.esp
 EditorID: SMOD_Struct_Deimos_Bumper_PortMid_NIF
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -4.1796875, -8, -1.4384766
   Second: -0.006591797, 8, 1.4511719

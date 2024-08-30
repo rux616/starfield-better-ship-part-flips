@@ -1,6 +1,6 @@
 FormKey: 004990:BetterShipPartFlips.esm
 EditorID: SMB_Reactor_DeepCore_DC302-FastIgnition_Top_Port
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

@@ -1,6 +1,6 @@
 FormKey: 005302:BetterShipPartFlips.esp
 EditorID: SMA_Shields_Protectorate_Marduk-1020-A_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

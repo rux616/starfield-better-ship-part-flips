@@ -1,6 +1,9 @@
 FormKey: 001C27:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Fuel_Dogstar_Atlas-H40_Btm_PS
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ObjectBounds:
   First: -3.8476565, -1.3730471, -4.082031
   Second: 3.8476562, 1.373047, 1.7499998
@@ -12,3 +15,5 @@ Cell: 001C28:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

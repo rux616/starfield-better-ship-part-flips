@@ -1,6 +1,6 @@
 FormKey: 0024FE:BetterShipPartFlips.esm
 EditorID: PackInShipPISMODCargoSextantBallast200CMAftVertStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -26,22 +26,23 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0024FF:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 002500:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 00252C:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 001ED2:BetterShipPartFlips.esm
 - MutagenObjectType: PlacedObject
   FormKey: 002554:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 002180:BetterShipPartFlips.esm
   Rotation: 1.5707963, 1.5707963, 0

@@ -1,6 +1,6 @@
 FormKey: 002A22:BetterShipPartFlips.esm
 EditorID: SMS_Cargo_Sextant_Hauler-20T_Port_Zntl
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

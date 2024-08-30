@@ -1,6 +1,6 @@
 FormKey: 0012CE:BetterShipPartFlips.esp
 EditorID: SMOD_Struct_Nova_CowlLong_StbdBtm_NIF
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -3.1582038, -3.9960938, -1.7646484
   Second: 3.158205, 10.5546875, 1.7519531

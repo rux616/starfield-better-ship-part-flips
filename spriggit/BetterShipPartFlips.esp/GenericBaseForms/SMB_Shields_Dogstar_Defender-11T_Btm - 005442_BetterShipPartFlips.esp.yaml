@@ -1,6 +1,6 @@
 FormKey: 005442:BetterShipPartFlips.esp
 EditorID: SMB_Shields_Dogstar_Defender-11T_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

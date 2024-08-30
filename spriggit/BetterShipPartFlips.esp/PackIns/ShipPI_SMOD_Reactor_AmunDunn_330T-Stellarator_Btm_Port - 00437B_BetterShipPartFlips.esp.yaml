@@ -1,7 +1,7 @@
 FormKey: 00437B:BetterShipPartFlips.esp
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Reactor_AmunDunn_330T-Stellarator_Btm_Port
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:

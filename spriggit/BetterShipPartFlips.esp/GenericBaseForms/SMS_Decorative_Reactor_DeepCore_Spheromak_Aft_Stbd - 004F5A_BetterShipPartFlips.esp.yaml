@@ -1,6 +1,6 @@
 FormKey: 004F5A:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Reactor_DeepCore_Spheromak_Aft_Stbd
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

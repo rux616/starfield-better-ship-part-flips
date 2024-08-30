@@ -1,6 +1,6 @@
 FormKey: 003574:BetterShipPartFlips.esp
 EditorID: SMS_Cargo_Panoptes_daGama-1020_Top_FA_Stbd
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

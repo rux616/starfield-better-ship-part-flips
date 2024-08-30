@@ -1,6 +1,6 @@
 FormKey: 00563E:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Shields_Protectorate_Odin_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

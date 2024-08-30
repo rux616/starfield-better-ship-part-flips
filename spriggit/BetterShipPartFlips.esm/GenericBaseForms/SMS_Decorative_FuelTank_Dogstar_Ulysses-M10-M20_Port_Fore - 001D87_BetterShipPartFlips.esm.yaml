@@ -1,6 +1,6 @@
 FormKey: 001D87:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_FuelTank_Dogstar_Ulysses-M10-M20_Port_Fore
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

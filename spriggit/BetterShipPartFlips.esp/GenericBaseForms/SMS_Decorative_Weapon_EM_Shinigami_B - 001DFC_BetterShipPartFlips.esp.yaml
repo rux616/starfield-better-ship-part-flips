@@ -1,6 +1,6 @@
 FormKey: 001DFC:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Weapon_EM_Shinigami_B
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

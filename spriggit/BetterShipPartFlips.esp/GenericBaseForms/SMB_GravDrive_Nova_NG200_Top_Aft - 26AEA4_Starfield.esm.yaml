@@ -1,6 +1,6 @@
 FormKey: 26AEA4:Starfield.esm
 EditorID: SMB_GravDrive_Nova_NG200_Top_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

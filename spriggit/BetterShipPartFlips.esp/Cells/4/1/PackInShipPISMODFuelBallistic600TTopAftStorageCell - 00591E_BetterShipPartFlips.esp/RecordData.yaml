@@ -1,6 +1,6 @@
 FormKey: 00591E:BetterShipPartFlips.esp
 EditorID: PackInShipPISMODFuelBallistic600TTopAftStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -26,22 +26,23 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 00591F:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 005920:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 005921:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 005961:BetterShipPartFlips.esp
 - MutagenObjectType: PlacedObject
   FormKey: 005922:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 002210:BetterShipPartFlips.esp
   Rotation: 1.5707963, 3.1415925, 0

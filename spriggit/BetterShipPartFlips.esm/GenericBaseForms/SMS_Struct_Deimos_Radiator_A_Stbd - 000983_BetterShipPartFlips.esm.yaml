@@ -1,6 +1,6 @@
 FormKey: 000983:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Deimos_Radiator_A_Stbd
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent

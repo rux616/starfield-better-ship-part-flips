@@ -1,6 +1,6 @@
 FormKey: 004592:BetterShipPartFlips.esp
 EditorID: PackInShipPISMODReactorDogstar114MMToroidalBtmAftStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -32,11 +32,11 @@ TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 004593:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 004594:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Components:
   - MutagenObjectType: KeywordFormComponent
     Keywords:
@@ -45,9 +45,9 @@ Temporary:
   Rotation: 3.1415925, 0, 3.1415925
 - MutagenObjectType: PlacedObject
   FormKey: 004595:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 004596:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 00281D:BetterShipPartFlips.esp

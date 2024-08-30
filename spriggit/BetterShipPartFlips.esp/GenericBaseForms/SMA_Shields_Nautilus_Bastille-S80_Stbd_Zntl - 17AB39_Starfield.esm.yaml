@@ -1,6 +1,6 @@
 FormKey: 17AB39:Starfield.esm
 EditorID: SMA_Shields_Nautilus_Bastille-S80_Stbd_Zntl
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

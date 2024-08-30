@@ -1,6 +1,6 @@
 FormKey: 00319D:BetterShipPartFlips.esp
 EditorID: SMB_GravDrive_Slayton_SGD-2200_Aft_Port
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

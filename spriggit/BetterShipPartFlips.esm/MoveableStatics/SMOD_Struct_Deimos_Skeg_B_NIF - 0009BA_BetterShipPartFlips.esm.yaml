@@ -1,6 +1,6 @@
 FormKey: 0009BA:BetterShipPartFlips.esm
 EditorID: SMOD_Struct_Deimos_Skeg_B_NIF
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -2.0019531, -4.0117188, -1.7626953
   Second: 1.9990234, 4.0117188, 1.7509766

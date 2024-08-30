@@ -1,6 +1,6 @@
 FormKey: 004F7D:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_Reactor_Dogstar_Toroidal_Port_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

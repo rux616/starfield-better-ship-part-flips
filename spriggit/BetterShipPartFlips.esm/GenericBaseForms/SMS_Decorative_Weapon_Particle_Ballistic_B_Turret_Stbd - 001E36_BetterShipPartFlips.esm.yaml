@@ -1,6 +1,6 @@
 FormKey: 001E36:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_Weapon_Particle_Ballistic_B_Turret_Stbd
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

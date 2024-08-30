@@ -1,6 +1,6 @@
 FormKey: 0057FB:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Cargo_Dogstar_StorMax-Empty_Top_Zntl
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

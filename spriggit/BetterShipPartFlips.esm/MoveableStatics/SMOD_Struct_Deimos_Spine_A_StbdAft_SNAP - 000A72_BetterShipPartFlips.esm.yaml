@@ -1,6 +1,6 @@
 FormKey: 000A72:BetterShipPartFlips.esm
 EditorID: SMOD_Struct_Deimos_Spine_A_StbdAft_SNAP
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -0.5, -0.5, -0.5
   Second: 0.5, 0.5, 0.5

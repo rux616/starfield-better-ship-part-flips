@@ -1,6 +1,6 @@
 FormKey: 00080D:BetterShipPartFlips.esp
 EditorID: ShipSnap_SMOD_Template
-FormVersion: 559
+FormVersion: 575
 Nodes:
 - NodeID: 7
   Node: 04AB73:Starfield.esm

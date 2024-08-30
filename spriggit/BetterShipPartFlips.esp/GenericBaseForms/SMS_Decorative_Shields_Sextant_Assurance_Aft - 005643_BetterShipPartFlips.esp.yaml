@@ -1,6 +1,6 @@
 FormKey: 005643:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Shields_Sextant_Assurance_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

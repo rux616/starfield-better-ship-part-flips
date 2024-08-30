@@ -1,6 +1,6 @@
 FormKey: 000928:BetterShipPartFlips.esp
 EditorID: ShipSnap_SMOD_Struct_Deimos_Bumper_TopAft
-FormVersion: 559
+FormVersion: 575
 Nodes:
 - NodeID: 9
   Node: 04AB6F:Starfield.esm

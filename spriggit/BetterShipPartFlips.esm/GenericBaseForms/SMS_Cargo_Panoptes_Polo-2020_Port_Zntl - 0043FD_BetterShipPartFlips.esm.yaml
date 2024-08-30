@@ -1,6 +1,6 @@
 FormKey: 0043FD:BetterShipPartFlips.esm
 EditorID: SMS_Cargo_Panoptes_Polo-2020_Port_Zntl
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

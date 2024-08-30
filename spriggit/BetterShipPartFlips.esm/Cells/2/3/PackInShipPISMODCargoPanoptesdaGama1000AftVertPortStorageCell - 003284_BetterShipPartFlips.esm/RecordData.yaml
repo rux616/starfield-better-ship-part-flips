@@ -1,6 +1,6 @@
 FormKey: 003284:BetterShipPartFlips.esm
 EditorID: PackInShipPISMODCargoPanoptesdaGama1000AftVertPortStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -26,23 +26,24 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 00329A:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0032B3:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0032C9:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 001ED2:BetterShipPartFlips.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0032CE:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 001F8D:BetterShipPartFlips.esm
   Position: 0, 4, 0
   Rotation: 4.712389, 4.712389, 0

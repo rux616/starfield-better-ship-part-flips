@@ -1,6 +1,6 @@
 FormKey: 000D37:BetterShipPartFlips.esp
 EditorID: SMOD_Struct_Hope_Bumper_A_Fore_NIF
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -3.4980469, -0.0008544922, -1.5869141
   Second: 3.4980469, 4.46875, 1.5859375

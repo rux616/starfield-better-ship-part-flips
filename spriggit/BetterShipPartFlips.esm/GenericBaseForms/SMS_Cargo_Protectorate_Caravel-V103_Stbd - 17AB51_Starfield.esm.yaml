@@ -1,6 +1,6 @@
 FormKey: 17AB51:Starfield.esm
 EditorID: SMS_Cargo_Protectorate_Caravel-V103_Stbd
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

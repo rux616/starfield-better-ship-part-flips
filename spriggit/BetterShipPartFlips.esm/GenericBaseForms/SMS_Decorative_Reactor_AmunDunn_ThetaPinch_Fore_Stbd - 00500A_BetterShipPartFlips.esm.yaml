@@ -1,6 +1,6 @@
 FormKey: 00500A:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_Reactor_AmunDunn_ThetaPinch_Fore_Stbd
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

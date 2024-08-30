@@ -1,6 +1,6 @@
 FormKey: 0042A1:BetterShipPartFlips.esp
 EditorID: SMOD_Reactor_DeepCore_Spheromak-DC201_NoSnap
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -4.0000005, -3.9042962, -1.71875
   Second: 4.0000005, 4.003906, 1.71875

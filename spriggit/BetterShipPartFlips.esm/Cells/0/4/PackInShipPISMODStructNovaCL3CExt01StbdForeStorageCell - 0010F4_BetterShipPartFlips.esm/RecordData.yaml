@@ -1,6 +1,6 @@
 FormKey: 0010F4:BetterShipPartFlips.esm
 EditorID: PackInShipPISMODStructNovaCL3CExt01StbdForeStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -27,25 +27,26 @@ WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0010E3:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 0010E4:BetterShipPartFlips.esm
   LayeredMaterialSwaps:
   - 3A2ED4:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0010E6:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0010E7:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0010F5:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Components:
   - MutagenObjectType: KeywordFormComponent
     Keywords:

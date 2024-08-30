@@ -1,6 +1,6 @@
 FormKey: 004CF9:BetterShipPartFlips.esp
 EditorID: SMC_Reactor_DeepCore_Fusor-DC401_Stbd_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

@@ -1,6 +1,6 @@
 FormKey: 00085A:BetterShipPartFlips.esp
 EditorID: ShipSnap_SMOD_Struct_Deimos_Belly_PortBtm_A
-FormVersion: 559
+FormVersion: 575
 Nodes:
 - NodeID: 9
   Node: 04AB77:Starfield.esm

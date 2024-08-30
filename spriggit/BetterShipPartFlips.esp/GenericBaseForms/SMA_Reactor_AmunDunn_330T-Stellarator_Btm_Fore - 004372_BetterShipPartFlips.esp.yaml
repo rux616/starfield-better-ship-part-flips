@@ -1,6 +1,6 @@
 FormKey: 004372:BetterShipPartFlips.esp
 EditorID: SMA_Reactor_AmunDunn_330T-Stellarator_Btm_Fore
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

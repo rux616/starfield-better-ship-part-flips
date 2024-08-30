@@ -1,6 +1,6 @@
 FormKey: 001BC7:BetterShipPartFlips.esm
 EditorID: SMOD_Fuel_Dogstar_Atlas-H10_Port_Zntl_NoSnap
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: 0.9765625, -2.5859375, -1.3730469
   Second: 4, 2.5859375, 1.3730469

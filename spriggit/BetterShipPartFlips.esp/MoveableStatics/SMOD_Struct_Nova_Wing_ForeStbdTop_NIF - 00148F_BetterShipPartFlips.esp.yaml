@@ -1,6 +1,6 @@
 FormKey: 00148F:BetterShipPartFlips.esp
 EditorID: SMOD_Struct_Nova_Wing_ForeStbdTop_NIF
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -3.9882812, -4, -1.4375
   Second: 2.4902344, 2.4140625, 1.4375

@@ -1,6 +1,6 @@
 FormKey: 00421F:BetterShipPartFlips.esm
 EditorID: PackInShipPISMODCargoPanoptesPolo2000TopZntlStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -26,22 +26,23 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 004220:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 004221:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 004222:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 0024C5:BetterShipPartFlips.esm
 - MutagenObjectType: PlacedObject
   FormKey: 004223:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 001FAB:BetterShipPartFlips.esm
   Rotation: 0, 3.1415925, 1.5707963

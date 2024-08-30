@@ -1,6 +1,6 @@
 FormKey: 270477:Starfield.esm
 EditorID: SMS_Cargo_Protectorate_Galleon-S202_Btm_Port
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

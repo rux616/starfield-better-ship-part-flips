@@ -1,6 +1,6 @@
 FormKey: 001A25:BetterShipPartFlips.esm
 EditorID: SMS_FuelTank_Dogstar_Ulysses-M20_Fore_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

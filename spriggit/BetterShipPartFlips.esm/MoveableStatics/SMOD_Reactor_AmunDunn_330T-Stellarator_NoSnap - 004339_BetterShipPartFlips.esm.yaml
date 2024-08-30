@@ -1,6 +1,6 @@
 FormKey: 004339:BetterShipPartFlips.esm
 EditorID: SMOD_Reactor_AmunDunn_330T-Stellarator_NoSnap
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -4, -3.8613281, -1.75
   Second: 4, 4, 1.7519531

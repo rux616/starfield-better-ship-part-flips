@@ -1,6 +1,6 @@
 FormKey: 00283B:BetterShipPartFlips.esp
 EditorID: SMS_Cargo_Sextant_Hauler-10T_Stbd_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

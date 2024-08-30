@@ -1,6 +1,6 @@
 FormKey: 00555E:BetterShipPartFlips.esp
 EditorID: SMB_Shields_Nautilus_Tower-N400_Fore
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

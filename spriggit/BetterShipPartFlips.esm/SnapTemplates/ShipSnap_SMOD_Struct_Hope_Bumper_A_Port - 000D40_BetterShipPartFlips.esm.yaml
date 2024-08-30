@@ -1,6 +1,6 @@
 FormKey: 000D40:BetterShipPartFlips.esm
 EditorID: ShipSnap_SMOD_Struct_Hope_Bumper_A_Port
-FormVersion: 559
+FormVersion: 575
 Nodes:
 - NodeID: 6
   Node: 04AB74:Starfield.esm

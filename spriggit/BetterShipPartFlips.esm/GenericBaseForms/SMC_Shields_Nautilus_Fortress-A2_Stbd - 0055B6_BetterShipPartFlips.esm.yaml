@@ -1,6 +1,6 @@
 FormKey: 0055B6:BetterShipPartFlips.esm
 EditorID: SMC_Shields_Nautilus_Fortress-A2_Stbd
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

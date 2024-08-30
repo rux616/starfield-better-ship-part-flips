@@ -1,6 +1,6 @@
 FormKey: 002928:BetterShipPartFlips.esm
 EditorID: PackInShipPISMODCargoSextantHauler10TPortBtmStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -26,28 +26,29 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 002986:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 002987:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 002988:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 0024E2:BetterShipPartFlips.esm
 - MutagenObjectType: PlacedObject
   FormKey: 002989:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 00215C:BetterShipPartFlips.esm
   Position: 2.25, 0, -0.5
   Rotation: 4.712389, 4.712389, 0
 - MutagenObjectType: PlacedObject
   FormKey: 005137:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 00513F:BetterShipPartFlips.esm
   Position: 2.25, 0, 0

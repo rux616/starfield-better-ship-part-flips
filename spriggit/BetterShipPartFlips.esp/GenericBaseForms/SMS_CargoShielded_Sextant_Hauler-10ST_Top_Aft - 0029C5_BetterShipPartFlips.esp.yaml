@@ -1,6 +1,6 @@
 FormKey: 0029C5:BetterShipPartFlips.esp
 EditorID: SMS_CargoShielded_Sextant_Hauler-10ST_Top_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

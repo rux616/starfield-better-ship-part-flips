@@ -1,6 +1,6 @@
 FormKey: 00104D:BetterShipPartFlips.esp
 EditorID: SMS_Thrust_Hope_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent

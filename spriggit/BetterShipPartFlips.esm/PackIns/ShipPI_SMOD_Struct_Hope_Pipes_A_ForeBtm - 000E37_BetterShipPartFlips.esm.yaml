@@ -1,6 +1,9 @@
 FormKey: 000E37:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Struct_Hope_Pipes_A_ForeBtm
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ObjectBounds:
   First: -2.539063, -4.0585938, -1.7089838
   Second: 2.539063, 1.4179688, 1.8632807
@@ -12,3 +15,5 @@ Cell: 000E41:BetterShipPartFlips.esm
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

@@ -1,6 +1,6 @@
 FormKey: 26F988:Starfield.esm
 EditorID: SMB_Shields_Dogstar_Defender-11T_Port
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

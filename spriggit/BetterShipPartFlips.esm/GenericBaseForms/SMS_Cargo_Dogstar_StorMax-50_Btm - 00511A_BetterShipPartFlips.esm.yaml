@@ -1,6 +1,6 @@
 FormKey: 00511A:BetterShipPartFlips.esm
 EditorID: SMS_Cargo_Dogstar_StorMax-50_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

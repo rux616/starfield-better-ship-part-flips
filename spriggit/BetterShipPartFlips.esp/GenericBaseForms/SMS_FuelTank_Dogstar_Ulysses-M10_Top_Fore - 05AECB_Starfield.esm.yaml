@@ -1,6 +1,6 @@
 FormKey: 05AECB:Starfield.esm
 EditorID: SMS_FuelTank_Dogstar_Ulysses-M10_Top_Fore
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

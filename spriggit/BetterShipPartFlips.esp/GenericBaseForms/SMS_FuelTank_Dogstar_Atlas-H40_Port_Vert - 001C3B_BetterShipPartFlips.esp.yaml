@@ -1,6 +1,6 @@
 FormKey: 001C3B:BetterShipPartFlips.esp
 EditorID: SMS_FuelTank_Dogstar_Atlas-H40_Port_Vert
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

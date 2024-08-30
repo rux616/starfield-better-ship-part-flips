@@ -1,6 +1,6 @@
 FormKey: 001B27:BetterShipPartFlips.esm
 EditorID: PackInShipPISMODFuelDogstarUlyssesM40PortBtmStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -26,22 +26,23 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 001B28:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 001B29:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 001B2A:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 0024E2:BetterShipPartFlips.esm
 - MutagenObjectType: PlacedObject
   FormKey: 001B2B:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 002327:BetterShipPartFlips.esm
   Rotation: 3.1415925, 0, 0

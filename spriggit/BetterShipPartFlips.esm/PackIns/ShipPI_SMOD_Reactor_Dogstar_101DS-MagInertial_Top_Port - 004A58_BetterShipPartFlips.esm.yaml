@@ -1,7 +1,7 @@
 FormKey: 004A58:BetterShipPartFlips.esm
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Reactor_Dogstar_101DS-MagInertial_Top_Port
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:

@@ -1,6 +1,6 @@
 FormKey: 26512E:Starfield.esm
 EditorID: SMS_CargoShielded_Sextant_Ballast-200CM_Port
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

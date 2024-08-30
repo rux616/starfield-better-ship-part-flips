@@ -1,6 +1,6 @@
 FormKey: 00080E:BetterShipPartFlips.esm
 EditorID: SMOD_Struct_Deimos_Belly_AftBtm_A_NIF
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -4.0000005, -3.5507803, -1.7519542
   Second: 4.0000005, 3.998047, 1.7509778

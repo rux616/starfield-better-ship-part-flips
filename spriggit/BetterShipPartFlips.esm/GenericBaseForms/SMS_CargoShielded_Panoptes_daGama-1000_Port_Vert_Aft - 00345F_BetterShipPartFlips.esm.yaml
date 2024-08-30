@@ -1,6 +1,6 @@
 FormKey: 00345F:BetterShipPartFlips.esm
 EditorID: SMS_CargoShielded_Panoptes_daGama-1000_Port_Vert_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

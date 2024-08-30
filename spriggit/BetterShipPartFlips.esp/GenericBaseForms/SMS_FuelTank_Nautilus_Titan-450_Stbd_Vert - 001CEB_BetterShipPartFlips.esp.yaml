@@ -1,6 +1,6 @@
 FormKey: 001CEB:BetterShipPartFlips.esp
 EditorID: SMS_FuelTank_Nautilus_Titan-450_Stbd_Vert
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

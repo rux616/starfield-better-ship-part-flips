@@ -1,6 +1,6 @@
 FormKey: 00088F:BetterShipPartFlips.esm
 EditorID: SMOD_Struct_Deimos_Cowl_Aft_A_NIF
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -4.0664062, -4, -1.75
   Second: 4.0664062, 4, 1.75

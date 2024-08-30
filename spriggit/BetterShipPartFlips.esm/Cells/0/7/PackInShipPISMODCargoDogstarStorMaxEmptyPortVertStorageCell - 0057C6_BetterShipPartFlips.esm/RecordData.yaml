@@ -1,6 +1,6 @@
 FormKey: 0057C6:BetterShipPartFlips.esm
 EditorID: PackInShipPISMODCargoDogstarStorMaxEmptyPortVertStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -26,22 +26,23 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0057C7:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0057C8:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0057C9:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 001ED6:BetterShipPartFlips.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0057CA:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 001F73:BetterShipPartFlips.esm
   Rotation: 1.5707963, 0, 0

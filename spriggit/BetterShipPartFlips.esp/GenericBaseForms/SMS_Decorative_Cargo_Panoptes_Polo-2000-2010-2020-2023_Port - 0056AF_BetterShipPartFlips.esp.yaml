@@ -1,6 +1,6 @@
 FormKey: 0056AF:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Cargo_Panoptes_Polo-2000-2010-2020-2023_Port
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

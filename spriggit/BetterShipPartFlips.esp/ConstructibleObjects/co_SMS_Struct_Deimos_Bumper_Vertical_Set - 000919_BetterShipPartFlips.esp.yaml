@@ -1,7 +1,7 @@
 FormKey: 000919:BetterShipPartFlips.esp
 MajorRecordFlagsRaw: 67108864
 EditorID: co_SMS_Struct_Deimos_Bumper_Vertical_Set
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x4000000
 Description:

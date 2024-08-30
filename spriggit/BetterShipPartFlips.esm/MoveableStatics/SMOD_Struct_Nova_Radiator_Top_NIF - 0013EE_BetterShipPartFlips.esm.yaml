@@ -1,6 +1,6 @@
 FormKey: 0013EE:BetterShipPartFlips.esm
 EditorID: SMOD_Struct_Nova_Radiator_Top_NIF
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -2.0644531, -4.0078125, -1.75
   Second: 2.0644531, 4.0078125, -1.1103516

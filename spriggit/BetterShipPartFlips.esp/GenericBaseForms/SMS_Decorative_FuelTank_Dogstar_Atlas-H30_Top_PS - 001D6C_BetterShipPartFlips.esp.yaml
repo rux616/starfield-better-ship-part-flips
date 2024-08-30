@@ -1,6 +1,6 @@
 FormKey: 001D6C:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_FuelTank_Dogstar_Atlas-H30_Top_PS
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

@@ -1,6 +1,6 @@
 FormKey: 0027C7:BetterShipPartFlips.esm
 EditorID: SMA_GravDrive_Reladyne_R-1000-Alpha_Top_Stbd
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

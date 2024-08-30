@@ -1,6 +1,6 @@
 FormKey: 0034B5:BetterShipPartFlips.esp
 EditorID: SMC_GravDrive_DeepCore_Apollo-GV200_Port_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

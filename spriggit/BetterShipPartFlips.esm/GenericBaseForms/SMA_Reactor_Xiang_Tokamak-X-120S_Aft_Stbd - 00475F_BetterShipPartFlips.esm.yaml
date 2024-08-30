@@ -1,6 +1,6 @@
 FormKey: 00475F:BetterShipPartFlips.esm
 EditorID: SMA_Reactor_Xiang_Tokamak-X-120S_Aft_Stbd
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

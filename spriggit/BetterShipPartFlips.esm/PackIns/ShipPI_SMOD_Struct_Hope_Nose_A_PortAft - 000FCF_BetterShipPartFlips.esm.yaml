@@ -1,6 +1,9 @@
 FormKey: 000FCF:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Struct_Hope_Nose_A_PortAft
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ObjectBounds:
   First: -2.1093752, -3.7988281, -1.3564453
   Second: 0.5, 3.9980466, 1.4296875
@@ -12,3 +15,5 @@ Cell: 000FD7:BetterShipPartFlips.esm
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

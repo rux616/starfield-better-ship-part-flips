@@ -1,6 +1,6 @@
 FormKey: 005394:BetterShipPartFlips.esp
 EditorID: SMA_Shields_Sextant_Deflector_SG-10_Fore_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

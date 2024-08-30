@@ -1,6 +1,6 @@
 FormKey: 001675:BetterShipPartFlips.esp
 EditorID: SMS_Struct_Nova_6WeapMount_Stbd
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent

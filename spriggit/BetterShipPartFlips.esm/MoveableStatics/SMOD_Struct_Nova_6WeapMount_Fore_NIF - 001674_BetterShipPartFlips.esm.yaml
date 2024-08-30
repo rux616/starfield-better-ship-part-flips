@@ -1,6 +1,6 @@
 FormKey: 001674:BetterShipPartFlips.esm
 EditorID: SMOD_Struct_Nova_6WeapMount_Fore_NIF
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -2.8574219, -3.984375, -1.5654297
   Second: 2.8574219, 10.296875, 1.5664062

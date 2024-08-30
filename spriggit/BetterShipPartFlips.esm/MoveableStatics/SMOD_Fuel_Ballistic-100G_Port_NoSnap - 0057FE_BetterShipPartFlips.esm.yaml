@@ -1,6 +1,6 @@
 FormKey: 0057FE:BetterShipPartFlips.esm
 EditorID: SMOD_Fuel_Ballistic-100G_Port_NoSnap
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Model:
   File: Ships\Modules\Fuel\SMOD\SMOD_Fuel_Ballistic_100G_Port.nif

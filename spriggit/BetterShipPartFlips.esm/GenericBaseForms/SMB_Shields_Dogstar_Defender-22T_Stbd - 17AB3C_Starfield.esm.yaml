@@ -1,6 +1,6 @@
 FormKey: 17AB3C:Starfield.esm
 EditorID: SMB_Shields_Dogstar_Defender-22T_Stbd
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

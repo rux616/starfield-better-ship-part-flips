@@ -1,6 +1,6 @@
 FormKey: 002DBE:BetterShipPartFlips.esp
 EditorID: SMOD_GravDrive_Nova_NG300_NoSnap
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -3.9160156, -4, -3.5
   Second: 3.9160156, 4, 3.5

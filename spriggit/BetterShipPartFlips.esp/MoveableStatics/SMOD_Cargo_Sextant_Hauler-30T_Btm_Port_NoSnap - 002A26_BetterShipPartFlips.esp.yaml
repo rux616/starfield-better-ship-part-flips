@@ -1,6 +1,6 @@
 FormKey: 002A26:BetterShipPartFlips.esp
 EditorID: SMOD_Cargo_Sextant_Hauler-30T_Btm_Port_NoSnap
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Model:
   File: Ships\Modules\Cargo\SMOD\SMOD_Cargo_Sextant_30T-Hauler_PortBtm.nif

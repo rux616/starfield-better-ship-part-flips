@@ -1,6 +1,6 @@
 FormKey: 001374:BetterShipPartFlips.esm
 EditorID: SMOD_Struct_Nova_RadiatorSmall_PortForeTop_SNAP
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -0.5, -0.5, -0.5
   Second: 0.5, 0.5, 0.5

@@ -1,6 +1,6 @@
 FormKey: 004FA7:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Reactor_AmunDunn_Z-Machine_Btm_Stbd
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

@@ -1,6 +1,6 @@
 FormKey: 0008DC:BetterShipPartFlips.esp
 EditorID: ShipSnap_SMOD_Struct_Nova_EngBrace_AftBtm
-FormVersion: 559
+FormVersion: 575
 Nodes:
 - NodeID: 9
   Node: 04AB77:Starfield.esm

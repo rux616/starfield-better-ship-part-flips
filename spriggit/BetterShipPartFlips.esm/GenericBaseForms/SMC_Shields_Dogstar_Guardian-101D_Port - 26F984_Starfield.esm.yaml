@@ -1,6 +1,6 @@
 FormKey: 26F984:Starfield.esm
 EditorID: SMC_Shields_Dogstar_Guardian-101D_Port
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

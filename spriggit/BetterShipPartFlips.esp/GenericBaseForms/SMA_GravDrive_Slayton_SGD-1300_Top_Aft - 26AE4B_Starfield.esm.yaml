@@ -1,6 +1,6 @@
 FormKey: 26AE4B:Starfield.esm
 EditorID: SMA_GravDrive_Slayton_SGD-1300_Top_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

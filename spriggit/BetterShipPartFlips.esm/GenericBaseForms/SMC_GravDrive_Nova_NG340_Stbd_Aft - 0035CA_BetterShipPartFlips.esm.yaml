@@ -1,6 +1,6 @@
 FormKey: 0035CA:BetterShipPartFlips.esm
 EditorID: SMC_GravDrive_Nova_NG340_Stbd_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

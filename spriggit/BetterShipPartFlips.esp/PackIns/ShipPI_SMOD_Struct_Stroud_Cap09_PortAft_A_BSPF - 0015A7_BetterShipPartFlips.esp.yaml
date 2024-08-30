@@ -1,0 +1,19 @@
+FormKey: 0015A7:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Struct_Stroud_Cap09_PortAft_A_BSPF
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -3.999999, -3.9999998, -1.7500026
+  Second: 4.000001, 3.9999998, 1.7500026
+ODTY: 0
+Transforms:
+  Ship: 050FAC:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Struct\Stroud\'
+Cell: 0015A8:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

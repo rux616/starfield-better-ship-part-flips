@@ -1,6 +1,6 @@
 FormKey: 002374:BetterShipPartFlips.esp
 EditorID: PackInShipPISMODShieldDogstarGuardian101DBasePortStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -26,15 +26,16 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 002375:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 002376:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Components:
   - MutagenObjectType: KeywordFormComponent
     Keywords:
@@ -42,11 +43,11 @@ Temporary:
   Base: 00546E:BetterShipPartFlips.esp
 - MutagenObjectType: PlacedObject
   FormKey: 002377:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 002378:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   XALG: 0x0008000000000000
   Base: 1F5607:Starfield.esm
   ProjectedDecal:
@@ -61,7 +62,7 @@ Temporary:
   Rotation: 1.9384779, -1.6316017E-07, 1.5707964
 - MutagenObjectType: PlacedObject
   FormKey: 002379:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   XALG: 0x0008000000000000
   Base: 1F5650:Starfield.esm
   ProjectedDecal:
@@ -76,7 +77,7 @@ Temporary:
   Rotation: -0.7851446, -0.61495113, 1.5707964
 - MutagenObjectType: PlacedObject
   FormKey: 00237A:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   XALG: 0x0008000000000000
   Base: 1F5601:Starfield.esm
   ProjectedDecal:

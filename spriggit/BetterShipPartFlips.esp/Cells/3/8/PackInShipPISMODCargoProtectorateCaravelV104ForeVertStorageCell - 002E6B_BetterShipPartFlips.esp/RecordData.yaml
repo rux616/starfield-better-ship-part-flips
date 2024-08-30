@@ -1,6 +1,6 @@
 FormKey: 002E6B:BetterShipPartFlips.esp
 EditorID: PackInShipPISMODCargoProtectorateCaravelV104ForeVertStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -26,22 +26,23 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 002E6C:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 002E6D:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 002E6E:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 001ED0:BetterShipPartFlips.esp
 - MutagenObjectType: PlacedObject
   FormKey: 002E6F:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 002030:BetterShipPartFlips.esp
   Rotation: 1.5707963, 4.712389, 0

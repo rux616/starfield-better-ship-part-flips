@@ -1,6 +1,6 @@
 FormKey: 0023AA:BetterShipPartFlips.esp
 EditorID: PackInShipPISMODShieldNautilusBastilleS80BaseTopStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -31,11 +31,11 @@ TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0023AB:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0023AC:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Components:
   - MutagenObjectType: KeywordFormComponent
     Keywords:
@@ -43,5 +43,5 @@ Temporary:
   Base: 00522B:BetterShipPartFlips.esp
 - MutagenObjectType: PlacedObject
   FormKey: 0023AD:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm

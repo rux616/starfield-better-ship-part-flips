@@ -1,6 +1,6 @@
 FormKey: 005373:BetterShipPartFlips.esm
 EditorID: PackInShipPISMODShieldSextantDeflectorSG10BtmForeStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -26,23 +26,24 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 005374:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 005375:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 005376:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 0024C0:BetterShipPartFlips.esm
 - MutagenObjectType: PlacedObject
   FormKey: 005377:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 0023D4:BetterShipPartFlips.esm
   Position: 0, 0, -2.25
   Rotation: 4.712389, 0, 4.712389

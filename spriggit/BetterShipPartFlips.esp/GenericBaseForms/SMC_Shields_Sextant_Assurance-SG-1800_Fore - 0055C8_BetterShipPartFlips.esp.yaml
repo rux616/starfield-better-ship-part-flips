@@ -1,6 +1,6 @@
 FormKey: 0055C8:BetterShipPartFlips.esp
 EditorID: SMC_Shields_Sextant_Assurance-SG-1800_Fore
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

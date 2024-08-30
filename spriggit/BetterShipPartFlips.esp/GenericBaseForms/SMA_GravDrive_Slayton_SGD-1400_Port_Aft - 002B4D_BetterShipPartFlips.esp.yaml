@@ -1,6 +1,6 @@
 FormKey: 002B4D:BetterShipPartFlips.esp
 EditorID: SMA_GravDrive_Slayton_SGD-1400_Port_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

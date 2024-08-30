@@ -1,6 +1,6 @@
 FormKey: 26FE5E:Starfield.esm
 EditorID: SMA_Reactor_AmunDunn_360T-Stellarator_Top_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

@@ -1,6 +1,6 @@
 FormKey: 00520E:BetterShipPartFlips.esm
 EditorID: SMA_Shields_Dogstar_Protector-30S_Stbd_Vert
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

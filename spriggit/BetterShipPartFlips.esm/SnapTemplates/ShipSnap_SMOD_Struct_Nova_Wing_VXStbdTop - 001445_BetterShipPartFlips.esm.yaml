@@ -1,6 +1,6 @@
 FormKey: 001445:BetterShipPartFlips.esm
 EditorID: ShipSnap_SMOD_Struct_Nova_Wing_VXStbdTop
-FormVersion: 559
+FormVersion: 575
 Nodes:
 - NodeID: 11
   Node: 04AB85:Starfield.esm

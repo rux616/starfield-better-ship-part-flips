@@ -1,6 +1,6 @@
 FormKey: 0032ED:BetterShipPartFlips.esp
 EditorID: SMC_GravDrive_Reladyne_J-50-Gamma_Aft_Top
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

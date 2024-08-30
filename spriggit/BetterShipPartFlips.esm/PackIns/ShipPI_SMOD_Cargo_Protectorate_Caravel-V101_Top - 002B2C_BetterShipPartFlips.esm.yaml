@@ -1,6 +1,9 @@
 FormKey: 002B2C:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Cargo_Protectorate_Caravel-V101_Top
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ObjectBounds:
   Second: 0, 0, 2.25
 ODTY: 0
@@ -11,3 +14,5 @@ Cell: 002B18:BetterShipPartFlips.esm
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

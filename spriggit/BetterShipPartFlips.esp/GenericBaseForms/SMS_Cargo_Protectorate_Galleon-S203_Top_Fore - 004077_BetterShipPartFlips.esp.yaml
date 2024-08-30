@@ -1,6 +1,6 @@
 FormKey: 004077:BetterShipPartFlips.esp
 EditorID: SMS_Cargo_Protectorate_Galleon-S203_Top_Fore
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

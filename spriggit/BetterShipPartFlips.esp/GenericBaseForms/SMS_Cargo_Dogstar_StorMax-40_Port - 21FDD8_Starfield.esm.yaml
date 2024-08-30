@@ -1,6 +1,6 @@
 FormKey: 21FDD8:Starfield.esm
 EditorID: SMS_Cargo_Dogstar_StorMax-40_Port
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

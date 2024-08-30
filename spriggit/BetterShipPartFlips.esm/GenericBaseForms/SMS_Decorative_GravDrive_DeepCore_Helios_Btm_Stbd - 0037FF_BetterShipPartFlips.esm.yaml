@@ -1,6 +1,6 @@
 FormKey: 0037FF:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_GravDrive_DeepCore_Helios_Btm_Stbd
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

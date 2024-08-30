@@ -1,6 +1,6 @@
 FormKey: 00589C:BetterShipPartFlips.esp
 EditorID: SMS_FuelTank_Ballistic_400G_Port_Vert
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

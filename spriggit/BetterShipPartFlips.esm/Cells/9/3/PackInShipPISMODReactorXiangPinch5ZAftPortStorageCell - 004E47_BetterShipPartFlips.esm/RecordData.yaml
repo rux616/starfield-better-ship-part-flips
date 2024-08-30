@@ -1,6 +1,6 @@
 FormKey: 004E47:BetterShipPartFlips.esm
 EditorID: PackInShipPISMODReactorXiangPinch5ZAftPortStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -27,15 +27,16 @@ WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 004E48:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 004E49:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Components:
   - MutagenObjectType: KeywordFormComponent
     Keywords:
@@ -44,9 +45,9 @@ Temporary:
   Rotation: 4.712389, 0, 1.5707963
 - MutagenObjectType: PlacedObject
   FormKey: 004E4A:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 004E4B:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 0032D4:BetterShipPartFlips.esm
