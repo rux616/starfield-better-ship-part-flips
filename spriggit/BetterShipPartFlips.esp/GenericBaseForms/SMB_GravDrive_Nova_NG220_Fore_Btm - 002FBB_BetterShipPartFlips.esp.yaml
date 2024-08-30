@@ -1,6 +1,6 @@
 FormKey: 002FBB:BetterShipPartFlips.esp
 EditorID: SMB_GravDrive_Nova_NG220_Fore_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

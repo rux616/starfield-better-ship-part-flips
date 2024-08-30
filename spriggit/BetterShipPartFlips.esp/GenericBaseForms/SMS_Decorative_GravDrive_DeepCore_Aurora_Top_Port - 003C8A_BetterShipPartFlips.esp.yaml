@@ -1,6 +1,6 @@
 FormKey: 003C8A:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_GravDrive_DeepCore_Aurora_Top_Port
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

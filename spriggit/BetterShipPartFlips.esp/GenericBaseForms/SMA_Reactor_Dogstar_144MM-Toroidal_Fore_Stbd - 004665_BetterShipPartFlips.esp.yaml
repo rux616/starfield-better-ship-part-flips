@@ -1,6 +1,6 @@
 FormKey: 004665:BetterShipPartFlips.esp
 EditorID: SMA_Reactor_Dogstar_144MM-Toroidal_Fore_Stbd
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

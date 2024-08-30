@@ -1,6 +1,6 @@
 FormKey: 005590:BetterShipPartFlips.esp
 EditorID: SMB_Shields_Protectorate_Osiris-2030-B_Port
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

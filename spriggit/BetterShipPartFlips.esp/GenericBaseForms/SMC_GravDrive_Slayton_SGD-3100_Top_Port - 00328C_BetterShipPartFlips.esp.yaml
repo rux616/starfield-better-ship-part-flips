@@ -1,6 +1,6 @@
 FormKey: 00328C:BetterShipPartFlips.esp
 EditorID: SMC_GravDrive_Slayton_SGD-3100_Top_Port
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

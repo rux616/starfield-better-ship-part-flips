@@ -1,6 +1,6 @@
 FormKey: 26FD12:Starfield.esm
 EditorID: SMA_Reactor_Dogstar_154MM-Toroidal_Top_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

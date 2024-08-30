@@ -1,6 +1,6 @@
 FormKey: 000C04:BetterShipPartFlips.esm
 EditorID: ShipSnap_SMOD_Struct_Deimos_Spine_G_Port
-FormVersion: 559
+FormVersion: 575
 Nodes:
 - NodeID: 7
   Node: 04AB73:Starfield.esm

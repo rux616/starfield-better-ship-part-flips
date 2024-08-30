@@ -1,6 +1,6 @@
 FormKey: 001CC3:BetterShipPartFlips.esm
 EditorID: PackInShipPISMODFuelNautilusTitan350ForeZntlStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -26,23 +26,24 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 001CC4:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 001CC5:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 001CC6:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 0024BF:BetterShipPartFlips.esm
   Position: 0, 4, 0
 - MutagenObjectType: PlacedObject
   FormKey: 001CC7:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 002360:BetterShipPartFlips.esm
   Rotation: 0, 0, 1.5707963

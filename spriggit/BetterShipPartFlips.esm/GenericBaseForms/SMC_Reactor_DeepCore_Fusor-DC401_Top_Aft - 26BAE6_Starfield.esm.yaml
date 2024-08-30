@@ -1,6 +1,6 @@
 FormKey: 26BAE6:Starfield.esm
 EditorID: SMC_Reactor_DeepCore_Fusor-DC401_Top_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

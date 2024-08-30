@@ -1,6 +1,6 @@
 FormKey: 003AE6:BetterShipPartFlips.esp
 EditorID: PackInShipPISMODCargoProtectorateGalleonS202StbdTopStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -26,33 +26,34 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 003AE7:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 003AE8:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 003AE9:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 0024DD:BetterShipPartFlips.esp
 - MutagenObjectType: PlacedObject
   FormKey: 003AEA:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 0020B2:BetterShipPartFlips.esp
   Position: -2.25, 0, -4
   Rotation: 0, 1.5707963, 3.1415925
 - MutagenObjectType: PlacedObject
   FormKey: 00517D:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 00413C:BetterShipPartFlips.esp
   Position: -2.25, 0, 0
 - MutagenObjectType: PlacedObject
   FormKey: 00518D:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 00516D:BetterShipPartFlips.esp
   Position: -2.25, 0, 0

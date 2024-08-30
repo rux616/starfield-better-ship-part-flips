@@ -1,6 +1,9 @@
 FormKey: 00107F:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Struct_Taiyo_EquipNode_Stbd
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ObjectBounds:
   First: -1.7499999, -1.4296875, -1.4296886
   Second: 0.5, 1.4296875, 1.4296864
@@ -12,3 +15,5 @@ Cell: 001083:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

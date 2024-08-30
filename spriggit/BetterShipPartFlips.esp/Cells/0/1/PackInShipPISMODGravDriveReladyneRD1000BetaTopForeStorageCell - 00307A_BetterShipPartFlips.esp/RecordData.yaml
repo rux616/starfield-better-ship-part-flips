@@ -1,6 +1,6 @@
 FormKey: 00307A:BetterShipPartFlips.esp
 EditorID: PackInShipPISMODGravDriveReladyneRD1000BetaTopForeStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -32,11 +32,11 @@ TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 00307B:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 00307C:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Components:
   - MutagenObjectType: KeywordFormComponent
     Keywords:
@@ -45,13 +45,13 @@ Temporary:
   Rotation: 0, -0, 3.1415925
 - MutagenObjectType: PlacedObject
   FormKey: 00307D:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 00307E:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 005A1C:BetterShipPartFlips.esp
 - MutagenObjectType: PlacedObject
   FormKey: 0030C3:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 002F86:BetterShipPartFlips.esp

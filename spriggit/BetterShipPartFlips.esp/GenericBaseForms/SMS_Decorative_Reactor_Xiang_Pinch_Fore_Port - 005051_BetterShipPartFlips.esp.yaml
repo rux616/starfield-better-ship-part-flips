@@ -1,6 +1,6 @@
 FormKey: 005051:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Reactor_Xiang_Pinch_Fore_Port
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

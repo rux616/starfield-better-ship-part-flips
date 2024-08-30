@@ -1,6 +1,6 @@
 FormKey: 26BAE8:Starfield.esm
 EditorID: SMB_Reactor_DeepCore_DC303-FastIgnition_Top_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

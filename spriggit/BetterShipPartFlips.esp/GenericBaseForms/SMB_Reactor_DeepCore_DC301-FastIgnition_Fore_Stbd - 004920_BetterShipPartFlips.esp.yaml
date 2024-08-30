@@ -1,6 +1,6 @@
 FormKey: 004920:BetterShipPartFlips.esp
 EditorID: SMB_Reactor_DeepCore_DC301-FastIgnition_Fore_Stbd
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

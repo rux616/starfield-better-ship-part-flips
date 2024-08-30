@@ -1,0 +1,19 @@
+FormKey: 006085:BetterShipPartFlips.esm
+EditorID: SMOD_Struct_Nova_BraceMini-Base
+FormVersion: 575
+ObjectBounds:
+  First: -4.0039062, -3.984375, -1.7529297
+  Second: 4.0039062, 3.984375, 1.7529297
+ODTY: 0
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Nova_Brace6Way.nif
+  MaterialSwaps:
+  - 0B6B10:Starfield.esm
+  - 29D8A0:Starfield.esm
+  - 22BF01:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 207960:Starfield.esm
+- 1BB401:Starfield.esm
+DATA: 4

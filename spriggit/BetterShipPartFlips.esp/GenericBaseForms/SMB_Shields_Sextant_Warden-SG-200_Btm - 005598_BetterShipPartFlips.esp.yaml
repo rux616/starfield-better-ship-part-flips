@@ -1,6 +1,6 @@
 FormKey: 005598:BetterShipPartFlips.esp
 EditorID: SMB_Shields_Sextant_Warden-SG-200_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

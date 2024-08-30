@@ -1,6 +1,6 @@
 FormKey: 0043FF:BetterShipPartFlips.esp
 EditorID: SMS_Cargo_Panoptes_Polo-2020_Stbd_Zntl
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

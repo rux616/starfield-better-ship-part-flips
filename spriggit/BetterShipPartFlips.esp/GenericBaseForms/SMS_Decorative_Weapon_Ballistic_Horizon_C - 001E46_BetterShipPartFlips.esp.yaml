@@ -1,6 +1,6 @@
 FormKey: 001E46:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Weapon_Ballistic_Horizon_C
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

@@ -1,6 +1,6 @@
 FormKey: 004AA3:BetterShipPartFlips.esp
 EditorID: SMB_Reactor_Dogstar_104DS-MagInertial_Port_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

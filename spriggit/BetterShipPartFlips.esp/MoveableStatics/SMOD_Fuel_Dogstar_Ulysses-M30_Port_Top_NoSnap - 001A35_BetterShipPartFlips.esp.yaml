@@ -1,6 +1,6 @@
 FormKey: 001A35:BetterShipPartFlips.esp
 EditorID: SMOD_Fuel_Dogstar_Ulysses-M30_Port_Top_NoSnap
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: 0.4284668, -4, -1.75
   Second: 4, 4, 1.4726562

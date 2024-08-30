@@ -1,6 +1,6 @@
 FormKey: 26AE91:Starfield.esm
 EditorID: SMA_GravDrive_Reladyne_R-3000-Alpha_Top_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

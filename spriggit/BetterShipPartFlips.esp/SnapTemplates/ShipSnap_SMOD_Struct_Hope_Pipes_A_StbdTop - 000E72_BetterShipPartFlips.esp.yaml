@@ -1,6 +1,6 @@
 FormKey: 000E72:BetterShipPartFlips.esp
 EditorID: ShipSnap_SMOD_Struct_Hope_Pipes_A_StbdTop
-FormVersion: 559
+FormVersion: 575
 Nodes:
 - NodeID: 7
   Node: 04AB73:Starfield.esm

@@ -1,6 +1,6 @@
 FormKey: 001E64:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Weapon_Particle_Vanguard_B
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

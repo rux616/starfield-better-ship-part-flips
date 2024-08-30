@@ -1,6 +1,6 @@
 FormKey: 003FA1:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_GravDrive_DeepCore_Apollo_Top_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

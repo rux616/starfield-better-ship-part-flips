@@ -1,6 +1,6 @@
 FormKey: 003531:BetterShipPartFlips.esm
 EditorID: SMC_GravDrive_Nova_NG300_Port_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

@@ -1,6 +1,6 @@
 FormKey: 000D7A:BetterShipPartFlips.esp
 EditorID: SMOD_Struct_Hope_CapFore_A_Top_NIF
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -4, -4, -1.75
   Second: 4, 2.5605469, 0.4658203

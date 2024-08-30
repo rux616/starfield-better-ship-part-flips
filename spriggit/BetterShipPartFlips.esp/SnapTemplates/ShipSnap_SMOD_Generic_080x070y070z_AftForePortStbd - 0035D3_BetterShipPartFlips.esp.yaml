@@ -1,6 +1,6 @@
 FormKey: 0035D3:BetterShipPartFlips.esp
 EditorID: ShipSnap_SMOD_Generic_080x070y070z_AftForePortStbd
-FormVersion: 559
+FormVersion: 575
 Nodes:
 - Node: 04AB6F:Starfield.esm
   Offset: 0, 3.5, 1.75

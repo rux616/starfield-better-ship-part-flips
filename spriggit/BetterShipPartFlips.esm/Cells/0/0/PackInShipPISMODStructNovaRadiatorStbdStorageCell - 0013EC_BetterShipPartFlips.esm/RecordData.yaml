@@ -1,6 +1,6 @@
 FormKey: 0013EC:BetterShipPartFlips.esm
 EditorID: PackInShipPISMODStructNovaRadiatorStbdStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -32,19 +32,19 @@ TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0013E5:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0013E6:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0013E7:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 0013E8:BetterShipPartFlips.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0013EF:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Components:
   - MutagenObjectType: KeywordFormComponent
     Keywords:

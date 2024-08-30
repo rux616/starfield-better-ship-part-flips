@@ -1,6 +1,9 @@
 FormKey: 005490:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Shield_Protectorate_Odin-3030-C_Btm
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ODTY: 0
 Transforms:
   Ship: 050FA1:Starfield.esm
@@ -9,3 +12,5 @@ Cell: 005534:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

@@ -1,6 +1,6 @@
 FormKey: 0008C1:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Deimos_Cowl_PortBtm_A
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent

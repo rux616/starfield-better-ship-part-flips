@@ -1,7 +1,7 @@
 FormKey: 002AB8:BetterShipPartFlips.esp
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Cargo_Sextant_Hauler-30T_Top_Aft
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:

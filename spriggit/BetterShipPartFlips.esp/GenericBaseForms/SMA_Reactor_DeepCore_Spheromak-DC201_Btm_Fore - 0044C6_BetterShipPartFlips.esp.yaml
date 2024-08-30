@@ -1,6 +1,6 @@
 FormKey: 0044C6:BetterShipPartFlips.esp
 EditorID: SMA_Reactor_DeepCore_Spheromak-DC201_Btm_Fore
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

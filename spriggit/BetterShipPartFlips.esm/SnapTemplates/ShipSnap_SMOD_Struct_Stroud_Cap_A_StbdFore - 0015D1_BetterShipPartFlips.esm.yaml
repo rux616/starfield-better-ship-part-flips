@@ -1,6 +1,6 @@
 FormKey: 0015D1:BetterShipPartFlips.esm
 EditorID: ShipSnap_SMOD_Struct_Stroud_Cap_A_StbdFore
-FormVersion: 559
+FormVersion: 575
 Nodes:
 - NodeID: 7
   Node: 04AB73:Starfield.esm

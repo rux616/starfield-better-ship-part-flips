@@ -1,6 +1,9 @@
 FormKey: 0017C5:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Struct_Stroud_Cap06_AftBtm_2W_A
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ObjectBounds:
   First: -8.031248, -6.9335957, -1.7509766
   Second: 7.999998, 8.000002, 1.7685547
@@ -12,3 +15,5 @@ Cell: 0017C6:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

@@ -1,6 +1,6 @@
 FormKey: 001FE5:BetterShipPartFlips.esp
 EditorID: PackInShipPISMODCargoProtectorateCaravelV102BasePortStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -26,15 +26,16 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 001FE6:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 001FE7:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Components:
   - MutagenObjectType: KeywordFormComponent
     Keywords:
@@ -42,11 +43,11 @@ Temporary:
   Base: 002B44:BetterShipPartFlips.esp
 - MutagenObjectType: PlacedObject
   FormKey: 001FE8:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 001FE9:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F560E:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -58,7 +59,7 @@ Temporary:
   Rotation: -1.1919333E-07, -1.5707964, 0
 - MutagenObjectType: PlacedObject
   FormKey: 001FEA:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 29E425:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -70,7 +71,7 @@ Temporary:
   Rotation: -1.5707963, 1.7484555E-07, 1.5707964
 - MutagenObjectType: PlacedObject
   FormKey: 001FEB:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F5648:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -82,7 +83,7 @@ Temporary:
   Rotation: 1.5707963, -1.5707964, 0
 - MutagenObjectType: PlacedObject
   FormKey: 001FEC:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 29E425:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -94,7 +95,7 @@ Temporary:
   Rotation: -1.5707963, 1.5707964, 0
 - MutagenObjectType: PlacedObject
   FormKey: 001FED:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F5648:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -106,7 +107,7 @@ Temporary:
   Rotation: -0, 0, 3.1415927
 - MutagenObjectType: PlacedObject
   FormKey: 001FEE:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 29E425:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -118,7 +119,7 @@ Temporary:
   Rotation: -1.5707963, 1.5707964, 0
 - MutagenObjectType: PlacedObject
   FormKey: 001FEF:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1E867E:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -130,7 +131,7 @@ Temporary:
   Rotation: -3.1415925, 3.0570967E-14, 1.5707964
 - MutagenObjectType: PlacedObject
   FormKey: 001FF0:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F5648:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -142,7 +143,7 @@ Temporary:
   Rotation: 3.1415927, 0, 1.5707964
 - MutagenObjectType: PlacedObject
   FormKey: 001FF1:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 29E425:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -154,7 +155,7 @@ Temporary:
   Rotation: -1.5707963, 1.5707964, 0
 - MutagenObjectType: PlacedObject
   FormKey: 001FF2:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 29E425:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -166,7 +167,7 @@ Temporary:
   Rotation: -1.1919333E-07, -1.5707964, 0
 - MutagenObjectType: PlacedObject
   FormKey: 001FF3:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1E867E:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -178,7 +179,7 @@ Temporary:
   Rotation: 1.5707964, 1.5707964, 0
 - MutagenObjectType: PlacedObject
   FormKey: 001FF4:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1E867E:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -190,7 +191,7 @@ Temporary:
   Rotation: 1.7482212E-07, -3.0570967E-14, 3.1415927
 - MutagenObjectType: PlacedObject
   FormKey: 001FF5:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F5648:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -202,7 +203,7 @@ Temporary:
   Rotation: 3.1415927, 2.3830982E-07, 4.6821856
 - MutagenObjectType: PlacedObject
   FormKey: 001FF6:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 29E425:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -214,7 +215,7 @@ Temporary:
   Rotation: 1.5707965, -1.7484555E-07, 1.5707964
 - MutagenObjectType: PlacedObject
   FormKey: 001FF7:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F560E:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -226,7 +227,7 @@ Temporary:
   Rotation: -3.1415927, 1.5707964, 0
 - MutagenObjectType: PlacedObject
   FormKey: 001FF8:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F5648:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -238,7 +239,7 @@ Temporary:
   Rotation: -1.5707963, -1.0768548, 1.5707964
 - MutagenObjectType: PlacedObject
   FormKey: 001FF9:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F5648:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -250,7 +251,7 @@ Temporary:
   Rotation: -1.5707963, 1.7484555E-07, 3.1415927
 - MutagenObjectType: PlacedObject
   FormKey: 001FFA:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F560E:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -262,7 +263,7 @@ Temporary:
   Rotation: -3.1415927, 1.5707964, 0
 - MutagenObjectType: PlacedObject
   FormKey: 001FFB:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 29E425:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -274,7 +275,7 @@ Temporary:
   Rotation: -1.5707963, 1.5707964, 0
 - MutagenObjectType: PlacedObject
   FormKey: 001FFC:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F5648:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -286,7 +287,7 @@ Temporary:
   Rotation: 1.5707963, -1.5707964, 0
 - MutagenObjectType: PlacedObject
   FormKey: 001FFD:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1E867E:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -298,7 +299,7 @@ Temporary:
   Rotation: 1.5707965, -1.7484555E-07, 1.5707964
 - MutagenObjectType: PlacedObject
   FormKey: 001FFE:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F5648:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -310,7 +311,7 @@ Temporary:
   Rotation: -1.5707963, 1.5707964, 0
 - MutagenObjectType: PlacedObject
   FormKey: 001FFF:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1E867E:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -322,7 +323,7 @@ Temporary:
   Rotation: 1.5707964, -1.5707964, 0
 - MutagenObjectType: PlacedObject
   FormKey: 002000:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F5648:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -334,7 +335,7 @@ Temporary:
   Rotation: -0, 0, 3.1415927
 - MutagenObjectType: PlacedObject
   FormKey: 002001:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1E867E:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -346,7 +347,7 @@ Temporary:
   Rotation: -1.5707963, 1.7484555E-07, 1.5707964
 - MutagenObjectType: PlacedObject
   FormKey: 002002:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 29E425:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -358,7 +359,7 @@ Temporary:
   Rotation: 1.5707964, 1.5707964, 0
 - MutagenObjectType: PlacedObject
   FormKey: 002003:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1E867E:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -370,7 +371,7 @@ Temporary:
   Rotation: -1.5707963, 1.5707964, 0
 - MutagenObjectType: PlacedObject
   FormKey: 002004:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 29E425:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -382,7 +383,7 @@ Temporary:
   Rotation: -1.5707963, 1.5707964, 0
 - MutagenObjectType: PlacedObject
   FormKey: 002005:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F5648:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -394,7 +395,7 @@ Temporary:
   Rotation: 1.5623051, 0, 3.1415927
 - MutagenObjectType: PlacedObject
   FormKey: 002006:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 29E425:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -406,7 +407,7 @@ Temporary:
   Rotation: 1.5707964, 1.5707964, 0
 - MutagenObjectType: PlacedObject
   FormKey: 002007:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F5648:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -418,7 +419,7 @@ Temporary:
   Rotation: -1.5707963, 1.5707964, 0
 - MutagenObjectType: PlacedObject
   FormKey: 002008:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F560E:Starfield.esm
   ProjectedDecal:
     WidthScale: 1

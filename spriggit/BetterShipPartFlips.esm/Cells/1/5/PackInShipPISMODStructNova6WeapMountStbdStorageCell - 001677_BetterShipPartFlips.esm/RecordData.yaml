@@ -1,6 +1,6 @@
 FormKey: 001677:BetterShipPartFlips.esm
 EditorID: PackInShipPISMODStructNova6WeapMountStbdStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -27,23 +27,24 @@ WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 001678:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 001679:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 00167A:BetterShipPartFlips.esm
 - MutagenObjectType: PlacedObject
   FormKey: 00167C:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 00167D:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F563B:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -55,7 +56,7 @@ Temporary:
   Rotation: 6.1086525E-05, 6.2826967, 4.712389
 - MutagenObjectType: PlacedObject
   FormKey: 00167E:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F564F:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -67,7 +68,7 @@ Temporary:
   Rotation: 0, 0, 4.712389
 - MutagenObjectType: PlacedObject
   FormKey: 00167F:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F563D:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -79,7 +80,7 @@ Temporary:
   Rotation: 0, 0, 4.712389
 - MutagenObjectType: PlacedObject
   FormKey: 001680:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F564F:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -91,7 +92,7 @@ Temporary:
   Rotation: 3.1415925, 1.4557966, 0
 - MutagenObjectType: PlacedObject
   FormKey: 001681:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Components:
   - MutagenObjectType: KeywordFormComponent
     Keywords:

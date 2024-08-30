@@ -1,6 +1,6 @@
 FormKey: 001E24:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_Weapon_Laser_LightScythe_C
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

@@ -1,6 +1,6 @@
 FormKey: 00562D:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_Shields_Vanguard_Bulwark_UC01_Fore
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

@@ -1,6 +1,6 @@
 FormKey: 26F96D:Starfield.esm
 EditorID: SMA_Shields_Nautilus_Bastille-S82_Port_Zntl
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

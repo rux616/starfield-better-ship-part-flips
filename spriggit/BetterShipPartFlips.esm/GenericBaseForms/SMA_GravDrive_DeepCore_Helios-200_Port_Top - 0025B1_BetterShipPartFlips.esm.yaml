@@ -1,6 +1,6 @@
 FormKey: 0025B1:BetterShipPartFlips.esm
 EditorID: SMA_GravDrive_DeepCore_Helios-200_Port_Top
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

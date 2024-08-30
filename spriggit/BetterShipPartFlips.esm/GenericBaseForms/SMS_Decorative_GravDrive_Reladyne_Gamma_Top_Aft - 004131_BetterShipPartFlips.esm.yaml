@@ -1,6 +1,6 @@
 FormKey: 004131:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_GravDrive_Reladyne_Gamma_Top_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

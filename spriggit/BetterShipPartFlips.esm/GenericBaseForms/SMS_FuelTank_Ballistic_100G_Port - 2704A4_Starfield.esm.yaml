@@ -1,6 +1,6 @@
 FormKey: 2704A4:Starfield.esm
 EditorID: SMS_FuelTank_Ballistic_100G_Port
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

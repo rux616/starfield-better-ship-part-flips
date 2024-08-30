@@ -1,6 +1,6 @@
 FormKey: 0038B6:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_GravDrive_Nova_NG1xx_Btm_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

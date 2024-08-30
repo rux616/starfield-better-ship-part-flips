@@ -1,6 +1,6 @@
 FormKey: 000D23:BetterShipPartFlips.esp
 EditorID: ShipSnap_SMOD_Struct_Deimos_Tail_A_ForeBtm
-FormVersion: 559
+FormVersion: 575
 Nodes:
 - NodeID: 12
   Node: 04AB85:Starfield.esm

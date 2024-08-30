@@ -1,6 +1,6 @@
 FormKey: 005428:BetterShipPartFlips.esp
 EditorID: SMOD_Shield_Dogstar_Defender-11T_Port_NoSnap
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Model:
   File: Ships\Modules\Shield\SMOD\SMOD_Shield_Dogstar_11T-Guardian_Port.nif

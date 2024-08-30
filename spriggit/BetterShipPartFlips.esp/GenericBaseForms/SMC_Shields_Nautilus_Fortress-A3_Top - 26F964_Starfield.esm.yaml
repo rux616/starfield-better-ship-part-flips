@@ -1,6 +1,6 @@
 FormKey: 26F964:Starfield.esm
 EditorID: SMC_Shields_Nautilus_Fortress-A3_Top
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

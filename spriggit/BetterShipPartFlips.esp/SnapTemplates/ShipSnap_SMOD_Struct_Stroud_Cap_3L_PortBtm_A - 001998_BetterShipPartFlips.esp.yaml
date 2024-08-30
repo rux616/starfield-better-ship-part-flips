@@ -1,6 +1,6 @@
 FormKey: 001998:BetterShipPartFlips.esp
 EditorID: ShipSnap_SMOD_Struct_Stroud_Cap_3L_PortBtm_A
-FormVersion: 559
+FormVersion: 575
 Nodes:
 - NodeID: 11
   Node: 04AB77:Starfield.esm

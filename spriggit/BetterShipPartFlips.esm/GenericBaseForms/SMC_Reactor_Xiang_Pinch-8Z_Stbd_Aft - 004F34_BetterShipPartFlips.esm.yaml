@@ -1,6 +1,6 @@
 FormKey: 004F34:BetterShipPartFlips.esm
 EditorID: SMC_Reactor_Xiang_Pinch-8Z_Stbd_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

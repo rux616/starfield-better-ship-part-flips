@@ -1,6 +1,9 @@
 FormKey: 004084:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Cargo_Protectorate_Galleon-S204_Y
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ObjectBounds:
   First: 0, -2.25, -2.25
   Second: 0, 2.25, 2.25
@@ -12,3 +15,5 @@ Cell: 00407E:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

@@ -1,6 +1,6 @@
 FormKey: 0010E0:BetterShipPartFlips.esp
 EditorID: PackInShipPISMODStructNovaCL3CExt01StbdAftStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -32,21 +32,21 @@ TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0010D4:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0010DC:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0010DD:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 0010DE:BetterShipPartFlips.esp
   LayeredMaterialSwaps:
   - 3A2ED4:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0010F6:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Components:
   - MutagenObjectType: KeywordFormComponent
     Keywords:

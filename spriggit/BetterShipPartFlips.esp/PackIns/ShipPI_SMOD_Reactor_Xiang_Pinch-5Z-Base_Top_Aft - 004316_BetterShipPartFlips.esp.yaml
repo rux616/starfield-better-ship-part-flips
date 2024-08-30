@@ -1,6 +1,9 @@
 FormKey: 004316:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Reactor_Xiang_Pinch-5Z-Base_Top_Aft
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ObjectBounds:
   First: -4, -3.453125, -3.4238281
   Second: 4, 4, 3.4238281
@@ -12,3 +15,5 @@ Cell: 004317:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

@@ -1,6 +1,6 @@
 FormKey: 0013A7:BetterShipPartFlips.esp
 EditorID: ShipSnap_SMOD_Struct_Nova_RadiatorSmall_StbdForeBtm
-FormVersion: 559
+FormVersion: 575
 Nodes:
 - NodeID: 10
   Node: 04AB70:Starfield.esm

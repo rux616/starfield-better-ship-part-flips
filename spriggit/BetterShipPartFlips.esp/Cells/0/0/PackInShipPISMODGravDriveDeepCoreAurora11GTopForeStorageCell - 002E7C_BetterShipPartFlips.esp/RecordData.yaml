@@ -1,6 +1,6 @@
 FormKey: 002E7C:BetterShipPartFlips.esp
 EditorID: PackInShipPISMODGravDriveDeepCoreAurora11GTopForeStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -32,11 +32,11 @@ TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 002E7D:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 002E7E:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Components:
   - MutagenObjectType: KeywordFormComponent
     Keywords:
@@ -45,9 +45,9 @@ Temporary:
   Rotation: 0, -0, 3.1415925
 - MutagenObjectType: PlacedObject
   FormKey: 002E7F:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 002E80:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 00281D:BetterShipPartFlips.esp

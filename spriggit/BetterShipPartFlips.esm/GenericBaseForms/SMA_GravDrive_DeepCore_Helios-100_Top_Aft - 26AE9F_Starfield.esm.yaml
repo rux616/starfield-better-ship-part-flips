@@ -1,6 +1,6 @@
 FormKey: 26AE9F:Starfield.esm
 EditorID: SMA_GravDrive_DeepCore_Helios-100_Top_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

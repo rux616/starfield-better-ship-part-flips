@@ -1,6 +1,6 @@
 FormKey: 000800:BetterShipPartFlips.esp
 EditorID: SMOD_Struct_Nova_EngStruts_NIF
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -2.46875, -4, -1.75
   Second: 2.46875, 3.3789062, 1.6660156

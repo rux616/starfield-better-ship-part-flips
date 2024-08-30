@@ -1,6 +1,6 @@
 FormKey: 001E1C:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_Weapon_Ballistic_Shinigami_B_Turret_Fore
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

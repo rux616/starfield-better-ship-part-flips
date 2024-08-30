@@ -1,6 +1,6 @@
 FormKey: 004636:BetterShipPartFlips.esm
 EditorID: SMA_Reactor_Dogstar_124MM-Toroidal_Port_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

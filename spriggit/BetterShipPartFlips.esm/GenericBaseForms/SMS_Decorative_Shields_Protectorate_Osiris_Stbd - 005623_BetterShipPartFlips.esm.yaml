@@ -1,6 +1,6 @@
 FormKey: 005623:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_Shields_Protectorate_Osiris_Stbd
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

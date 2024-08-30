@@ -1,7 +1,7 @@
 FormKey: 00137A:BetterShipPartFlips.esp
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Struct_Nova_RadiatorSmall_StbdForeTop
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:

@@ -1,6 +1,6 @@
 FormKey: 000FFD:BetterShipPartFlips.esp
 EditorID: ShipSnap_SMOD_Struct_Hope_Nose_A_StbdAft
-FormVersion: 559
+FormVersion: 575
 Nodes:
 - NodeID: 7
   Node: 04AB73:Starfield.esm

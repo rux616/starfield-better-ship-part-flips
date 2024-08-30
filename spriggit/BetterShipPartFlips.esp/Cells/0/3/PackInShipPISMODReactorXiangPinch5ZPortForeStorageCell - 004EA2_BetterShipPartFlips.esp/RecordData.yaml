@@ -1,6 +1,6 @@
 FormKey: 004EA2:BetterShipPartFlips.esp
 EditorID: PackInShipPISMODReactorXiangPinch5ZPortForeStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -32,11 +32,11 @@ TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 004EA3:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 004EA4:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Components:
   - MutagenObjectType: KeywordFormComponent
     Keywords:
@@ -45,9 +45,9 @@ Temporary:
   Rotation: 0, 1.5707963, 3.1415925
 - MutagenObjectType: PlacedObject
   FormKey: 004EA5:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 004EA6:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 0032D5:BetterShipPartFlips.esp

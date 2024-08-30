@@ -1,6 +1,6 @@
 FormKey: 0047E0:BetterShipPartFlips.esm
 EditorID: PackInShipPISMODReactorAmunDunnZMachine1000AftPortStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -32,11 +32,11 @@ TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0047E1:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0047E2:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Components:
   - MutagenObjectType: KeywordFormComponent
     Keywords:
@@ -45,9 +45,9 @@ Temporary:
   Rotation: 4.712389, 0, 1.5707963
 - MutagenObjectType: PlacedObject
   FormKey: 0047E3:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0047E4:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 002861:BetterShipPartFlips.esm

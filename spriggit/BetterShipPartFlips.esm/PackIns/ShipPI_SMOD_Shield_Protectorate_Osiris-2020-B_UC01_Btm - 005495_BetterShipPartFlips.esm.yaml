@@ -1,6 +1,9 @@
 FormKey: 005495:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Shield_Protectorate_Osiris-2020-B_UC01_Btm
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ODTY: 0
 Transforms:
   Ship: 050FA1:Starfield.esm
@@ -9,3 +12,5 @@ Cell: 0054D0:BetterShipPartFlips.esm
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

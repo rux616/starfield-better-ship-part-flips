@@ -1,6 +1,9 @@
 FormKey: 003274:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Cargo_Panoptes_daGama-1000_Btm_FA_Port
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ObjectBounds:
   Second: 0, 0, 1.75
 ODTY: 0
@@ -11,3 +14,5 @@ Cell: 00317A:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

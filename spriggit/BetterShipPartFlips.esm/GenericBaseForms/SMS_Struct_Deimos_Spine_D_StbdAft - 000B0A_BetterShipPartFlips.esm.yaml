@@ -1,6 +1,6 @@
 FormKey: 000B0A:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Deimos_Spine_D_StbdAft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent

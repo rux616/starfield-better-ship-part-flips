@@ -1,7 +1,7 @@
 FormKey: 002C79:BetterShipPartFlips.esp
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_GravDrive_Vanguard_Recon_Top_Fore
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:

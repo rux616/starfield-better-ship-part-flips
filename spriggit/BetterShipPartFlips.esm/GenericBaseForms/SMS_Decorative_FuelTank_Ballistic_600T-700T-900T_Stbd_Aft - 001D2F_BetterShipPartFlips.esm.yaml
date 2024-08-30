@@ -1,6 +1,6 @@
 FormKey: 001D2F:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_FuelTank_Ballistic_600T-700T-900T_Stbd_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

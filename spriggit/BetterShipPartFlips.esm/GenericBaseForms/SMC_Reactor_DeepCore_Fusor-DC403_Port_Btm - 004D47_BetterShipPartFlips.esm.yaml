@@ -1,6 +1,6 @@
 FormKey: 004D47:BetterShipPartFlips.esm
 EditorID: SMC_Reactor_DeepCore_Fusor-DC403_Port_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

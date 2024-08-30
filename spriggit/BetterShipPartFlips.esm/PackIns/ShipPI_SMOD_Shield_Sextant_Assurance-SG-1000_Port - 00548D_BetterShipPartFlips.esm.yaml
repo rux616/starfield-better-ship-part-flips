@@ -1,7 +1,7 @@
 FormKey: 00548D:BetterShipPartFlips.esm
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Shield_Sextant_Assurance-SG-1000_Port
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:

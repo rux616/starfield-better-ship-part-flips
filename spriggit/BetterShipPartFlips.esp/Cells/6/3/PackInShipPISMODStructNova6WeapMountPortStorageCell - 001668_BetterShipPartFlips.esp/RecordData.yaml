@@ -1,6 +1,6 @@
 FormKey: 001668:BetterShipPartFlips.esp
 EditorID: PackInShipPISMODStructNova6WeapMountPortStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -27,23 +27,24 @@ WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 001669:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 00166A:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 00166B:BetterShipPartFlips.esp
 - MutagenObjectType: PlacedObject
   FormKey: 00166D:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 00166E:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F563B:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -57,7 +58,7 @@ Temporary:
   Rotation: 0, 3.141104, 1.5707963
 - MutagenObjectType: PlacedObject
   FormKey: 00166F:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F564F:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -71,7 +72,7 @@ Temporary:
   Rotation: 3.141593, 0, 4.712389
 - MutagenObjectType: PlacedObject
   FormKey: 001670:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F563D:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -85,7 +86,7 @@ Temporary:
   Rotation: 3.141593, 0, 4.712389
 - MutagenObjectType: PlacedObject
   FormKey: 001671:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 1F564F:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -99,7 +100,7 @@ Temporary:
   Rotation: 0, 1.4557966, 3.1415925
 - MutagenObjectType: PlacedObject
   FormKey: 001673:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Components:
   - MutagenObjectType: KeywordFormComponent
     Keywords:

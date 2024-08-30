@@ -1,6 +1,6 @@
 FormKey: 0009B8:BetterShipPartFlips.esp
 EditorID: ShipSnap_SMOD_Struct_Deimos_Skeg_B_Top
-FormVersion: 559
+FormVersion: 575
 Nodes:
 - NodeID: 9
   Node: 04AB77:Starfield.esm

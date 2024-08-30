@@ -1,6 +1,6 @@
 FormKey: 0010DF:BetterShipPartFlips.esm
 EditorID: ShipSnap_SMOD_Struct_Nova_CL-3C_PortAft
-FormVersion: 559
+FormVersion: 575
 Nodes:
 - NodeID: 17
   Node: 04AB85:Starfield.esm

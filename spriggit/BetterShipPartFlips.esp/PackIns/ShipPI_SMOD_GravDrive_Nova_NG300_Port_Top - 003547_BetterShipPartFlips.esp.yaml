@@ -1,7 +1,7 @@
 FormKey: 003547:BetterShipPartFlips.esp
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_GravDrive_Nova_NG300_Port_Top
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:

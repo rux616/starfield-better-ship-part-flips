@@ -1,6 +1,6 @@
 FormKey: 002DC2:BetterShipPartFlips.esp
 EditorID: SMOD_GravDrive_Slayton_SGD-3100_NoSnap
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -4, -4, -3.5
   Second: 4, 4, 3.5

@@ -1,6 +1,6 @@
 FormKey: 004FC5:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Reactor_DeepCore_FastIgnition_Port_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

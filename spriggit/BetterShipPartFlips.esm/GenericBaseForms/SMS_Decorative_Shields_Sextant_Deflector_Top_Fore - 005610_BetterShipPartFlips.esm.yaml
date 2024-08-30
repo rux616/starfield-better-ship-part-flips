@@ -1,6 +1,6 @@
 FormKey: 005610:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_Shields_Sextant_Deflector_Top_Fore
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

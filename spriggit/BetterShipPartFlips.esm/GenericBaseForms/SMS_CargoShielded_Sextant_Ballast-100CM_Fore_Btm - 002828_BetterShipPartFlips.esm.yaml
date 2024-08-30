@@ -1,6 +1,6 @@
 FormKey: 002828:BetterShipPartFlips.esm
 EditorID: SMS_CargoShielded_Sextant_Ballast-100CM_Fore_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

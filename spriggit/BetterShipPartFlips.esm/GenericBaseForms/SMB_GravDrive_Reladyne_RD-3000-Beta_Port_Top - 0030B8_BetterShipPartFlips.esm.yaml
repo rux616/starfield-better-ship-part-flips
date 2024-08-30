@@ -1,6 +1,6 @@
 FormKey: 0030B8:BetterShipPartFlips.esm
 EditorID: SMB_GravDrive_Reladyne_RD-3000-Beta_Port_Top
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

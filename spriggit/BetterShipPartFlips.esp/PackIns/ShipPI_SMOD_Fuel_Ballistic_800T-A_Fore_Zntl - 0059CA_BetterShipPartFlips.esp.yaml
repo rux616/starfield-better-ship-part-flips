@@ -1,7 +1,7 @@
 FormKey: 0059CA:BetterShipPartFlips.esp
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Fuel_Ballistic_800T-A_Fore_Zntl
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:

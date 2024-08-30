@@ -1,6 +1,6 @@
 FormKey: 004F54:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_Reactor_AmunDunn_Stellarator_Top_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

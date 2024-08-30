@@ -1,7 +1,7 @@
 FormKey: 001C7B:BetterShipPartFlips.esm
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Fuel_Dogstar_Atlas-H20_Fore_Zntl
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:

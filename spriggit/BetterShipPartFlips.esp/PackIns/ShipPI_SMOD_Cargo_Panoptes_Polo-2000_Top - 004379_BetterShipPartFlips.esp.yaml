@@ -1,6 +1,9 @@
 FormKey: 004379:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Cargo_Panoptes_Polo-2000_Top
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ObjectBounds:
   First: -4.007813, -3.998047, -1.7509749
   Second: 4.0039067, 4.0000005, 1.7509749
@@ -12,3 +15,5 @@ Cell: 00421A:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

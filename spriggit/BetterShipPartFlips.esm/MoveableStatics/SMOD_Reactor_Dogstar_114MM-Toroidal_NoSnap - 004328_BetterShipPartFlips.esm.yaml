@@ -1,6 +1,6 @@
 FormKey: 004328:BetterShipPartFlips.esm
 EditorID: SMOD_Reactor_Dogstar_114MM-Toroidal_NoSnap
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -4.0078125, -4.0039062, -1.7509766
   Second: 4.0078125, 4.0039062, 1.7548828

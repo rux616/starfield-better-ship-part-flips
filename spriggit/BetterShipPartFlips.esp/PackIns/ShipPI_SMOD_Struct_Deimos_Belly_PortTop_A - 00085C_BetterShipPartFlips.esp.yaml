@@ -1,6 +1,9 @@
 FormKey: 00085C:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Struct_Deimos_Belly_PortTop_A
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ObjectBounds:
   First: -3.55078, -4.0000005, -1.7509787
   Second: 3.9980469, 4.0000005, 1.751955
@@ -12,3 +15,5 @@ Cell: 00085E:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

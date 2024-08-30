@@ -1,6 +1,6 @@
 FormKey: 002B94:BetterShipPartFlips.esp
 EditorID: SMS_CargoShielded_Protectorate_Caravel-V102_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

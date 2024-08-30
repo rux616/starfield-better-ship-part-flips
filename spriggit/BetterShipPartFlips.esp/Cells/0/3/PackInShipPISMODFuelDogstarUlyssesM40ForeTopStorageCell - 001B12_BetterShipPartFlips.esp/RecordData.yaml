@@ -1,6 +1,6 @@
 FormKey: 001B12:BetterShipPartFlips.esp
 EditorID: PackInShipPISMODFuelDogstarUlyssesM40ForeTopStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -31,18 +31,18 @@ TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 001B13:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 001B14:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 001B15:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 0024D8:BetterShipPartFlips.esp
 - MutagenObjectType: PlacedObject
   FormKey: 001B16:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 002327:BetterShipPartFlips.esp
   Rotation: 0, 0, 1.5707963

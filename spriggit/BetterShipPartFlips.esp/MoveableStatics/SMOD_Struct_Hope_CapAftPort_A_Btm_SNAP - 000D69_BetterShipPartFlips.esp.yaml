@@ -1,6 +1,6 @@
 FormKey: 000D69:BetterShipPartFlips.esp
 EditorID: SMOD_Struct_Hope_CapAftPort_A_Btm_SNAP
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -0.5, -0.5, -0.5
   Second: 0.5, 0.5, 0.5

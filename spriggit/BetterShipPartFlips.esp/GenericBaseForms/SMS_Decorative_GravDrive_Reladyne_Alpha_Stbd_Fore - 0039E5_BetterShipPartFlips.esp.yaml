@@ -1,6 +1,6 @@
 FormKey: 0039E5:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_GravDrive_Reladyne_Alpha_Stbd_Fore
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

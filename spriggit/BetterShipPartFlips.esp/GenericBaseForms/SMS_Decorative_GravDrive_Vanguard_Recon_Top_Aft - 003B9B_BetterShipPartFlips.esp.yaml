@@ -1,6 +1,6 @@
 FormKey: 003B9B:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_GravDrive_Vanguard_Recon_Top_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

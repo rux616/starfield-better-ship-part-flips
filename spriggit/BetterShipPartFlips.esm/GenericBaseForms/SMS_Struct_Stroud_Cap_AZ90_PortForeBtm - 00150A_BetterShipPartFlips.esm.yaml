@@ -1,6 +1,6 @@
 FormKey: 00150A:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Stroud_Cap_AZ90_PortForeBtm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent

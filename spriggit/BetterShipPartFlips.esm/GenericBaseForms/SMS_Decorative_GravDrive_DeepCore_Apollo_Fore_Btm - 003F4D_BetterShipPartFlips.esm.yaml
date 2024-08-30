@@ -1,6 +1,6 @@
 FormKey: 003F4D:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_GravDrive_DeepCore_Apollo_Fore_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

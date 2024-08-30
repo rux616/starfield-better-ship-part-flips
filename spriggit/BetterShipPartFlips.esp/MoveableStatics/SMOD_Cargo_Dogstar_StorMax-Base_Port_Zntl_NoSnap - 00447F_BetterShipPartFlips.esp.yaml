@@ -1,6 +1,9 @@
 FormKey: 00447F:BetterShipPartFlips.esp
 EditorID: SMOD_Cargo_Dogstar_StorMax-Base_Port_Zntl_NoSnap
-FormVersion: 559
+FormVersion: 575
+ObjectBounds:
+  First: 0.34057617, -4, -1.7509766
+  Second: 4.0078125, 4, 1.7509766
 ODTY: 0
 Model:
   File: Ships\Modules\Cargo\SMOD\SMOD_Cargo_Dogstar_StorMax-40_Port.nif

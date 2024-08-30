@@ -1,6 +1,9 @@
 FormKey: 001307:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Struct_Nova_RadiatorL_PortBtm
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ObjectBounds:
   First: -3.738282, -3.9999998, -1.7119132
   Second: 3.789063, 3.9999998, 1.1728506
@@ -12,3 +15,5 @@ Cell: 001311:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

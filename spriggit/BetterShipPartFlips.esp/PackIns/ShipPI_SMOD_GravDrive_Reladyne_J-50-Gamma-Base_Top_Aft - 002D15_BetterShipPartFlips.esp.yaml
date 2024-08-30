@@ -1,7 +1,7 @@
 FormKey: 002D15:BetterShipPartFlips.esp
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_GravDrive_Reladyne_J-50-Gamma-Base_Top_Aft
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:

@@ -1,6 +1,9 @@
 FormKey: 0021F1:BetterShipPartFlips.esm
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Fuel_Ballistic_300G-Base_Aft
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ODTY: 0
 Transforms:
   Ship: 050F9B:Starfield.esm
@@ -9,3 +12,5 @@ Cell: 0021F2:BetterShipPartFlips.esm
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

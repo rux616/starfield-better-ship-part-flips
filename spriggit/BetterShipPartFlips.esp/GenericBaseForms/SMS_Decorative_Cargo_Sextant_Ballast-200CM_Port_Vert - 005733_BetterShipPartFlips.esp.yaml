@@ -1,6 +1,6 @@
 FormKey: 005733:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Cargo_Sextant_Ballast-200CM_Port_Vert
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

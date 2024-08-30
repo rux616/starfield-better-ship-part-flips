@@ -1,7 +1,7 @@
 FormKey: 000CA1:BetterShipPartFlips.esp
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Struct_Nova_EngStruts_StbdTop
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:

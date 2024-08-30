@@ -1,6 +1,9 @@
 FormKey: 0051F0:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Shield_Dogstar_Protector-10S_Btm_Zntl
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ObjectBounds:
   First: -1.6349554, -1.4459468, 1.126579E-08
   Second: 1.6261324, 1.4230485, 3.6470551
@@ -12,3 +15,5 @@ Cell: 0051D1:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

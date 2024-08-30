@@ -1,6 +1,6 @@
 FormKey: 0026F4:BetterShipPartFlips.esp
 EditorID: SMA_GravDrive_Nova_NG170_Fore_Stbd
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

@@ -1,6 +1,9 @@
 FormKey: 000D33:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Struct_Hope_Bumper_A_Aft
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ObjectBounds:
   First: -3.498046, -4.468751, -1.5869141
   Second: 3.4980469, 0.5, 1.5859375
@@ -12,3 +15,5 @@ Cell: 000D39:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

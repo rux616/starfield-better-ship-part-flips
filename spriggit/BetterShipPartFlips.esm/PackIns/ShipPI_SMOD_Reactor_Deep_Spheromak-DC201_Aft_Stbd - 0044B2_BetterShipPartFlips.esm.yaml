@@ -1,7 +1,7 @@
 FormKey: 0044B2:BetterShipPartFlips.esm
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Reactor_Deep_Spheromak-DC201_Aft_Stbd
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:

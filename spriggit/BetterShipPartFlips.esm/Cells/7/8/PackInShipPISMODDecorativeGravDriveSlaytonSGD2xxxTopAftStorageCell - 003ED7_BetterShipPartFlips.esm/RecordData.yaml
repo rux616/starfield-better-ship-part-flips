@@ -1,6 +1,6 @@
 FormKey: 003ED7:BetterShipPartFlips.esm
 EditorID: PackInShipPISMODDecorativeGravDriveSlaytonSGD2xxxTopAftStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -27,15 +27,16 @@ WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 003ED8:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 003ED9:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Components:
   - MutagenObjectType: KeywordFormComponent
     Keywords:
@@ -43,9 +44,9 @@ Temporary:
   Base: 003760:BetterShipPartFlips.esm
 - MutagenObjectType: PlacedObject
   FormKey: 003EDA:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 003EDB:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 00281D:BetterShipPartFlips.esm

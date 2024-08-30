@@ -1,6 +1,9 @@
 FormKey: 0009B6:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Struct_Deimos_Skeg_B_Top
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ObjectBounds:
   First: -1.9990239, -4.0117188, -1.7509761
   Second: 2.0019536, 4.0117188, 1.7626948
@@ -12,3 +15,5 @@ Cell: 0009BB:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

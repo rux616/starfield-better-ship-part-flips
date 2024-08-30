@@ -1,6 +1,6 @@
 FormKey: 0055F4:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_Shields_Nautilus_Bastille_Top_Zntl
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

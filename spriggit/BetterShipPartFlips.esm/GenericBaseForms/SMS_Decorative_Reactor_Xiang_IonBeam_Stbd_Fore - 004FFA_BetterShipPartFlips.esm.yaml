@@ -1,6 +1,6 @@
 FormKey: 004FFA:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_Reactor_Xiang_IonBeam_Stbd_Fore
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

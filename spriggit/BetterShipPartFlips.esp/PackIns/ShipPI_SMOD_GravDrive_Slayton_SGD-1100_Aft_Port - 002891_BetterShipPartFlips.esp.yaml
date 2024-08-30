@@ -1,7 +1,7 @@
 FormKey: 002891:BetterShipPartFlips.esp
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_GravDrive_Slayton_SGD-1100_Aft_Port
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:

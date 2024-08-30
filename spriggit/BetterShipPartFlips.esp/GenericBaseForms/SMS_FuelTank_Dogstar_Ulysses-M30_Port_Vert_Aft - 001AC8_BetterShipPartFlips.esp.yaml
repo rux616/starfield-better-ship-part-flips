@@ -1,6 +1,6 @@
 FormKey: 001AC8:BetterShipPartFlips.esp
 EditorID: SMS_FuelTank_Dogstar_Ulysses-M30_Port_Vert_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

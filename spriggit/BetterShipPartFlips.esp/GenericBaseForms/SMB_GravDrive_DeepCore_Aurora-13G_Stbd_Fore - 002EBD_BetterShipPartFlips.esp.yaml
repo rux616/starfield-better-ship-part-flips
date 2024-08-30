@@ -1,6 +1,6 @@
 FormKey: 002EBD:BetterShipPartFlips.esp
 EditorID: SMB_GravDrive_DeepCore_Aurora-13G_Stbd_Fore
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

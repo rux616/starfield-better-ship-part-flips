@@ -1,6 +1,6 @@
 FormKey: 00249A:BetterShipPartFlips.esm
 EditorID: SMOD_GravDrive_Vanguard_Recon_NoSnap
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -3.3945312, -4.0429688, -1.7783203
   Second: 3.3945312, 4, 1.7470703

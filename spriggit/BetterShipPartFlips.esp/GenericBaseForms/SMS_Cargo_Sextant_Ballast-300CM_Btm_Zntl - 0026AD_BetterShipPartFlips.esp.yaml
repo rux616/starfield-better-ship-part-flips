@@ -1,6 +1,6 @@
 FormKey: 0026AD:BetterShipPartFlips.esp
 EditorID: SMS_Cargo_Sextant_Ballast-300CM_Btm_Zntl
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

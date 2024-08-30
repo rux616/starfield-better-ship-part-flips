@@ -1,6 +1,6 @@
 FormKey: 003E6C:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_GravDrive_Slayton_SGD-2xxx_Btm_Fore
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

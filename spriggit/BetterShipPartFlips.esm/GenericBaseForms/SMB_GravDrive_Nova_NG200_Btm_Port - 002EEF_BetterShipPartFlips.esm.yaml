@@ -1,6 +1,6 @@
 FormKey: 002EEF:BetterShipPartFlips.esm
 EditorID: SMB_GravDrive_Nova_NG200_Btm_Port
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

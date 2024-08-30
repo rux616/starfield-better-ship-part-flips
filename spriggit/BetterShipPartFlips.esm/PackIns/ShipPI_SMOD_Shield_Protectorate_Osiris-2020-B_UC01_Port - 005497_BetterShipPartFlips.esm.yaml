@@ -1,7 +1,7 @@
 FormKey: 005497:BetterShipPartFlips.esm
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Shield_Protectorate_Osiris-2020-B_UC01_Port
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:

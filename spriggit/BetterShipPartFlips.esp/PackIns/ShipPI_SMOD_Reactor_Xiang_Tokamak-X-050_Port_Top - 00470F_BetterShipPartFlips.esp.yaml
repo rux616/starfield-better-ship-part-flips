@@ -1,7 +1,7 @@
 FormKey: 00470F:BetterShipPartFlips.esp
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Reactor_Xiang_Tokamak-X-050_Port_Top
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:

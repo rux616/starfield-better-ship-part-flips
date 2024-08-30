@@ -1,6 +1,6 @@
 FormKey: 00126B:BetterShipPartFlips.esp
 EditorID: ShipSnap_SMOD_Struct_Nova_CowlLong_PortBtm
-FormVersion: 559
+FormVersion: 575
 Nodes:
 - NodeID: 11
   Node: 04AB85:Starfield.esm

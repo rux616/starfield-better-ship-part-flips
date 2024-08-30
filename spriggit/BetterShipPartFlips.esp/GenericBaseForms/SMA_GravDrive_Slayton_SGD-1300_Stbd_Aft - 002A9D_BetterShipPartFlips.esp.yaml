@@ -1,6 +1,6 @@
 FormKey: 002A9D:BetterShipPartFlips.esp
 EditorID: SMA_GravDrive_Slayton_SGD-1300_Stbd_Aft
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

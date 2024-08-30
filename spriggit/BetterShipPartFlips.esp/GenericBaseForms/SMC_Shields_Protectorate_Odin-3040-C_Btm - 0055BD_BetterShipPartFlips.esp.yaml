@@ -1,6 +1,6 @@
 FormKey: 0055BD:BetterShipPartFlips.esp
 EditorID: SMC_Shields_Protectorate_Odin-3040-C_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

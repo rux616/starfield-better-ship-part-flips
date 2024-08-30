@@ -1,6 +1,6 @@
 FormKey: 00539A:BetterShipPartFlips.esp
 EditorID: SMA_Shields_Sextant_Deflector_SG-10_Port_Top
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

@@ -1,6 +1,9 @@
 FormKey: 002360:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Fuel_Nautilus_Titan-350-Base_Port_Zntl
-FormVersion: 559
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
 ObjectBounds:
   First: -3.8105469, -3.8105469, -1.7011719
   Second: 0.00024414062, 3.8105469, 1.7011719
@@ -12,3 +15,5 @@ Cell: 002361:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000
 MaterialSwaps: []
+MajorFlags:
+- Prefab

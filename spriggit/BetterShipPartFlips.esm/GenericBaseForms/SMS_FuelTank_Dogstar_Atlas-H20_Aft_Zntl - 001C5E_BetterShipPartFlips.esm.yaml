@@ -1,6 +1,6 @@
 FormKey: 001C5E:BetterShipPartFlips.esm
 EditorID: SMS_FuelTank_Dogstar_Atlas-H20_Aft_Zntl
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

@@ -1,6 +1,6 @@
 FormKey: 001E0F:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Weapon_Ballistic_Vanguard_A
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

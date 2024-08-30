@@ -1,6 +1,6 @@
 FormKey: 004E1A:BetterShipPartFlips.esm
 EditorID: SMC_Reactor_Dogstar_SF30-ShearedFlow_Port_Fore
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

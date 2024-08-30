@@ -1,7 +1,7 @@
 FormKey: 004975:BetterShipPartFlips.esp
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Reactor_Deep_DC301-FastIgnition_Top_Stbd
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:

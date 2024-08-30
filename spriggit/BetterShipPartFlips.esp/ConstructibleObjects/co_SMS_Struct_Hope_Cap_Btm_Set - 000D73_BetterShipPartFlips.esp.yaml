@@ -1,7 +1,7 @@
 FormKey: 000D73:BetterShipPartFlips.esp
 MajorRecordFlagsRaw: 67108864
 EditorID: co_SMS_Struct_Hope_Cap_Btm_Set
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x4000000
 Description:

@@ -1,6 +1,6 @@
 FormKey: 000CA9:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Nova_EngStruts_StbdBtm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent

@@ -1,6 +1,6 @@
 FormKey: 171205:Starfield.esm
 EditorID: SMS_FuelTank_Ballistic_200G_Stbd
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

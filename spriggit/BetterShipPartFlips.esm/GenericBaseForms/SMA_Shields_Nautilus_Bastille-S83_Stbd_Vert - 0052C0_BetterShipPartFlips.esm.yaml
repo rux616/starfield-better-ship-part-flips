@@ -1,6 +1,6 @@
 FormKey: 0052C0:BetterShipPartFlips.esm
 EditorID: SMA_Shields_Nautilus_Bastille-S83_Stbd_Vert
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

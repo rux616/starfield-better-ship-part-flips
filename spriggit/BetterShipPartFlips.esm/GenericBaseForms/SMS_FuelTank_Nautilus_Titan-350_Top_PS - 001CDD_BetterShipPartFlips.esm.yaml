@@ -1,6 +1,6 @@
 FormKey: 001CDD:BetterShipPartFlips.esm
 EditorID: SMS_FuelTank_Nautilus_Titan-350_Top_PS
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

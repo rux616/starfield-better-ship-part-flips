@@ -1,9 +1,12 @@
 FormKey: 0057E8:BetterShipPartFlips.esm
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Cargo_Dogstar_StorMax-Empty_Fore
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
+ObjectBounds:
+  First: -4, -4.0078125, -1.7509766
+  Second: 4.0000005, 0, 1.7509766
 ODTY: 0
 Transforms:
   Ship: 050FBE:Starfield.esm

@@ -1,6 +1,6 @@
 FormKey: 000BEF:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Deimos_Spine_G_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent

@@ -1,7 +1,7 @@
 FormKey: 00593A:BetterShipPartFlips.esm
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Fuel_Ballistic_600T_Port_Aft
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ODTY: 0

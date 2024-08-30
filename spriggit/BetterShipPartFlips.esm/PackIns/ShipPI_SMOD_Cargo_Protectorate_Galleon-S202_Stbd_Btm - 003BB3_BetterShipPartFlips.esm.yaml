@@ -1,7 +1,7 @@
 FormKey: 003BB3:BetterShipPartFlips.esm
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_Cargo_Protectorate_Galleon-S202_Stbd_Btm
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:

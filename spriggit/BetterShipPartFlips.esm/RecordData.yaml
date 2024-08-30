@@ -6,15 +6,15 @@ GameRelease: Starfield
 ModHeader:
   Flags:
   - Master
-  FormVersion: 559
+  FormVersion: 575
   Author: freschu/rux616
   Description: >-
     Additional flips of vanilla parts that seemed missing. Mostly conforms to vanilla ship builder grid.
 
 
-    Version: 1.1.0
+    Version: 1.2.0
   MasterReferences:
   - Master: Starfield.esm
   - Master: ShipBuilderCategories.esm
   BNAM: 0x4D61696E00
-  INCC: 1779
+  INCC: 1764

@@ -1,6 +1,6 @@
 FormKey: 001D59:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_FuelTank_Dogstar_Atlas-H20_Fore_Vert
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

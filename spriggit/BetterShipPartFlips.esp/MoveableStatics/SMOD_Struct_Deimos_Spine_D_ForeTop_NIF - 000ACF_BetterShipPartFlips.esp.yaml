@@ -1,6 +1,6 @@
 FormKey: 000ACF:BetterShipPartFlips.esp
 EditorID: SMOD_Struct_Deimos_Spine_D_ForeTop_NIF
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -1.6181641, -4, -1.75
   Second: 1.6181641, 4, 1.1298828

@@ -1,6 +1,6 @@
 FormKey: 000E27:BetterShipPartFlips.esm
 EditorID: ShipSnap_SMOD_Struct_Hope_Radiator_A_Stbd
-FormVersion: 559
+FormVersion: 575
 Nodes:
 - NodeID: 7
   Node: 04AB73:Starfield.esm

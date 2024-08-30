@@ -1,6 +1,6 @@
 FormKey: 0054B2:BetterShipPartFlips.esp
 EditorID: PackInShipPISMODShieldProtectorateOsiris2020BAftStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -26,23 +26,24 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0054B3:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0054B4:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 0054B5:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 0024AB:BetterShipPartFlips.esp
 - MutagenObjectType: PlacedObject
   FormKey: 0054B6:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 0023C5:BetterShipPartFlips.esp
   Position: 0, 2.25, 0
   Rotation: 4.712389, 0, 0

@@ -1,6 +1,6 @@
 FormKey: 001E60:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_Weapon_Missile_Ballistic_D
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

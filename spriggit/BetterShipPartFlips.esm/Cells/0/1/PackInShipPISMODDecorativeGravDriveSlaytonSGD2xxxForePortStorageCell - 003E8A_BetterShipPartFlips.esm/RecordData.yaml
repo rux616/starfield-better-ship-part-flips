@@ -1,6 +1,6 @@
 FormKey: 003E8A:BetterShipPartFlips.esm
 EditorID: PackInShipPISMODDecorativeGravDriveSlaytonSGD2xxxForePortStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -32,11 +32,11 @@ TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 003E8B:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 003E8C:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Components:
   - MutagenObjectType: KeywordFormComponent
     Keywords:
@@ -45,9 +45,9 @@ Temporary:
   Rotation: 1.5707963, 0, 1.5707963
 - MutagenObjectType: PlacedObject
   FormKey: 003E8D:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 003E8E:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 002861:BetterShipPartFlips.esm

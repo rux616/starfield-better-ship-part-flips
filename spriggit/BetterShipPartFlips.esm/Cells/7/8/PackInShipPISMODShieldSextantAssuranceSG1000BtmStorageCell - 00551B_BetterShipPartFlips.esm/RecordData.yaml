@@ -1,6 +1,6 @@
 FormKey: 00551B:BetterShipPartFlips.esm
 EditorID: PackInShipPISMODShieldSextantAssuranceSG1000BtmStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -26,22 +26,23 @@ LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
+UnknownGroupData: 3
 TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 00551C:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 00551D:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 00551E:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 0024C0:BetterShipPartFlips.esm
 - MutagenObjectType: PlacedObject
   FormKey: 00551F:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 0023CF:BetterShipPartFlips.esm
   Rotation: 3.1415925, 0, 0

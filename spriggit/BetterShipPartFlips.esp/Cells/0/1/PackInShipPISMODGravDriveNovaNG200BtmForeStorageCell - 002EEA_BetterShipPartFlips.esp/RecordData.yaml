@@ -1,6 +1,6 @@
 FormKey: 002EEA:BetterShipPartFlips.esp
 EditorID: PackInShipPISMODGravDriveNovaNG200BtmForeStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -32,11 +32,11 @@ TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 002EEB:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 002EEC:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Components:
   - MutagenObjectType: KeywordFormComponent
     Keywords:
@@ -45,9 +45,9 @@ Temporary:
   Rotation: 3.1415925, 0, 0
 - MutagenObjectType: PlacedObject
   FormKey: 002EED:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 002EEE:BetterShipPartFlips.esp
-  FormVersion: 559
+  FormVersion: 575
   Base: 002F85:BetterShipPartFlips.esp

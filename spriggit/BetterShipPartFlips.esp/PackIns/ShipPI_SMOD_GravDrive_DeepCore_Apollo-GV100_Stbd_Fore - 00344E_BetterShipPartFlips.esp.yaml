@@ -1,7 +1,7 @@
 FormKey: 00344E:BetterShipPartFlips.esp
 MajorRecordFlagsRaw: 512
 EditorID: ShipPI_SMOD_GravDrive_DeepCore_Apollo-GV100_Stbd_Fore
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:

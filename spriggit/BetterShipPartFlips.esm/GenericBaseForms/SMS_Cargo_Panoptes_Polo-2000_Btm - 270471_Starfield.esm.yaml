@@ -1,6 +1,6 @@
 FormKey: 270471:Starfield.esm
 EditorID: SMS_Cargo_Panoptes_Polo-2000_Btm
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

@@ -1,6 +1,6 @@
 FormKey: 0048CD:BetterShipPartFlips.esp
 EditorID: SMB_Reactor_AmunDunn_Z-Machine-4000_Port_Top
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

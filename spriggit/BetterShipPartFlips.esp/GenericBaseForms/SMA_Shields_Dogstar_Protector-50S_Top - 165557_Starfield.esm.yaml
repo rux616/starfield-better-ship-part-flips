@@ -1,6 +1,6 @@
 FormKey: 165557:Starfield.esm
 EditorID: SMA_Shields_Dogstar_Protector-50S_Top
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

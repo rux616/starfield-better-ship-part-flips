@@ -1,6 +1,6 @@
 FormKey: 0056BA:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Cargo_Protectorate_Caravel-V101_Fore_Vert
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

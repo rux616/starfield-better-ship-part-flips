@@ -1,6 +1,6 @@
 FormKey: 26F132:Starfield.esm
 EditorID: SMB_Shields_Protectorate_Osiris-2030-B_Top
-FormVersion: 559
+FormVersion: 575
 ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent

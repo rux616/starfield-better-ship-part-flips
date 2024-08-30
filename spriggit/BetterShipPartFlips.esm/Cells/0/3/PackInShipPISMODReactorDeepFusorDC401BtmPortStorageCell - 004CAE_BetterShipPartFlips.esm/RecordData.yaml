@@ -1,6 +1,6 @@
 FormKey: 004CAE:BetterShipPartFlips.esm
 EditorID: PackInShipPISMODReactorDeepFusorDC401BtmPortStorageCell
-FormVersion: 559
+FormVersion: 575
 Flags:
 - IsInteriorCell
 Lighting:
@@ -32,11 +32,11 @@ TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 004CAF:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 03F808:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 004CB0:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Components:
   - MutagenObjectType: KeywordFormComponent
     Keywords:
@@ -45,9 +45,9 @@ Temporary:
   Rotation: 3.1415925, 0, 1.5707963
 - MutagenObjectType: PlacedObject
   FormKey: 004CB1:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 015804:Starfield.esm
 - MutagenObjectType: PlacedObject
   FormKey: 004CB2:BetterShipPartFlips.esm
-  FormVersion: 559
+  FormVersion: 575
   Base: 0032CD:BetterShipPartFlips.esm

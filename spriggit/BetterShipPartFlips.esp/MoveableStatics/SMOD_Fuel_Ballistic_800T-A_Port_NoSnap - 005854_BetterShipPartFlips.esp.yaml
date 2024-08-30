@@ -1,6 +1,6 @@
 FormKey: 005854:BetterShipPartFlips.esp
 EditorID: SMOD_Fuel_Ballistic_800T-A_Port_NoSnap
-FormVersion: 559
+FormVersion: 575
 ObjectBounds:
   First: -7.9023438, -7.5, -3.9003906
   Second: 0.00024414062, 7.5, 3.9003906

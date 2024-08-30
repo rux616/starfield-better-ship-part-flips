@@ -1,6 +1,6 @@
 FormKey: 001050:BetterShipPartFlips.esm
 EditorID: ShipSnap_SMOD_Thrust_Hope_Aft
-FormVersion: 559
+FormVersion: 575
 Nodes:
 - NodeID: 4
   Node: 04AB6F:Starfield.esm
