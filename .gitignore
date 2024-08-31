@@ -6,3 +6,5 @@ meta.ini
 *.ba2
 # exclude GTEMP.pas in the .vscode directory
 .vscode/GTEMP.pas
+# exclude the .venv directory
+.venv/
