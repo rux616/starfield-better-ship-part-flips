@@ -1,0 +1,12 @@
+FormKey: 16E080:Starfield.esm
+EditorID: SMSSet_Struct_Horizon_2WeapMount
+FormVersion: 575
+Name:
+  TargetLanguage: English
+  Value: Horizon Two Weapon Mount
+Items:
+- 17AB36:Starfield.esm
+- 17AB35:Starfield.esm
+- 0060C0:BetterShipPartFlips.esm
+- 0060BF:BetterShipPartFlips.esm
+ANAM: Null

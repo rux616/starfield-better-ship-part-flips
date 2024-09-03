@@ -5,8 +5,6 @@ FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ODTY: 0
-Transforms:
-  Ship: 050F9B:Starfield.esm
 Filter: '\Ships\Modules\Exterior\Fuel\Ballistic\'
 Cell: 0021F2:BetterShipPartFlips.esp
 Version: 0

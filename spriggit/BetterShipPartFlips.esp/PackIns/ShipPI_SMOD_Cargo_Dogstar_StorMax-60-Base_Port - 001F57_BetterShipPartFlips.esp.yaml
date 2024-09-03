@@ -8,8 +8,6 @@ ObjectBounds:
   First: -3.752018, -4, -1.7509766
   Second: 4.0078125, 4, 1.7509766
 ODTY: 0
-Transforms:
-  Ship: 050FBE:Starfield.esm
 Filter: '\Ships\Modules\Exterior\Cargo\Dogstar\'
 Cell: 001F58:BetterShipPartFlips.esp
 Version: 0

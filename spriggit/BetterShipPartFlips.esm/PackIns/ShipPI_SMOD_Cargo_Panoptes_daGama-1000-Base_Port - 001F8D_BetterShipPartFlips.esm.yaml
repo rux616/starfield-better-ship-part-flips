@@ -5,8 +5,6 @@ FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ODTY: 0
-Transforms:
-  Ship: 050FC5:Starfield.esm
 Filter: '\Ships\Modules\Exterior\Cargo\Panoptes\'
 Cell: 001F8E:BetterShipPartFlips.esm
 Version: 0

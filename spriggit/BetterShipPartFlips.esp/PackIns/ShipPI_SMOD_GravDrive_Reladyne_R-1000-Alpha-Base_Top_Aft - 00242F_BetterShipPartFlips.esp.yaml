@@ -8,8 +8,6 @@ ObjectBounds:
   First: -4.03125, -4.101563, -1.7617188
   Second: 4.03125, 4.101563, 1.7617188
 ODTY: 0
-Transforms:
-  Ship: 39EC83:Starfield.esm
 Filter: '\Ships\Modules\Exterior\Grav\Reladyne\'
 Cell: 002430:BetterShipPartFlips.esp
 Version: 0

@@ -1,0 +1,17 @@
+FormKey: 0060C6:BetterShipPartFlips.esp
+EditorID: ShipSnap_SMOD_Struct_Horizon_2WeapMount_Top
+FormVersion: 575
+Nodes:
+- Node: 04AB85:Starfield.esm
+  Offset: -0.84, 0, -1.05
+  Rotation: 315, 90, 270
+- NodeID: 2
+  Node: 04AB78:Starfield.esm
+  Offset: 0, 0, -1.75
+  Rotation: 90, 0, 180
+- NodeID: 1
+  Node: 04AB85:Starfield.esm
+  Offset: 0.84, 0, -1.05
+  Rotation: 225, 90, 270
+NextNodeID: 3
+STPT: 0

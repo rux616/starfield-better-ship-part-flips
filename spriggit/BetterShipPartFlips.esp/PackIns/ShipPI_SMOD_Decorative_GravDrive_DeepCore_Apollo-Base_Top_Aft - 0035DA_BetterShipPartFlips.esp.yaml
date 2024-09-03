@@ -8,8 +8,6 @@ ObjectBounds:
   First: -4, -4, -3.1816406
   Second: 4, 4, 3.1816406
 ODTY: 0
-Transforms:
-  Ship: 15E824:Starfield.esm
 Filter: '\Ships\Modules\Exterior\Grav\DeepCore\'
 Cell: 0035DB:BetterShipPartFlips.esp
 Version: 0

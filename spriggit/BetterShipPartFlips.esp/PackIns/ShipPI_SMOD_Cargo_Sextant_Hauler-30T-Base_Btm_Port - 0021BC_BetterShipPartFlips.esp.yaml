@@ -5,8 +5,6 @@ FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ODTY: 0
-Transforms:
-  Ship: 050FC1:Starfield.esm
 Filter: '\Ships\Modules\Exterior\Cargo\Sextant\'
 Cell: 0021BD:BetterShipPartFlips.esp
 Version: 0

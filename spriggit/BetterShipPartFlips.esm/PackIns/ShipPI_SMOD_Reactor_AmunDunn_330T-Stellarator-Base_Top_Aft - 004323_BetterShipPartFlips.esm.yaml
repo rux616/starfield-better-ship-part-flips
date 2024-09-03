@@ -15,8 +15,6 @@ ObjectPlacementDefaults:
   Unknown16: 1
   Unknown17: 1
   Unknown20: 3.4028235E+38
-Transforms:
-  Ship: 15E828:Starfield.esm
 Filter: '\Ships\Modules\Exterior\Reactors\AmunDunn\'
 ObjectPlacementDefaults2:
   Unknown5: 1E-45
