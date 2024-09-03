@@ -5,8 +5,6 @@ FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ODTY: 0
-Transforms:
-  Ship: 050FA1:Starfield.esm
 Filter: '\Ships\Modules\Exterior\Shield\Nautilus\'
 Cell: 0023AF:BetterShipPartFlips.esm
 Version: 0

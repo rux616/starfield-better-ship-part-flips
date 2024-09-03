@@ -5,8 +5,6 @@ FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ODTY: 0
-Transforms:
-  Ship: 1B5D2C:Starfield.esm
 Filter: '\Ships\Modules\Exterior\Cargo\Protectorate\'
 Cell: 001FE5:BetterShipPartFlips.esm
 Version: 0

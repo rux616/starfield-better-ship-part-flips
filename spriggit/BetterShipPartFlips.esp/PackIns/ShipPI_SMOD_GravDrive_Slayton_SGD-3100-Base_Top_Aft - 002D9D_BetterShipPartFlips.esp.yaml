@@ -8,8 +8,6 @@ ObjectBounds:
   First: -4, -4, -3.5
   Second: 4, 4, 3.5
 ODTY: 0
-Transforms:
-  Ship: 15E824:Starfield.esm
 Filter: '\Ships\Modules\Exterior\Grav\Slayton\'
 Cell: 002D9E:BetterShipPartFlips.esp
 Version: 0

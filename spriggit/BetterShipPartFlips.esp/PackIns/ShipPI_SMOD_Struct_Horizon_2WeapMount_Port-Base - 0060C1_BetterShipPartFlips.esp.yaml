@@ -1,0 +1,17 @@
+FormKey: 0060C1:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Struct_Horizon_2WeapMount_Port-Base
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: 2.9277344, -1.2050781, -1.2050781
+  Second: 4, 1.2050781, 1.2050781
+ODTY: 0
+Filter: '\Ships\Modules\Exterior\Struct\Horizon\'
+Cell: 0060C2:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

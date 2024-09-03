@@ -5,8 +5,6 @@ FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
 ODTY: 0
-Transforms:
-  Ship: 050FBE:Starfield.esm
 Cell: 00217C:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000

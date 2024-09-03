@@ -8,8 +8,6 @@ ObjectBounds:
   First: -3.5857813, -4.1343555, -1.7685547
   Second: 3.5782812, 4.1381054, 1.8950757
 ODTY: 0
-Transforms:
-  Ship: 050FAC:Starfield.esm
 Filter: '\Ships\Modules\Exterior\Fuel\Nova\'
 Cell: 002340:BetterShipPartFlips.esm
 Version: 0

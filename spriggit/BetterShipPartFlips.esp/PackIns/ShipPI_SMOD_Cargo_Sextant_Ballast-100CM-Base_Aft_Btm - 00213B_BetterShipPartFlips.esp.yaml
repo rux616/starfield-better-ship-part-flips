@@ -12,8 +12,6 @@ ObjectPlacementDefaults:
   Unknown16: 1
   Unknown17: 1
   Unknown20: 3.4028235E+38
-Transforms:
-  Ship: 050FBE:Starfield.esm
 Filter: '\Ships\Modules\Exterior\Cargo\Sextant\'
 ObjectPlacementDefaults2:
   Unknown5: 1E-45

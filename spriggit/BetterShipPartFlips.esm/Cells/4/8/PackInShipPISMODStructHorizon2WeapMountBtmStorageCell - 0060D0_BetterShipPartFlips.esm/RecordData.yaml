@@ -1,0 +1,50 @@
+FormKey: 0060D0:BetterShipPartFlips.esm
+EditorID: PackInShipPISMODStructHorizon2WeapMountBtmStorageCell
+FormVersion: 575
+Flags:
+- IsInteriorCell
+Lighting:
+  AmbientColor: '#00000000'
+  DirectionalColor: '#00000000'
+  FogNearColor: '#00000000'
+  DirectionalFade: 1
+  FogPower: 1
+  FogFarColor: '#00000000'
+  FogMax: 1
+  Unknown1: 1951
+  NearHeightRange: 10000
+  ForColorHighNear: '#00000000'
+  ForColorHighFar: '#00000000'
+  HighDensityScale: 1
+  FogNearScale: 1
+  FogFarScale: 1
+  FogHighNearScale: 1
+  FogHighFarScale: 1
+  FarHeightRange: 10000
+  Unknown2: -1414812925
+LightingTemplate: Null
+WaterHeight: 3.4028235E+38
+XILS: 1
+ImageSpace: 06AD68:Starfield.esm
+EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
+UnknownGroupData: 3
+TemporaryUnknownGroupData: 1
+Temporary:
+- MutagenObjectType: PlacedObject
+  FormKey: 0060D1:BetterShipPartFlips.esm
+  FormVersion: 575
+  Base: 015804:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 0060D2:BetterShipPartFlips.esm
+  FormVersion: 575
+  Base: 0060C1:BetterShipPartFlips.esm
+  Position: 0, 0, -2.25
+  Rotation: 0, 1.5707963, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 0060D3:BetterShipPartFlips.esm
+  FormVersion: 575
+  Base: 03F808:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 0060DC:BetterShipPartFlips.esm
+  FormVersion: 575
+  Base: 0060C9:BetterShipPartFlips.esm

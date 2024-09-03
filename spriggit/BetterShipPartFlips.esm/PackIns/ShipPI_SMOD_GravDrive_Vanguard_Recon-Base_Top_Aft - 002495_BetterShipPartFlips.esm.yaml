@@ -8,8 +8,6 @@ ObjectBounds:
   First: -3.3945312, -4.0429688, -1.7783203
   Second: 3.3945312, 4, 1.7470703
 ODTY: 0
-Transforms:
-  Ship: 39EC83:Starfield.esm
 Filter: '\Ships\Modules\Exterior\Grav\Vanguard\'
 Cell: 002496:BetterShipPartFlips.esm
 Version: 0

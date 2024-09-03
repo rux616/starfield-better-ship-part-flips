@@ -1,0 +1,17 @@
+FormKey: 0060C5:BetterShipPartFlips.esp
+EditorID: SMOD_Struct_Horizon_2WeapMount_Port_NIF
+FormVersion: 575
+ObjectBounds:
+  First: 2.9277344, -1.2050781, -1.2050781
+  Second: 4, 1.2050781, 1.2050781
+ODTY: 0
+Model:
+  File: Ships\Modules\Struct\SMOD\SMOD_Struct_Horizon_2WeapMount_Port.nif
+  MaterialSwaps:
+  - 08DEF4:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 207960:Starfield.esm
+- 1BB401:Starfield.esm
+DATA: 4
