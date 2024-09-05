@@ -22,7 +22,7 @@
         "Sanitize FOMOD XML Files",
         "Render Markdown to Nexus BBCode",
         "Render Markdown to Plaintext",
-        // "Serialize Plugins",
+        "Serialize Plugins",
         "Create Archives"
       ]
     },
@@ -53,32 +53,34 @@
       "label": "Serialize Plugins",
       "type": "shell",
       "command": "./support/common/scripts/serialize-plugins.ps1",
-      "args": ["-Starfield", "-YAML"]
+      "args": [
+        "-Starfield",
+        "-YAML",
+        "-PluginNames",
+        "BetterShipPartFlips.esp,BetterShipPartFlips.esm",
+        "-PackageVersion",
+        "0.26.0"
+      ]
     },
     {
-      "label": "Create Archives (Ship Colorize Patch BA2)",
+      "label": "Serialize Plugins (Forced)",
       "type": "shell",
-      "command": "./support/common/scripts/build-archives.ps1",
+      "command": "./support/common/scripts/serialize-plugins.ps1",
       "args": [
-        "-DataDir",
-        "./data-shipcolorize-patch",
-        "-PluginName",
-        "BSPF-ShipColorize-Patch",
         "-Starfield",
-        "-Skip7z",
-        "-SkipBA2Cleanup",
-        "-BA2AlsoMakeXbox",
-        "-BA2ForceUncompressed",
-        "-BA2DisableSharing"
+        "-YAML",
+        "-PluginNames",
+        "BetterShipPartFlips.esp,BetterShipPartFlips.esm",
+        "-PackageVersion",
+        "0.26.0",
+        "-Force"
       ]
     },
     {
       "label": "Create Archives",
       "type": "shell",
       "command": "./support/common/scripts/build-archives.ps1",
-      "args": ["-ModName", "Better Ship Part Flips", "-Starfield", "-SkipBA2", "-SkipBA2Cleanup"],
-      "dependsOrder": "parallel",
-      "dependsOn": ["Create Archives (Ship Colorize Patch BA2)"]
+      "args": ["-ModName", "Better Ship Part Flips", "-Starfield", "-SkipBA2", "-SkipBA2Cleanup"]
     },
     {
       "label": "Create xTranslator Batch Processor Script",
