@@ -6,6 +6,7 @@ Table Of Contents
 - [Better Ship Part Flips](#better-ship-part-flips)
     - [Table Of Contents](#table-of-contents)
 - [Changelog](#changelog)
+    - [v1.3.0](#v130)
     - [v1.2.0](#v120)
     - [v1.1.1](#v111)
     - [v1.1.0](#v110)
@@ -19,6 +20,16 @@ Table Of Contents
 
 Changelog
 =========
+
+v1.3.0
+------
+Released 2024-09-XX
+- Added top/bottom flips for Horizon Weapon Mounts
+- Updated patch for TN's Ship Modifications All In One
+- Updated patch for TN's Separated Categories
+- Updated patch for Ship Colorize (removed DogStar StorMax coloring for additional flips)
+
+([TOC](#table-of-contents))
 
 v1.2.0
 ------
