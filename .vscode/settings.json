@@ -40,6 +40,7 @@
     "matilija",
     "Morrowind",
     "MSTT",
+    "multimethod",
     "navmesh",
     "ncel",
     "Noggog",
@@ -50,6 +51,7 @@
     "PKIN",
     "REFR",
     "Reladyne",
+    "SFBGS",
     "SFSE",
     "Shinigami",
     "shipmodulesf",
@@ -71,6 +73,7 @@
     "Tait",
     "Taiyo",
     "Tokamak",
+    "venv",
     "WEAP",
     "Wykkyd",
     "xedit",
@@ -79,5 +82,6 @@
   "markdownlint.config": {
     "MD034": false,
     "MD041": false
-  }
+  },
+  "black-formatter.args": ["--line-length", "120"]
 }
