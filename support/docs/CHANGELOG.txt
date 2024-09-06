@@ -23,7 +23,7 @@ Changelog
 
 v1.3.0
 ------
-Released 2024-09-XX
+Released 2024-09-06
 - Added top/bottom flips for Horizon Weapon Mounts
 - Updated patch for TN's Ship Modifications All In One
 - Updated patch for TN's Separated Categories
