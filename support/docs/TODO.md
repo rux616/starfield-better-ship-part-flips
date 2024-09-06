@@ -42,3 +42,8 @@
 - [ ] add patch for Starfield Extended - More Shielded Cargo Bays Rebalanced
 - [ ] add patch for Starfield Extended - Reactors Rebalanced
 - [X] fix deimos spine c aft bottom and fore bottom - fore and aft snaps are 1/2 module too high (for comparison, see deimos spine a fore bottom)
+- [ ] (?) patch to combine decorative weapons under a single tab
+- [ ] (?) patch to put all decorative items in the same tab?
+- [X] update TN ship mods AIO patch
+- [X] update TN separated categories patch
+- [X] fix Ship Colorize patch
