@@ -10,7 +10,7 @@ ModHeader:
     Additional flips of vanilla parts that seemed missing. Mostly conforms to vanilla ship builder grid.
 
 
-    Version: 1.3.0
+    Version: 1.3.1
   MasterReferences:
   - Master: Starfield.esm
   - Master: ShipBuilderCategories.esm

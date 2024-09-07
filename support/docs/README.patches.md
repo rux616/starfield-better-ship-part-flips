@@ -6,9 +6,6 @@ Table Of Contents
 - [BSPF Option - No Decoratives](#bspf-option---no-decoratives)
 - [BSPF Patch - All ship parts unlevelled at all vendors (ESM)](#bspf-patch---all-ship-parts-unlevelled-at-all-vendors-esm)
 - [BSPF Patch - Ship Colorize](#bspf-patch---ship-colorize)
-- [BSPF Patch - Ship Colorize + Better Ship Part Snaps](#bspf-patch---ship-colorize--better-ship-part-snaps)
-- [BSPF Patch - Ship Colorize + Cargo Expander X3](#bspf-patch---ship-colorize--cargo-expander-x3)
-- [BSPF Patch - Ship Colorize + Cargo Expander X10](#bspf-patch---ship-colorize--cargo-expander-x10)
 - [BSPF Patch - Ship Combat Revised (Habs)](#bspf-patch---ship-combat-revised-habs)
 - [BSPF Patch - Ship Combat Revised (Reactors)](#bspf-patch---ship-combat-revised-reactors)
 - [BSPF Patch - Ship Combat Revised (Thrusters)](#bspf-patch---ship-combat-revised-thrusters)
@@ -65,45 +62,6 @@ Compatibility patch between the "Better Ship Part Flips" mod by freschu/rux616 a
 Mod Source:
 - Creations: https://creations.bethesda.net/en/starfield/details/c6fcfa3e-3960-4361-91b0-a757b7d3b560/Ship_Colorize
 - Nexus: https://www.nexusmods.com/starfield/mods/7003
-
-
-BSPF Patch - Ship Colorize + Better Ship Part Snaps
------
-Compatibility patch between the "Ship Colorize" compatibility patch of the "Better Ship Part Flips" mod by freschu/rux616 and the "Better Ship Part Snaps" mod by freschu/rux616.
-
-Mod Source:
-- BSPF Patch - Ship Colorize
-    - Creations: https://creations.bethesda.net/en/starfield/details/cdbe86d3-3d0f-4811-a923-097d20d446da/BSPF_Patch___Ship_Colorize
-    - Nexus: https://www.nexusmods.com/starfield/mods/5953
-- Better Ship Part Snaps
-    - Creations: https://creations.bethesda.net/en/starfield/details/81dc21ae-e497-441b-aaf9-b44b923d1401/Better_Ship_Part_Snaps
-    - Nexus: https://www.nexusmods.com/starfield/mods/5698
-
-
-BSPF Patch - Ship Colorize + Cargo Expander X3
------
-Compatibility patch between the "Cargo Expander X3" option of the "Better Ship Part Flips" mod by freschu/rux616 and the "Ship Colorize" compatibility patch of the "Better Ship Part Flips" mod by freschu/rux616.
-
-Mod Source:
-- BSPF Patch - Ship Colorize
-    - Creations: https://creations.bethesda.net/en/starfield/details/cdbe86d3-3d0f-4811-a923-097d20d446da/BSPF_Patch___Ship_Colorize
-    - Nexus: https://www.nexusmods.com/starfield/mods/5953
-- Cargo Expander X3
-    - Creations: https://creations.bethesda.net/en/starfield/details/665d34e1-8a77-424e-b139-48ed67471d63/BSPF_Option___Cargo_Expander_X3
-    - Nexus: https://www.nexusmods.com/starfield/mods/5953
-
-
-BSPF Patch - Ship Colorize + Cargo Expander X10
------
-Compatibility patch between the "Cargo Expander X10" option of the "Better Ship Part Flips" mod by freschu/rux616 and the "Ship Colorize" compatibility patch of the "Better Ship Part Flips" mod by freschu/rux616.
-
-Mod Source:
-- BSPF Patch - Ship Colorize
-    - Creations: https://creations.bethesda.net/en/starfield/details/cdbe86d3-3d0f-4811-a923-097d20d446da/BSPF_Patch___Ship_Colorize
-    - Nexus: https://www.nexusmods.com/starfield/mods/5953
-- BSPF Option - Cargo Expander X10
-    - Creations: https://creations.bethesda.net/en/starfield/details/b852a45e-bc66-4e38-8fb7-e103c97c6378/BSPF_Option___Cargo_Expander_X10
-    - Nexus: https://www.nexusmods.com/starfield/mods/5953
 
 
 BSPF Patch - Ship Combat Revised (Habs)
