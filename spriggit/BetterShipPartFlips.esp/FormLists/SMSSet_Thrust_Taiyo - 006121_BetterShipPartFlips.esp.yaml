@@ -1,0 +1,12 @@
+FormKey: 006121:BetterShipPartFlips.esp
+EditorID: SMSSet_Thrust_Taiyo
+FormVersion: 575
+Name:
+  TargetLanguage: English
+  Value: Taiyo Braking Engine Set
+Items:
+- 21F547:Starfield.esm
+- 00611F:BetterShipPartFlips.esp
+- 006120:BetterShipPartFlips.esp
+- 00611E:BetterShipPartFlips.esp
+ANAM: Null

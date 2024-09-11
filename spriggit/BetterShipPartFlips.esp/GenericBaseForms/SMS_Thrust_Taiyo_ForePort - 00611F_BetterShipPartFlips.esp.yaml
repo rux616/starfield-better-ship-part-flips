@@ -1,0 +1,24 @@
+FormKey: 00611F:BetterShipPartFlips.esp
+EditorID: SMS_Thrust_Taiyo_ForePort
+FormVersion: 575
+ODTY: 0
+Components:
+- MutagenObjectType: PropertySheetComponent
+  Properties:
+  - ActorValue: 00ACDB:Starfield.esm
+    Value: 5
+- MutagenObjectType: FormLinkDataComponent
+  Links:
+  - Keyword: 00662F:Starfield.esm
+    LinkedForm: 006114:BetterShipPartFlips.esp
+- MutagenObjectType: KeywordFormComponent
+  Keywords:
+  - 1462BE:Starfield.esm
+  - 27BAC5:Starfield.esm
+- MutagenObjectType: FullNameComponent
+  Name:
+    TargetLanguage: English
+    Value: Taiyo Braking Engine - Port
+Template: 03058E:Starfield.esm
+STRVs:
+- BGSMod_Template_Component

@@ -1,0 +1,17 @@
+FormKey: 006101:BetterShipPartFlips.esp
+EditorID: SMOD_Thrust_Taiyo_ForeBtm_NIF
+FormVersion: 575
+ODTY: 0
+Model:
+  File: Ships\Modules\Thrust\SMOD\SMOD_Thrust_Taiyo_ForeBtm.nif
+  MaterialSwaps:
+  - 1615E1:Starfield.esm
+  - 2F25A0:Starfield.esm
+  - 1615F5:Starfield.esm
+  - 08DF5B:Starfield.esm
+  FLLD: 0x01000000
+  XFLG: 0x02
+Keywords:
+- 1BB401:Starfield.esm
+- 207960:Starfield.esm
+DATA: 4

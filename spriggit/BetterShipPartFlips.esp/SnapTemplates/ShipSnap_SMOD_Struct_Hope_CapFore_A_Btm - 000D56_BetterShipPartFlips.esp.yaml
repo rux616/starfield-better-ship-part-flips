@@ -14,13 +14,13 @@ Nodes:
   Node: 04AB74:Starfield.esm
   Offset: 4, 0, 0
   Rotation: 0, 0, 90
-- NodeID: 10
-  Node: 04AB70:Starfield.esm
-  Offset: 0, -4, 0
-  Rotation: 0, 0, 180
 - NodeID: 7
   Node: 04AB73:Starfield.esm
   Offset: -4, 0, 0
   Rotation: 0, 0, -90
+- NodeID: 10
+  Node: 04AB70:Starfield.esm
+  Offset: 0, -4, 0
+  Rotation: 0, 0, 180
 NextNodeID: 12
 STPT: 0

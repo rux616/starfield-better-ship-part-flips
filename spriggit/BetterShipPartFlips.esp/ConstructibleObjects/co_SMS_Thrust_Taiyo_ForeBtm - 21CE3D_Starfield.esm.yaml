@@ -1,0 +1,21 @@
+FormKey: 21CE3D:Starfield.esm
+EditorID: co_SMS_Thrust_Taiyo_ForeBtm
+FormVersion: 575
+Description:
+  TargetLanguage: English
+  Value: Structural components are largely cosmetic, and allow you to modify your ship's shape, size, personality and silhouette.
+WorkbenchKeyword: 29C480:Starfield.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: HasKeywordConditionData
+    FirstParameter: 1453C0:Starfield.esm
+  ComparisonValue: 1
+CreatedObject: 006121:BetterShipPartFlips.esp
+AmountProduced: 1
+MenuSortOrder: 67
+LearnMethod: DefaultOrConditions
+Value: 625
+Categories:
+- 29C473:Starfield.esm
+RECF: 0

@@ -1,0 +1,14 @@
+FormKey: 006114:BetterShipPartFlips.esp
+EditorID: ShipPI_SMOD_Thrust_Taiyo_ForePort
+FormVersion: 575
+ObjectBounds:
+  First: -1.7499998, -4, -4
+  Second: 1.7499998, 5.546875, 4
+ODTY: 0
+Transforms:
+  Ship: 050FAC:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Thrust\Taiyo\'
+Cell: 006115:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
