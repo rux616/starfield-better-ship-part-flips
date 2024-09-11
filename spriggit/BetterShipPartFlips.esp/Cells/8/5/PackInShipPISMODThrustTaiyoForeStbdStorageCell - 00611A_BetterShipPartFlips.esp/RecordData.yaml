@@ -43,3 +43,6 @@ Temporary:
   FormKey: 00611D:BetterShipPartFlips.esp
   FormVersion: 575
   Base: 015804:Starfield.esm
+- MutagenObjectType: PlacedObject
+  FormKey: 00612A:BetterShipPartFlips.esp
+  Base: 00612B:BetterShipPartFlips.esp

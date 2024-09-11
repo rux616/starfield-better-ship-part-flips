@@ -1,6 +1,9 @@
 FormKey: 006101:BetterShipPartFlips.esp
 EditorID: SMOD_Thrust_Taiyo_ForeBtm_NIF
 FormVersion: 575
+ObjectBounds:
+  First: -4, -4, -1.75
+  Second: 4, 5.546875, 1.75
 ODTY: 0
 Model:
   File: Ships\Modules\Thrust\SMOD\SMOD_Thrust_Taiyo_ForeBtm.nif
