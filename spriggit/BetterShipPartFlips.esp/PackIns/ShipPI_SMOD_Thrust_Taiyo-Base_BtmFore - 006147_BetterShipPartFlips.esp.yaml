@@ -1,0 +1,19 @@
+FormKey: 006147:BetterShipPartFlips.esp
+MajorRecordFlagsRaw: 512
+EditorID: ShipPI_SMOD_Thrust_Taiyo-Base_BtmFore
+FormVersion: 575
+StarfieldMajorRecordFlags:
+- 0x200
+ObjectBounds:
+  First: -4, -4, -1.75
+  Second: 4, 5.546875, 1.75
+ODTY: 0
+Transforms:
+  Ship: 050FAC:Starfield.esm
+Filter: '\Ships\Modules\Exterior\Thrust\Taiyo\'
+Cell: 006148:BetterShipPartFlips.esp
+Version: 0
+FNAM: 0x0E000000
+MaterialSwaps: []
+MajorFlags:
+- Prefab

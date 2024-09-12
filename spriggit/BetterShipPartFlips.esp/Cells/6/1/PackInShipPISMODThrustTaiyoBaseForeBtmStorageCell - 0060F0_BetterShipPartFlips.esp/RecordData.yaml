@@ -25,15 +25,6 @@ Lighting:
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
-XCLAs:
-- XCLA: 1
-  XCLD: Default Layer Name 1
-- XCLA: 2
-  XCLD: Default Layer Name 2
-- XCLA: 3
-  XCLD: Default Layer Name 3
-- XCLA: 4
-  XCLD: Default Layer Name 4
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
 UnknownGroupData: 3
