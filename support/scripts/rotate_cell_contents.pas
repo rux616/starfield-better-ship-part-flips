@@ -1145,7 +1145,7 @@ begin
   debug_print('rotate_position: q: ' + quaternion_to_str(qw, qx, qy, qz));
 
   // everything i've read says this should be (q * v * q'), but only (q' * (v * q)) gives the correct
-  // results ¯\_(ツ)_/¯
+  // results *shrug*
   quaternion_multiply(  // calculate (v * q)
     0.0, vx, vy, vz,
     qw, qx, qy, qz,
@@ -1190,7 +1190,7 @@ begin
   debug_print('rotate_rotation: q2: ' + quaternion_to_str(qw2, qx2, qy2, qz2));
 
   // everything i've read says this should be (q2 * q1), but only (q1 * q2) gives the correct results
-  // ¯\_(ツ)_/¯
+  // *shrug*
   quaternion_multiply(  // calculate (q1 * q2)
     qw1, qx1, qy1, qz1,
     qw2, qx2, qy2, qz2,
