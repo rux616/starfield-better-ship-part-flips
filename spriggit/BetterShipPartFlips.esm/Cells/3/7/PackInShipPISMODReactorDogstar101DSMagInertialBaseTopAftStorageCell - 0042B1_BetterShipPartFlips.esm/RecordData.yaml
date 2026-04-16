@@ -1,6 +1,10 @@
 FormKey: 0042B1:BetterShipPartFlips.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODReactorDogstar101DSMagInertialBaseTopAftStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,14 +25,12 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: -1414812925
+  InteriorType: -1414812925
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0042B2:BetterShipPartFlips.esm
@@ -167,7 +169,7 @@ Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0042BE:BetterShipPartFlips.esm
   FormVersion: 575
-  XALG: 0x0008000000000000
+  XALG: 2048
   Base: 1F5654:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -182,7 +184,7 @@ Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0042BF:BetterShipPartFlips.esm
   FormVersion: 575
-  XALG: 0x0008000000000000
+  XALG: 2048
   Base: 1F564F:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -197,7 +199,7 @@ Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0042C0:BetterShipPartFlips.esm
   FormVersion: 575
-  XALG: 0x0008000000000000
+  XALG: 2048
   Base: 1F5607:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -212,7 +214,7 @@ Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0042C1:BetterShipPartFlips.esm
   FormVersion: 575
-  XALG: 0x0008000000000000
+  XALG: 2048
   Base: 1F5652:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -225,7 +227,7 @@ Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0042C2:BetterShipPartFlips.esm
   FormVersion: 575
-  XALG: 0x0008000000000000
+  XALG: 2048
   Base: 1F5652:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -237,3 +239,5 @@ Temporary:
   ConstrainedDecal: 3, 2.4, 2.4
   Position: 0.2, 2.3, -1.8000001
   Rotation: 0, -0, 1.5707965
+MajorFlags:
+- 0x40000

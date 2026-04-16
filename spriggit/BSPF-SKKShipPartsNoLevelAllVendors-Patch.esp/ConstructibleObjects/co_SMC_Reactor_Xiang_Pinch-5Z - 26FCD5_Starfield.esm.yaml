@@ -1,6 +1,6 @@
 FormKey: 26FCD5:Starfield.esm
 EditorID: co_SMC_Reactor_Xiang_Pinch-5Z
-FormVersion: 559
+FormVersion: 575
 Description:
   TargetLanguage: English
   Value: Spaceship Reactors provide power to all of your ship's systems.
@@ -13,6 +13,6 @@ AmountProduced: 1
 MenuSortOrder: 51
 LearnMethod: DefaultOrConditions
 Value: 34200
-Categories:
+RecipeFilters:
 - 29C475:Starfield.esm
-RECF: 0
+Flags: []

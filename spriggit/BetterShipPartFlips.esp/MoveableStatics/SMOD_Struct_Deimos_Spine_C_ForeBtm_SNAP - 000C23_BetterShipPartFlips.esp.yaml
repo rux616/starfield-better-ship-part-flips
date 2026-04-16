@@ -1,10 +1,10 @@
 FormKey: 000C23:BetterShipPartFlips.esp
 EditorID: SMOD_Struct_Deimos_Spine_C_ForeBtm_SNAP
 FormVersion: 575
-ODTY: 0
 SnapTemplate: 000C24:BetterShipPartFlips.esp
 Model:
   File: Effects\fxemptynode.nif
-  FLLD: 0x01000000
-  XFLG: 0x02
+  LightLayer: 1
+  Flags:
+  - HasFirstPersonModel
 DATA: 4

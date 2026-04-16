@@ -1,7 +1,6 @@
 FormKey: 0055B2:BetterShipPartFlips.esm
 EditorID: SMC_Shields_Nautilus_Fortress-A2_Aft
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
   Slots:
@@ -47,5 +46,5 @@ Components:
     TargetLanguage: English
     Value: Fortress A2 Shield Generator
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

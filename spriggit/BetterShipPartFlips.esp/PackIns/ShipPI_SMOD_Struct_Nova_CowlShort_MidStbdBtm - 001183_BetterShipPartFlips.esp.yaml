@@ -7,10 +7,9 @@ StarfieldMajorRecordFlags:
 ObjectBounds:
   First: -4.0000005, -4, -1.4746084
   Second: 0.5, 4, 1.7509767
-ODTY: 0
 Transforms:
   Ship: 0A29BA:Starfield.esm
-Filter: '\Ships\Modules\Exterior\Struct\Nova\'
+Filter: \Ships\Modules\Exterior\Struct\Nova\
 Cell: 00118D:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000

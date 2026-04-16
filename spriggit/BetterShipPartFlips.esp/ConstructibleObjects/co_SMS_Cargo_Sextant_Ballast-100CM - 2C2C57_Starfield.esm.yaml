@@ -22,6 +22,6 @@ CreatedObject: 0026B2:BetterShipPartFlips.esp
 AmountProduced: 1
 LearnMethod: DefaultOrConditions
 Value: 750
-Categories:
+RecipeFilters:
 - 2C155D:Starfield.esm
-RECF: 0
+Flags: []

@@ -1,6 +1,6 @@
 FormKey: 27045A:Starfield.esm
 EditorID: co_SMS_Cargo_Panoptes_Polo-2030
-FormVersion: 559
+FormVersion: 575
 Description:
   TargetLanguage: English
   Value: Spaceship Cargo Modules increase your ship's inventory space.
@@ -13,6 +13,6 @@ AmountProduced: 1
 MenuSortOrder: 8.906078
 LearnMethod: DefaultOrConditions
 Value: 7150
-Categories:
+RecipeFilters:
 - 2C155D:Starfield.esm
-RECF: 0
+Flags: []

@@ -1,7 +1,6 @@
 FormKey: 000EC7:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Hope_PipesMid_B_Btm
-FormVersion: 559
-ODTY: 0
+FormVersion: 575
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -24,5 +23,5 @@ Components:
     TargetLanguage: English
     Value: HopeTech Pipes B - Mid Bottom
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

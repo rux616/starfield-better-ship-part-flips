@@ -1,6 +1,6 @@
 FormKey: 26FCFD:Starfield.esm
 EditorID: co_SMB_Reactor_Dogstar_101DS-MagInertial
-FormVersion: 559
+FormVersion: 575
 Description:
   TargetLanguage: English
   Value: Spaceship Reactors provide power to all of your ship's systems.
@@ -13,6 +13,6 @@ AmountProduced: 1
 MenuSortOrder: 46.0312
 LearnMethod: DefaultOrConditions
 Value: 14400
-Categories:
+RecipeFilters:
 - 29C475:Starfield.esm
-RECF: 0
+Flags: []

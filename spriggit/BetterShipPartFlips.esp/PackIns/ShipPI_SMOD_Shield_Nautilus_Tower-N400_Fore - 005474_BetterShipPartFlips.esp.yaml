@@ -6,10 +6,9 @@ StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:
   First: 0, -2.25, 0
-ODTY: 0
 Transforms:
   Ship: 050FBE:Starfield.esm
-Filter: '\Ships\Modules\Exterior\Shield\Nautilus\'
+Filter: \Ships\Modules\Exterior\Shield\Nautilus\
 Cell: 0054A3:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000

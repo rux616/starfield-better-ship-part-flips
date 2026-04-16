@@ -4,7 +4,6 @@ EditorID: ShipPI_SMOD_Cargo_Sextant_Hauler-20T-Base_Btm
 FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
-ODTY: 0
 Cell: 00217C:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000

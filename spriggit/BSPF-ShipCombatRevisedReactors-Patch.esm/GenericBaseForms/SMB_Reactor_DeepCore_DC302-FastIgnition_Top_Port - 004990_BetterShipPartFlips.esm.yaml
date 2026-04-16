@@ -1,7 +1,6 @@
 FormKey: 004990:BetterShipPartFlips.esm
 EditorID: SMB_Reactor_DeepCore_DC302-FastIgnition_Top_Port
 FormVersion: 559
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -43,6 +42,6 @@ Components:
     TargetLanguage: English
     Value: DC302 Fast Ignition Reactor - Top Port
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

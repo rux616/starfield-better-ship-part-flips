@@ -1,14 +1,14 @@
 FormKey: 005470:BetterShipPartFlips.esp
 EditorID: SMOD_Shield_Sextant_Assurance-SG-1000_Top_NoSnap
 FormVersion: 575
-ODTY: 0
 Model:
   File: Ships\Modules\Shield\SMOD\SMOD_Shield_Sextant_Assurance-SG-1000.nif
   MaterialSwaps:
   - 1615E1:Starfield.esm
   - 22BEF1:Starfield.esm
-  FLLD: 0x01000000
-  XFLG: 0x02
+  LightLayer: 1
+  Flags:
+  - HasFirstPersonModel
 Keywords:
 - 1BB401:Starfield.esm
 - 207960:Starfield.esm

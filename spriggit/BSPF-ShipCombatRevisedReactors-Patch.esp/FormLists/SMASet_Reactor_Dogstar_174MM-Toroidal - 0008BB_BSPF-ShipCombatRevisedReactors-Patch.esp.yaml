@@ -1,0 +1,31 @@
+FormKey: 0008BB:BSPF-ShipCombatRevisedReactors-Patch.esp
+EditorID: SMASet_Reactor_Dogstar_174MM-Toroidal
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Dogstar 174MM Toroidal Set
+Items:
+- 000818:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000819:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00081A:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00081B:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00081C:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00081D:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00081E:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00081F:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000820:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000821:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000822:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000823:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000824:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000825:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000826:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000827:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000828:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000829:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00082A:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00082B:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00082C:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00082D:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00082E:BSPF-ShipCombatRevisedReactors-Patch.esp
+AddToList: Null

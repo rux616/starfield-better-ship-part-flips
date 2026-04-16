@@ -1,7 +1,6 @@
 FormKey: 00540E:BetterShipPartFlips.esp
 EditorID: SMA_Shields_Sextant_Deflector_SG-30_Top_Aft
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
   Slots:
@@ -49,5 +48,5 @@ Components:
     TargetLanguage: English
     Value: Deflector SG-30 Shield Generator
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

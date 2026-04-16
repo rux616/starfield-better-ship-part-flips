@@ -1,7 +1,6 @@
 FormKey: 0030A0:BetterShipPartFlips.esm
 EditorID: SMB_GravDrive_Reladyne_RD-2000-Beta_Stbd_Btm
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
   Slots:
@@ -45,6 +44,6 @@ Components:
     TargetLanguage: English
     Value: RD-2000 Beta Grav Drive
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

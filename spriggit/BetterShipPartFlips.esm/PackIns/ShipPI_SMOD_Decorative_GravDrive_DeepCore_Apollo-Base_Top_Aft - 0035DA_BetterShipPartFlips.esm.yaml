@@ -7,8 +7,7 @@ StarfieldMajorRecordFlags:
 ObjectBounds:
   First: -4, -4, -3.1816406
   Second: 4, 4, 3.1816406
-ODTY: 0
-Filter: '\Ships\Modules\Exterior\Grav\DeepCore\'
+Filter: \Ships\Modules\Exterior\Grav\DeepCore\
 Cell: 0035DB:BetterShipPartFlips.esm
 Version: 0
 FNAM: 0x0E000000

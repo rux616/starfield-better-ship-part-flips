@@ -1,6 +1,10 @@
 FormKey: 0023DA:BetterShipPartFlips.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODShieldSextantWardenSG100BaseTopStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,7 +25,7 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: -1414812925
+  InteriorType: -1414812925
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
@@ -34,8 +38,6 @@ XCLAs:
   XCLD: Default Layer Name 3
 - XCLA: 4
   XCLD: Default Layer Name 4
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0023DB:BetterShipPartFlips.esm
@@ -53,3 +55,5 @@ Temporary:
   FormKey: 0023DD:BetterShipPartFlips.esm
   FormVersion: 575
   Base: 015804:Starfield.esm
+MajorFlags:
+- 0x40000

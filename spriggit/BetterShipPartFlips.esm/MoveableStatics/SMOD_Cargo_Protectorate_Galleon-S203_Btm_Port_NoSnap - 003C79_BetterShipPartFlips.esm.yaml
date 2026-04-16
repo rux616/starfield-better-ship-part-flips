@@ -1,15 +1,15 @@
 FormKey: 003C79:BetterShipPartFlips.esm
 EditorID: SMOD_Cargo_Protectorate_Galleon-S203_Btm_Port_NoSnap
 FormVersion: 575
-ODTY: 0
 Model:
   File: Ships\Modules\Cargo\smod\SMOD_Cargo_Protectorate_Galleon-S203_PortBtm.nif
   MaterialSwaps:
   - 093D0F:Starfield.esm
   - 0B6B22:Starfield.esm
   - 29AF8B:Starfield.esm
-  FLLD: 0x01000000
-  XFLG: 0x02
+  LightLayer: 1
+  Flags:
+  - HasFirstPersonModel
 Keywords:
 - 1BB401:Starfield.esm
 - 207960:Starfield.esm

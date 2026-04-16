@@ -1,7 +1,6 @@
 FormKey: 001D73:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_FuelTank_Dogstar_Atlas-H40_Port_Vert
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -31,5 +30,5 @@ Components:
     TargetLanguage: English
     Value: 'Decorative: Dogstar Atlas H40'
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

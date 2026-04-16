@@ -1,7 +1,6 @@
 FormKey: 00559C:BetterShipPartFlips.esp
 EditorID: SMB_Shields_Sextant_Warden-SG-300_Aft
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
   Slots:
@@ -47,5 +46,5 @@ Components:
     TargetLanguage: English
     Value: Warden SG-300 Shield Generator
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

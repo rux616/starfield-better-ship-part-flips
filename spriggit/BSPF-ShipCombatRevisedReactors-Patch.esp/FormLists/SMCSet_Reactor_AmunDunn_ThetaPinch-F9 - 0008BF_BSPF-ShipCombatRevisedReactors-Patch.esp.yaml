@@ -1,0 +1,31 @@
+FormKey: 0008BF:BSPF-ShipCombatRevisedReactors-Patch.esp
+EditorID: SMCSet_Reactor_AmunDunn_ThetaPinch-F9
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Amun Dunn Theta Pinch F9 Set
+Items:
+- 00088B:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00088C:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00088D:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00088E:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00088F:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000890:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000891:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000892:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000893:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000894:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000895:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000896:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000897:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000898:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000899:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00089A:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00089B:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00089C:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00089D:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00089E:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00089F:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008A0:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008A1:BSPF-ShipCombatRevisedReactors-Patch.esp
+AddToList: Null

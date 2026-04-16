@@ -1,7 +1,6 @@
 FormKey: 000F49:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Hope_PipesMid_A1_Fore
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -22,5 +21,5 @@ Components:
     TargetLanguage: English
     Value: HopeTech Pipes A1 - Fore
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

@@ -7,8 +7,7 @@ StarfieldMajorRecordFlags:
 ObjectBounds:
   First: -4.0078125, -4.0039062, -1.7509766
   Second: 4.0078125, 4.0039062, 1.7548828
-ODTY: 0
-Filter: '\Ships\Modules\Exterior\Reactors\Dogstar\'
+Filter: \Ships\Modules\Exterior\Reactors\Dogstar\
 Cell: 004324:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000

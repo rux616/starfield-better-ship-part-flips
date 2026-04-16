@@ -1,7 +1,6 @@
 FormKey: 005572:BetterShipPartFlips.esp
 EditorID: SMB_Shields_Protectorate_Osiris-2020-B_Fore
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
   Slots:
@@ -47,5 +46,5 @@ Components:
     TargetLanguage: English
     Value: Osiris 2020-B Shield Generator
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

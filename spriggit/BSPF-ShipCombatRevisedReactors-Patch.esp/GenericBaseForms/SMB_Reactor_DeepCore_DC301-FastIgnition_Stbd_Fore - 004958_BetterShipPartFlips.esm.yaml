@@ -1,7 +1,6 @@
 FormKey: 004958:BetterShipPartFlips.esm
 EditorID: SMB_Reactor_DeepCore_DC301-FastIgnition_Stbd_Fore
 FormVersion: 559
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -43,6 +42,6 @@ Components:
     TargetLanguage: English
     Value: DC301 Fast Ignition Reactor - Stbd Fore
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

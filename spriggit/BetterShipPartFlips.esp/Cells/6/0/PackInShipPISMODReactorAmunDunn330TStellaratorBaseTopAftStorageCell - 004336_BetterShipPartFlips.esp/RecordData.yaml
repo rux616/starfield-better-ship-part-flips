@@ -1,6 +1,10 @@
 FormKey: 004336:BetterShipPartFlips.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODReactorAmunDunn330TStellaratorBaseTopAftStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,14 +25,12 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: 1321300227
+  InteriorType: 1321300227
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 004337:BetterShipPartFlips.esp
@@ -274,3 +276,5 @@ Temporary:
   ConstrainedDecal: 3, 2.8346, 1.4402287
   Position: -1.621933, 3.2382605, 1.220064
   Rotation: -2.2998834, -0.07350914, 3.1956286
+MajorFlags:
+- 0x40000

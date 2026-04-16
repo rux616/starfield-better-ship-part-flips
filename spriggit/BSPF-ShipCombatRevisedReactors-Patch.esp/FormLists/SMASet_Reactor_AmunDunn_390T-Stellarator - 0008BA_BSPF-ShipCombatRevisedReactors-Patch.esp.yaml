@@ -1,0 +1,31 @@
+FormKey: 0008BA:BSPF-ShipCombatRevisedReactors-Patch.esp
+EditorID: SMASet_Reactor_AmunDunn_390T-Stellarator
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Amun Dunn 390T Stellarator Set
+Items:
+- 000801:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000802:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000803:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000804:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000805:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000806:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000807:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000808:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000809:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00080A:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00080B:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00080C:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00080D:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00080E:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00080F:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000810:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000811:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000812:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000813:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000814:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000815:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000816:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000817:BSPF-ShipCombatRevisedReactors-Patch.esp
+AddToList: Null

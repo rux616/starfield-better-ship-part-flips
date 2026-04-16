@@ -1,6 +1,10 @@
 FormKey: 0021FE:BetterShipPartFlips.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODFuelBallistic500TBaseZStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,7 +25,7 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: -1414812925
+  InteriorType: -1414812925
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
@@ -35,8 +39,6 @@ XCLAs:
 - XCLA: 4
   XCLD: Default Layer Name 4
 ImageSpace: 06AD68:Starfield.esm
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0021FF:BetterShipPartFlips.esm
@@ -250,3 +252,5 @@ Temporary:
   ConstrainedDecal: 3.0500026, 3.5399985, 2.5198402
   Position: -1.2729938, 1.207684, -1.5740411
   Rotation: 0.24074906, 0.045776784, 5.170797
+MajorFlags:
+- 0x40000

@@ -7,24 +7,23 @@ StarfieldMajorRecordFlags:
 ObjectBounds:
   First: -3.3945312, -4.0429688, -1.7783203
   Second: 3.3945312, 4, 1.7470703
-ODTY: 0
-ObjectPlacementDefaults:
-  Unknown5: 1E-45
-  Unknown6: 1
-  Unknown14: 1
-  Unknown16: 1
-  Unknown17: 1
-  Unknown20: 3.4028235E+38
+ObjectPaletteDefaults:
+  FootprintSize: Large
+  ScalePercent: 1
+  SlopePercent: 1
+  Density: 1
+  FrequencyPercent: 0.01
+  DistanceAboveWater: 3.4028235E+38
 Transforms:
   Ship: 39EC83:Starfield.esm
-Filter: '\Ships\Modules\Exterior\Grav\Nova\'
+Filter: \Ships\Modules\Exterior\Grav\Nova\
 ObjectPlacementDefaults2:
-  Unknown5: 1E-45
-  Unknown6: 1
-  Unknown14: 1
-  Unknown16: 1
-  Unknown17: 1
-  Unknown20: 3.4028235E+38
+  FootprintSize: Large
+  ScalePercent: 1
+  SlopePercent: 1
+  Density: 1
+  FrequencyPercent: 0.01
+  DistanceAboveWater: 3.4028235E+38
 Cell: 00392C:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000

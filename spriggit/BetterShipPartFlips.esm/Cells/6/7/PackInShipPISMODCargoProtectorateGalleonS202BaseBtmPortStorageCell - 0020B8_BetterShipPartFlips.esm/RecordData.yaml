@@ -1,6 +1,10 @@
 FormKey: 0020B8:BetterShipPartFlips.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODCargoProtectorateGalleonS202BaseBtmPortStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,7 +25,7 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: -1414812925
+  InteriorType: -1414812925
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
@@ -34,8 +38,6 @@ XCLAs:
   XCLD: Default Layer Name 3
 - XCLA: 4
   XCLD: Default Layer Name 4
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0020B9:BetterShipPartFlips.esm
@@ -309,3 +311,5 @@ Temporary:
   ConstrainedDecal: 4.49, 4.089999, 1.4524906
   Position: -1.9036894, -4, 0.17855906
   Rotation: 1.5707964, -0, 3.1415927
+MajorFlags:
+- 0x40000

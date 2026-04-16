@@ -1,7 +1,6 @@
 FormKey: 004747:BetterShipPartFlips.esp
 EditorID: SMA_Reactor_Xiang_Tokamak-X-100_Aft_Port
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -43,6 +42,6 @@ Components:
     TargetLanguage: English
     Value: Tokamak X-100 Reactor - Aft Port
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

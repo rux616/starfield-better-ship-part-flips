@@ -1,6 +1,10 @@
 FormKey: 001FAC:BetterShipPartFlips.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODCargoPanoptesPolo2000BaseBtmStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,7 +25,7 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: -1414812925
+  InteriorType: -1414812925
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
@@ -34,8 +38,6 @@ XCLAs:
   XCLD: Default Layer Name 3
 - XCLA: 4
   XCLD: Default Layer Name 4
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 001FAD:BetterShipPartFlips.esp
@@ -389,3 +391,5 @@ Temporary:
   ConstrainedDecal: 4, 2, 0.75
   Position: 1.2981138, 3.929688, 0.20067778
   Rotation: -1.5707963, 0, 0
+MajorFlags:
+- 0x40000

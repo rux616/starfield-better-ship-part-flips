@@ -1,6 +1,10 @@
 FormKey: 002374:BetterShipPartFlips.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODShieldDogstarGuardian101DBasePortStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,13 +25,11 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: -1414812925
+  InteriorType: -1414812925
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 002375:BetterShipPartFlips.esm
@@ -48,7 +50,7 @@ Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 002378:BetterShipPartFlips.esm
   FormVersion: 575
-  XALG: 0x0008000000000000
+  XALG: 2048
   Base: 1F5607:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -63,7 +65,7 @@ Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 002379:BetterShipPartFlips.esm
   FormVersion: 575
-  XALG: 0x0008000000000000
+  XALG: 2048
   Base: 1F5650:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -78,7 +80,7 @@ Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 00237A:BetterShipPartFlips.esm
   FormVersion: 575
-  XALG: 0x0008000000000000
+  XALG: 2048
   Base: 1F5601:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -90,3 +92,5 @@ Temporary:
   ConstrainedDecal: 1.9367, 1.0241, 1.3402032
   Position: 2.1530972, 0.004034817, 1.5763502
   Rotation: 3.1415927, 0.2617106, 0
+MajorFlags:
+- 0x40000

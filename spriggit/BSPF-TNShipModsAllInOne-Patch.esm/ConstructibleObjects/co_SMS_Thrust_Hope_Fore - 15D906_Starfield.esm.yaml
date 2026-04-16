@@ -1,9 +1,9 @@
 FormKey: 15D906:Starfield.esm
 EditorID: co_SMS_Thrust_Hope_Fore
-FormVersion: 559
+FormVersion: 575
 Description:
   TargetLanguage: English
-  Value: Structural components are largely cosmetic, and allow you to modify your ship's shape, size, personality and silhouette.
+  Value: Thrusters aid in maneuvering.
 WorkbenchKeyword: 29C480:Starfield.esm
 Conditions:
 - MutagenObjectType: ConditionFloat
@@ -16,6 +16,6 @@ AmountProduced: 1
 MenuSortOrder: 38
 LearnMethod: DefaultOrConditions
 Value: 1625
-Categories:
+RecipeFilters:
 - 000817:ShipBuilderCategories.esm
-RECF: 0
+Flags: []

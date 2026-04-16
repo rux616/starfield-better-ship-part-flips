@@ -1,7 +1,6 @@
 FormKey: 005208:BetterShipPartFlips.esp
 EditorID: SMA_Shields_Dogstar_Protector-30S_Aft_Vert
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
   Slots:
@@ -49,5 +48,5 @@ Components:
     TargetLanguage: English
     Value: Protector 30S Shield Generator
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

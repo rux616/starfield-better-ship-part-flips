@@ -1,6 +1,6 @@
 FormKey: 26F959:Starfield.esm
 EditorID: co_SMB_Shields_Nautilus_Tower_N420
-FormVersion: 559
+FormVersion: 575
 Description:
   TargetLanguage: English
   Value: Spaceship Shield Modules help protect your ship from incoming damage.
@@ -13,6 +13,6 @@ AmountProduced: 1
 MenuSortOrder: 30
 LearnMethod: DefaultOrConditions
 Value: 30500
-Categories:
+RecipeFilters:
 - 29C476:Starfield.esm
-RECF: 0
+Flags: []

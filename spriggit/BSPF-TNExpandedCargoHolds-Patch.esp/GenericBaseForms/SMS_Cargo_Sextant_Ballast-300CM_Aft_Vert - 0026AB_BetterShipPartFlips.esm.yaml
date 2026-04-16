@@ -1,7 +1,6 @@
 FormKey: 0026AB:BetterShipPartFlips.esm
 EditorID: SMS_Cargo_Sextant_Ballast-300CM_Aft_Vert
 FormVersion: 559
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -28,6 +27,6 @@ Components:
     TargetLanguage: English
     Value: Ballast 300CM Cargo Hold
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

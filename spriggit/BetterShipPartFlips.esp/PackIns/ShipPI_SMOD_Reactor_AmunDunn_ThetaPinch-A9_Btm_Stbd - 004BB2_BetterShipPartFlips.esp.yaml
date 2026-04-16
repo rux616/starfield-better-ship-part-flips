@@ -7,10 +7,9 @@ StarfieldMajorRecordFlags:
 ObjectBounds:
   First: -4, -3.9999988, -3.5292978
   Second: 4, 3.9999988, 3.5292978
-ODTY: 0
 Transforms:
   Ship: 15E824:Starfield.esm
-Filter: '\Ships\Modules\Exterior\Reactors\AmunDunn\'
+Filter: \Ships\Modules\Exterior\Reactors\AmunDunn\
 Cell: 004BB3:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000

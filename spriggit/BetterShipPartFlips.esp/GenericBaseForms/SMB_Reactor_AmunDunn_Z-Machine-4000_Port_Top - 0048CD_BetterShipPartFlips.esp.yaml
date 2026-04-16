@@ -1,7 +1,6 @@
 FormKey: 0048CD:BetterShipPartFlips.esp
 EditorID: SMB_Reactor_AmunDunn_Z-Machine-4000_Port_Top
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -43,6 +42,6 @@ Components:
     TargetLanguage: English
     Value: Z-Machine 4000 Reactor - Port Top
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

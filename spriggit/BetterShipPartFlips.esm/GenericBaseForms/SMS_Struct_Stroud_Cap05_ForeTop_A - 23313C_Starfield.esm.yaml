@@ -1,7 +1,6 @@
 FormKey: 23313C:Starfield.esm
 EditorID: SMS_Struct_Stroud_Cap05_ForeTop_A
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -20,5 +19,5 @@ Components:
     TargetLanguage: English
     Value: Stroud Nose Cap B - Fore Top
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

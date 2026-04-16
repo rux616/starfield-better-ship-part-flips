@@ -1,0 +1,15 @@
+FormKey: 14A8A7:Starfield.esm
+EditorID: co_SMS_Struct_Nova_Radiator
+FormVersion: 575
+Description:
+  TargetLanguage: English
+  Value: Structural components are largely cosmetic, and allow you to modify your ship’s shape, size, personality and silhouette.
+WorkbenchKeyword: 29C480:Starfield.esm
+CreatedObject: 00132A:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 48
+LearnMethod: DefaultOrConditions
+Value: 500
+RecipeFilters:
+- 29C473:Starfield.esm
+Flags: []

@@ -1,7 +1,6 @@
 FormKey: 000DFE:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Hope_Radiator_A_Btm
 FormVersion: 559
-ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -28,5 +27,5 @@ Components:
     TargetLanguage: English
     Value: HopeTech Radiator - Bottom
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

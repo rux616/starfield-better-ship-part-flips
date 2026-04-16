@@ -1,0 +1,31 @@
+FormKey: 0008BD:BSPF-ShipCombatRevisedReactors-Patch.esm
+EditorID: SMBSet_Reactor_DeepCore_DC304-FastIgnition
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: DeepCore DC304 Fast Ignition Set
+Items:
+- 00085D:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 00085E:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 00085F:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 000860:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 000861:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 000862:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 000863:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 000864:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 000865:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 000866:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 000867:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 000868:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 000869:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 00086A:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 00086B:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 00086C:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 00086D:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 00086E:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 00086F:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 000870:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 000871:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 000872:BSPF-ShipCombatRevisedReactors-Patch.esm
+- 000873:BSPF-ShipCombatRevisedReactors-Patch.esm
+AddToList: Null

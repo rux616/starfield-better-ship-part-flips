@@ -1,6 +1,6 @@
 FormKey: 26F0F5:Starfield.esm
 EditorID: co_SMC_Shields_Sextant_Assurance_SG-3000
-FormVersion: 559
+FormVersion: 575
 Description:
   TargetLanguage: English
   Value: Spaceship Shield Modules help protect your ship from incoming damage.
@@ -13,6 +13,6 @@ AmountProduced: 1
 MenuSortOrder: 49
 LearnMethod: DefaultOrConditions
 Value: 45200
-Categories:
+RecipeFilters:
 - 29C476:Starfield.esm
-RECF: 0
+Flags: []

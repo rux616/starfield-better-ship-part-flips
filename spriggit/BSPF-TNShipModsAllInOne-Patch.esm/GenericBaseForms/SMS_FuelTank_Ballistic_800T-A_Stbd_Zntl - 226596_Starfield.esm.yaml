@@ -1,7 +1,6 @@
 FormKey: 226596:Starfield.esm
 EditorID: SMS_FuelTank_Ballistic_800T-A_Stbd_Zntl
-FormVersion: 559
-ODTY: 0
+FormVersion: 575
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -35,5 +34,5 @@ Components:
     TargetLanguage: English
     Value: 800T-A He3 Tank
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

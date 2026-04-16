@@ -1,6 +1,6 @@
 FormKey: 15D906:Starfield.esm
 EditorID: co_SMS_Thrust_Hope_Fore
-FormVersion: 559
+FormVersion: 575
 Description:
   TargetLanguage: English
   Value: Structural components are largely cosmetic, and allow you to modify your ship's shape, size, personality and silhouette.
@@ -11,11 +11,11 @@ Conditions:
     MutagenObjectType: HasKeywordConditionData
     FirstParameter: 1453BD:Starfield.esm
   ComparisonValue: 1
-CreatedObject: 001053:BetterShipPartFlips.esm
+CreatedObject: 001053:BSPF-TNSeparatedCategories-Patch.esp
 AmountProduced: 1
 MenuSortOrder: 38
 LearnMethod: DefaultOrConditions
 Value: 625
-Categories:
+RecipeFilters:
 - 000817:ShipBuilderCategories.esm
-RECF: 0
+Flags: []

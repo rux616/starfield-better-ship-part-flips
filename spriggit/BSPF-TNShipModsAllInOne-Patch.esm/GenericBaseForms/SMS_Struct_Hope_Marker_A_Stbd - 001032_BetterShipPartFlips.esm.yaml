@@ -1,7 +1,6 @@
 FormKey: 001032:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Hope_Marker_A_Stbd
-FormVersion: 559
-ODTY: 0
+FormVersion: 575
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -22,5 +21,5 @@ Components:
     TargetLanguage: English
     Value: HopeTech Marker A - Starboard
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

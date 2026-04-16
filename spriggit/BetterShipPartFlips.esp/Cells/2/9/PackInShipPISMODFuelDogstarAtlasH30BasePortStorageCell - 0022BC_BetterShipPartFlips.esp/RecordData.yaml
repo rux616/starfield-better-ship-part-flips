@@ -1,6 +1,10 @@
 FormKey: 0022BC:BetterShipPartFlips.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODFuelDogstarAtlasH30BasePortStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,13 +25,11 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: -1414812925
+  InteriorType: -1414812925
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0022BD:BetterShipPartFlips.esp
@@ -437,3 +439,5 @@ Temporary:
   ConstrainedDecal: 1.6299988, 1.8899999, 0.75
   Position: 3.5953631, -1.4570848, -0.42159384
   Rotation: -6.549023E-07, 1.204231, 4.747593
+MajorFlags:
+- 0x40000

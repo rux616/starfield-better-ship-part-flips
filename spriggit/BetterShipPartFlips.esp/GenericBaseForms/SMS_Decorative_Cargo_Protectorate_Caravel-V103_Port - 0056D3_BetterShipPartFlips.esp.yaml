@@ -1,7 +1,6 @@
 FormKey: 0056D3:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Cargo_Protectorate_Caravel-V103_Port
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -24,5 +23,5 @@ Components:
     TargetLanguage: English
     Value: 'Decorative: Protectorate Caravel V103'
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

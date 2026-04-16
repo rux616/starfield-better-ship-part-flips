@@ -1,7 +1,6 @@
 FormKey: 00472A:BetterShipPartFlips.esp
 EditorID: SMA_Reactor_Xiang_Tokamak-X-050_Stbd_Top
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -43,6 +42,6 @@ Components:
     TargetLanguage: English
     Value: Tokamak X-050 Reactor - Stbd Top
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

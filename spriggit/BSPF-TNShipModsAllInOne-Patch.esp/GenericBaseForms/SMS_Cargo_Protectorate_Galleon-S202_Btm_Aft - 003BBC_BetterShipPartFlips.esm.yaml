@@ -1,7 +1,6 @@
 FormKey: 003BBC:BetterShipPartFlips.esm
 EditorID: SMS_Cargo_Protectorate_Galleon-S202_Btm_Aft
-FormVersion: 559
-ODTY: 0
+FormVersion: 575
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -9,7 +8,7 @@ Components:
   - ActorValue: 0002D4:Starfield.esm
     Value: 8
   - ActorValue: 0002DC:Starfield.esm
-    Value: 2850
+    Value: 950
   - ActorValue: 00ACDB:Starfield.esm
     Value: 200
   - ActorValue: 27BACE:Starfield.esm
@@ -28,6 +27,6 @@ Components:
     TargetLanguage: English
     Value: Galleon S202 Cargo Hold
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

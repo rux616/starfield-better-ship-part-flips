@@ -1,6 +1,6 @@
 FormKey: 26FE40:Starfield.esm
 EditorID: co_SMC_Reactor_AmunDunn_ThetaPinch-B9
-FormVersion: 559
+FormVersion: 575
 Description:
   TargetLanguage: English
   Value: Spaceship Reactors provide power to all of your ship's systems.
@@ -13,6 +13,6 @@ AmountProduced: 1
 MenuSortOrder: 50.002
 LearnMethod: DefaultOrConditions
 Value: 44000
-Categories:
+RecipeFilters:
 - 29C475:Starfield.esm
-RECF: 0
+Flags: []

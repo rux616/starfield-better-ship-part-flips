@@ -1,7 +1,6 @@
 FormKey: 005049:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_Reactor_Xiang_Pinch_Aft_Port
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -24,6 +23,6 @@ Components:
     TargetLanguage: English
     Value: 'Decorative: Pinch Reactor - Aft Port'
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

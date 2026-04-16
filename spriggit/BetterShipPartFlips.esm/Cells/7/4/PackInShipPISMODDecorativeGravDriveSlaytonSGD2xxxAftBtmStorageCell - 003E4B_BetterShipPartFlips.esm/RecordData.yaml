@@ -1,6 +1,10 @@
 FormKey: 003E4B:BetterShipPartFlips.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODDecorativeGravDriveSlaytonSGD2xxxAftBtmStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,14 +25,12 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: -1414812925
+  InteriorType: -1414812925
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 003E4C:BetterShipPartFlips.esm
@@ -51,3 +53,5 @@ Temporary:
   FormKey: 003E4F:BetterShipPartFlips.esm
   FormVersion: 575
   Base: 002883:BetterShipPartFlips.esm
+MajorFlags:
+- 0x40000

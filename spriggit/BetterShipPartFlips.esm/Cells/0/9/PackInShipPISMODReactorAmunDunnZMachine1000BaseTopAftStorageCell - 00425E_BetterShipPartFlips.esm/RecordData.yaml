@@ -1,6 +1,10 @@
 FormKey: 00425E:BetterShipPartFlips.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODReactorAmunDunnZMachine1000BaseTopAftStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,14 +25,12 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: -1414812925
+  InteriorType: -1414812925
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 00425F:BetterShipPartFlips.esm
@@ -64,10 +66,9 @@ Temporary:
   Radius: -0.41358387
   Lighting:
     Fade1PlusMinus: 0.5
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: 0, -2.3447912, -1.5852939
   Rotation: -2.3561945, -0, 5.3014374
 - MutagenObjectType: PlacedObject
@@ -108,10 +109,9 @@ Temporary:
   Radius: -0.41358387
   Lighting:
     Fade1PlusMinus: 0.5
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: 1.6522413, -3.3178625, 0.041075934
   Rotation: 0, -0, 5.301438
 - MutagenObjectType: PlacedObject
@@ -171,10 +171,9 @@ Temporary:
   Radius: -0.41358387
   Lighting:
     Fade1PlusMinus: 0.5
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: 0, -2.3310542, 1.5872346
   Rotation: 0, -0, 5.301438
 - MutagenObjectType: PlacedObject
@@ -205,3 +204,5 @@ Temporary:
   ConstrainedDecal: 4, 4, 1.5615942
   Position: 1.3894126, -1.3940802, 1.6029005
   Rotation: 2.9548776, 0.1835516, 1.5707964
+MajorFlags:
+- 0x40000

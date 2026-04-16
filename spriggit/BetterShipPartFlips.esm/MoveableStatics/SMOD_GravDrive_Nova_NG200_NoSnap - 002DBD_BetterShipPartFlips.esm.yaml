@@ -4,13 +4,13 @@ FormVersion: 575
 ObjectBounds:
   First: -3.4882812, -4, -1.6445312
   Second: 3.4882812, 4, 1.6435547
-ODTY: 0
 Model:
   File: Ships\Modules\Grav\SMOD\SMOD_Grav_Nova_NG200.nif
   MaterialSwaps:
   - 2F259D:Starfield.esm
-  FLLD: 0x01000000
-  XFLG: 0x02
+  LightLayer: 1
+  Flags:
+  - HasFirstPersonModel
 Keywords:
 - 1BB401:Starfield.esm
 - 207960:Starfield.esm

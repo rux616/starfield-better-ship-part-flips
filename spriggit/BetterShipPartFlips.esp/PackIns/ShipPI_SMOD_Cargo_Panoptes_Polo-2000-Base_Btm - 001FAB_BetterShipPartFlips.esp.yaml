@@ -7,8 +7,7 @@ StarfieldMajorRecordFlags:
 ObjectBounds:
   First: -4.0039062, -3.998047, -1.7509758
   Second: 4.0078125, 4.0000005, 1.7509758
-ODTY: 0
-Filter: '\Ships\Modules\Exterior\Cargo\Panoptes\'
+Filter: \Ships\Modules\Exterior\Cargo\Panoptes\
 Cell: 001FAC:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000

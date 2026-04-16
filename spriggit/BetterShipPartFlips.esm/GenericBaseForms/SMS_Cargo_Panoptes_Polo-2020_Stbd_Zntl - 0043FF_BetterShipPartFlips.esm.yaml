@@ -1,7 +1,6 @@
 FormKey: 0043FF:BetterShipPartFlips.esm
 EditorID: SMS_Cargo_Panoptes_Polo-2020_Stbd_Zntl
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -28,6 +27,6 @@ Components:
     TargetLanguage: English
     Value: Polo 2020 Cargo Hold
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

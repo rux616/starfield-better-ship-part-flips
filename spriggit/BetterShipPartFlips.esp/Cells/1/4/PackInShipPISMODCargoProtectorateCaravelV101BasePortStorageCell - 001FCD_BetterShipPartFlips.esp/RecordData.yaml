@@ -1,6 +1,10 @@
 FormKey: 001FCD:BetterShipPartFlips.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODCargoProtectorateCaravelV101BasePortStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,12 +25,10 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: 589827
+  InteriorType: 589827
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 001FCE:BetterShipPartFlips.esp
@@ -47,11 +49,10 @@ Temporary:
   Lighting:
     Fov90PlusMinus: 22
     Fade1PlusMinus: 1.6
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   Layer: 08CC6A:Starfield.esm
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: 3.1186, 2.1007595, -0.009505749
   Rotation: 1.5707964, -1.5707964, 3.1415927
 - MutagenObjectType: PlacedObject
@@ -286,3 +287,5 @@ Temporary:
   ConstrainedDecal: 1.0100007, 1.2700026, 0.1
   Position: 3.108186, 1.8570645, -0.11499273
   Rotation: -1.5707963, 1.7484555E-07, 1.5707964
+MajorFlags:
+- 0x40000

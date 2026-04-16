@@ -1,6 +1,10 @@
 FormKey: 004282:BetterShipPartFlips.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODReactorDeepFusorDC401BaseTopAftStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,7 +25,7 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: -1414812925
+  InteriorType: -1414812925
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
@@ -36,8 +40,6 @@ XCLAs:
   XCLD: Default Layer Name 4
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 004283:BetterShipPartFlips.esp
@@ -296,7 +298,7 @@ Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 004297:BetterShipPartFlips.esp
   FormVersion: 575
-  XALG: 0x0008000000000000
+  XALG: 2048
   Base: 1F55FF:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -311,7 +313,7 @@ Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 004298:BetterShipPartFlips.esp
   FormVersion: 575
-  XALG: 0x0008000000000000
+  XALG: 2048
   Base: 1F5654:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -324,7 +326,7 @@ Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 004299:BetterShipPartFlips.esp
   FormVersion: 575
-  XALG: 0x0008000000000000
+  XALG: 2048
   Base: 1F5607:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -339,7 +341,7 @@ Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 00429A:BetterShipPartFlips.esp
   FormVersion: 575
-  XALG: 0x0008000000000000
+  XALG: 2048
   Base: 1F5654:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -354,7 +356,7 @@ Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 00429B:BetterShipPartFlips.esp
   FormVersion: 575
-  XALG: 0x0008000000000000
+  XALG: 2048
   Base: 1F5655:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -367,7 +369,7 @@ Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 00429C:BetterShipPartFlips.esp
   FormVersion: 575
-  XALG: 0x0008000000000000
+  XALG: 2048
   Base: 1F5655:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -379,3 +381,5 @@ Temporary:
   ConstrainedDecal: 3, 3, 2.478293
   Position: -2.2616472, -1.9651227, 2.6177669
   Rotation: 2.8497007, -0.2801903, 1.5707964
+MajorFlags:
+- 0x40000

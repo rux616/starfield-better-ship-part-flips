@@ -1,6 +1,10 @@
 FormKey: 002409:BetterShipPartFlips.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODGravDriveNovaNG150BaseTopAftStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,14 +25,12 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: 3
+  InteriorType: PackIn
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 000167:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 00240A:BetterShipPartFlips.esm
@@ -535,3 +537,5 @@ Temporary:
   ConstrainedDecal: 5.110002, 6.750006, 1.6024061
   Position: -3.2235212, 0.9436908, 1.4566673
   Rotation: -3.1415927, -0.18394345, -0
+MajorFlags:
+- 0x40000

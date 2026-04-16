@@ -1,7 +1,6 @@
 FormKey: 005567:BetterShipPartFlips.esp
 EditorID: SMC_Shields_Protectorate_Odin-3030-C_Btm
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
   Slots:
@@ -47,5 +46,5 @@ Components:
     TargetLanguage: English
     Value: Odin 3030-C Shield Generator
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

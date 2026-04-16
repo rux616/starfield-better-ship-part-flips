@@ -1,7 +1,6 @@
 FormKey: 000E24:BetterShipPartFlips.esp
 EditorID: SMS_Struct_Hope_Radiator_A_Stbd
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -20,5 +19,5 @@ Components:
     TargetLanguage: English
     Value: HopeTech Radiator - Starboard
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

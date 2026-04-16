@@ -1,7 +1,6 @@
 FormKey: 004A71:BetterShipPartFlips.esm
 EditorID: SMB_Reactor_Dogstar_102DS-MagInertial_Fore_Btm
 FormVersion: 559
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -43,6 +42,6 @@ Components:
     TargetLanguage: English
     Value: 102DS Mag Inertial Reactor - Fore Btm
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

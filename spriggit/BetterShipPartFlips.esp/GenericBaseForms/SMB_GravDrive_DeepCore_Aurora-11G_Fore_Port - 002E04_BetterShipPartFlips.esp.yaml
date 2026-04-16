@@ -1,7 +1,6 @@
 FormKey: 002E04:BetterShipPartFlips.esp
 EditorID: SMB_GravDrive_DeepCore_Aurora-11G_Fore_Port
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
   Slots:
@@ -45,6 +44,6 @@ Components:
     TargetLanguage: English
     Value: Aurora 11G Grav Drive
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

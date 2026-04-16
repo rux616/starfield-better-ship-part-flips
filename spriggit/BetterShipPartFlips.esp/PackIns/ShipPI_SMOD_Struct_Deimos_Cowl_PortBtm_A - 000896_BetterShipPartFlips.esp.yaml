@@ -7,10 +7,9 @@ StarfieldMajorRecordFlags:
 ObjectBounds:
   First: -4, -4.0664062, -1.750001
   Second: 4, 4.0664062, 1.750001
-ODTY: 0
 Transforms:
   Ship: 050FAC:Starfield.esm
-Filter: '\Ships\Modules\Exterior\Struct\Deimos\'
+Filter: \Ships\Modules\Exterior\Struct\Deimos\
 Cell: 0008AE:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000

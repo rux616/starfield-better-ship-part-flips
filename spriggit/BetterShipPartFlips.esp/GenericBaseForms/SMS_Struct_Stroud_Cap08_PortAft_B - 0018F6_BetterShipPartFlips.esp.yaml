@@ -1,7 +1,6 @@
 FormKey: 0018F6:BetterShipPartFlips.esp
 EditorID: SMS_Struct_Stroud_Cap08_PortAft_B
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -22,5 +21,5 @@ Components:
     TargetLanguage: English
     Value: Stroud Nose Cap D - Port Aft
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

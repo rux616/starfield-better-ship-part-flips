@@ -1,0 +1,31 @@
+FormKey: 0008BC:BSPF-ShipCombatRevisedReactors-Patch.esp
+EditorID: SMBSet_Reactor_AmunDunn_Z-Machine-5000
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Amun Dunn Z-Machine 5000 Set
+Items:
+- 000846:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000847:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000848:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000849:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00084A:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00084B:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00084C:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00084D:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00084E:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00084F:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000850:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000851:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000852:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000853:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000854:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000855:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000856:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000857:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000858:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 000859:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00085A:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00085B:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 00085C:BSPF-ShipCombatRevisedReactors-Patch.esp
+AddToList: Null

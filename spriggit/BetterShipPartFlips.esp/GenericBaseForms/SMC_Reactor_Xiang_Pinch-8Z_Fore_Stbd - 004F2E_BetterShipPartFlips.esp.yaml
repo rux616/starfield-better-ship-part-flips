@@ -1,7 +1,6 @@
 FormKey: 004F2E:BetterShipPartFlips.esp
 EditorID: SMC_Reactor_Xiang_Pinch-8Z_Fore_Stbd
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -43,6 +42,6 @@ Components:
     TargetLanguage: English
     Value: Pinch 8Z Reactor - Fore Stbd
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

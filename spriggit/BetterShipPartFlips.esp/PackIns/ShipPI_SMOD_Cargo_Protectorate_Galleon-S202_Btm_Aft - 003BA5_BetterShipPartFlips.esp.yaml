@@ -6,10 +6,9 @@ StarfieldMajorRecordFlags:
 - 0x200
 ObjectBounds:
   Second: 0, 4, 0
-ODTY: 0
 Transforms:
   Ship: 050FBE:Starfield.esm
-Filter: '\Ships\Modules\Exterior\Cargo\Protectorate\'
+Filter: \Ships\Modules\Exterior\Cargo\Protectorate\
 Cell: 0039FA:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000

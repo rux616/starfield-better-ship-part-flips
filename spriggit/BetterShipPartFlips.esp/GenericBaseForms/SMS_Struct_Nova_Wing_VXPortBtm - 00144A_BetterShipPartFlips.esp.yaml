@@ -1,7 +1,6 @@
 FormKey: 00144A:BetterShipPartFlips.esp
 EditorID: SMS_Struct_Nova_Wing_VXPortBtm
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -22,5 +21,5 @@ Components:
     TargetLanguage: English
     Value: Nova Wing - Vertical X Port Bottom
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

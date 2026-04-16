@@ -1,7 +1,6 @@
 FormKey: 004D33:BetterShipPartFlips.esm
 EditorID: SMC_Reactor_DeepCore_Fusor-DC402_Stbd_Aft
 FormVersion: 559
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -43,6 +42,6 @@ Components:
     TargetLanguage: English
     Value: Fusor DC402 Reactor - Stbd Aft
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

@@ -4,8 +4,7 @@ EditorID: ShipPI_SMOD_Cargo_Protectorate_Galleon-S204-Base_Z
 FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
-ODTY: 0
-Filter: '\Ships\Modules\Exterior\Cargo\Protectorate\'
+Filter: \Ships\Modules\Exterior\Cargo\Protectorate\
 Cell: 002104:BetterShipPartFlips.esm
 Version: 0
 FNAM: 0x0E000000

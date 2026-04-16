@@ -10,6 +10,6 @@ AmountProduced: 1
 MenuSortOrder: 6
 LearnMethod: DefaultOrConditions
 Value: 1000
-Categories:
+RecipeFilters:
 - 000806:ShipBuilderCategories.esm
-RECF: 0
+Flags: []

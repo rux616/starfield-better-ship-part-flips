@@ -1,7 +1,6 @@
 FormKey: 0056AA:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_Cargo_Panoptes_Polo-2000-2010-2020-2023_Aft_Zntl
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -24,5 +23,5 @@ Components:
     TargetLanguage: English
     Value: 'Decorative: Panoptes Polo 2000/2010/2020/2030'
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

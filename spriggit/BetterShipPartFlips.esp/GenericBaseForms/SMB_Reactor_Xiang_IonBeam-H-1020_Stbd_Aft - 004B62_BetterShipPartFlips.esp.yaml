@@ -1,7 +1,6 @@
 FormKey: 004B62:BetterShipPartFlips.esp
 EditorID: SMB_Reactor_Xiang_IonBeam-H-1020_Stbd_Aft
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -43,6 +42,6 @@ Components:
     TargetLanguage: English
     Value: Ion Beam H-1020 Reactor - Stbd Aft
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

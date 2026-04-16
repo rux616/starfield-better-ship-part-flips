@@ -1,7 +1,6 @@
 FormKey: 002958:BetterShipPartFlips.esp
 EditorID: SMA_GravDrive_Slayton_SGD-1100_Top_Stbd
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
   Slots:
@@ -45,6 +44,6 @@ Components:
     TargetLanguage: English
     Value: SGD 1100 Grav Drive
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

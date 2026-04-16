@@ -1,6 +1,6 @@
 FormKey: 26F10D:Starfield.esm
 EditorID: co_SMB_Shields_Protectorate_Osiris_2020-B
-FormVersion: 559
+FormVersion: 575
 Description:
   TargetLanguage: English
   Value: Spaceship Shield Modules help protect your ship from incoming damage.
@@ -10,6 +10,6 @@ AmountProduced: 1
 MenuSortOrder: 32
 LearnMethod: DefaultOrConditions
 Value: 13900
-Categories:
+RecipeFilters:
 - 29C476:Starfield.esm
-RECF: 0
+Flags: []

@@ -1,6 +1,10 @@
 FormKey: 002340:BetterShipPartFlips.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODFuelDogstarUlyssesM10BaseTopForeStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,13 +25,11 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: 3
+  InteriorType: PackIn
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 002341:BetterShipPartFlips.esm
@@ -257,11 +259,10 @@ Temporary:
   Lighting:
     Fov90PlusMinus: -11.131355
     Fade1PlusMinus: 1
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   Layer: 08CC6A:Starfield.esm
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: -3.5445595, 0.9011011, 0.14842892
   Rotation: 1.2314309, -1.5707964, 5.030959
 - MutagenObjectType: PlacedObject
@@ -275,11 +276,10 @@ Temporary:
   Lighting:
     Fov90PlusMinus: -91.42453
     Fade1PlusMinus: 0.59018385
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   Layer: 08CC6A:Starfield.esm
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: -3.6183815, 0.89996433, -0.10468006
 - MutagenObjectType: PlacedObject
   FormKey: 00235A:BetterShipPartFlips.esm
@@ -291,11 +291,10 @@ Temporary:
   Lighting:
     Fov90PlusMinus: 16.442856
     Fade1PlusMinus: 1
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   Layer: 08CC6A:Starfield.esm
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: -0.012699097, 0.001707077, 1.7404413
   Rotation: -0.0053004436, -1.5707964, 0.005299121
 - MutagenObjectType: PlacedObject
@@ -308,11 +307,10 @@ Temporary:
   Lighting:
     Fov90PlusMinus: -11.131355
     Fade1PlusMinus: 1
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   Layer: 08CC6A:Starfield.esm
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: 3.687519, 0.9011011, 0.14842892
   Rotation: 1.2314309, -1.5707964, 5.030959
 - MutagenObjectType: PlacedObject
@@ -326,11 +324,10 @@ Temporary:
   Lighting:
     Fov90PlusMinus: -91.42453
     Fade1PlusMinus: 0.59018385
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   Layer: 08CC6A:Starfield.esm
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: 3.613697, 0.89996433, -0.10468006
 - MutagenObjectType: PlacedObject
   FormKey: 00235D:BetterShipPartFlips.esm
@@ -348,3 +345,5 @@ Temporary:
   FormKey: 00235F:BetterShipPartFlips.esm
   FormVersion: 575
   Base: 015804:Starfield.esm
+MajorFlags:
+- 0x40000

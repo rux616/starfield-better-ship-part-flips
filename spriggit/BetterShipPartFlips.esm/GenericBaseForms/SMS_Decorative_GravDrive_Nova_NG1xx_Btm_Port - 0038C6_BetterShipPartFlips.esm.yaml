@@ -1,7 +1,6 @@
 FormKey: 0038C6:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_GravDrive_Nova_NG1xx_Btm_Port
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -24,6 +23,6 @@ Components:
     TargetLanguage: English
     Value: 'Decorative: Nova NG1xx'
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

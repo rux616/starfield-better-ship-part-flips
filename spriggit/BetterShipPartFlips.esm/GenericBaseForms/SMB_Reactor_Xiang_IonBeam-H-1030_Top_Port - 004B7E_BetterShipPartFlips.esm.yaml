@@ -1,7 +1,6 @@
 FormKey: 004B7E:BetterShipPartFlips.esm
 EditorID: SMB_Reactor_Xiang_IonBeam-H-1030_Top_Port
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -43,6 +42,6 @@ Components:
     TargetLanguage: English
     Value: Ion Beam H-1030 Reactor - Top Port
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

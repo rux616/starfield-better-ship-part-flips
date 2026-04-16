@@ -1,7 +1,6 @@
 FormKey: 004085:BetterShipPartFlips.esm
 EditorID: SMS_Cargo_Protectorate_Galleon-S204_X
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -26,6 +25,6 @@ Components:
     TargetLanguage: English
     Value: Galleon S204 Cargo Hold
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

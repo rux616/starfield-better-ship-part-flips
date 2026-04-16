@@ -1,7 +1,6 @@
 FormKey: 001A09:BetterShipPartFlips.esm
 EditorID: SMS_FuelTank_Dogstar_Ulysses-M10_Btm_Fore
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -35,5 +34,5 @@ Components:
     TargetLanguage: English
     Value: Ulysses M10 He3 Tank
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

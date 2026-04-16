@@ -4,10 +4,9 @@ EditorID: ShipPI_SMOD_Cargo_Protectorate_Caravel-V102_Fore_Vert
 FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
-ODTY: 0
 Transforms:
   Ship: 050FBE:Starfield.esm
-Filter: '\Ships\Modules\Exterior\Cargo\Protectorate\'
+Filter: \Ships\Modules\Exterior\Cargo\Protectorate\
 Cell: 002B63:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000

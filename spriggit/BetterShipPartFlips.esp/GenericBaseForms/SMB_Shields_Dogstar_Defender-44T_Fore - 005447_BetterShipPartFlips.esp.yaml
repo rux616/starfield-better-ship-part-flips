@@ -1,7 +1,6 @@
 FormKey: 005447:BetterShipPartFlips.esp
 EditorID: SMB_Shields_Dogstar_Defender-44T_Fore
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
   Slots:
@@ -47,5 +46,5 @@ Components:
     TargetLanguage: English
     Value: Defender 44T Shield Generator
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

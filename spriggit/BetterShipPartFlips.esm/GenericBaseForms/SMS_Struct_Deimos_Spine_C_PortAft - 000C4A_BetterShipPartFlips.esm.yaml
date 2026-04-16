@@ -1,7 +1,6 @@
 FormKey: 000C4A:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Deimos_Spine_C_PortAft
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -22,5 +21,5 @@ Components:
     TargetLanguage: English
     Value: Deimos Spine C - Port Aft
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

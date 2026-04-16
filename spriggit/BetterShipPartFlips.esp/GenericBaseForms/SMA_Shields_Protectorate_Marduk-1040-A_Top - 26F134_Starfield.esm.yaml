@@ -1,7 +1,6 @@
 FormKey: 26F134:Starfield.esm
 EditorID: SMA_Shields_Protectorate_Marduk-1040-A_Top
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
   Slots:
@@ -47,5 +46,5 @@ Components:
     TargetLanguage: English
     Value: Marduk 1040-A Shield Generator
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
