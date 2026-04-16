@@ -7,10 +7,9 @@ StarfieldMajorRecordFlags:
 ObjectBounds:
   First: -1.7011719, -3.8105469, -0.00024515053
   Second: 1.7011716, 3.810546, 3.8105478
-ODTY: 0
 Transforms:
   Ship: 050FBE:Starfield.esm
-Filter: '\Ships\Modules\Exterior\Fuel\Nautilus\'
+Filter: \Ships\Modules\Exterior\Fuel\Nautilus\
 Cell: 001CD8:BetterShipPartFlips.esm
 Version: 0
 FNAM: 0x0E000000

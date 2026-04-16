@@ -1,7 +1,6 @@
 FormKey: 00095F:BetterShipPartFlips.esp
 EditorID: SMS_Struct_Deimos_Radiator_A_Btm
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -20,5 +19,5 @@ Components:
     TargetLanguage: English
     Value: Deimos Radiator - Bottom
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

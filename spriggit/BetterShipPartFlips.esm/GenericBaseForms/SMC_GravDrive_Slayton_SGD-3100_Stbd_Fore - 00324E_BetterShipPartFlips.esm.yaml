@@ -1,7 +1,6 @@
 FormKey: 00324E:BetterShipPartFlips.esm
 EditorID: SMC_GravDrive_Slayton_SGD-3100_Stbd_Fore
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
   Slots:
@@ -45,6 +44,6 @@ Components:
     TargetLanguage: English
     Value: SGD 3100 Grav Drive
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

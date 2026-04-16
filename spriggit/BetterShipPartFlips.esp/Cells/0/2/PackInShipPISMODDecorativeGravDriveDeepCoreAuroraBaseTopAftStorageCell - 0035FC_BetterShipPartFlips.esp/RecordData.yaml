@@ -1,6 +1,10 @@
 FormKey: 0035FC:BetterShipPartFlips.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODDecorativeGravDriveDeepCoreAuroraBaseTopAftStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,14 +25,12 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: -1414812925
+  InteriorType: -1414812925
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0035FD:BetterShipPartFlips.esp
@@ -79,10 +81,9 @@ Temporary:
   Radius: -0.7797463
   Lighting:
     Fade1PlusMinus: 0.3
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: -0.69126034, -0.034187317, 1.6522878
 - MutagenObjectType: PlacedObject
   FormKey: 003605:BetterShipPartFlips.esp
@@ -102,10 +103,9 @@ Temporary:
   Radius: -0.7797463
   Lighting:
     Fade1PlusMinus: 0.3
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: -0.8512254, 1.4730145, -1.6828058
 - MutagenObjectType: PlacedObject
   FormKey: 003606:BetterShipPartFlips.esp
@@ -125,10 +125,9 @@ Temporary:
   Radius: -0.7797463
   Lighting:
     Fade1PlusMinus: 0.3
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: 0.8203416, 1.4730145, -1.6828058
 - MutagenObjectType: PlacedObject
   FormKey: 003607:BetterShipPartFlips.esp
@@ -148,10 +147,9 @@ Temporary:
   Radius: -0.7797463
   Lighting:
     Fade1PlusMinus: 0.3
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: -0.69126034, -0.034187317, -1.6408532
 - MutagenObjectType: PlacedObject
   FormKey: 003608:BetterShipPartFlips.esp
@@ -171,10 +169,9 @@ Temporary:
   Radius: -0.7797463
   Lighting:
     Fade1PlusMinus: 0.3
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: -0.8512254, 1.4730145, 1.7564768
 - MutagenObjectType: PlacedObject
   FormKey: 003609:BetterShipPartFlips.esp
@@ -194,10 +191,9 @@ Temporary:
   Radius: -0.7797463
   Lighting:
     Fade1PlusMinus: 0.3
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: 0.8176769, 2.8664117, 2.0261743
 - MutagenObjectType: PlacedObject
   FormKey: 00360A:BetterShipPartFlips.esp
@@ -217,10 +213,9 @@ Temporary:
   Radius: -0.7797463
   Lighting:
     Fade1PlusMinus: 0.3
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: 0.8203416, 1.4730145, 1.7564768
 - MutagenObjectType: PlacedObject
   FormKey: 00360B:BetterShipPartFlips.esp
@@ -240,10 +235,9 @@ Temporary:
   Radius: -0.7797463
   Lighting:
     Fade1PlusMinus: 0.3
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: 0.7054316, -0.034187317, 1.6494664
 - MutagenObjectType: PlacedObject
   FormKey: 00360C:BetterShipPartFlips.esp
@@ -263,10 +257,9 @@ Temporary:
   Radius: -0.7797463
   Lighting:
     Fade1PlusMinus: 0.3
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: -0.8512254, 2.8664117, 2.0261743
 - MutagenObjectType: PlacedObject
   FormKey: 00360D:BetterShipPartFlips.esp
@@ -286,10 +279,9 @@ Temporary:
   Radius: -0.7797463
   Lighting:
     Fade1PlusMinus: 0.3
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: -0.8512254, 2.8664117, -1.7072482
 - MutagenObjectType: PlacedObject
   FormKey: 00360E:BetterShipPartFlips.esp
@@ -309,10 +301,9 @@ Temporary:
   Radius: -0.7797463
   Lighting:
     Fade1PlusMinus: 0.3
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: 0.7054316, -0.034187317, -1.6436746
 - MutagenObjectType: PlacedObject
   FormKey: 00360F:BetterShipPartFlips.esp
@@ -332,10 +323,9 @@ Temporary:
   Radius: -0.7797463
   Lighting:
     Fade1PlusMinus: 0.3
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: 0.8176769, 2.8664117, -1.7072482
 - MutagenObjectType: PlacedObject
   FormKey: 003610:BetterShipPartFlips.esp
@@ -475,3 +465,5 @@ Temporary:
   ConstrainedDecal: 4.980001, 5.490004, 0.5
   Position: -2.4934883, -3.9999995, 1.2402599
   Rotation: 1.5707964, -0, 1.5707964
+MajorFlags:
+- 0x40000

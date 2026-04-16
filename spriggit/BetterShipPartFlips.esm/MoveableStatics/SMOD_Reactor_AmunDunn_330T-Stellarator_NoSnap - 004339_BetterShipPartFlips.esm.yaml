@@ -4,7 +4,6 @@ FormVersion: 575
 ObjectBounds:
   First: -4, -3.8613281, -1.75
   Second: 4, 4, 1.7519531
-ODTY: 0
 Model:
   File: Ships\Modules\SMOD_Reactor_Nova_R-2300.nif
   MaterialSwaps:
@@ -13,8 +12,9 @@ Model:
   - 0B6B31:Starfield.esm
   - 03EF6C:Starfield.esm
   - 02C7EB:Starfield.esm
-  FLLD: 0x01000000
-  XFLG: 0x02
+  LightLayer: 1
+  Flags:
+  - HasFirstPersonModel
 Keywords:
 - 1BB401:Starfield.esm
 - 207960:Starfield.esm

@@ -1,7 +1,6 @@
 FormKey: 00597A:BetterShipPartFlips.esp
 EditorID: SMS_FuelTank_Ballistic_900T_Experimental_Aft_Btm
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -36,5 +35,5 @@ Components:
     TargetLanguage: English
     Value: 900T He3 Tank
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

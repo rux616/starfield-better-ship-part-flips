@@ -1,6 +1,10 @@
 FormKey: 001F43:BetterShipPartFlips.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODCargoDogstarStorMax50BasePortStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,13 +25,11 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: -1414812925
+  InteriorType: -1414812925
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 001F44:BetterShipPartFlips.esp
@@ -201,3 +203,5 @@ Temporary:
   ConstrainedDecal: 4, 2, 0.5
   Position: 0.12877262, 3.749999, -0.23965794
   Rotation: -1.5707964, -0, 0
+MajorFlags:
+- 0x40000

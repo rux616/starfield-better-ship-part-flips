@@ -7,10 +7,9 @@ StarfieldMajorRecordFlags:
 ObjectBounds:
   First: -4.0039062, -4.0000005, -1.71875
   Second: 3.9042964, 4, 1.71875
-ODTY: 0
 Transforms:
   Ship: 15E828:Starfield.esm
-Filter: '\Ships\Modules\Exterior\Reactors\DeepCore\'
+Filter: \Ships\Modules\Exterior\Reactors\DeepCore\
 Cell: 004556:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000

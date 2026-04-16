@@ -1,7 +1,6 @@
 FormKey: 004FAC:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Reactor_AmunDunn_Z-Machine_Port_Aft
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -24,6 +23,6 @@ Components:
     TargetLanguage: English
     Value: 'Decorative: Z-Machine Reactor - Port Aft'
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

@@ -1,7 +1,6 @@
 FormKey: 0013E3:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Nova_Radiator_Stbd
-FormVersion: 559
-ODTY: 0
+FormVersion: 575
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -24,5 +23,5 @@ Components:
     TargetLanguage: English
     Value: Nova Radiator - Starboard
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

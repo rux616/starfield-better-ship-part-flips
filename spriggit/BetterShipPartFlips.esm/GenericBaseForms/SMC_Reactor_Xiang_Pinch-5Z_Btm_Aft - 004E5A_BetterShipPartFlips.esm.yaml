@@ -1,7 +1,6 @@
 FormKey: 004E5A:BetterShipPartFlips.esm
 EditorID: SMC_Reactor_Xiang_Pinch-5Z_Btm_Aft
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -43,6 +42,6 @@ Components:
     TargetLanguage: English
     Value: Pinch 5Z Reactor - Btm Aft
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

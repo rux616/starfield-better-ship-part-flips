@@ -1,7 +1,6 @@
 FormKey: 002B9A:BetterShipPartFlips.esm
 EditorID: SMS_CargoShielded_Protectorate_Caravel-V102_Port_Vert
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -28,6 +27,6 @@ Components:
     TargetLanguage: English
     Value: Caravel V102 Shielded Cargo Hold
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

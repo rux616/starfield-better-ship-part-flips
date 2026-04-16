@@ -4,7 +4,6 @@ FormVersion: 575
 ObjectBounds:
   First: -3.2265625, -5.4414062, -1.75
   Second: 3.2265625, 4, 4.25
-ODTY: 0
 Components:
 - MutagenObjectType: KeywordFormComponent
 Model:
@@ -15,8 +14,9 @@ Model:
   - 0B6B10:Starfield.esm
   - 29D8A1:Starfield.esm
   - 2F259B:Starfield.esm
-  FLLD: 0x01000000
-  XFLG: 0x02
+  LightLayer: 1
+  Flags:
+  - HasFirstPersonModel
 Keywords:
 - 1BB401:Starfield.esm
 - 207960:Starfield.esm

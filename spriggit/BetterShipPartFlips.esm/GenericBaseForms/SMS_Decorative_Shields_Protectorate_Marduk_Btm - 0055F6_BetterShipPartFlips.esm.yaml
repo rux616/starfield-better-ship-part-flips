@@ -1,7 +1,6 @@
 FormKey: 0055F6:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_Shields_Protectorate_Marduk_Btm
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -22,5 +21,5 @@ Components:
     TargetLanguage: English
     Value: 'Decorative: Protectorate Marduk'
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

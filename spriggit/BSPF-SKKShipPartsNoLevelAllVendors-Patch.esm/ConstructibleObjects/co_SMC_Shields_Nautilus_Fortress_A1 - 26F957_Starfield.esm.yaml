@@ -1,6 +1,6 @@
 FormKey: 26F957:Starfield.esm
 EditorID: co_SMC_Shields_Nautilus_Fortress_A1
-FormVersion: 559
+FormVersion: 575
 Description:
   TargetLanguage: English
   Value: Spaceship Shield Modules help protect your ship from incoming damage.
@@ -10,6 +10,6 @@ AmountProduced: 1
 MenuSortOrder: 44
 LearnMethod: DefaultOrConditions
 Value: 25800
-Categories:
+RecipeFilters:
 - 29C476:Starfield.esm
-RECF: 0
+Flags: []

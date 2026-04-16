@@ -1,7 +1,6 @@
 FormKey: 00468F:BetterShipPartFlips.esp
 EditorID: SMA_Reactor_Dogstar_164MM-Toroidal_Aft_Stbd
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -43,6 +42,6 @@ Components:
     TargetLanguage: English
     Value: 164MM Toroidal Reactor - Aft Stbd
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

@@ -1,23 +1,22 @@
 SpriggitSource:
   PackageName: Spriggit.Yaml.Starfield
-  Version: 0.26.0
+  Version: 0.40
 ModKey: BSPF-TNSeparatedCategories-Patch.esm
 GameRelease: Starfield
 ModHeader:
   Flags:
   - Master
-  FormVersion: 559
+  FormVersion: 582
   Author: rux616
   Description: >-
     Compatibility patch between the "Better Ship Part Flips" mod by freschu/rux616 and the "TN's Separated Categories" mod by TheOGTennessee.
 
 
-    Version: 1.1.0
+    Version: 1.3.1
   MasterReferences:
   - Master: Starfield.esm
   - Master: ShipBuilderCategories.esm
-  - Master: TNSeparatedCategories.esm
   - Master: BetterShipPartFlips.esm
-  - Master: BlueprintShips-Starfield.esm
-  BNAM: 0x4D61696E00
-  INCC: 0
+  - Master: TNSeparatedCategories.esm
+  Branch: Main
+  InteriorCellCount: 0

@@ -1,7 +1,6 @@
 FormKey: 004648:BetterShipPartFlips.esp
 EditorID: SMA_Reactor_Dogstar_134MM-Toroidal_Btm_Port
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -43,6 +42,6 @@ Components:
     TargetLanguage: English
     Value: 134MM Toroidal Reactor - Btm Port
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

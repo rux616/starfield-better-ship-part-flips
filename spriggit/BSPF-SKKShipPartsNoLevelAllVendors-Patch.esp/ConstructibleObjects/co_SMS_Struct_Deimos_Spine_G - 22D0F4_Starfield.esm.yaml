@@ -1,0 +1,15 @@
+FormKey: 22D0F4:Starfield.esm
+EditorID: co_SMS_Struct_Deimos_Spine_G
+FormVersion: 575
+Description:
+  TargetLanguage: English
+  Value: Structural components are largely cosmetic, and allow you to modify your ship’s shape, size, personality and silhouette.
+WorkbenchKeyword: 29C480:Starfield.esm
+CreatedObject: 000BF3:BetterShipPartFlips.esm
+AmountProduced: 1
+MenuSortOrder: 20
+LearnMethod: DefaultOrConditions
+Value: 625
+RecipeFilters:
+- 29C473:Starfield.esm
+Flags: []

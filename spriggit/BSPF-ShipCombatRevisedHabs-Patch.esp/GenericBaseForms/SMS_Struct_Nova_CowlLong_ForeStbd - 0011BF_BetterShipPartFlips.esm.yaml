@@ -1,7 +1,6 @@
 FormKey: 0011BF:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Nova_CowlLong_ForeStbd
 FormVersion: 559
-ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -24,5 +23,5 @@ Components:
     TargetLanguage: English
     Value: Nova Cowling 2L-PF - Fore Starboard
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

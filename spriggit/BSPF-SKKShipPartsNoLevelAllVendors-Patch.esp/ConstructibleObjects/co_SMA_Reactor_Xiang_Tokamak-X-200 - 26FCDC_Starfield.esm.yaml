@@ -1,6 +1,6 @@
 FormKey: 26FCDC:Starfield.esm
 EditorID: co_SMA_Reactor_Xiang_Tokamak-X-200
-FormVersion: 559
+FormVersion: 575
 Description:
   TargetLanguage: English
   Value: Spaceship Reactors provide power to all of your ship's systems.
@@ -13,6 +13,6 @@ AmountProduced: 1
 MenuSortOrder: 44
 LearnMethod: DefaultOrConditions
 Value: 25500
-Categories:
+RecipeFilters:
 - 29C475:Starfield.esm
-RECF: 0
+Flags: []

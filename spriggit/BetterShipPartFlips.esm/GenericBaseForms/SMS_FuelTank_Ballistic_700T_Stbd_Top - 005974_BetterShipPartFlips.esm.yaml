@@ -1,7 +1,6 @@
 FormKey: 005974:BetterShipPartFlips.esm
 EditorID: SMS_FuelTank_Ballistic_700T_Stbd_Top
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -35,5 +34,5 @@ Components:
     TargetLanguage: English
     Value: 700T He3 Tank
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

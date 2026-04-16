@@ -1,7 +1,6 @@
 FormKey: 0049B5:BetterShipPartFlips.esp
 EditorID: SMS_Cargo_Dogstar_StorMax-30_Btm_Zntl
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -28,6 +27,6 @@ Components:
     TargetLanguage: English
     Value: StorMax 30 Cargo Hold
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

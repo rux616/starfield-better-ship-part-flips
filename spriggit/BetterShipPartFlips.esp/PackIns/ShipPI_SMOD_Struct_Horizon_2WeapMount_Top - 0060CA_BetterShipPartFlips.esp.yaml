@@ -7,8 +7,7 @@ StarfieldMajorRecordFlags:
 ObjectBounds:
   First: -1.2050782, -1.2050781, -1.75
   Second: 1.2050779, 1.2050781, 0.5
-ODTY: 0
-Filter: '\Ships\Modules\Exterior\Struct\Horizon\'
+Filter: \Ships\Modules\Exterior\Struct\Horizon\
 Cell: 0060CB:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000

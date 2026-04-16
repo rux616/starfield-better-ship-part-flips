@@ -1,7 +1,6 @@
 FormKey: 003171:BetterShipPartFlips.esm
 EditorID: SMS_CargoShielded_Panoptes_daGama-1000_Fore_Top
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -28,6 +27,6 @@ Components:
     TargetLanguage: English
     Value: da Gama 1000 Shielded Cargo Hold
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

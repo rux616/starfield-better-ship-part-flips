@@ -1,15 +1,15 @@
 FormKey: 005309:BetterShipPartFlips.esm
 EditorID: SMOD_Shield_Sextant_Deflector-SG-10_Port_NoSnap
 FormVersion: 575
-ODTY: 0
 Model:
   File: Ships\Modules\Shield\SMOD\SMOD_Shield_Sextant_Deflector-SG-10_Port.nif
   MaterialSwaps:
   - 03EF6E:Starfield.esm
   - 03EF76:Starfield.esm
   - 2F25A4:Starfield.esm
-  FLLD: 0x01000000
-  XFLG: 0x02
+  LightLayer: 1
+  Flags:
+  - HasFirstPersonModel
 Keywords:
 - 1BB401:Starfield.esm
 - 207960:Starfield.esm

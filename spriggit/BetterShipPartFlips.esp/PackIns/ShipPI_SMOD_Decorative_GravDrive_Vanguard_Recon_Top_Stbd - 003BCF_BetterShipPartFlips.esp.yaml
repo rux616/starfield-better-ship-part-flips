@@ -7,10 +7,9 @@ StarfieldMajorRecordFlags:
 ObjectBounds:
   First: -4, -3.394531, -1.7783203
   Second: 4.0429688, 3.394531, 1.7470703
-ODTY: 0
 Transforms:
   Ship: 39EC83:Starfield.esm
-Filter: '\Ships\Modules\Exterior\Grav\Vanguard\'
+Filter: \Ships\Modules\Exterior\Grav\Vanguard\
 Cell: 003BD0:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000

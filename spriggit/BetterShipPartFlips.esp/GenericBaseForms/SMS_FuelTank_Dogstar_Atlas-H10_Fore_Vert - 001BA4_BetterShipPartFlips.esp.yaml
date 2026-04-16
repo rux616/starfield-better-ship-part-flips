@@ -1,7 +1,6 @@
 FormKey: 001BA4:BetterShipPartFlips.esp
 EditorID: SMS_FuelTank_Dogstar_Atlas-H10_Fore_Vert
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -35,5 +34,5 @@ Components:
     TargetLanguage: English
     Value: Atlas H10 He3 Tank
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

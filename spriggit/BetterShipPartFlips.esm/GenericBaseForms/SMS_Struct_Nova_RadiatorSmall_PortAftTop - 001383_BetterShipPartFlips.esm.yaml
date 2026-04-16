@@ -1,7 +1,6 @@
 FormKey: 001383:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Nova_RadiatorSmall_PortAftTop
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -22,5 +21,5 @@ Components:
     TargetLanguage: English
     Value: Nova Radiator - Port Aft Top
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

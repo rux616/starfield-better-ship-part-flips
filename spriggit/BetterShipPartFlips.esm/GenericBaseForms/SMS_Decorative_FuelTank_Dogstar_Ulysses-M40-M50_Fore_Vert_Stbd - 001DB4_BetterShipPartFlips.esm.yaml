@@ -1,7 +1,6 @@
 FormKey: 001DB4:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_FuelTank_Dogstar_Ulysses-M40-M50_Fore_Vert_Stbd
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -31,5 +30,5 @@ Components:
     TargetLanguage: English
     Value: 'Decorative: Dogstar Ulysses M40/M50'
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

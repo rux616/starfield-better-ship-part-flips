@@ -1,7 +1,6 @@
 FormKey: 001D1E:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_FuelTank_Ballistic_500T_Z
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -29,5 +28,5 @@ Components:
     TargetLanguage: English
     Value: 'Decorative: Ballistic 500T'
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

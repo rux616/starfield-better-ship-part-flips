@@ -1,7 +1,6 @@
 FormKey: 0014EF:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Stroud_Cap_AZ90_StbdAftTop
-FormVersion: 559
-ODTY: 0
+FormVersion: 575
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -24,5 +23,5 @@ Components:
     TargetLanguage: English
     Value: Stroud Cap AZ90 - Starboard Aft Top
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

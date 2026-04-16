@@ -1,7 +1,6 @@
 FormKey: 26F989:Starfield.esm
 EditorID: SMA_Shields_Dogstar_Protector-60S_Stbd
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
   Slots:
@@ -49,5 +48,5 @@ Components:
     TargetLanguage: English
     Value: Protector 60S Shield Generator
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

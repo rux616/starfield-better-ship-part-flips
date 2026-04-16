@@ -1,6 +1,10 @@
 FormKey: 00429E:BetterShipPartFlips.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODReactorDeepSpheromakDC201BaseTopAftStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,14 +25,12 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: -1414812925
+  InteriorType: -1414812925
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 00429F:BetterShipPartFlips.esp
@@ -167,7 +169,7 @@ Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0042AB:BetterShipPartFlips.esp
   FormVersion: 575
-  XALG: 0x0008000000000000
+  XALG: 2048
   Base: 1F5657:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -180,7 +182,7 @@ Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0042AC:BetterShipPartFlips.esp
   FormVersion: 575
-  XALG: 0x0008000000000000
+  XALG: 2048
   Base: 1F5657:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -195,7 +197,7 @@ Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0042AD:BetterShipPartFlips.esp
   FormVersion: 575
-  XALG: 0x0008000000000000
+  XALG: 2048
   Base: 1F5655:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -210,7 +212,7 @@ Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0042AE:BetterShipPartFlips.esp
   FormVersion: 575
-  XALG: 0x0008000000000000
+  XALG: 2048
   Base: 1F5607:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -225,7 +227,7 @@ Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0042AF:BetterShipPartFlips.esp
   FormVersion: 575
-  XALG: 0x0008000000000000
+  XALG: 2048
   Base: 1F5655:Starfield.esm
   ProjectedDecal:
     WidthScale: 1
@@ -235,3 +237,5 @@ Temporary:
   ConstrainedDecal: 3, 3, 2.478293
   Position: -1.0963368, 0.29565758, -1.3045464
   Rotation: -0.27653915, -0.67630917, 3.3173897
+MajorFlags:
+- 0x40000

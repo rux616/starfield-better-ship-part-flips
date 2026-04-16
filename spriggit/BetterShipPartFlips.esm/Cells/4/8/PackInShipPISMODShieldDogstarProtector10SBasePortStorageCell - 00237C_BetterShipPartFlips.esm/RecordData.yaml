@@ -1,6 +1,10 @@
 FormKey: 00237C:BetterShipPartFlips.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODShieldDogstarProtector10SBasePortStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,14 +25,12 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: 22275
+  InteriorType: 22275
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 00237D:BetterShipPartFlips.esm
@@ -213,3 +215,5 @@ Temporary:
   ConstrainedDecal: 1.9367, 1.0241, 1.3402032
   Position: 1.6370211, -0.70104146, -1.3084564
   Rotation: 0.20028694, -0.43692958, 3.0559042
+MajorFlags:
+- 0x40000

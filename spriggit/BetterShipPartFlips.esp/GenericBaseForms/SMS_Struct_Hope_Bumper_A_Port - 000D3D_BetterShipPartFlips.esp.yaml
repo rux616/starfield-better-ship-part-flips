@@ -1,7 +1,6 @@
 FormKey: 000D3D:BetterShipPartFlips.esp
 EditorID: SMS_Struct_Hope_Bumper_A_Port
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -20,5 +19,5 @@ Components:
     TargetLanguage: English
     Value: HopeTech Bumper A - Port
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

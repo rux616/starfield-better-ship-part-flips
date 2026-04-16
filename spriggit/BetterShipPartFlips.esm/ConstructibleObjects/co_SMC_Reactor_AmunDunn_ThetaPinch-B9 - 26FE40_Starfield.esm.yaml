@@ -26,6 +26,6 @@ AmountProduced: 1
 MenuSortOrder: 50.002
 LearnMethod: DefaultOrConditions
 Value: 44000
-Categories:
+RecipeFilters:
 - 29C475:Starfield.esm
-RECF: 0
+Flags: []

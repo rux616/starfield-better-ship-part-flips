@@ -1,6 +1,10 @@
 FormKey: 0054C6:BetterShipPartFlips.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODShieldProtectorateOsiris2020BStbdStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,13 +25,11 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: -1414812925
+  InteriorType: -1414812925
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0054C7:BetterShipPartFlips.esp
@@ -47,3 +49,5 @@ Temporary:
   Base: 0023C5:BetterShipPartFlips.esp
   Position: -2.25, 0, 0
   Rotation: 0, 4.712389, 0
+MajorFlags:
+- 0x40000

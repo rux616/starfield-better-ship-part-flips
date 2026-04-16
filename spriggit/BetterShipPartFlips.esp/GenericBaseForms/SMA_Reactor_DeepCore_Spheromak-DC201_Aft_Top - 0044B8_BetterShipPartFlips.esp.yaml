@@ -1,7 +1,6 @@
 FormKey: 0044B8:BetterShipPartFlips.esp
 EditorID: SMA_Reactor_DeepCore_Spheromak-DC201_Aft_Top
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -43,6 +42,6 @@ Components:
     TargetLanguage: English
     Value: Spheromak DC201 Reactor - Aft Top
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

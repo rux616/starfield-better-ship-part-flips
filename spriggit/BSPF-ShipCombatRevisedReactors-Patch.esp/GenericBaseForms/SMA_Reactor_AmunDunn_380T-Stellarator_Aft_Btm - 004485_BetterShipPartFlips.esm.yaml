@@ -1,7 +1,6 @@
 FormKey: 004485:BetterShipPartFlips.esm
 EditorID: SMA_Reactor_AmunDunn_380T-Stellarator_Aft_Btm
 FormVersion: 559
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -43,6 +42,6 @@ Components:
     TargetLanguage: English
     Value: 380T Stellarator Reactor - Aft Btm
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

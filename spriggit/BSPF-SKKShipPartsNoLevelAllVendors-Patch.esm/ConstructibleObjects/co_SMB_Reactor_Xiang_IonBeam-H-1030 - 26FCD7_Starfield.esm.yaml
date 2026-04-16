@@ -1,6 +1,6 @@
 FormKey: 26FCD7:Starfield.esm
 EditorID: co_SMB_Reactor_Xiang_IonBeam-H-1030
-FormVersion: 559
+FormVersion: 575
 Description:
   TargetLanguage: English
   Value: Spaceship Reactors provide power to all of your ship's systems.
@@ -15,6 +15,6 @@ AmountProduced: 1
 MenuSortOrder: 49
 LearnMethod: DefaultOrConditions
 Value: 51000
-Categories:
+RecipeFilters:
 - 29C475:Starfield.esm
-RECF: 0
+Flags: []

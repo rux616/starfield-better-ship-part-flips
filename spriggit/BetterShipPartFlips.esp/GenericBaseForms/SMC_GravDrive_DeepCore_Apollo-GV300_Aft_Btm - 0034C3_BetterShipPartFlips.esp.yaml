@@ -1,7 +1,6 @@
 FormKey: 0034C3:BetterShipPartFlips.esp
 EditorID: SMC_GravDrive_DeepCore_Apollo-GV300_Aft_Btm
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
   Slots:
@@ -45,6 +44,6 @@ Components:
     TargetLanguage: English
     Value: Apollo GV300 Grav Drive
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

@@ -1,7 +1,6 @@
 FormKey: 000B0A:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Deimos_Spine_D_StbdAft
 FormVersion: 559
-ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -24,5 +23,5 @@ Components:
     TargetLanguage: English
     Value: Deimos Spine D - Starboard Aft
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

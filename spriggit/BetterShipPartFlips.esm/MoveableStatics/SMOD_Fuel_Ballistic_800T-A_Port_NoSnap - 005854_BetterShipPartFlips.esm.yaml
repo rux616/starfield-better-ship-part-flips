@@ -4,7 +4,6 @@ FormVersion: 575
 ObjectBounds:
   First: -7.9023438, -7.5, -3.9003906
   Second: 0.00024414062, 7.5, 3.9003906
-ODTY: 0
 Model:
   File: Ships\Modules\Fuel\SMOD\SMOD_Fuel_Ballistic_800T_Port_A.nif
   MaterialSwaps:
@@ -12,8 +11,9 @@ Model:
   - 0B6B07:Starfield.esm
   - 0B6B08:Starfield.esm
   - 22BEEC:Starfield.esm
-  FLLD: 0x01000000
-  XFLG: 0x02
+  LightLayer: 1
+  Flags:
+  - HasFirstPersonModel
 Keywords:
 - 1BB401:Starfield.esm
 - 207960:Starfield.esm

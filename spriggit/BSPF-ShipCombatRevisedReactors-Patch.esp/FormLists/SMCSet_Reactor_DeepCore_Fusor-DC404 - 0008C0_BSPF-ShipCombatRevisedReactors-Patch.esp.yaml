@@ -1,0 +1,31 @@
+FormKey: 0008C0:BSPF-ShipCombatRevisedReactors-Patch.esp
+EditorID: SMCSet_Reactor_DeepCore_Fusor-DC404
+FormVersion: 559
+Name:
+  TargetLanguage: English
+  Value: Deep Core Fusor DC404 Set
+Items:
+- 0008A2:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008A3:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008A4:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008A5:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008A6:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008A7:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008A8:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008A9:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008AA:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008AB:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008AC:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008AD:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008AE:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008AF:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008B0:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008B1:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008B2:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008B3:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008B4:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008B5:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008B6:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008B7:BSPF-ShipCombatRevisedReactors-Patch.esp
+- 0008B8:BSPF-ShipCombatRevisedReactors-Patch.esp
+AddToList: Null

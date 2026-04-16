@@ -1,6 +1,10 @@
 FormKey: 0009D2:BetterShipPartFlips.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODStructDeimosSkegAPortAftStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,7 +25,7 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: -1414812925
+  InteriorType: -1414812925
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
@@ -36,8 +40,6 @@ XCLAs:
   XCLD: Default Layer Name 4
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0009DD:BetterShipPartFlips.esm
@@ -88,3 +90,5 @@ Temporary:
     - 140158:Starfield.esm
   Base: 00099C:BetterShipPartFlips.esm
   Rotation: 0, 4.712389, 3.1415925
+MajorFlags:
+- 0x40000

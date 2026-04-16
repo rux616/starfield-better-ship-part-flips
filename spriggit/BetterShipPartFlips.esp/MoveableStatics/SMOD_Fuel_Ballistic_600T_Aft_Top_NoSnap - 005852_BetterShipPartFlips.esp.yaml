@@ -1,15 +1,15 @@
 FormKey: 005852:BetterShipPartFlips.esp
 EditorID: SMOD_Fuel_Ballistic_600T_Aft_Top_NoSnap
 FormVersion: 575
-ODTY: 0
 Model:
   File: Ships\Modules\Fuel\SMOD\SMOD_Fuel_Ballistic_600T.nif
   MaterialSwaps:
   - 08DF27:Starfield.esm
   - 22BE93:Starfield.esm
   - 29D8A3:Starfield.esm
-  FLLD: 0x01000000
-  XFLG: 0x02
+  LightLayer: 1
+  Flags:
+  - HasFirstPersonModel
 Keywords:
 - 1BB401:Starfield.esm
 - 207960:Starfield.esm

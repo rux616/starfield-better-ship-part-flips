@@ -1,7 +1,6 @@
 FormKey: 001993:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Stroud_Cap01_3L_PortBtm_A
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -20,5 +19,5 @@ Components:
     TargetLanguage: English
     Value: Stroud Cowling 3LA-PB
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

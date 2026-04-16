@@ -1,7 +1,6 @@
 FormKey: 0029B6:BetterShipPartFlips.esm
 EditorID: SMS_CargoShielded_Sextant_Hauler-10ST_Btm_Stbd
 FormVersion: 559
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -29,6 +28,6 @@ Components:
     TargetLanguage: English
     Value: Hauler 10ST Shielded Cargo Hold
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

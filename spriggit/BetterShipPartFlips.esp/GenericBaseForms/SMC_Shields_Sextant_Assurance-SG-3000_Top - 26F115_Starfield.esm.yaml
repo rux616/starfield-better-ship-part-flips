@@ -1,7 +1,6 @@
 FormKey: 26F115:Starfield.esm
 EditorID: SMC_Shields_Sextant_Assurance-SG-3000_Top
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
   Slots:
@@ -47,5 +46,5 @@ Components:
     TargetLanguage: English
     Value: Assurance SG-3000 Shield Generator
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

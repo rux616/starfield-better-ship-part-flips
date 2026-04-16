@@ -1,7 +1,6 @@
 FormKey: 004801:BetterShipPartFlips.esm
 EditorID: SMB_Reactor_AmunDunn_Z-Machine-2020_Btm_Port
 FormVersion: 559
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -44,6 +43,6 @@ Components:
     TargetLanguage: English
     Value: Z-Machine 2020 Reactor - Btm Port
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

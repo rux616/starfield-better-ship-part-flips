@@ -1,7 +1,6 @@
 FormKey: 004E06:BetterShipPartFlips.esp
 EditorID: SMC_Reactor_Dogstar_SF20-ShearedFlow_Stbd_Btm
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -43,6 +42,6 @@ Components:
     TargetLanguage: English
     Value: SF20 Sheared Flow Reactor - Stbd Btm
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

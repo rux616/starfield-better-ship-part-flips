@@ -1,10 +1,10 @@
 FormKey: 000E00:BetterShipPartFlips.esm
 EditorID: SMOD_Struct_Hope_Radiator_A_Btm_SNAP
 FormVersion: 575
-ODTY: 0
 SnapTemplate: 000E01:BetterShipPartFlips.esm
 Model:
   File: Effects\fxemptynode.nif
-  FLLD: 0x01000000
-  XFLG: 0x02
+  LightLayer: 1
+  Flags:
+  - HasFirstPersonModel
 DATA: 4

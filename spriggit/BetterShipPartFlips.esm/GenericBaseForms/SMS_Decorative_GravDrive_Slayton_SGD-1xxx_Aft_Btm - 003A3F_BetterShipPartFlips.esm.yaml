@@ -1,7 +1,6 @@
 FormKey: 003A3F:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_GravDrive_Slayton_SGD-1xxx_Aft_Btm
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -24,6 +23,6 @@ Components:
     TargetLanguage: English
     Value: 'Decorative: Slayton SGD 1xxx'
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

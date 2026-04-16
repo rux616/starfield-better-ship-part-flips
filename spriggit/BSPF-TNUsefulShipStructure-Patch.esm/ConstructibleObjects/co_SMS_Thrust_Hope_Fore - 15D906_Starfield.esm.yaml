@@ -16,6 +16,6 @@ AmountProduced: 1
 MenuSortOrder: 38
 LearnMethod: DefaultOrConditions
 Value: 1625
-Categories:
+RecipeFilters:
 - 000817:ShipBuilderCategories.esm
-RECF: 0
+Flags: []

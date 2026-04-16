@@ -1,7 +1,6 @@
 FormKey: 22D111:Starfield.esm
 EditorID: SMS_Struct_Deimos_Tail_A
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -20,5 +19,5 @@ Components:
     TargetLanguage: English
     Value: Deimos Tail A - Aft
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

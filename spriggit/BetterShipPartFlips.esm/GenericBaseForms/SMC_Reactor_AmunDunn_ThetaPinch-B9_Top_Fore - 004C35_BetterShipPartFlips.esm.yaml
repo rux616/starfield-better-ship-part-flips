@@ -1,7 +1,6 @@
 FormKey: 004C35:BetterShipPartFlips.esm
 EditorID: SMC_Reactor_AmunDunn_ThetaPinch-B9_Top_Fore
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -43,6 +42,6 @@ Components:
     TargetLanguage: English
     Value: Theta Pinch B9 Reactor - Top Fore
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

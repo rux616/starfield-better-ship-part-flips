@@ -1,6 +1,6 @@
 FormKey: 2C2C4B:Starfield.esm
 EditorID: co_SMS_FuelTank_Dogstar_Ulysses-M20
-FormVersion: 559
+FormVersion: 575
 Description:
   TargetLanguage: English
   Value: Spaceship Fuel Tanks store Helium-3, which is used by the Grav Drive to perform a jump. Upgraded Fuel Tanks allow you to plot longer courses, to travel farther without stopping.
@@ -10,6 +10,6 @@ AmountProduced: 1
 MenuSortOrder: 0.9688
 LearnMethod: DefaultOrConditions
 Value: 1650
-Categories:
+RecipeFilters:
 - 29C478:Starfield.esm
-RECF: 0
+Flags: []

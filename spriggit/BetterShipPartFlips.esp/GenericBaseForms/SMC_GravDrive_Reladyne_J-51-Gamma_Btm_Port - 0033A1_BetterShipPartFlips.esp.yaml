@@ -1,7 +1,6 @@
 FormKey: 0033A1:BetterShipPartFlips.esp
 EditorID: SMC_GravDrive_Reladyne_J-51-Gamma_Btm_Port
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
   Slots:
@@ -45,6 +44,6 @@ Components:
     TargetLanguage: English
     Value: J-51 Gamma Grav Drive
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

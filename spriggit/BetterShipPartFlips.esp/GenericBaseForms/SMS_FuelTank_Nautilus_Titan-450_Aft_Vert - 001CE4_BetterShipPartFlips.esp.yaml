@@ -1,7 +1,6 @@
 FormKey: 001CE4:BetterShipPartFlips.esp
 EditorID: SMS_FuelTank_Nautilus_Titan-450_Aft_Vert
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -35,5 +34,5 @@ Components:
     TargetLanguage: English
     Value: Titan 450 He3 Tank
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

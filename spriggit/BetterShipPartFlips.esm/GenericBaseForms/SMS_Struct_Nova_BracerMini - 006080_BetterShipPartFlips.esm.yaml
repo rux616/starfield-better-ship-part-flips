@@ -1,7 +1,6 @@
 FormKey: 006080:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Nova_BracerMini
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -19,5 +18,5 @@ Components:
     TargetLanguage: English
     Value: Nova Mini Bracer
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

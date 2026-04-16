@@ -4,7 +4,6 @@ FormVersion: 575
 ObjectBounds:
   First: -4, -4, -1.75
   Second: 4, 4, 1.75
-ODTY: 0
 Model:
   File: Ships\Modules\Grav\SMOD\SMOD_Grav_Slayton_SGD-2100.nif
   MaterialSwaps:
@@ -12,8 +11,9 @@ Model:
   - 0B6B16:Starfield.esm
   - 1615E4:Starfield.esm
   - 273908:Starfield.esm
-  FLLD: 0x01000000
-  XFLG: 0x02
+  LightLayer: 1
+  Flags:
+  - HasFirstPersonModel
 Keywords:
 - 0A18F4:Starfield.esm
 - 1BB401:Starfield.esm

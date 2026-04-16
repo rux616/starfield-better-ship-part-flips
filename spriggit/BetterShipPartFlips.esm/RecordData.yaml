@@ -1,6 +1,6 @@
 SpriggitSource:
   PackageName: Spriggit.Yaml.Starfield
-  Version: 0.26.0
+  Version: 0.40
 ModKey: BetterShipPartFlips.esm
 GameRelease: Starfield
 ModHeader:
@@ -16,5 +16,5 @@ ModHeader:
   MasterReferences:
   - Master: Starfield.esm
   - Master: ShipBuilderCategories.esm
-  BNAM: 0x4D61696E00
-  INCC: 1767
+  Branch: Main
+  InteriorCellCount: 1767

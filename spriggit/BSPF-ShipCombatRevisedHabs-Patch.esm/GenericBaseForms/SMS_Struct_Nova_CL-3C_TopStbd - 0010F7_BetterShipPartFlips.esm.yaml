@@ -1,7 +1,6 @@
 FormKey: 0010F7:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Nova_CL-3C_TopStbd
 FormVersion: 559
-ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -24,5 +23,5 @@ Components:
     TargetLanguage: English
     Value: Nova Cowling 1L-TA - Starboard Top
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

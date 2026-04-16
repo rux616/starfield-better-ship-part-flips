@@ -1,6 +1,10 @@
 FormKey: 004243:BetterShipPartFlips.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODReactorAmunDunnThetaPinchA9BaseTopAftStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,14 +25,12 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: -1414812925
+  InteriorType: -1414812925
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 004244:BetterShipPartFlips.esp
@@ -150,10 +152,9 @@ Temporary:
   Radius: -0.33569086
   Lighting:
     Fade1PlusMinus: 0.5
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: 1.3406562, 2.8879719, -2.3631618
   Rotation: -3.1415925, -0, 0
 - MutagenObjectType: PlacedObject
@@ -194,10 +195,9 @@ Temporary:
   Radius: -0.33569086
   Lighting:
     Fade1PlusMinus: 0.5
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: 1.3406562, -2.8031702, -2.3631613
   Rotation: -3.1415925, -0, 0
 - MutagenObjectType: PlacedObject
@@ -238,10 +238,9 @@ Temporary:
   Radius: -0.33569086
   Lighting:
     Fade1PlusMinus: 0.5
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: -1.3964614, 2.8879719, -2.3631618
   Rotation: -3.1415925, 0.98174846, 0
 - MutagenObjectType: PlacedObject
@@ -360,9 +359,10 @@ Temporary:
   Radius: -0.33569086
   Lighting:
     Fade1PlusMinus: 0.5
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: -1.3964614, -2.8031702, -2.3631613
   Rotation: -3.1415925, 0.98174846, 0
+MajorFlags:
+- 0x40000

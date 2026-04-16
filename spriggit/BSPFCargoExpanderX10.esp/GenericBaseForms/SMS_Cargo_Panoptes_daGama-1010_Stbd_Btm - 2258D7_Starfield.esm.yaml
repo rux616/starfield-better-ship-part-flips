@@ -1,7 +1,6 @@
 FormKey: 2258D7:Starfield.esm
 EditorID: SMS_Cargo_Panoptes_daGama-1010_Stbd_Btm
 FormVersion: 559
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -28,6 +27,6 @@ Components:
     TargetLanguage: English
     Value: da Gama 1010 Cargo Hold
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

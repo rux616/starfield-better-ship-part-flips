@@ -7,10 +7,9 @@ StarfieldMajorRecordFlags:
 ObjectBounds:
   First: -3.4238284, -4.000001, -3.9999988
   Second: 3.4238284, 3.453126, 3.999999
-ODTY: 0
 Transforms:
   Ship: 15E824:Starfield.esm
-Filter: '\Ships\Modules\Exterior\Reactors\Xiang\'
+Filter: \Ships\Modules\Exterior\Reactors\Xiang\
 Cell: 004EA2:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000

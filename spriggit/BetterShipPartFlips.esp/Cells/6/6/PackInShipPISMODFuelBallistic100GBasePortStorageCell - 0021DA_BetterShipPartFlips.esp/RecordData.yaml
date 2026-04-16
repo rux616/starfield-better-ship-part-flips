@@ -1,6 +1,10 @@
 FormKey: 0021DA:BetterShipPartFlips.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODFuelBallistic100GBasePortStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,12 +25,10 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: -269488381
+  InteriorType: -269488381
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 0021DB:BetterShipPartFlips.esp
@@ -66,11 +68,10 @@ Temporary:
   - 0x100
   Base: 0CB918:Starfield.esm
   Radius: -0.34116936
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   Layer: 08CC6A:Starfield.esm
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: 2.3082275, 1.7702084, 0.2811085
 - MutagenObjectType: PlacedObject
   FormKey: 0021DE:BetterShipPartFlips.esp
@@ -80,11 +81,10 @@ Temporary:
   - 0x100
   Base: 0CB918:Starfield.esm
   Radius: 0.17610407
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   Layer: 08CC6A:Starfield.esm
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: 2.671967, -2.0789237, -0.06805074
 - MutagenObjectType: PlacedObject
   FormKey: 0021DF:BetterShipPartFlips.esp
@@ -158,3 +158,5 @@ Temporary:
   ConstrainedDecal: 4, 2, 1.5141368
   Position: 0.846872, -0.19694625, 0.55867344
   Rotation: -3.1415927, -1.0797296, 1.5707964
+MajorFlags:
+- 0x40000

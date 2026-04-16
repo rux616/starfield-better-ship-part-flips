@@ -1,7 +1,6 @@
 FormKey: 26FCE6:Starfield.esm
 EditorID: SMC_Reactor_Xiang_Pinch-6Z_Top_Aft
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -43,6 +42,6 @@ Components:
     TargetLanguage: English
     Value: Pinch 6Z Reactor - Top Aft
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

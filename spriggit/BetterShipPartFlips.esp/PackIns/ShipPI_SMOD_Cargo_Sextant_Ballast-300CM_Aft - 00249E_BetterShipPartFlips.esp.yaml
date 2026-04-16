@@ -4,10 +4,9 @@ EditorID: ShipPI_SMOD_Cargo_Sextant_Ballast-300CM_Aft
 FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x200
-ODTY: 0
 Transforms:
   Ship: 050FBE:Starfield.esm
-Filter: '\Ships\Modules\Exterior\Cargo\Sextant\'
+Filter: \Ships\Modules\Exterior\Cargo\Sextant\
 Cell: 00246F:BetterShipPartFlips.esp
 Version: 0
 FNAM: 0x0E000000

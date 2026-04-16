@@ -1,7 +1,6 @@
 FormKey: 000835:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Deimos_Brace_B
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -21,5 +20,5 @@ Components:
     TargetLanguage: English
     Value: Deimos Bracer Fore Aft
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

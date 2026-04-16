@@ -1,6 +1,10 @@
 FormKey: 00213C:BetterShipPartFlips.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODCargoSextantBallast100CMBaseAftBtmStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,12 +25,10 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: -269488381
+  InteriorType: -269488381
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 00213D:BetterShipPartFlips.esp
@@ -74,11 +76,10 @@ Temporary:
   StarfieldMajorRecordFlags:
   - 0x100
   Base: 0CB917:Starfield.esm
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   Layer: 08CC6A:Starfield.esm
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: -3.5569, 2.327695, 1.4529152
   Rotation: -3.1415925, -1.5707964, 3.1415927
 - MutagenObjectType: PlacedObject
@@ -88,11 +89,10 @@ Temporary:
   StarfieldMajorRecordFlags:
   - 0x100
   Base: 0CB917:Starfield.esm
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   Layer: 08CC6A:Starfield.esm
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: 3.550826, 1.3276949, 1.4529157
   Rotation: -3.1415925, -1.5707964, 3.1415927
 - MutagenObjectType: PlacedObject
@@ -102,11 +102,10 @@ Temporary:
   StarfieldMajorRecordFlags:
   - 0x100
   Base: 0CB917:Starfield.esm
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   Layer: 08CC6A:Starfield.esm
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: 3.511805, 2.327695, 1.4529157
   Rotation: -3.1415925, -1.5707964, 3.1415927
 - MutagenObjectType: PlacedObject
@@ -116,11 +115,10 @@ Temporary:
   StarfieldMajorRecordFlags:
   - 0x100
   Base: 0CB917:Starfield.esm
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   Layer: 08CC6A:Starfield.esm
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: -3.4569001, 1.3276949, 1.4529152
   Rotation: -3.1415925, -1.5707964, 3.1415927
 - MutagenObjectType: PlacedObject
@@ -134,11 +132,10 @@ Temporary:
   Lighting:
     Fov90PlusMinus: -37.546867
     Fade1PlusMinus: 1.1375984
-  LightArea:
-    Data: 0x00000000000000000000000000000000
+  LightArea: {}
   Layer: 08CC6A:Starfield.esm
   LightRoundedness:
-    Data: 0x0000000000000000000000000000000001000000
+    UsesRoundness: True
   Position: -0.049525857, -0.80243015, 1.1540818
   Rotation: 0.8428207, -1.225857E-10, 4.7108727
 - MutagenObjectType: PlacedObject
@@ -367,3 +364,5 @@ Temporary:
   ConstrainedDecal: 0.720003, 0.13000005, 0.5
   Position: -1.0996102, 2.576805, 1.4921875
   Rotation: -3.1415927, -0, 4.712389
+MajorFlags:
+- 0x40000

@@ -1,7 +1,7 @@
 FormKey: 270488:Starfield.esm
 MajorRecordFlagsRaw: 67108864
 EditorID: co_SMS_FuelTank_Ballistics_800T-A
-FormVersion: 559
+FormVersion: 575
 StarfieldMajorRecordFlags:
 - 0x4000000
 Description:
@@ -16,6 +16,8 @@ AmountProduced: 1
 MenuSortOrder: 0.9492
 LearnMethod: DefaultOrConditions
 Value: 11500
-Categories:
+RecipeFilters:
 - 29C478:Starfield.esm
-RECF: 0
+Flags: []
+MajorFlags:
+- 0x4000000

@@ -9,3 +9,5 @@ meta.ini
 # exclude python directories
 .venv/
 __pycache__
+# exclude .spriggit file as it's dynamically generated for this project
+spriggit/.spriggit

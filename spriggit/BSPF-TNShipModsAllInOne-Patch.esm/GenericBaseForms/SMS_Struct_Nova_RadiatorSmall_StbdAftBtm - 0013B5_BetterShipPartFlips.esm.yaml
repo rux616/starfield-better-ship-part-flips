@@ -1,7 +1,6 @@
 FormKey: 0013B5:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Nova_RadiatorSmall_StbdAftBtm
-FormVersion: 559
-ODTY: 0
+FormVersion: 575
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -26,5 +25,5 @@ Components:
     TargetLanguage: English
     Value: Nova Radiator - Starboard Aft Bottom
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

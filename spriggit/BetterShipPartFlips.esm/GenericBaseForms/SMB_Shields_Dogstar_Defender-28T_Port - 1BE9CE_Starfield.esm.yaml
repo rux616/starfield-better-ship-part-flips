@@ -1,7 +1,6 @@
 FormKey: 1BE9CE:Starfield.esm
 EditorID: SMB_Shields_Dogstar_Defender-28T_Port
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
   Slots:
@@ -48,5 +47,5 @@ Components:
     TargetLanguage: English
     Value: Defender 28T Shield Generator
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

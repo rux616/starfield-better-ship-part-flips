@@ -1,7 +1,6 @@
 FormKey: 0025BD:BetterShipPartFlips.esm
 EditorID: SMA_GravDrive_DeepCore_Helios-300_Aft_Port
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
   Slots:
@@ -45,6 +44,6 @@ Components:
     TargetLanguage: English
     Value: Helios 300 Grav Drive
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

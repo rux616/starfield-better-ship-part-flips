@@ -1,7 +1,6 @@
 FormKey: 000937:BetterShipPartFlips.esm
 EditorID: SMS_Struct_Deimos_Cowl_PortFore_A
 FormVersion: 559
-ODTY: 0
 Components:
 - MutagenObjectType: PropertySheetComponent
   Properties:
@@ -24,5 +23,5 @@ Components:
     TargetLanguage: English
     Value: Deimos Cowling - Port Fore
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

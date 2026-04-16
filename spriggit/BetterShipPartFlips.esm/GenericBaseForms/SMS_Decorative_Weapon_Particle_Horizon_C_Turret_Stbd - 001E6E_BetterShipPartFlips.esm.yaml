@@ -1,7 +1,6 @@
 FormKey: 001E6E:BetterShipPartFlips.esm
 EditorID: SMS_Decorative_Weapon_Particle_Horizon_C_Turret_Stbd
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -24,5 +23,5 @@ Components:
     TargetLanguage: English
     Value: 'Decorative: Horizon PRT-C Turret'
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

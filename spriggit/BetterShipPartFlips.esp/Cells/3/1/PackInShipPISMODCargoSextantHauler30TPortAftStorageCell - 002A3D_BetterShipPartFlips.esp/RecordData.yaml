@@ -1,6 +1,10 @@
 FormKey: 002A3D:BetterShipPartFlips.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODCargoSextantHauler30TPortAftStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,13 +25,11 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: -1414812925
+  InteriorType: -1414812925
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
 ImageSpace: 06AD68:Starfield.esm
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 002A77:BetterShipPartFlips.esp
@@ -57,3 +59,5 @@ Temporary:
   FormVersion: 575
   Base: 0024DC:BetterShipPartFlips.esp
   Position: 2.25, 0, 0
+MajorFlags:
+- 0x40000

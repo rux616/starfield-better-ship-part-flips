@@ -4,7 +4,6 @@ FormVersion: 575
 ObjectBounds:
   First: -2.359375, -4, -1.75
   Second: 4, 4, 0.63427734
-ODTY: 0
 Model:
   File: Ships\Modules\Struct\SMOD\SMOD_Struct_Hope_CapMidPort_A.nif
   MaterialSwaps:
@@ -17,8 +16,9 @@ Model:
   - 0B6B3B:Starfield.esm
   - 1BEA53:Starfield.esm
   - 22BF01:Starfield.esm
-  FLLD: 0x01000000
-  XFLG: 0x02
+  LightLayer: 1
+  Flags:
+  - HasFirstPersonModel
 Keywords:
 - 1BB401:Starfield.esm
 - 207960:Starfield.esm

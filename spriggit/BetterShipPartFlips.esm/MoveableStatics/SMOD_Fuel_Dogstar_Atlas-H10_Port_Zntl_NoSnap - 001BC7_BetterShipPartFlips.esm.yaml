@@ -4,14 +4,14 @@ FormVersion: 575
 ObjectBounds:
   First: 0.9765625, -2.5859375, -1.3730469
   Second: 4, 2.5859375, 1.3730469
-ODTY: 0
 Model:
   File: Ships\Modules\Fuel\SMOD\SMOD_Fuel_Dogstar_H10-Atlas_Port.nif
   MaterialSwaps:
   - 03EF6E:Starfield.esm
   - 08DEE8:Starfield.esm
-  FLLD: 0x01000000
-  XFLG: 0x02
+  LightLayer: 1
+  Flags:
+  - HasFirstPersonModel
 Keywords:
 - 1BB401:Starfield.esm
 - 207960:Starfield.esm

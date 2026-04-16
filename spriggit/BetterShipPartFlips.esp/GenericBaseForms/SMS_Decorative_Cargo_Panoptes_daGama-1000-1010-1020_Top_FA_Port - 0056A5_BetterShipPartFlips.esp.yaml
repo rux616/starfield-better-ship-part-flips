@@ -1,7 +1,6 @@
 FormKey: 0056A5:BetterShipPartFlips.esp
 EditorID: SMS_Decorative_Cargo_Panoptes_daGama-1000-1010-1020_Top_FA_Port
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -24,5 +23,5 @@ Components:
     TargetLanguage: English
     Value: 'Decorative: Panoptes da Gama 1000/1010/1020'
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component

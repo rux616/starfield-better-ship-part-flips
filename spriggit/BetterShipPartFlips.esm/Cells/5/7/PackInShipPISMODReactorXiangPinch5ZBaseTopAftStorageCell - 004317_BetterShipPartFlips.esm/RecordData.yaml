@@ -1,6 +1,10 @@
 FormKey: 004317:BetterShipPartFlips.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
 EditorID: PackInShipPISMODReactorXiangPinch5ZBaseTopAftStorageCell
 FormVersion: 575
+StarfieldMajorRecordFlags:
+- Compressed
 Flags:
 - IsInteriorCell
 Lighting:
@@ -21,7 +25,7 @@ Lighting:
   FogHighNearScale: 1
   FogHighFarScale: 1
   FarHeightRange: 10000
-  Unknown2: -1414812925
+  InteriorType: -1414812925
 LightingTemplate: Null
 WaterHeight: 3.4028235E+38
 XILS: 1
@@ -36,8 +40,6 @@ XCLAs:
   XCLD: Default Layer Name 4
 ImageSpace: 06AD68:Starfield.esm
 EnvironmentMap: Data\Textures\Cubemaps\LGT_CubeMap_ShipEditor_001.dds
-UnknownGroupData: 3
-TemporaryUnknownGroupData: 1
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 004318:BetterShipPartFlips.esm
@@ -137,3 +139,5 @@ Temporary:
   ConstrainedDecal: 1.5, 1.53, 1.4402285
   Position: -0.7, 0.7, -2.7
   Rotation: -0.39279857, -0.3650174, 4.6527967
+MajorFlags:
+- 0x40000

@@ -1,7 +1,6 @@
 FormKey: 00476C:BetterShipPartFlips.esp
 EditorID: SMA_Reactor_Xiang_Tokamak-X-120S_Port_Top
 FormVersion: 575
-ODTY: 0
 Components:
 - MutagenObjectType: AttachParentArrayComponent
 - MutagenObjectType: PropertySheetComponent
@@ -44,6 +43,6 @@ Components:
     TargetLanguage: English
     Value: Tokamak X-120S Reactor - Port Top
 Template: 03058E:Starfield.esm
-STRVs:
+ObjectTemplateInstanceData:
 - BGSMod_Template_Component
 - Spaceship_InstanceData

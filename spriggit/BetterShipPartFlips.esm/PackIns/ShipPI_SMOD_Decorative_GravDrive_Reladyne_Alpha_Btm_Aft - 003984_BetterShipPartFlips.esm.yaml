@@ -7,10 +7,9 @@ StarfieldMajorRecordFlags:
 ObjectBounds:
   First: -4.031249, -4.1015644, -1.7617178
   Second: 4.031249, 4.1015644, 1.7617178
-ODTY: 0
 Transforms:
   Ship: 39EC83:Starfield.esm
-Filter: '\Ships\Modules\Exterior\Grav\Reladyne\'
+Filter: \Ships\Modules\Exterior\Grav\Reladyne\
 Cell: 003985:BetterShipPartFlips.esm
 Version: 0
 FNAM: 0x0E000000

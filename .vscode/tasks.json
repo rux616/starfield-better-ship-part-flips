@@ -50,17 +50,37 @@
       "args": ["./support/docs/README.md", "./support/docs/CHANGELOG.md", "./support/docs/README.patches.md"]
     },
     {
+      "label": "Populate Known Masters",
+      "type": "shell",
+      "command": "python3",
+      "args": [
+        "./support/common/scripts/populate-known-masters.py",
+        "--full-masters",
+        "BetterShipPartFlips.esm",
+        "ShipBuilderCategories.esm",
+        "ShipColorize.esm",
+        "SKKShipPartsNoLevelAllVendors.esm",
+        "TNExpandedCargoHolds.esm",
+        "TNShipModsAllInOne.esm",
+        "TNUsefulShipStructure.esm",
+        "USU - No Level Requirements.esm",
+        "USU - Quest Rewards.esm",
+        "USU.esm",
+        "--small-masters",
+        "ith-shipmodulesf.esm",
+        "ith-shipreactorsf.esm",
+        "ith-shipthrustersf.esm",
+        "ith-shipweaponsf.esm",
+        "Starfield Extended - Shields Rebalanced.esm",
+        "TNSeparatedCategories.esm"
+      ]
+    },
+    {
       "label": "Serialize Plugins",
       "type": "shell",
       "command": "./support/common/scripts/serialize-plugins.ps1",
-      "args": [
-        "-Starfield",
-        "-YAML",
-        "-PluginNames",
-        "BetterShipPartFlips.esp,BetterShipPartFlips.esm",
-        "-PackageVersion",
-        "0.26.0"
-      ]
+      "args": ["-Starfield", "-YAML", "-DataFolder", "D:/Modding/Starfield/Mod Organizer 2/stock game/Data"],
+      "dependsOn": ["Populate Known Masters"]
     },
     {
       "label": "Serialize Plugins (Forced)",
@@ -80,7 +100,7 @@
       "label": "Create Archives",
       "type": "shell",
       "command": "./support/common/scripts/build-archives.ps1",
-      "args": ["-ModName", "Better Ship Part Flips", "-Starfield", "-SkipBA2", "-SkipBA2Cleanup"]
+      "args": ["-ModName", "Better Ship Part Flips", "-Starfield"]
     },
     {
       "label": "Create xTranslator Batch Processor Script",

@@ -1,0 +1,32 @@
+FormKey: 00084C:ith-shipreactorsf.esm
+EditorID: co_SMA_Reactor_Xiang_Tokamak-X-350
+FormVersion: 559
+Version2: 1
+Description:
+  TargetLanguage: English
+  Value: Spaceship Reactors provide power to all of your ship's systems. Experimental Reactor
+WorkbenchKeyword: 29C480:Starfield.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: HasKeywordConditionData
+    FirstParameter: 1453B4:Starfield.esm
+  ComparisonValue: 1
+- MutagenObjectType: ConditionFloat
+  CompareOperator: GreaterThanOrEqualTo
+  Data:
+    MutagenObjectType: GetLevelConditionData
+    RunOnType: Reference
+    Reference: 000014:Starfield.esm
+  ComparisonValue: 60
+RequiredPerks:
+- Perk: 2C59DC:Starfield.esm
+  Rank: 4
+CreatedObject: 0008C1:BSPF-ShipCombatRevisedReactors-Patch.esm
+AmountProduced: 1
+MenuSortOrder: 46.0001
+LearnMethod: DefaultOrConditions
+Value: 49300
+RecipeFilters:
+- 29C475:Starfield.esm
+Flags: []

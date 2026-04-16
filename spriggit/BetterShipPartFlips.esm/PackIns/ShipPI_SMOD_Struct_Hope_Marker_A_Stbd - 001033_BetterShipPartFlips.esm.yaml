@@ -7,10 +7,9 @@ StarfieldMajorRecordFlags:
 ObjectBounds:
   First: -1.7499999, -1.2138672, -1.2138674
   Second: 3.265625, 1.2138672, 1.2138673
-ODTY: 0
 Transforms:
   Ship: 203E7A:Starfield.esm
-Filter: '\Ships\Modules\Exterior\Struct\HopeTech\'
+Filter: \Ships\Modules\Exterior\Struct\HopeTech\
 Cell: 001037:BetterShipPartFlips.esm
 Version: 0
 FNAM: 0x0E000000
